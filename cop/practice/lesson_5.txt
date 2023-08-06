@@ -1,0 +1,137 @@
+© NileLangu 2021
+
+Lesson 5 letters
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣ ,ⲩ
+ⲛ,ⲟ,ϥ,ϣ,ⲣ,ⲡ
+ⲑ,`ⲛ,ⲛ,ⲟⲩ,ⲉ̣ ,ⲉ
+ⲃ,ϫ,ϧ,ⲗ,ⲭ
+ⲧ,ϭ,ⲫ,ⲓ
+
+ⲟⲩϭⲁϫ,`ⲙⲫⲟⲟⲩ (emfou)
+
+start_0
+audiochoice
+ⲧ,ⲑ,ϭ
+ϭ,ϣ,ⲧ
+ⲫ,ⲧ,ⲑ
+ⲓ,ⲑ,ⲧ
+-
+multichoice_img
+egy,dates,milk,old_man,sea,work,car,mobile,bag,bird,cook,morning,cup
+ⲟⲩϭⲁϫ:bird
+ⲫⲓⲥⲓ:cook
+ⲧⲟⲟⲩⲓ:morning
+ⲟⲩⲓⲟⲙ:sea
+ⲟⲩⲁⲫⲟⲧ:cup
+-
+multichoice
+Morning,ⲧⲟⲟⲩⲓ,ⲇⲁⲛⲓⲏⲗ,ϭⲁϫ,ⲫⲓⲥⲓ
+A bird,ⲟⲩϭⲁϫ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲫⲓⲥⲓ
+I cook,ϯⲫⲓⲥⲓ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲫⲓⲟⲙ
+The sea,ⲫⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+A sea,ⲟⲩⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+A cup,ⲟⲩⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+The cup,ⲡⲓⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+-
+sentence
+translate,What is this?,ⲟⲩ ⲡⲉ ⲫⲁⲓ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ
+-
+sentence
+translate,This is a bird,ⲫⲁⲓ ⲟⲩϭⲁϫ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ,ⲟⲩⲁⲫⲟⲧ
+translate,This is a cup,ⲫⲁⲓ ⲟⲩⲁⲫⲟⲧ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ,ⲟⲩⲁⲫⲟⲧ
+-
+multichoice_img
+egy,dates,milk,old_man,sea,work,car,mobile,bag,bird,cook,morning
+ⲟⲩϭⲁϫ:bird
+ⲫⲓⲥⲓ:cook
+ⲧⲟⲟⲩⲓ:morning
+ⲟⲩⲓⲟⲙ:sea
+-
+end_0
+
+
+
+start_1
+audiochoice
+ⲧ,ⲑ,ϭ
+ϭ,ϣ,ⲧ
+ⲫ,ⲧ,ⲑ
+-
+multichoice
+Morning,ⲧⲟⲟⲩⲓ,ⲇⲁⲛⲓⲏⲗ,ϭⲁϫ,ⲫⲁⲓ
+A bird,ⲟⲩϭⲁϫ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲫⲓⲥⲓ
+I'm cooking,ϯⲫⲓⲥⲓ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+Today,`ⲙⲫⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲫⲓⲥⲓ,ⲇⲁⲛⲓⲏⲗ
+The sea,ⲫⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+A sea,ⲟⲩⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+Today,`ⲙⲫⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲫⲓⲥⲓ,ⲇⲁⲛⲓⲏⲗ
+A cup,ⲟⲩⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+The cup,ⲡⲓⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+-
+multichoice
+What,ⲟⲩ,ⲇⲁⲛⲓⲏⲗ,ϭⲁϫ,ⲫⲁⲓ
+is,ⲡⲉ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲫⲓⲥⲓ
+This,ⲫⲁⲓ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲫⲓⲥⲓ
+-
+sentence
+translate,What is this?,ⲟⲩ ⲡⲉ ⲫⲁⲓ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ
+translate,This is a bird,ⲫⲁⲓ ⲟⲩϭⲁϫ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ
+translate,This is a cup,ⲫⲁⲓ ⲟⲩⲁⲫⲟⲧ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ,ⲟⲩⲁⲫⲟⲧ
+answer,ⲟⲩ ⲡⲉ ⲫⲁⲓ?,ⲫⲁⲓ ⲟⲩϭⲁϫ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ
+answer,ⲟⲩ ⲡⲉ ⲫⲁⲓ?,ⲫⲁⲓ ⲟⲩⲁⲫⲟⲧ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩⲁⲫⲟⲧ
+-
+end_1
+
+
+start_2
+audiochoice
+ⲧ,ⲑ,ϭ
+ϭ,ϣ,ⲧ
+ⲫ,ⲧ,ⲑ
+-
+multichoice_img
+egy,dates,milk,old_man,work,car,mobile,bag,bird,cook,morning,cup
+ⲟⲩϭⲁϫ:bird
+ⲫⲓⲥⲓ:cook
+ⲧⲟⲟⲩⲓ:morning
+ⲟⲩⲓⲟⲙ:sea
+ⲟⲩⲁⲫⲟⲧ:cup
+-
+multichoice
+Today,`ⲙⲫⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲫⲓⲥⲓ,ⲇⲁⲛⲓⲏⲗ
+Morning,ⲧⲟⲟⲩⲓ,ⲇⲁⲛⲓⲏⲗ,ϭⲁϫ,ⲫⲁⲓ
+A bird,ⲟⲩϭⲁϫ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲫⲓⲥⲓ
+I'm cooking,ϯⲫⲓⲥⲓ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+The sea,ⲫⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+A sea,ⲟⲩⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+A cup,ⲟⲩⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+The cup,ⲡⲓⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+-
+sentence
+translate,What is this?,ⲟⲩ ⲡⲉ ⲫⲁⲓ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ
+answer,ⲟⲩ ⲡⲉ ⲫⲁⲓ?,ⲫⲁⲓ ⲟⲩϭⲁϫ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ
+translate,This is a bird,ⲫⲁⲓ ⲟⲩϭⲁϫ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ
+translate,This is a cup,ⲫⲁⲓ ⲟⲩⲁⲫⲟⲧ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩϭⲁϫ,ⲟⲩⲁⲫⲟⲧ
+answer,ⲟⲩ ⲡⲉ ⲫⲁⲓ?,ⲫⲁⲓ ⲟⲩⲁⲫⲟⲧ ⲡⲉ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ,ⲟⲩⲁⲫⲟⲧ
+-
+multichoice
+Today,`ⲙⲫⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲫⲓⲥⲓ,ⲇⲁⲛⲓⲏⲗ
+Morning,ⲧⲟⲟⲩⲓ,ⲇⲁⲛⲓⲏⲗ,ϭⲁϫ,ⲫⲁⲓ
+A bird,ⲟⲩϭⲁϫ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲫⲓⲥⲓ
+I cook,ϯⲫⲓⲥⲓ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+The sea,ⲫⲓⲟⲙ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+A cup,ⲟⲩⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ϯⲫⲓⲥⲓ
+The cup,ⲡⲓⲁⲫⲟⲧ,ⲟⲩϫⲁⲓ,ϭⲁϫ,ⲧⲟⲟⲩⲓ
+-
+end_2
+
+ⲟⲩ ⲡⲉ ⲫⲁⲓ
+
+Dictionary
+[ou-chaj] A bird:ⲟⲩϭⲁϫ
+[phisi] Cooking:ⲫⲓⲥⲓ
+[doowi] Day:ⲧⲟⲟⲩⲓ
+[ou-yom] A sea:ⲟⲩⲓⲟⲙ
+[ba] is:ⲡⲉ
+[bai] This:ⲫⲁⲓ
+-

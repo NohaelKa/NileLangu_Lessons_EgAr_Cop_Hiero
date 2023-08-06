@@ -1,0 +1,78 @@
+Greetings 1
+
+Title
+Listen to the dialog between Nofret and Meren
+
+Dialog
+ⲛⲟϥⲣⲓ ⲙⲉⲣⲉⲛ!
+ⲛⲟϥⲣⲓ ⲛⲟϥⲣⲉⲧ!
+-
+...
+ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲉϩⲟⲟⲩ
+-
+ϯϩⲏⲗ `ⲉⲫⲓⲟⲙ
+...
+-
+ⲟⲩⲟϩ `ⲛⲑⲟⲕ?
+...
+-
+ϯϣⲉⲛⲏⲓ `ⲉⲡⲏⲓ
+...
+-
+end
+
+audioTrack
+yes
+-
+
+Slideshow
+1_1,1_1,1_8,1_9,1_10
+-
+AudioSequence
+1_1,1_9,1_10,1_11,1_12
+-
+
+Dictionary
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[meren] Meren (an Egyptian name):ⲙⲉⲣⲉⲛ
+[nofret] Nofret (an Egyptian name):ⲛⲟϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[be] (A copula):ⲡⲉ
+[(di)owoj] I'm well, ϯ=I, ⲟⲩⲟϫ=healthy:ϯⲟⲩⲟϫ
+[bekre(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition :ⲡⲉⲕⲣⲏϯ
+[bere(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nane] Good/Well:ⲛⲁⲛⲉⲥ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[hoow] day (masc.):ⲉϩⲟⲟⲩ
+[(di)]I :Ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[redi] Condition/Status:ⲣⲏϯ
+[ipredi] `ⲫ='The', ⲣⲏϯ=Condition:`ⲫⲣⲏϯ
+[imbekehoow] `ⲙ=Of, ⲡⲉⲕ=Your, ⲉϩⲟⲟⲩ=day :`ⲙⲡⲉⲕⲉϩⲟⲟⲩ
+[imbe'ehoow] `ⲙ=Of, ⲡⲉ=Your, ⲉϩⲟⲟⲩ=day :`ⲙⲡⲉⲉϩⲟⲟⲩ
+[efyom] `ⲉ= to, ⲫ=The ⲓⲟⲙ=Sea:`ⲉⲫⲓⲟⲙ
+[fyom] ⲫ=The ⲓⲟⲙ=Sea:ⲫⲓⲟⲙ
+[yom] ⲓⲟⲙ=Sea:ⲓⲟⲙ
+[bay] `ⲉ= to, ⲡ= the ⲏⲓ=home (masc.):`ⲉⲡⲏⲓ
+[aihal] I'm going :ⲉⲓϩⲏⲗ
+[aishenai] I'm going :ⲉⲓϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kemi] Egypt :ⲕⲏⲙⲉ
+[bek-hob] Your work :ⲡⲉⲕϩⲱⲃ
+[ba-hob] My work :ⲡⲁϩⲱⲃ
+[ef-khosi] Tiring:ⲉϥϧⲟⲥⲓ
+[nanef] Well:ⲛⲁⲛⲉϥ
+-
+
+Extra Explanation (Boharic)
+ⲁϣ: what
+ⲡⲉ: a copula (note that it's not a verb)
+ⲫ: masculine definite article (i.e. 'the') which comes before the following letters: ⲃ, ⲓ, ⲗ, ⲙ, ⲛ, ⲟ, and ⲣ. Otherwise we use 'ⲡ'. Note that there's also 'ⲡⲓ' which is more general and less specific.
+ⲣⲏϯ: condition/status (حالة)
+ⲙ: possession marker that comes before ⲡ, ⲫ, ⲃ, ⲙ and ⲯ (otherwise we use ⲛ). Like 'of' in English or 'de' in Spanish, it relates ⲣⲏϯ to ⲡⲉⲕⲉϩⲟⲟⲩ i.e. the status 'of' your day.
+ⲡⲉⲕ: masculine 2nd person (i.e. masculine you) possessive adjective for a masculine object
+ⲉϩⲟⲟⲩ: day/يوم/نهار (a masculine word)

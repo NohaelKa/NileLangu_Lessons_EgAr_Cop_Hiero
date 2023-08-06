@@ -1,0 +1,107 @@
+Lesson 8
+Words similar to \n Egyptian Arabic
+
+ⲧⲣⲁⲡⲉⲍⲁ
+
+start_0
+multichoice_img
+towel,old_man,oasis,rice,cheese,water,moon,crocodile,fruits_veg
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲉⲙⲥⲁϩ:crocodile
+ⲟⲩⲧⲁϩ:fruits_veg
+-
+multichoice
+Without blame,ⲁⲧⲁⲣⲓⲕⲓ,`ϧⲣⲏⲓ,ϧⲉⲗⲗⲟ,ⲟⲩⲏⲓ
+Fight,ϧⲉⲛⲓ,ⲓⲟϩ,ⲕⲏⲕ,ⲁⲧⲁⲣⲓⲕⲓ
+Repeat action,ⲟⲩⲁϩⲉⲙ,ⲁϩⲁ,ⲟⲩⲁϩ,ⲁϧ
+Cake,ⲕⲏⲕ,ⲁⲫⲉ,ⲁϩⲁ,ⲟⲩⲏⲓ
+Push,ⲥⲱⲕ,ⲓϧ,ϧⲉⲛⲓ,ϥⲟⲧⲉ
+ⲓⲉ,Or,What,Push,Love
+ⲙⲉⲓ,Love,Or,Think,Sing
+ⲙⲟⲕⲙⲉⲕ,Ponder,Love,Or,Hear
+-
+multichoice_img
+towel,old_man,oasis,rice,cheese,water,moon,crocodile,fruits_veg
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲉⲙⲥⲁϩ:crocodile
+ⲟⲩⲧⲁϩ:fruits_veg
+-
+end_0
+
+start_1
+multichoice_img
+towel,old_man,oasis,rice,moon,music,water,cheese,dine_table,brick
+ⲓⲟϩ:moon
+ⲧⲱⲃⲓ:brick
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+-
+multichoice
+ouch,ⲁϧ,ϧⲉⲗⲗⲟ,ⲁⲉⲓⲟ,ⲟⲩⲁϩ
+Yes,ⲁϩⲁ,ⲁⲧⲁⲣⲓⲕⲓ,ⲁϧ,ⲧⲱⲃⲓ
+Yes,ⲁⲉⲓⲟ,ⲁⲣⲣⲟⲥ,ⲟⲩⲁϩⲉⲙ,ⲓϧ
+Demon,ⲓϧ,ⲟⲩⲁϩ,`ϧⲣⲏⲓ,ⲓⲟϩ
+Beneath/Lower Part,`ϧⲣⲏⲓ,ⲟⲩⲁϩⲉⲙ,ⲟⲩⲏⲓ,ⲁϩⲁ
+Indeed/Really,ⲟⲩⲏⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+Walk,ⲙⲟϣⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+-
+multichoice_img
+towel,old_man,oasis,rice,moon,music,water,cheese,dine_table,brick
+ⲓⲟϩ:moon
+ⲧⲱⲃⲓ:brick
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+-
+end_1
+
+start_2
+multichoice_img
+towel,old_man,oasis,rice,moon,music,cheese,table,water,dine_table,brick
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲓⲟϩ:moon
+ⲧⲱⲃⲓ:brick
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+-
+multichoice
+Without blame,ⲁⲧⲁⲣⲓⲕⲓ,`ϧⲣⲏⲓ,ϧⲉⲗⲗⲟ,ⲟⲩⲏⲓ
+Fight,ϧⲉⲛⲓ,ⲓⲟϩ,ⲁⲣⲣⲟⲥ,ⲁⲧⲁⲣⲓⲕⲓ
+Repeat action,ⲟⲩⲁϩⲉⲙ,ⲁϩⲁ,ⲟⲩⲁϩ,ⲁϧ
+Cake,ⲕⲏⲕ,ⲁⲣⲣⲟⲥ,ⲁϩⲁ,ⲟⲩⲏⲓ
+Ouch,ⲁϧ,ϧⲉⲗⲗⲟ,ⲁⲉⲓⲟ,ⲟⲩⲁϩ
+Yes,ⲁϩⲁ,ⲁⲧⲁⲣⲓⲕⲓ,ⲁϧ,ⲟⲩⲁϩⲉⲙ
+Yes,ⲁⲉⲓⲟ,ⲁⲣⲣⲟⲥ,ⲟⲩⲁϩⲉⲙ,ⲓϧ
+Demon,ⲓϧ,ⲟⲩⲁϩ,`ϧⲣⲏⲓ,ⲓⲟϩ
+Beneath/Lower Part,`ϧⲣⲏⲓ,ⲟⲩⲁϩⲉⲙ,ⲟⲩⲏⲓ,ⲁϩⲁ
+Indeed/Really,ⲟⲩⲏⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+Walk,ⲙⲟϣⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+Push,ⲥⲱⲕ,ⲓϧ,ϧⲉⲛⲓ,ⲟⲩⲏⲓ
+-
+end_2
+
+
+Dictionary
+[tobi] Brick:ⲧⲱⲃⲓ
+[trabeza] Dininig table (Greek):ⲧⲣⲁⲡⲉⲍⲁ
+[maou] Water:ⲙⲱⲟⲩ
+[arros] Rice (Greek):ⲁⲣⲣⲟⲥ
+[ou-Tah] Fruit / Produce of Land:ⲟⲩⲧⲁϩ
+[fota] Towel:ϥⲟⲧⲉ
+[alom] Cheese:ⲁⲗⲱⲙ
+[ouah] Oasis:ⲟⲩⲁϩ
+[(kh)allo] Old man:ϧⲉⲗⲗⲟ
+[Ioh] Moon:ⲓⲟϩ
+[Mokmak] Ponder:ⲙⲟⲕⲙⲉⲕ
+-

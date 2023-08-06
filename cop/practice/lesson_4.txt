@@ -1,0 +1,132 @@
+© NileLangu 2021
+
+Lesson 4 letters
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣ ,ⲩ
+ⲛ,ⲟ,ϥ,ϣ,ⲣ,ⲡ
+ⲑ,`ⲛ,ⲛ,ⲟⲩ,ⲉ̣ ,ⲉ
+ⲃ,ϫ,ϧ,ⲗ,ⲭ
+
+Singular Nouns
+ⲟⲩϧⲉⲗⲗⲟ, ⲟⲩⲟⲩϩⲟⲣ
+ⲃⲏ̣ⲥⲁ,ⲟⲩϧⲉⲗⲗⲟ,ⲟⲩϫⲁⲓ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,
+ⲟⲩϫⲓϫ, ϭ,ⲟⲩϩⲱⲃ,ⲃⲏ̣ⲥⲁ , ⲟⲩⲥⲟⲕ
+
+start_0
+audiochoice
+ⲃ,ⲏ̣,ⲁ
+ϧ,ⲟ,ⲩ
+ⲭ,ϭ,ϧ
+ϫ,ϭ,ⲭ
+ⲗ,ⲣ,ϫ
+-
+audiochoice
+ⲃ,ⲏ̣,ⲁ
+ϧ,ⲟ,ⲩ
+ⲭ,ϭ,ϧ
+ϫ,ϭ,ⲭ
+ⲗ,ⲣ,ϫ
+-
+end_0
+
+start_1
+audiochoice
+ⲃ,ⲏ̣,ⲁ
+ϧ,ⲟ,ⲩ
+ⲭ,ϭ,ϧ
+ϫ,ϭ,ⲭ
+ⲗ,ⲣ,ϫ
+-
+multichoice_img
+egy,one_date,milk,old_man,work,car,mobile,bag,bird,dog_m
+ⲟⲩϧⲉⲗⲗⲟ:old_man
+ⲟⲩϩⲱⲃ:work
+ⲭⲏⲙⲓ:egy
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩⲥⲟⲕ:bag
+-
+multichoice
+Egypt,ⲭⲏⲙⲓ,ⲇⲁⲛⲓⲏⲗ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+Daniel,ⲇⲁⲛⲓⲏⲗ,ⲭⲏⲙⲓ,ⲟⲩϩⲱⲃ,ⲟⲩϫⲁⲓ
+Uissa (Name),ⲃⲏ̣ⲥⲁ,ⲇⲁⲛⲓⲏⲗ,ϧⲉⲗⲗⲟ,ⲭⲏⲙⲓ
+Goodbye,ⲟⲩϫⲁⲓ,ϧⲉⲗⲗⲟ,ⲇⲁⲛⲓⲏⲗ,ⲡⲓϩⲱⲃ
+Work,ⲟⲩϩⲱⲃ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+An old man,ⲟⲩϧⲉⲗⲗⲟ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲭⲏⲙⲓ
+A bag,ⲟⲩⲥⲟⲕ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+A dog,ⲟⲩⲟⲩϩⲟⲣ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+-
+multichoice_img
+egy,one_date,milk,old_man,work,car,mobile,bag,bird,dog_m
+ⲟⲩϧⲉⲗⲗⲟ:old_man
+ⲟⲩϩⲱⲃ:work
+ⲭⲏⲙⲓ:egy
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩⲥⲟⲕ:bag
+-
+end_1
+
+start_2
+audiochoice
+ⲃ,ⲏ̣,ⲁ
+ⲃ,ⲏ,ⲣ
+ϧ,ⲟ,ⲩ
+ⲭ,ϭ,ϧ
+ϫ,ϭ,ⲭ
+ⲗ,ⲣ,ϫ
+-
+multichoice_img
+egy,one_date,milk,old_man,work,car,mobile,bag,bird,dog_m
+ⲟⲩϫⲱⲙ:book2
+ⲟⲩⲉⲣϫ:chicken
+ⲟⲩϫⲓϫ:hand_heiro
+-
+multichoice
+A book,ⲟⲩϫⲱⲙ,ϧⲉⲗⲗⲟ,ⲟⲩϫⲓϫ,ⲟⲩⲉⲣϫ
+A chicken,ⲟⲩⲉⲣϫ,ϧⲉⲗⲗⲟ,ⲟⲩϫⲓϫ,ⲟⲩϩⲱⲃ
+A hand,ⲟⲩϫⲓϫ,ⲟⲩⲉⲣϫ,ⲟⲩϫⲱⲙ,ⲟⲩϩⲱⲃ
+Work,ⲟⲩϩⲱⲃ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+-
+multichoice
+The book,ⲡⲓϫⲱⲙ,ϯⲉⲣϫ,ⲟⲩϫⲓϫ,ⲟⲩⲉⲣϫ
+The chicken,ϯⲉⲣϫ,ⲡⲓϫⲱⲙ,ⲟⲩϫⲓϫ,ⲡⲓϩⲱⲃ
+The hand,ⲡⲓϫⲓϫ,ⲟⲩϫⲓϫ,ⲟⲩϫⲱⲙ,ⲡⲓϩⲱⲃ
+The work,ⲡⲓϩⲱⲃ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+-
+multichoice_img
+egy,one_date,milk,old_man,work,car,mobile,bag,bird,dog_m,book2,chicken,hand_heiro
+ⲟⲩϧⲉⲗⲗⲟ:old_man
+ⲟⲩϩⲱⲃ:work
+ⲭⲏⲙⲓ:egy
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩⲥⲟⲕ:bag
+-
+multichoice
+Egypt,ⲭⲏⲙⲓ,ⲇⲁⲛⲓⲏⲗ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+Daniel,ⲇⲁⲛⲓⲏⲗ,ⲭⲏⲙⲓ,ⲟⲩϩⲱⲃ,ⲃⲏ̣ⲥⲁ
+The old man,ⲡⲓϧⲉⲗⲗⲟ,ⲇⲁⲛⲓⲏⲗ,ⲟⲩϩⲱⲃ,ⲭⲏⲙⲓ
+Wisa (Name),ⲃⲏ̣ⲥⲁ,ⲇⲁⲛⲓⲏⲗ,ϧⲉⲗⲗⲟ,ⲭⲏⲙⲓ
+Goodbye,ⲟⲩϫⲁⲓ,ϧⲉⲗⲗⲟ,ⲇⲁⲛⲓⲏⲗ,ⲡⲓϩⲱⲃ
+The bag,ⲡⲓⲥⲟⲕ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+The dog,ⲡⲓⲟⲩϩⲟⲣ,ⲭⲏⲙⲓ,ϧⲉⲗⲗⲟ,ⲃⲏ̣ⲥⲁ
+-
+end_2
+
+Dictionary
+[ou-jom] A book:ⲟⲩϫⲱⲙ
+[ou-erj] A chicken:ⲟⲩⲉⲣϫ
+[ou-jij] A hand:ⲟⲩϫⲓϫ
+[wisa] A Name:ⲃⲏ̣ⲥⲁ
+[danial] A Name:ⲇⲁⲛⲓⲏⲗ
+[aswan] Aswan (city):ⲥⲟⲩⲏⲛ
+[ash] What:ⲁϣ
+[kemi] Egypt:ⲭⲏⲙⲓ
+[khallo] Old Man:ϧⲉⲗⲗⲟ
+[bihob] The work:ⲡⲓϩⲱⲃ
+[kemi] Egypt:ⲭⲏⲙⲓ
+[rehdi] Condition/state:ⲣⲏϯ
+[kashromi] Cairo:ⲕⲁϣⲣⲱⲙⲓ
+[ramsis] Ramsis:ⲣⲏⲙⲥⲓⲥ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[b-ai] The home:ⲡⲏⲓ
+[ou-shaw] A cat:ⲟⲩϣⲁⲩ
+[ou-ouhor] A dog:ⲟⲩⲟⲩϩⲟⲣ
+-

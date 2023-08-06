@@ -1,0 +1,121 @@
+© NileLangu 2021
+
+Lesson 3 letters
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣
+ϯ,ⲟ,ϥ,ϣ,ⲣ,ⲡ
+ⲑ,`ⲛ,ⲛ,ⲟⲩ,ⲉ
+
+
+`ⲛⲑⲟⲕ,`ⲛⲑⲟ,ⲡⲉⲕⲣⲏϯ,ⲡⲉⲣⲏϯ,ⲟⲩⲟϩ,`ⲥⲟⲩⲏⲛ,ⲛⲁⲛⲉ,ⲟⲩϩⲟⲣ,ⲟⲩⲟⲩϩⲟⲣ
+
+start_0
+audiochoice
+ⲉ,ⲏ,ⲁ
+ⲟⲩ,ⲟ,ⲩ
+ⲛ,`ⲛ,ⲑ
+`ⲛ,ⲡ,ϥ
+ⲑ,ⲇ,ⲟⲩ
+-
+audiochoice
+ⲉ,ⲏ,ⲁ
+ⲟⲩ,ⲟ,ⲩ
+ⲛ,`ⲛ,ⲑ
+`ⲛ,ⲡ,ϥ
+ⲑ,ⲇ,ⲟⲩ
+-
+end_0
+
+
+
+start_1
+audiochoice
+`ⲛ,ⲡ,ϥ
+ⲑ,ⲇ,ⲟⲩ
+-
+multichoice
+You (m),`ⲛⲑⲟⲕ,ⲛⲟϥⲣⲓ,`ⲛⲑⲟ,ⲛⲁⲛⲉ
+You (f),`ⲛⲑⲟ,ⲛⲟϥⲣⲓ,`ⲛⲑⲟⲕ,ⲛⲁⲛⲉ
+-
+audiochoice
+ⲟⲩ,ⲟ,ⲩ
+-
+multichoice_img
+sea,home,cat,egy,dog_m
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩϣⲁⲩ:cat
+-
+multichoice
+And,ⲟⲩⲟϩ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ
+Aswan,`ⲥⲟⲩⲏⲛ,ⲕⲁϣⲣⲱⲙⲓ,ⲭⲏⲙⲓ,ⲁϣ
+A dog,ⲟⲩⲟⲩϩⲟⲣ,ⲕⲁϣⲣⲱⲙⲓ,ⲭⲏⲙⲓ,ⲁϣ
+-
+audiochoice
+ⲉ,ⲏ,ⲁ
+ⲛ,`ⲛ,ⲑ
+`ⲛ,ⲡ,ϥ
+-
+multichoice
+Your (m) Condition,ⲡⲉⲕⲣⲏϯ,ⲣⲏϯ,ⲛⲁⲛⲉ,ⲡⲉⲣⲏϯ
+Your (f) Condition,ⲡⲉⲣⲏϯ,ⲣⲏϯ,ⲁϣ,ⲡⲉⲕⲣⲏϯ
+Good,ⲛⲁⲛⲉ,ⲭⲏⲙⲓ,`ⲥⲟⲩⲏⲛ,ⲛⲟϥⲣⲓ
+-
+multichoice_img
+sea,home,cat,egy,dog_m
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩϣⲁⲩ:cat
+-
+multichoice
+And,ⲟⲩⲟϩ,ⲁϣ,ⲟⲩⲟⲩϩⲟⲣ,ⲭⲏⲙⲓ
+Aswan,`ⲥⲟⲩⲏⲛ,ⲟⲩϣⲁⲩ,ⲭⲏⲙⲓ,ⲁϣ
+A dog,ⲟⲩⲟⲩϩⲟⲣ,ⲕⲁϣⲣⲱⲙⲓ,ⲟⲩϣⲁⲩ,ⲁϣ
+A cat,ⲟⲩϣⲁⲩ,ⲟⲩⲟⲩϩⲟⲣ,`ⲥⲟⲩⲏⲛ,ⲁϣ
+-
+end_1
+
+
+
+start_2
+audiochoice
+ⲉ,ⲏ,ⲁ
+ⲟⲩ,ⲟ,ⲩ
+ⲛ,`ⲛ,ⲑ
+`ⲛ,ⲡ,ϥ
+ⲑ,ⲇ,ⲟⲩ
+-
+multichoice_img
+sea,home,cat,egy,dog_m
+ⲟⲩⲟⲩϩⲟⲣ:dog_m
+ⲟⲩϣⲁⲩ:cat
+-
+multichoice
+And,ⲟⲩⲟϩ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ
+You (m),`ⲛⲑⲟⲕ,ⲛⲟϥⲣⲓ,`ⲛⲑⲟ,ⲛⲁⲛⲉ
+You (f),`ⲛⲑⲟ,ⲛⲟϥⲣⲓ,`ⲛⲑⲟⲕ,ⲛⲁⲛⲉ
+Aswan,`ⲥⲟⲩⲏⲛ,ⲕⲁϣⲣⲱⲙⲓ,ⲭⲏⲙⲓ,ⲁϣ
+Your (m) Condition,ⲡⲉⲕⲣⲏϯ,ⲣⲏϯ,ⲛⲁⲛⲉ,ⲡⲉⲣⲏϯ
+Your (f) Condition,ⲡⲉⲣⲏϯ,ⲣⲏϯ,ⲁϣ,ⲡⲉⲕⲣⲏϯ
+Good,ⲛⲁⲛⲉ,ⲭⲏⲙⲓ,`ⲥⲟⲩⲏⲛ,ⲛⲟϥⲣⲓ
+a Dog,ⲟⲩⲟⲩϩⲟⲣ,ⲕⲁϣⲣⲱⲙⲓ,ⲭⲏⲙⲓ,ⲁϣ
+A cat,ⲟⲩϣⲁⲩ,ⲟⲩⲟⲩϩⲟⲣ,`ⲥⲟⲩⲏⲛ,ⲁϣ
+-
+audiochoice
+ⲉ,ⲏ,ⲁ
+ⲟⲩ,ⲟ,ⲩ
+ⲛ,`ⲛ,ⲑ
+`ⲛ,ⲡ,ϥ
+ⲑ,ⲇ,ⲟⲩ
+-
+end_2
+
+
+Dictionary
+[aswan] Aswan (city):`ⲥⲟⲩⲏⲛ
+[ash] What:ⲁϣ
+[rehdi] Condition/state:ⲣⲏϯ
+[kashromi] Cairo:ⲕⲁϣⲣⲱⲙⲓ
+[ramsis] Ramsis:ⲣⲏⲙⲥⲓⲥ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[b.ai] The home:ⲡⲏⲓ
+[ou.shaw] A cat:ⲟⲩϣⲁⲩ
+[ou.ouhor] A dog:ⲟⲩⲟⲩϩⲟⲣ
+-

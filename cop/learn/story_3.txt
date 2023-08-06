@@ -1,0 +1,75 @@
+Lets go out? 1
+
+Title
+Listen to the dialog
+
+Let's go out?- ⲙⲁⲣⲟⲛ ̀ⲉⲃⲟⲗ?
+I can't, I am working.- ϯϣ̀ϫⲉⲙϫⲟⲙ ⲁⲛ, ϯⲉⲣϩⲱⲃ
+Sorry, I can't, I am cleaning.- ϯⲟⲩⲉⲙϩⲑⲏⲓ ,ϯϣ̀ϫⲉⲙϫⲟⲙ ⲁⲛ, ϯⲣⲱϧⲓ
+I can't, I am cooking- ϯϣ̀ϫⲉⲙϫⲟⲙ ⲁⲛ, ϯⲫⲓⲥⲓ
+Sorry, Ana mesh fadi.- ϯⲟⲩⲉⲙϩⲑⲏⲓ, ϯ`ⲥⲣⲱϥⲧ ⲁⲛ
+Yes, to where?- (ⲁϩⲁ ,ⲉⲑⲱⲛ?)
+Let's go to the park or the museum.- (ⲙⲁⲣⲟⲛ ̀ⲉϭⲱⲙ ⲓⲉ `ⲉⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ)
+
+Dialog
+ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ ⲙⲏⲛⲁ
+ⲙⲁⲣⲟⲛ `ⲉⲃⲟⲗ?
+-
+ϯϣ̀ϫⲉⲙϫⲟⲙ ⲁⲛ, ϯⲫⲓⲥⲓ
+...
+-
+ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ ⲙⲉⲣⲓ
+ⲙⲁⲣⲟⲛ ̀`ⲉⲃⲟⲗ?
+-
+ϯⲟⲩⲉⲙϩⲑⲏⲓ,  ϯ`ⲥⲣⲱϥⲧ ⲁⲛ, ϯⲉⲣϩⲱⲃ
+..
+-
+ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ ⲙⲱϩⲁⲙⲙⲁⲧ
+ⲙⲁⲣⲟⲛ `ⲉⲃⲟⲗ?
+-
+ϯⲟⲩⲉⲙϩⲑⲏⲓ, ϯϣ̀ϫⲉⲙϫⲟⲙ ⲁⲛ, ϯⲣⲱϧⲓ
+...
+-
+ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ ⲁⲙⲁⲣⲟⲥ
+ⲙⲁⲣⲟⲛ ̀`ⲉⲃⲟⲗ?
+-
+ⲁϩⲁ ⲟⲩⲟⲛϯ ⲟⲩⲛⲏⲓ, `ⲉⲑⲱⲛ?
+ⲙⲁⲣⲟⲛ `ⲉⲟⲩϭⲱⲙ ⲓⲉ `ⲉⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+-
+end
+
+
+Slideshow
+3_1,3_2,3_3,3_4,3_5,3_6,3_7,3_8
+-
+AudioSequence
+3_1,3_2,3_3,3_4,3_5,3_6,3_7,3_8
+-
+audioTrack
+yes
+-
+
+Dictionary
+Mary:ⲙⲉⲣⲓ
+[di.estoft] I'm available:ϯ`ⲥⲣⲱϥⲧ
+[di.pfisi] I'm cooking:ϯⲫⲓⲥⲓ
+[a.ouchom] To a park:`ⲉⲟⲩϭⲱⲙ
+[a.oumankamaini] To a museum:`ⲉⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+[ya] or:ⲓⲉ
+[a.tohn] To where:`ⲉⲑⲱⲛ
+[wondi] I have:ⲟⲩⲟⲛϯ
+[nana] Good:ⲛⲁⲛⲉ
+[dowi] day:ⲧⲟⲟⲩⲓ
+[rouhi] Evening:ⲣⲟⲩϩⲓ
+[maron] Let's go:ⲙⲁⲣⲟⲛ
+[awol] Out:`ⲉⲃⲟⲗ
+[dish.jamjom] I'm able:ϯϣ̀ϫⲉⲙϫⲟⲙ
+[di.rokhi] I'm cleaning:ϯⲣⲱϧⲓ
+[di.arhob] I'm working:ϯⲉⲣϩⲱⲃ
+[di.ouemeh.tai] Sorry:ϯⲟⲩⲉⲙϩⲑⲏⲓ
+[ounei] Time:ⲟⲩⲛⲏⲓ
+Amaros (a Nubian name):ⲁⲙⲁⲣⲟⲥ
+[an] Not (negation) :ⲁⲛ
+[oo-wohn] There is:ⲟⲩⲟⲛ
+[Aha] Yes:ⲁϩⲁ
+-

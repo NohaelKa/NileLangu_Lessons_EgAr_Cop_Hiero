@@ -1,0 +1,191 @@
+Lesson Number 15 "Want/ Don't want (1)"
+
+ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ (f)
+ⲙⲟⲩⲃⲁⲓⲗ (m)
+ⲁⲥⲟⲩⲓ (f)
+ⲫⲁⲓ
+ⲑⲁⲕⲥⲓ
+`ⲛⲟⲩ‎ⲙⲱⲟⲩ
+ⲛⲁⲩ
+
+The particle `ⲛ (`ⲙ before words beginning with ⲃⲙπⲫⲯ)
+أداة الربط “ن” ، تستخدم “م” قبل الكلمات التب تبدأ بـ
+ⲃⲙⲡⲫⲯ:
+
+ⲛ̀ⲑⲟⲕ: ``ⲭⲟⲩⲱϣ
+ⲛ̀ⲑⲟ: ⲧⲉⲟⲩⲱϣ
+ⲛ̀ⲑⲟϥ: `ϥⲟⲩⲱϣ
+ⲛ̀ⲑⲟⲥ: `ⲥⲟⲩⲱϣ
+
+
+start_0
+multichoice_img
+cheese,dates,milk,one_apple,one_date,car,mobile,bag,water,food
+ⲟⲩⲁⲥⲟⲩⲓ:bag
+ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ:car
+ⲟⲩⲙⲟⲩⲃⲁⲓⲗ:mobile
+ⲟⲩⲟⲩⲱⲙ:food
+ⲟⲩϩⲁⲧ:money
+-
+multichoice
+This (m),ⲫⲁⲓ,ⲟⲩⲱϣ,ⲑⲁⲓ,ⲁⲛⲟⲕ
+This (f),ⲑⲁⲓ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲫⲁⲓ
+I want,ϯⲟⲩⲱϣ,ⲡⲉ,ϯⲟⲩⲟϫ,ϯⲟⲩⲱϣ ⲁⲛ
+I don't want,ϯⲟⲩⲱϣ ⲁⲛ,ϯⲟⲩⲱϣ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+A little,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲱϣ ⲁⲛ,ϯⲟⲩⲟϫ,`ⲛⲟⲩ‎ⲙⲏϣ
+A lot,`ⲛⲟⲩ‎ⲙⲏϣ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+And (for nouns),ⲛⲉⲙ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+-
+sentence
+translate,Food and Water,ⲟⲩⲟⲩⲱⲙ ⲛⲉⲙ ⲟⲩⲙⲱⲟⲩ,ⲟⲩ‎ϫⲱⲙ,ⲟⲩⲟϩ
+-
+sentence
+translate,I want a small amount of dates,ϯⲟⲩⲱϣ `ⲛⲟⲩⲕⲟⲩϫⲓ `ⲛⲟⲩ‎ⲃⲉⲛⲓ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ⲁⲛⲟⲕ,ⲡⲉ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+translate,I don't want this,ϯⲟⲩⲱϣ ⲁⲛ `ⲙⲫⲁⲓ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ⲁⲛⲟⲕ,ⲡⲉ,ⲁⲛ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲁϣ,ⲧⲉ
+translate,I want this,ϯⲟⲩⲱϣ `ⲙⲫⲁⲓ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ⲁⲛⲟⲕ,ⲡⲉ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲁϣ,ⲧⲉ
+translate,I want a bag and water,ϯⲟⲩⲱϣ `ⲛⲟⲩⲁⲥⲟⲩⲓ ⲛⲉⲙ `ⲛⲟⲩ‎ⲙⲱⲟⲩ,ϯⲟⲩⲱϣ,`ⲛⲟⲩⲁⲥⲟⲩⲓ,ⲛⲉⲙ,`ⲛⲟⲩ‎ⲙⲱⲟⲩ,ⲁⲛⲟⲕ,ⲧⲉ,ⲛⲟϥⲣⲉⲧ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ
+-
+multichoice
+You(m) want,`ⲭⲟⲩⲱϣ,ϯⲟⲩⲟϫ,ⲧⲉⲟⲩⲱϣ,ϯⲟⲩⲱϣ
+You(f) want,ⲧⲉⲟⲩⲱϣ,ϯⲟⲩⲟϫ,`ⲭⲟⲩⲱϣ,ϯⲟⲩⲱϣ
+-
+sentence
+translate,What do you (m) want?,`ⲭⲟⲩⲱϣ `ⲛⲟⲩ,ϯϩⲉϫϩⲱϫ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲡⲉ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+translate,What do you (f) want?,ⲧⲉⲟⲩⲱϣ `ⲛⲟⲩ,ϯϩⲉϫϩⲱϫ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲡⲉ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+-
+sentence
+translate,You(m) want a car,`ⲭⲟⲩⲱϣ `ⲛⲟⲩ‎ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ϯⲟⲩⲱϣ,ϯϩⲉϫϩⲱϫ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲡⲉ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+translate,You(f) want a cellphone and a charger,ⲧⲉⲟⲩⲱϣ `ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ ⲛⲉⲙ `ⲛⲟⲩⲣⲉϥⲙⲟϩ,ϯⲟⲩⲱϣ,`ⲛⲟⲩ‎ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲭⲟⲩⲱϣ,ⲛⲉⲙ
+translate,You(m) want food and a lot of water,`ⲭⲟⲩⲱϣ `ⲛⲟⲩⲟⲩⲱⲙ ⲛⲉⲙ `ⲛⲟⲩ‎ⲙⲏϣ `ⲙⲙⲱⲟⲩ,ϯⲟⲩⲱϣ,`ⲛⲟⲩⲁⲥⲟⲩⲓ,ⲁⲛⲟⲕ,`ⲙⲙⲱⲟⲩ,`ⲭⲟⲩⲱϣ,`ⲛⲟⲩⲟⲩⲱⲙ,ⲛⲉⲙ
+translate,You(f) want a lot of money,ⲧⲉⲟⲩⲱϣ `ⲛⲟⲩ‎ⲙⲏϣ `ⲛ‎ϩⲁⲧ,ϯⲟⲩⲱϣ,`ⲛⲟⲩ‎ⲙⲟⲩⲃⲁⲓⲗ,`ⲭⲟⲩⲱϣ
+-
+end_0
+
+
+
+start_1
+multichoice_img
+cheese,dates,milk,one_apple,one_date,car,mobile,bag,water,book2
+ⲟⲩ‎ϫⲱⲙ:book2
+-
+multichoice
+This (f),ⲑⲁⲓ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲫⲁⲓ
+This (m),ⲫⲁⲓ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲁⲛⲟⲕ
+Want to,ⲟⲩⲱϣ ⲉ,ⲟⲩⲱϣ ⲛ,ⲁⲛⲟⲕ,ⲫⲁⲓ
+-
+multichoice
+He wants,`ϥⲟⲩⲱϣ,ⲫⲁⲓ,ⲁⲛⲟⲕ,ϯⲟⲩⲱϣ
+She wants,`ⲥⲟⲩⲱϣ,`ϥⲟⲩⲱϣ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+And (for nouns),ⲛⲉⲙ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ⲟⲩⲟϩ
+And,ⲟⲩⲟϩ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ⲛⲉⲙ
+A little,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲱϣ ⲁⲛ,ϯⲟⲩⲟϫ,`ⲛⲟⲩ‎ⲙⲏϣ
+A lot,`ⲛⲟⲩ‎ⲙⲏϣ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+-
+multichoice
+Listen,ⲥⲱⲧⲉⲙ,ⲫⲁⲓ,ⲁⲛⲟⲕ,ⲛⲁⲩ
+Watch,ⲛⲁⲩ,`ϥⲟⲩⲱϣ,ϯⲟⲩⲟϫ,ⲥⲱⲧⲉⲙ
+Walk,ⲙⲟϣⲓ,`ϥⲟⲩⲱϣ,ⲛⲁⲩ,ⲥⲱⲧⲉⲙ
+Read,ⲱϣ,ⲙⲟϣⲓ,ⲛⲁⲩ,ⲥⲱⲧⲉⲙ
+-
+sentence
+translate,He wants to watch the TV,`ϥⲟⲩⲱϣ `ⲉ‎ⲛⲁⲩ `ⲙⲡⲓ‎ⲑⲉⲗⲓϥⲍⲓⲟⲛ,`ⲉ‎ⲙⲟϣⲓ
+translate,He wants to take a walk,`ϥⲟⲩⲱϣ `ⲉ‎ⲙⲟϣⲓ,`ⲛⲟⲩ‎ϫⲱⲙ
+translate,He wants to read a book,`ϥⲟⲩⲱϣ `ⲉ‎ⲱϣ `ⲛⲟⲩ‎ϫⲱⲙ,`ⲉ‎ⲙⲟϣⲓ
+-
+sentence
+translate,She wants to listen to music,`ⲥⲟⲩⲱϣ `ⲉ‎ⲥⲱⲧⲉⲙ `ⲛⲟⲩ‎ⲙⲟⲩⲥⲓⲕⲟⲛ,`ⲛⲟⲩⲱⲙ
+translate,She wants a lot of food,`ⲥⲟⲩⲱϣ `ⲛⲟⲩ‎ⲙⲏϣ `ⲛⲟⲩⲱⲙ,`ⲛⲟⲩ‎ⲙⲟⲩⲥⲓⲕⲟⲛ
+translate,She wants to take a walk,`ⲥⲟⲩⲱϣ `ⲉ‎ⲙⲟϣⲓ,`ⲛⲟⲩ‎ⲙⲱⲟⲩ
+translate,She wants a little bit of water,`ⲥⲟⲩⲱϣ `ⲛⲟⲩⲕⲟⲩϫⲓ `ⲛⲟⲩ‎ⲙⲱⲟⲩ,`ⲉ‎ⲙⲟϣⲓ
+-
+sentence
+translate,She wants a car and He wants a book,`ⲥⲟⲩⲱϣ `ⲛⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲟⲩⲟϩ `ϥⲟⲩⲱϣ `ⲛⲟⲩ‎ϫⲱⲙ,`ⲛⲟⲩ‎ϫⲱⲙ,ⲛⲉⲙ
+translate,He wants food and water,`ϥⲟⲩⲱϣ `ⲛⲟⲩⲟⲩⲱⲙ ⲛⲉⲙ `ⲛⲟⲩ‎ⲙⲱⲟⲩ,ⲟⲩⲟϩ
+-
+end_1
+
+//todo check for ENGLISH and ARABIC if included in database
+start_2
+multichoice
+This (f),ⲑⲁⲓ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲫⲁⲓ
+This (m),ⲫⲁⲓ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲁⲛⲟⲕ
+Want to,ⲟⲩⲱϣ ⲉ,ⲟⲩⲱϣ ⲛ,ⲁⲛⲟⲕ,ⲫⲁⲓ
+-
+multichoice
+They want,ⲥⲉ‎ⲟⲩⲱϣ,`ϥⲟⲩⲱϣ,`ⲥⲟⲩⲱϣ,ⲧⲉⲧⲉⲛ‎ⲟⲩⲱϣ
+We want,ⲧⲉⲛ‎ⲟⲩⲱϣ,`ϥⲟⲩⲱϣ,ⲧⲉⲧⲉⲛ‎ⲟⲩⲱϣ,ⲥⲉ‎ⲟⲩⲱϣ
+You (pl) want,ⲧⲉⲧⲉⲛ‎ⲟⲩⲱϣ,`ϥⲟⲩⲱϣ,ⲧⲉⲛ‎ⲟⲩⲱϣ,ⲥⲉ‎ⲟⲩⲱϣ
+A little,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲱϣ ⲁⲛ,ϯⲟⲩⲟϫ,`ⲛⲟⲩ‎ⲙⲏϣ
+A lot,`ⲛⲟⲩ‎ⲙⲏϣ,`ⲛⲟⲩⲕⲟⲩϫⲓ,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ ⲁⲛ
+-
+multichoice
+Listen,ⲥⲱⲧⲉⲙ,ⲫⲁⲓ,ⲁⲛⲟⲕ,ⲛⲁⲩ
+Watch,ⲛⲁⲩ,`ϥⲟⲩⲱϣ,ϯⲟⲩⲟϫ,ⲥⲱⲧⲉⲙ
+Walk,ⲙⲟϣⲓ,`ϥⲟⲩⲱϣ,ⲛⲁⲩ,ⲥⲱⲧⲉⲙ
+Read,ⲱϣ,ⲙⲟϣⲓ,ⲛⲁⲩ,ⲥⲱⲧⲉⲙ
+-
+sentence
+translate,They want to watch the TV,ⲥⲉ‎ⲟⲩⲱϣ `ⲉ‎ⲛⲁⲩ `ⲙⲡⲓ‎ⲑⲉⲗⲓϥⲍⲓⲟⲛ,`ⲉ‎ⲙⲟϣⲓ
+translate,We want to take a walk,ⲧⲉⲛ‎ⲟⲩⲱϣ `ⲉ‎ⲙⲟϣⲓ,`ⲛⲟⲩ‎ϫⲱⲙ
+translate,You (pl) want to read a book,ⲧⲉⲧⲉⲛ‎ⲟⲩⲱϣ `ⲉ‎ⲱϣ `ⲛⲟⲩ‎ϫⲱⲙ,`ⲉ‎ⲙⲟϣⲓ
+-
+sentence
+translate,They want to listen to music,ⲥⲉ‎ⲟⲩⲱϣ `ⲉ‎ⲥⲱⲧⲉⲙ `ⲛⲟⲩ‎ⲙⲟⲩⲥⲓⲕⲟⲛ,`ⲛⲟⲩⲱⲙ
+translate,We want a lot of food,ⲧⲉⲛ‎ⲟⲩⲱϣ `ⲛⲟⲩ‎ⲙⲏϣ `ⲛⲟⲩⲟⲩⲱⲙ,`ⲛⲟⲩ‎ⲙⲟⲩⲥⲓⲕⲟⲛ
+translate,You (pl) want to take a walk,ⲧⲉⲧⲉⲛ‎ⲟⲩⲱϣ `ⲉ‎ⲙⲟϣⲓ,`ⲙⲙⲱⲟⲩ
+translate,She wants a little bit of water,`ⲥⲟⲩⲱϣ `ⲛⲟⲩⲕⲟⲩϫⲓ `ⲛⲟⲩ‎ⲙⲱⲟⲩ,`ⲉ‎ⲙⲟϣⲓ
+-
+sentence
+translate,She wants a car and He wants a book,`ⲥⲟⲩⲱϣ `ⲛⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲟⲩⲟϩ `ϥⲟⲩⲱϣ `ⲛⲟⲩ‎ϫⲱⲙ,ⲛⲉⲙ
+translate,He wants food and water,`ϥⲟⲩⲱϣ `ⲛⲟⲩⲟⲩⲱⲙ ⲛⲉⲙ `ⲛⲟⲩ‎ⲙⲱⲟⲩ,ⲟⲩⲟϩ
+-
+end_2
+
+
+Dictionary
+[ou-wom] Food:ⲟⲩⲟⲩⲱⲙ
+[ou-hat] Money:ⲟⲩϩⲁⲧ
+[telefizion] Television (Arabic):`ⲙⲡⲓ‎ⲑⲉⲗⲓϥⲍⲓⲟⲛ
+[enoumeesh] a lot:`ⲛⲟⲩ‎ⲙⲏϣ
+[enoukouji] a little:`ⲛⲟⲩⲕⲟⲩϫⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[meren] Meren (Egy. m. name):ⲙⲉⲣⲉⲛ
+[nofret] Nofret (Egy. f. name):ⲛⲟϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[ba] (A copula):ⲡⲉ
+[(di)(Kh)en] I (am) in:ϯϧⲉⲛ
+[ou-(ee)-r] How much:ⲟ̣ⲩⲏⲣ
+[owoj] Healthy:ⲟⲩⲟϫ
+[bakra(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition :ⲡⲉⲕⲣⲏϯ
+[bara(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nana] Good/Well:ⲛⲁⲛⲉ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[ahoow] day:ⲉϩⲟⲟⲩ
+[(di)] I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[radi] Condition/Status:ⲣⲏϯ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt :ⲭⲏⲙⲓ
+[be-ran] Your(f) name:ⲡⲉⲣⲁⲛ
+[bek-ran] Your(m) name:ⲡⲉⲕⲣⲁⲛ
+[en-rombi] of year / of age:`ⲛⲣⲟⲙⲡⲓ
+[ou-asowi] Bag:ⲟⲩⲁⲥⲟⲩⲓ
+[ou-emohwo] Water:ⲟⲩⲙⲱⲟⲩ
+[ou-werechawouts] Car:ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ
+[ou-moubail] Cell Phone:ⲟⲩⲙⲟⲩⲃⲁⲓⲗ
+ⲟⲩⲁⲥⲟⲩⲓ:bag
+ⲟⲩⲙⲱⲟⲩ:water
+ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ:car
+ⲟⲩⲙⲟⲩⲃⲁⲓⲗ:mobile
+ⲧⲉ:is (f)
+ⲡⲉ:is (m)
+ⲁⲛⲟⲕ / ϯ:i
+ⲣⲁⲛ:name
+ⲡⲉⲣⲁⲛ:your(f) name
+ⲡⲉⲕⲣⲁⲛ:your(m) name
+ⲁϣ:what
+-

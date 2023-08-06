@@ -1,0 +1,279 @@
+ID 10
+Lesson Number 11 "Introduce yourself 1"
+
+ⲡⲁⲣⲁⲛ ⲧⲉ ⲛⲟϩⲉ,
+ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲁⲣⲕ,
+ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲡⲉ.
+ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲧⲉ.
+
+`ⲛⲑⲟⲥ
+`ⲛⲑⲟϥ
+
+How old are you?
+ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?
+ϯϧⲉⲛ 28 `ⲛⲣⲟⲙⲡⲓ
+
+Where are you from?
+ⲉⲃⲟⲗ ⲑⲱⲛ?
+
+ⲉⲃⲟⲗ ϧⲉⲛ ⲕⲁϣⲣⲱⲙⲓ
+from Cairo
+
+
+//ⲡⲁⲣⲁⲛ ⲡⲉ
+ⲁⲛⲟⲕ ⲡⲉ ⲙⲱϩⲁⲙⲙⲁⲧ
+
+start_0
+multichoice_img
+morning,night,egy,afternoon,drums,cheese,dates,milk
+ⲭⲏⲙⲓ:egy
+-
+multichoice
+Egypt,ⲭⲏⲙⲓ,ⲣⲉⲙⲛ,ⲛⲁⲛⲉ,ⲁⲛⲟⲕ
+I,ⲁⲛⲟⲕ,ⲡⲁⲣⲁⲛ,ⲧⲉ,ⲣⲟⲙⲡⲓ
+-
+multichoice
+am / is (f),ⲧⲉ,ⲡⲉ,ⲡⲓ,ϯ
+am / is (m),ⲡⲉ,ⲧⲉ,ⲡⲓ,ϯ
+-
+sentence
+translate,I'm Mohamed,ⲁⲛⲟⲕ ⲡⲉ ⲙⲱϩⲁⲙⲙⲁⲧ,ⲁⲛⲟⲕ,ⲡⲉ,ⲙⲱϩⲁⲙⲙⲁⲧ,ϯⲟⲩⲟϫ,ⲁϣ,ⲧⲉ
+translate,I'm Nofret,ⲁⲛⲟⲕ ⲧⲉ ⲛⲟϥⲣⲉⲧ,ⲁⲛⲟⲕ,ⲧⲉ,ⲛⲟϥⲣⲉⲧ,ϯϩⲉϫϩⲱϫ,ⲛⲟϥⲣⲓ,ⲡⲉ
+-
+multichoice
+Name,ⲣⲁⲛ,ⲛ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ
+My name,ⲡⲁⲣⲁⲛ,`ⲛ,ⲡⲉ,ⲣⲟⲙⲡⲓ
+-
+sentence
+translate,My name is Mina,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲏⲛⲁ,ϯϩⲉϫϩⲱϫ,ⲛⲟϥⲣⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲓ,ⲙⲏⲛⲁ
+translate,My name is Mai,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ϯϩⲉϫϩⲱϫ,ⲛⲟϥⲣⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲓ,ⲙⲉⲣⲉⲛ,ⲙⲉⲣⲓⲧ
+-
+multichoice
+She,`ⲛⲑⲟⲥ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ,ⲣⲟⲙⲡⲓ
+He,`ⲛⲑⲟϥ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲣⲟⲙⲡⲓ
+-
+sentence
+translate,He is Mina,`ⲛⲑⲟϥ ⲡⲉ ⲙⲏⲛⲁ,ϯϩⲉϫϩⲱϫ,`ⲛⲑⲟϥ,ⲛⲟϥⲣⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲓ,ⲙⲏⲛⲁ
+translate,She is Mai,`ⲛⲑⲟⲥ ⲧⲉ ⲙⲉⲓ,`ⲛⲑⲟⲥ,ⲛⲟϥⲣⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲓ,ⲙⲉⲣⲉⲛ
+-
+multichoice
+She,`ⲛⲑⲟⲥ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ,ⲣⲟⲙⲡⲓ
+He,`ⲛⲑⲟϥ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲣⲟⲙⲡⲓ
+-
+end_0
+
+
+//ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ
+ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ
+
+start_1
+multichoice
+What,ⲁϣ,ⲡⲁⲣⲁⲛ,ⲛⲁⲛⲉ,ⲡⲉ
+Your(f) name,ⲡⲉⲣⲁⲛ,ⲡⲉⲕⲣⲁⲛ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+Your(m) name,ⲡⲉⲕⲣⲁⲛ,ⲡⲉⲣⲁⲛ,ⲡⲉⲣⲏϯ,ⲧⲟⲟⲩⲓ
+-
+sentence
+translate,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ?,What is your name,What,is,your,name,my,age
+translate,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,What is your name,What,is,your,name,my,age
+-
+multichoice
+Name,ⲣⲁⲛ,ⲛ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ
+My name,ⲡⲁⲣⲁⲛ,`ⲛ,ⲡⲉ,ⲣⲟⲙⲡⲓ
+-
+multichoice
+Person of,ⲣⲉⲙⲛ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+a / an,ⲟⲩ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+An Egyptian,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+-
+sentence
+translate,An Egyptian,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲏⲛⲁ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+-
+multichoice
+What,ⲁϣ,ⲡⲁⲣⲁⲛ,ⲧⲟⲟⲩⲓ,ⲡⲉ
+Your(f) name,ⲡⲉⲣⲁⲛ,ⲡⲉⲕⲣⲁⲛ,ϭⲁϫ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+Your(m) name,ⲡⲉⲕⲣⲁⲛ,ⲡⲉⲣⲁⲛ,ⲡⲉⲣⲏϯ,ⲧⲟⲟⲩⲓ
+Person of,ⲣⲉⲙⲛ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+a / an,ⲟⲩ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+An Egyptian,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+Name,ⲣⲁⲛ,ⲛ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ
+My name,ⲡⲁⲣⲁⲛ,`ⲛ,ⲡⲉ,ⲣⲟⲙⲡⲓ
+-
+end_1
+
+
+//ⲉⲃⲟⲗ ⲑⲱⲛ
+ⲉⲃⲟⲗ ϧⲉⲛ ⲕⲁϣⲣⲱⲙⲓ
+ϯⲣⲉⲙⲛⲭⲏⲙⲓ
+ⲡⲓⲣⲉⲙⲛⲭⲏⲙⲓ
+
+start_2
+multichoice_img
+morning,night,egy,afternoon,drums,cheese,dates,milk
+ⲭⲏⲙⲓ:egy
+-
+multichoice
+Person of,ⲣⲉⲙⲛ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+Cairo,ⲕⲁϣⲣⲱⲙⲓ,ⲧⲟⲟⲩⲓ,ⲣⲉⲙⲛ,ⲟⲩϫⲁⲓ
+-
+multichoice
+a / an,ⲟⲩ,ⲧⲟⲟⲩⲓ,ⲭⲏⲙⲓ,ⲟⲩϫⲁⲓ
+The (m),ⲡⲓ,ⲧⲟⲟⲩⲓ,ⲭⲏⲙⲓ,ⲟⲩ
+The (f),ϯ,ⲧⲟⲟⲩⲓ,ⲭⲏⲙⲓ,ⲡⲓ
+-
+sentence
+translate,The Egyptian (m),ⲡⲓⲣⲉⲙⲛⲭⲏⲙⲓ,ⲡⲓⲣⲉⲙⲛⲭⲏⲙⲓ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+translate,The Egyptian (f),ϯⲣⲉⲙⲛⲭⲏⲙⲓ,ϯⲣⲉⲙⲛⲭⲏⲙⲓ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+-
+multichoice
+Person of,ⲣⲉⲙⲛ,ⲟⲩϫⲁⲓ,ⲧⲟⲟⲩⲓ,ⲁⲛⲟⲕ
+You,`ⲛⲑⲟⲕ,ⲉⲃⲟⲗ ϧⲉⲛ,ⲭⲏⲙⲓ,ⲑⲱⲛ
+Where,ⲑⲱⲛ,ⲧⲟⲟⲩⲓ,ⲭⲏⲙⲓ,ⲉⲃⲟⲗ
+-
+sentence
+translate,`ⲛⲑⲟⲕ ⲟⲩⲣⲉⲙⲛⲑⲱⲛ?,Where are you from,what,when,him
+translate,ⲟⲩⲣⲉⲙⲛⲕⲁϣⲣⲱⲙⲓ,From Cairo,are,you,from,what
+-
+sentence
+answer,`ⲛⲑⲟⲕ ⲟⲩⲣⲉⲙⲛⲑⲱⲛ?,ⲟⲩⲣⲉⲙⲛⲕⲁϣⲣⲱⲙⲓ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲏⲛⲁ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+-
+end_2
+
+
+ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?
+
+
+start_3
+multichoice
+You are in,ⲉⲕϧⲉⲛ,ϯⲣⲁϣⲓ,ϯϧⲉⲛ,ϯⲟⲩⲟϫ
+How much,ⲟⲩⲏ̣ⲣ,ⲛ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ
+The year,ⲡⲓ‎ⲣⲟⲙⲡⲓ,ⲟⲩⲏ̣ⲣ,ϯⲣⲁϣⲓ,ϯϧⲉⲛ
+-
+sentence
+translate,ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?,How old are you,I'm
+-
+sentence
+translate,I'm 20 years old,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ϯϧⲉⲛ,ⲡⲉⲣⲏϯ,ϯⲣⲁϣⲓ
+-
+sentence
+answer,ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+answer,`ⲛⲑⲟⲕ ⲟⲩ ⲉⲃⲟⲗ ⲑⲱⲛ?,ⲉⲃⲟⲗ ϧⲉⲛ ⲕⲁϣⲣⲱⲙⲓ,ⲉⲃⲟⲗ,ϧⲉⲛ,ⲕⲁϣⲣⲱⲙⲓ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ
+-
+sentence
+translate,I'm (m) Egyptian ,ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲡⲉ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+translate,I'm (f) Egyptian,ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲧⲉ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+-
+multichoice
+You are in,ⲉⲕϧⲉⲛ,ϯⲣⲁϣⲓ,ϯϧⲉⲛ,ϯⲟⲩⲟϫ
+How much,ⲟⲩⲏ̣ⲣ,ⲛ,ϯϩⲉϫϩⲱϫ,ϯϧⲉⲛ
+Year,ⲣⲟⲙⲡⲓ,ⲟⲩⲏ̣ⲣ,ϯⲣⲁϣⲓ,ϯϧⲉⲛ
+-
+sentence
+answer,ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+-
+sentence
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲏⲛⲁ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+translate,I'm 20 years old,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ,ϯⲣⲁϣⲓ
+answer,`ⲛⲑⲟⲕ ⲟⲩⲣⲉⲙⲛⲑⲱⲛ?,ⲟⲩⲣⲉⲙⲛⲕⲁϣⲣⲱⲙⲓ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ
+-
+end_3
+
+
+//ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ
+
+start_4
+audiochoice
+ϯ,`ⲛ,`ⲛ
+`ⲛ,ⲣⲟⲙⲡⲓ,ϧⲉⲛ
+ϧⲉⲛ,ϯ,`ⲛ
+ⲣⲟⲙⲡⲓ,ⲟⲩⲏ̣ⲣ,ϧⲉⲛ
+ⲟⲩⲏ̣ⲣ,ϧⲉⲛ,ϯ
+-
+multichoice
+In,ϧⲉⲛ,ⲟⲩⲏ̣ⲣ,`ⲛ,ⲣⲟⲙⲡⲓ
+Age/Year,ⲣⲟⲙⲡⲓ,ⲟⲩⲟϫ,ϯϩⲉϫϩⲱϫ,ϧⲉⲛ
+of,`ⲛ,ϧⲉⲛ,ϯ,ϯϧⲟⲥⲓ
+I'm in,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,ⲉⲕϧⲉⲛ,ϯⲟⲩⲟϫ
+-
+sentence
+translate,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,I am 20 years old,I,am,20,years,old,tired,Noha,Meren
+translate,I'm 20 years old,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ϯϧⲉⲛ,ⲡⲉⲣⲏϯ,ϯⲣⲁϣⲓ
+-
+sentence
+translate,I am Egyptian (male),ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲡⲉ,ⲁⲛⲟⲕ,ⲡⲉ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+answer,`ⲛⲑⲟⲕ ⲟⲩⲣⲉⲙⲛⲑⲱⲛ?,ⲟⲩⲣⲉⲙⲛⲕⲁϣⲣⲱⲙⲓ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ
+-
+multichoice
+In,ϧⲉⲛ,ⲟⲩⲏ̣ⲣ,`ⲛ,ⲣⲟⲙⲡⲓ
+Age/Year,ⲣⲟⲙⲡⲓ,ⲟⲩⲟϫ,ϯϩⲉϫϩⲱϫ,ϧⲉⲛ
+of,`ⲛ,ϧⲉⲛ,ϯ,ϯϧⲟⲥⲓ
+I'm in,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,ⲉⲕϧⲉⲛ,ϯⲟⲩⲟϫ
+-
+end_4
+
+
+
+
+start_5
+multichoice
+In,ϧⲉⲛ,ⲟⲩⲏ̣ⲣ,`ⲛ,ⲡⲉ
+Age/Year,ⲣⲟⲙⲡⲓ,ⲟⲩⲟϫ,ϯϩⲉϫϩⲱϫ,ϧⲉⲛ
+of,`ⲛ,ϧⲉⲛ,ϯ,ϯϧⲟⲥⲓ
+I'm in,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,ⲉⲕϧⲉⲛ,ϯⲟⲩⲟϫ
+-
+sentence_5
+translate,I'm Mohamed,ⲁⲛⲟⲕ ⲡⲉ ⲙⲱϩⲁⲙⲙⲁⲧ,ϯⲟⲩⲟϫ,ⲁϣ
+translate,I'm Nofret,ⲁⲛⲟⲕ ⲧⲉ ⲛⲟϥⲣⲉⲧ,ϯϩⲉϫϩⲱϫ,ⲛⲟϥⲣⲓ
+translate,ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲡⲉ,I am Egyptian,I,am,Egyptian,out,running
+translate,ⲁⲛⲟⲕ ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ ⲧⲉ,I am Egyptian,I,am,Egyptian,out,eating
+-
+sentence_5
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲏⲛⲁ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲁⲛ?,ⲡⲁⲣⲁⲛ ⲡⲉ ⲙⲉⲓ,ⲡⲁⲣⲁⲛ,ⲡⲉ,ⲙⲏⲛⲁ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ,ⲡⲉⲕⲣⲁⲛ
+answer,ⲉⲕϧⲉⲛ ⲟⲩⲏ̣ⲣ `ⲛⲣⲟⲙⲡⲓ?,ϯϧⲉⲛ 20 `ⲛⲣⲟⲙⲡⲓ,ϯϧⲉⲛ,ϯⲣⲁϣⲓ,20,`ⲛⲣⲟⲙⲡⲓ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲛⲟϩⲉ,ⲙⲁⲣⲕ,ⲡⲉⲣⲏϯ
+answer,`ⲛⲑⲟⲕ ⲟⲩⲣⲉⲙⲛⲑⲱⲛ?,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲡⲉ,ⲙⲉⲣⲉⲛ,ⲡⲉ,ⲙⲉⲓ,ⲧⲉ
+-
+end_5
+
+
+Dictionary
+[ek.khen] You are in:ⲉⲕϧⲉⲛ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[mina] (Egyptian m. name):ⲙⲏⲛⲁ
+[mai] (Egyptian f. name):ⲙⲉⲓ
+[nofret] (Egyptian f. name):ⲛⲟϥⲣⲉⲧ
+[mohamed] (Arabic m. name):ⲙⲱϩⲁⲙⲙⲁⲧ
+[ash] What:ⲁϣ
+[ba] (A copula):ⲡⲉ
+[di.Khen] I'm in:ϯϧⲉⲛ
+[weer] How much:ⲟⲩⲏ̣ⲣ
+[owoj] Healthy:ⲟⲩⲟϫ
+[bakra.di] Your(m) Condition:ⲡⲉⲕⲣⲏϯ
+[bara.di] Your(f) Condition:ⲡⲉⲣⲏϯ
+[nana] Good/Well:ⲛⲁⲛⲉ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[in.t.ok] You:`ⲛⲑⲟⲕ
+[in.t.o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[ahoow] day:ⲉϩⲟⲟⲩ
+[di] I :ϯ
+[radi] Condition/Status:ⲣⲏϯ
+[kemi] Egypt :ⲭⲏⲙⲓ
+[be.ran] Your(f) name:ⲡⲉⲣⲁⲛ
+[bek.ran] Your(m) name:ⲡⲉⲕⲣⲁⲛ
+[en.rombi] of year / of age:`ⲛⲣⲟⲙⲡⲓ
+[ewol] From :ⲉⲃⲟⲗ
+ⲧⲉ:is (f)
+ⲡⲉ:is (m)
+ⲁⲛⲟⲕ / ϯ:i
+ⲣⲁⲛ:name
+ⲡⲉⲣⲁⲛ:your(f) name
+ⲡⲉⲕⲣⲁⲛ:your(m) name
+ⲁϣ:what
+-

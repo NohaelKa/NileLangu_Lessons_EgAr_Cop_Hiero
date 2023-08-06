@@ -1,0 +1,177 @@
+ID 8
+Lesson 9
+How are you? (1)
+ϯⲟⲩⲟϫ,ϣⲉⲡϩⲙⲟⲧ,ⲡⲉⲣⲏϯ,ⲡⲉⲕⲣⲏϯ, ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ,ⲡⲉⲣⲏϯ,ⲟⲩⲟϩ,ⲛⲁⲛⲉ,ⲛⲁⲛⲉϥ,ϯϧⲟⲥⲓ,ϯⲣⲁϣⲓ,ϯϩⲉϫϩⲱϫ
+
+ⲁϧⲟⲕ,ⲁϧⲟ,`ⲙⲙⲟⲛ,ⲡⲓⲃⲉⲣⲓ,ϩⲗⲓ,`ⲙⲃⲉⲣⲓ
+
+`ⲫ is used before masculine singular words with ⲃ,ⲓ,ⲗ,ⲙ,ⲛ,ⲟ,ⲣ
+`ⲑ is used before feminine singular words with ⲃ,ⲓ,ⲗ,ⲙ,ⲛ,ⲟ,ⲣ
+
+start_0
+multichoice
+I'm (for verbs),ϯ,ⲣⲁϣⲓ,ⲛⲟϥⲣⲓ,ⲡⲉ
+Well,ⲟⲩⲟϫ,ⲣⲁϣⲓ,ϯϩⲉϫϩⲱϫ,ϯϧⲟⲥⲓ
+Happy,ⲣⲁϣⲓ,ⲟⲩⲟϫ,ϯϩⲉϫϩⲱϫ,ϯϧⲟⲥⲓ
+Sad,ϩⲉϫϩⲱϫ,ⲣⲁϣⲓ,ⲟⲩⲟϫ,ϯϧⲟⲥⲓ
+Tired,ϧⲟⲥⲓ,ⲣⲁϣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩⲟϫ
+-
+multichoice_img
+happy_f,well,sad_m,tired_m
+ⲣⲁϣⲓ:happy_f
+ϧⲟⲥⲓ:tired_m
+ϩⲉϫϩⲱϫ:sad_m
+ⲟⲩⲟϫ:well
+-
+multichoice
+I'm well,ϯⲟⲩⲟϫ,ϯⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲡⲉ
+I'm tired,ϯϧⲟⲥⲓ,ϯⲟⲩⲟϫ,ⲛⲟϥⲣⲓ,ⲡⲉ
+I'm happy,ϯⲣⲁϣⲓ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ϯⲟⲩⲟϫ
+-
+sentence
+translate,How are you(f) ?,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ,ϯⲟⲩⲟϫ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+translate,How are you(m) ?,ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ,ϯⲟⲩⲟϫ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+-
+sentence
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ ⲛⲟϥⲣⲉⲧ?,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ ⲙⲏⲛⲁ?,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+-
+multichoice
+What's the matter? (to m),ⲁϧⲟⲕ,ϯⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲡⲉ
+What's the matter? (to f),ⲁϧⲟ,ϯⲟⲩⲟϫ,ⲛⲟϥⲣⲓ,ⲡⲉ
+I'm happy,ϯⲣⲁϣⲓ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ϯⲟⲩⲟϫ
+-
+sentence
+translate,What's the matter Mina?,ⲁϧⲟⲕ ⲙⲏⲛⲁ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ
+translate,What's the matter Mary?,ⲁϧⲟ ⲙⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ
+-
+sentence
+translate,What's new?,ⲟⲩ ⲡⲉ ⲡⲓⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,ⲟⲩ,ⲡⲉ,ⲡⲓⲃⲉⲣⲓ
+translate,Nothing new,`ⲙⲙⲟⲛ ϩⲗⲓ `ⲙⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,`ⲙⲙⲟⲛ,`ⲙⲃⲉⲣⲓ,ϩⲗⲓ
+-
+multichoice
+I'm well,ϯⲟⲩⲟϫ,ϯⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲡⲉ
+I'm tired,ϯϧⲟⲥⲓ,ϯⲟⲩⲟϫ,ⲛⲟϥⲣⲓ,ⲡⲉ
+I'm happy,ϯⲣⲁϣⲓ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ϯⲟⲩⲟϫ
+-
+sentence
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ ⲛⲟϥⲣⲉⲧ?,ϯⲟⲩⲟϫ,ϯⲟⲩⲟϫ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ ⲙⲏⲛⲁ?,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ
+-
+end
+
+
+
+start_1
+multichoice
+I'm sick,ϯϣⲱⲛⲓ,ϯⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲡⲉ
+`ⲛϩⲟⲩⲟ,A lot,Maybe,Yes,A little
+-
+multichoice
+I'm well,ϯⲟⲩⲟϫ,ⲡⲉⲕⲣⲏϯ,ϯϣⲱⲛⲓ,ϯϧⲟⲥⲓ
+I'm sad/upset,ϯϩⲉϫϩⲱϫ,ϯⲟⲩⲟϫ,ϯϣⲱⲛⲓ,ϯⲣⲁϣⲓ
+Thanks,ϣⲉⲡϩⲙⲟⲧ,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ
+Your (f),ⲡⲉ,ϣⲉⲡϩⲙⲟⲧ,`ⲫⲣⲏϯ,ⲛⲟϥⲣⲓ
+Your (m),ⲡⲉⲕ,ϯϩⲉϫϩⲱϫ,ϣⲉⲡϩⲙⲟⲧ,`ⲫⲣⲏϯ
+-
+multichoice
+What,ⲁϣ,ⲛⲟϥⲣⲓ,ⲡⲉ,ⲡⲉⲣⲏϯ
+Your (f) condition,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ,ⲡⲉⲕⲣⲏϯ
+Your (m) condition,ⲡⲉⲕⲣⲏϯ,ⲡⲉ,ⲁϣ,ⲡⲉⲣⲏϯ
+State/Condition,ⲣⲏϯ,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ
+I'm sick,ϯϣⲱⲛⲓ,ϯⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲡⲉ
+-
+sentence
+answer,ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ ⲙⲉⲣⲓ? >n ...,ϯϧⲟⲥⲓ,ⲁϣ,`ⲛⲑⲟⲕ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ ⲙⲱϩⲁⲙⲙⲁⲧ? >n ...,ϯϩⲉϫϩⲱϫ,ⲛⲟϥⲣⲓ,ⲁϧⲟ
+answer,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ? >n ...,ⲛⲁⲛⲉⲥ,ⲙⲏ,ⲟⲩⲟϩ,ⲁϧⲟⲕ
+question,... ? >n ϯⲣⲁϣⲓ,ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ,ⲛⲁⲛⲉ
+-
+multichoice
+`ⲛϩⲟⲩⲟ,A lot,Maybe,Yes,A little
+ⲉⲙⲁϣⲱ,very,Maybe,Yes,A little
+-
+sentence
+translate,I'm so sick,ϯϣⲱⲛⲓ ⲉⲙⲁϣⲱ,ϯϧⲟⲥⲓ,ⲟⲩϣⲁⲩ,ϯϩⲉϫϩⲱϫ,`ⲛϩⲟⲩⲟ,ⲡⲉ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+translate,I'm studying a lot,ϯϭⲓⲥⲃⲱ `ⲛϩⲟⲩⲟ,ϯϧⲟⲥⲓ,ⲉⲙⲁϣⲱ,ⲣⲁϣⲓ,ⲡⲉ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+-
+sentence
+answer,ⲁϧⲟⲕ ⲙⲏⲛⲁ?,ϯϧⲟⲥⲓ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ
+answer,ⲁϧⲟ ⲙⲉⲓ?,ϯϣⲱⲛⲓ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ
+answer,ⲁϧⲟ ⲙⲉⲣⲓ?,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ,ⲙⲉⲣⲓ
+answer,ⲟⲩ ⲡⲉ ⲡⲓⲃⲉⲣⲓ?,`ⲙⲙⲟⲛ ϩⲗⲓ `ⲙⲃⲉⲣⲓ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲁϧⲟⲕ,ⲙⲉⲣⲓ
+translate,What's new?,ⲟⲩ ⲡⲉ ⲡⲓⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,ⲟⲩ,ⲡⲉ,ⲡⲓⲃⲉⲣⲓ
+translate,Nothing new,`ⲙⲙⲟⲛ ϩⲗⲓ `ⲙⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,`ⲙⲙⲟⲛ,`ⲙⲃⲉⲣⲓ,ϩⲗⲓ
+-
+end_1
+
+
+
+start_2
+multichoice
+He's tired,`ϥ‎ϧⲟⲥⲓ,ϯϧⲟⲥⲓ,`c‎ⲣⲁϣⲓ,`ϥ‎ⲣⲁϣⲓ
+She's happy,`c‎ⲣⲁϣⲓ,`ϥ‎ⲣⲁϣⲓ,ϯⲣⲁϧⲓ,`c‎ϧⲟⲥⲓ
+And,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ⲡⲉⲣⲏϯ,ϣⲉⲡϩⲙⲟⲧ
+You (m),`ⲛⲑⲟⲕ,`ⲛⲑⲟ,ⲉⲓϩⲏⲗ,`ⲫⲣⲏϯ
+You (f),`ⲛⲑⲟ,`ⲛⲑⲟⲕ,ⲉⲓϩⲏⲗ,`ⲫⲣⲏϯ
+-
+sentence
+answer,ⲟⲩⲟϩ `ⲛⲑⲟϥ, ⲁϣ ⲡⲉ ⲡⲉϥ‎ⲣⲏϯ? >n ...,`ϥ‎ϧⲟⲥⲓ,ϯϧⲟⲥⲓ,ⲟⲩⲟϩ,`c‎ⲣⲁϣⲓ,ⲡⲉⲣⲏϯ
+answer,ⲟⲩⲟϩ `ⲛⲑⲟⲥ, ⲁϣ ⲡⲉ ⲡⲉⲥ‎ⲣⲏϯ? >n ...,`c‎ϣⲱⲛⲓ,ϯⲣⲁϣⲓ,ⲟⲩⲟϩ,`ϥ‎ⲣⲁϣⲓ
+question,... ? >n ϯϧⲟⲥⲓ,ⲁϣ ⲡⲉ ⲡⲉⲣ ⲏϯ,ⲁϣ,ⲡⲉ,ⲡⲉⲣⲏϯ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ
+question,... ? >n ϯⲣⲁϣⲓ,ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ,ⲁϣ,ⲡⲉ,ⲡⲉⲕⲣⲏϯ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ
+-
+multichoice
+I'm tired,ϯϧⲟⲥⲓ,ϯϩⲉϫϩⲱϫ,ϯⲟⲩⲟϫ,ϯⲣⲁϣⲓ
+I'm happy,ϯⲣⲁϣⲓ,ϯϩⲉϫϩⲱϫ,ϯⲟⲩⲟϫ,ϯϧⲟⲥⲓ
+And,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ⲡⲉⲣⲏϯ,ϣⲉⲡϩⲙⲟⲧ
+`ⲛϩⲟⲩⲟ,A lot,Maybe,Yes,A little
+You (m),`ⲛⲑⲟⲕ,`ⲛⲑⲟ,ⲉⲓϩⲏⲗ,`ⲫⲣⲏϯ
+You (f),`ⲛⲑⲟ,`ⲛⲑⲟⲕ,ⲉⲓϩⲏⲗ,`ⲫⲣⲏϯ
+-
+sentence
+translate,I'm so sick,ϯϣⲱⲛⲓ ⲉⲙⲁϣⲱ,ϯϧⲟⲥⲓ,ⲟⲩϣⲁⲩ,ϯϩⲉϫϩⲱϫ,`ⲛϩⲟⲩⲟ,ⲡⲉ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+translate,I'm studying a lot,ϯϭⲓⲥⲃⲱ `ⲛϩⲟⲩⲟ,ϯϧⲟⲥⲓ,ⲉⲙⲁϣⲱ,ϯϩⲉϫϩⲱϫ,ⲣⲁϣⲓ,ⲡⲉ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+answer,ⲁϧⲟⲕ ⲙⲏⲛⲁ?,ϯϧⲟⲥⲓ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ
+answer,ⲁϧⲟ ⲙⲉⲣⲓ?,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ϯϧⲟⲥⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ,ⲙⲉⲣⲓ,ϯϩⲉϫϩⲱϫ
+answer,ⲟⲩ ⲡⲉ ⲡⲓⲃⲉⲣⲓ?,`ⲙⲙⲟⲛ ϩⲗⲓ `ⲙⲃⲉⲣⲓ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲁϧⲟⲕ,ⲙⲏⲛⲁ,ⲙⲉⲣⲓ,`ⲙⲙⲟⲛ,ϩⲗⲓ,`ⲙⲃⲉⲣⲓ
+translate,What's new?,ⲟⲩ ⲡⲉ ⲡⲓⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,ⲟⲩ,ⲡⲉ,ⲡⲓⲃⲉⲣⲓ
+translate,Nothing new,`ⲙⲙⲟⲛ ϩⲗⲓ `ⲙⲃⲉⲣⲓ,ϯϩⲉϫϩⲱϫ,ⲟⲩϣⲁⲩ,ⲁϣ,ⲣⲁϣⲓ,ⲟⲩ,ⲁϧⲟ,ⲙⲉⲣⲓ,`ⲙⲙⲟⲛ,`ⲙⲃⲉⲣⲓ,ϩⲗⲓ
+-
+end_2
+
+
+Dictionary
+[entos] She:`ⲛⲑⲟⲥ
+[bacradi] Her state/condition:ⲡⲉⲥ‎ⲣⲏϯ
+[entof] He:`ⲛⲑⲟϥ
+[bafradi] His state/condition:ⲡⲉϥ‎ⲣⲏϯ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[enhowo] Greatly/A lot:`ⲛϩⲟⲩⲟ
+[mary] Mary:ⲙⲉⲣⲓ
+[mohamed] Mohamed:ⲙⲱϩⲁⲙⲙⲁⲧ
+[nofret] Nofret (an Egyptian name):ⲛⲟϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[ba] (A copula):ⲡⲉ
+[(di)owoj] I'm well, ϯ=I'm:ϯⲟⲩⲟϫ
+[(di)hajhoj] I'm sad, ϯ=I'm:ϯϩⲉϫϩⲱϫ
+[(di)(kh)osi] I'm tired, ϯ=I'm:ϯϧⲟⲥⲓ
+[(di)rashi] Happy, ϯ=I'm:ϯⲣⲁϣⲓ
+[rashi] Happy:ⲣⲁϣⲓ
+[owoj] Healthy:ⲟⲩⲟϫ
+[hajhoj] Sad:ϩⲉϫϩⲱϫ
+[(kh)osi] Tired:ϧⲟⲥⲓ
+[bakra(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition :ⲡⲉⲕⲣⲏϯ
+[bara(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nana] Good/Well:ⲛⲁⲛⲉ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[ahoow] day:ⲉϩⲟⲟⲩ
+[(di)] I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[radi] Condition/Status:ⲣⲏϯ
+[kami] Egypt :ⲭⲏⲙⲓ
+-

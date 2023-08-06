@@ -1,0 +1,259 @@
+ID 9
+Lesson 10
+Counting 1 (Masculine
+ⲟⲩⲁⲓ, ̀ⲥⲛⲁⲩ, ϣⲟⲙⲧ, ̀ϥⲧⲟⲩ, ̀ⲧⲓⲟⲩ, ⲥⲟⲟⲩ, ϣⲁϣϥ, `ϣⲙⲏⲛ, ⲯⲓⲧ, ⲙⲏⲧ
+ⲟⲩⲁⲓ `ⲙ‎ⲃⲉⲛⲓ,̀ⲥⲛⲁⲩ `ⲙ‎ⲃⲉⲛⲓ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ `ⲙ‎ⲃⲉⲛⲓ,̀ⲧⲓⲟⲩ `ⲙ‎ⲃⲉⲛⲓ
+ⲃⲉⲛⲓ,ϫⲉⲙⲫⲉϩ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ, ⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩϫⲱⲙ
+
+The particle `ⲛ (`ⲙ before words beginning with ⲃⲙπⲫⲯ)
+أداة الربط “ن” ، تستخدم “م” قبل الكلمات التب تبدأ بـ
+ⲃⲙπⲫⲯ:
+
+
+
+
+ⲟⲩϫⲉⲙⲫⲉϩ,ⲟⲩⲃⲉⲛⲓ,ⲟⲩϫⲱⲙ, ⲟⲩⲙⲟⲩⲃⲁⲓⲗ
+
+start_0
+multichoice_img
+one_date,one_apple,bag,cheese,meat,rice,car,mobile
+ⲟⲩⲃⲉⲛⲓ:one_date
+ⲟⲩϫⲉⲙⲫⲉϩ:one_apple
+-
+multichoice
+A date (fruit),ⲟⲩⲃⲉⲛⲓ,ⲛⲟϥⲣⲓ,ϫⲉⲙⲫⲉϩ,ⲡⲉⲣⲏϯ
+An apple,ⲟⲩϫⲉⲙⲫⲉϩ,ⲡⲉⲣⲏϯ,ⲃⲉⲛⲓ,ⲛⲟϥⲣⲓ
+The Date (m),ⲡⲓⲃⲉⲛⲓ,ⲡⲓϫⲉⲙⲫⲉϩ,ⲡⲉⲕ‎ⲃⲉⲛⲓ,ⲛⲓⲃⲉⲛⲓ
+The Apple (m),ⲡⲓϫⲉⲙⲫⲉϩ,ⲡⲓⲃⲉⲛⲓ,ⲡⲉⲕ‎ⲃⲉⲛⲓ,ⲛⲓⲃⲉⲛⲓ
+-
+multichoice
+One,ⲟⲩⲁⲓ,̀ⲥⲛⲁⲩ,ϣⲟⲙⲧ,̀ϥⲧⲟⲩ
+Two,̀ⲥⲛⲁⲩ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ,̀ϥⲧⲟⲩ
+Three,ϣⲟⲙⲧ,ⲟⲩⲁⲓ,̀ⲥⲛⲁⲩ,̀ϥⲧⲟⲩ
+-
+multichoice_img
+one,two,three,four,five
+ⲟⲩⲁⲓ:one
+̀ⲥⲛⲁⲩ:two
+ϣⲟⲙⲧ:three
+-
+multichoice
+One,ⲟⲩⲁⲓ,̀ⲥⲛⲁⲩ,ϣⲟⲙⲧ,̀ϥⲧⲟⲩ
+Two,̀ⲥⲛⲁⲩ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ,̀ϥⲧⲟⲩ
+Three,ϣⲟⲙⲧ,ⲟⲩⲁⲓ,̀ⲥⲛⲁⲩ,̀ϥⲧⲟⲩ
+The Dates,ⲛⲓⲃⲉⲛⲓ,ⲡⲓⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ϣⲟⲙⲧ
+-
+multichoice_img
+one_date,two_apples,three_dates,four_apples,five_dates
+ⲟⲩⲁⲓ:one_date
+̀ⲥⲛⲁⲩ:two_apples
+ϣⲟⲙⲧ:three_dates
+-
+end_0
+
+
+
+start_1
+multichoice_img
+one_date,one_apple,bag,cheese,meat,rice,book,mobile
+ⲟⲩϫⲱⲙ:book
+ⲟⲩⲙⲟⲩⲃⲁⲓⲗ:mobile
+-
+multichoice
+a Book (m),ⲟⲩϫⲱⲙ,ⲙⲟⲩⲃⲁⲓⲗ,ⲡⲓⲃⲉⲛⲓ,ϫⲉⲙⲫⲉϩ
+a CellPhone (m),ⲟⲩⲙⲟⲩⲃⲁⲓⲗ,ⲧⲉ‎ⲃⲉⲛⲓ,ⲟⲩϫⲱⲙ,ⲛⲓⲃⲉⲛⲓ
+-
+multichoice
+Three,ϣⲟⲙⲧ,ⲟⲩⲁⲓ,̀ⲥⲛⲁⲩ,̀ϥⲧⲟⲩ
+Four,̀ϥⲧⲟⲩ,̀ⲥⲛⲁⲩ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ
+Five,̀ⲧⲓⲟⲩ,̀ϥⲧⲟⲩ,̀ⲥⲛⲁⲩ,ⲟⲩⲁⲓ
+-
+multichoice_img
+one,two,three,four,five
+̀ⲧⲓⲟⲩ:five
+̀ϥⲧⲟⲩ:four
+-
+multichoice_img
+one,two,three,four,five
+ⲟⲩⲁⲓ:one
+̀ⲥⲛⲁⲩ:two
+ϣⲟⲙⲧ:three
+-
+multichoice_img
+one_apple,two_dates,three_apples,four_dates,five_apples
+ϣⲟⲙⲧ:three_apples
+̀ϥⲧⲟⲩ:four_dates
+̀ⲧⲓⲟⲩ:five_apples
+-
+multichoice_img
+one_date,two_apples,three_dates,four_dates,five_dates
+ⲟⲩⲁⲓ:one_date
+̀ⲥⲛⲁⲩ:two_apples
+-
+multichoice
+One Book,ⲟⲩϫⲱⲙ,ⲟⲩϫⲱⲙ ⲥⲛⲁⲩ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ `ⲛϫⲉⲙⲫⲉϩ
+Two Cell Phones,ⲙⲟⲩⲃⲁⲓⲗ ⲥⲛⲁⲩ,ⲟⲩϫⲉⲙⲫⲉϩ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ `ⲙⲙⲟⲩⲃⲁⲓⲗ
+Three Cell Phones,ϣⲟⲙⲧ ̀`ⲙⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩϫⲉⲙⲫⲉϩ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ `ⲙⲙⲟⲩⲃⲁⲓⲗ
+-
+end_1
+
+
+ⲥⲟⲟⲩ,ϣⲁϣϥ,`ϣⲙⲏⲛ
+ⲟⲩⲟⲛϯ
+
+start_2
+multichoice_img
+one_date,one_apple,meat,rice,meat,rice,mobile,book
+ⲃⲉⲛⲓ:one_date
+ⲟⲩϫⲉⲙⲫⲉϩ:one_apple
+ⲟⲩϫⲱⲙ:book
+ⲟⲩⲙⲟⲩⲃⲁⲓⲗ:mobile
+-
+multichoice
+The Apple (m),ⲡⲓϫⲉⲙⲫⲉϩ,ⲡⲓⲃⲉⲛⲓ,ⲡⲉⲕ‎ϫⲉⲙⲫⲉϩ,ⲛⲁ‎ϫⲉⲙⲫⲉϩ
+-
+multichoice
+Six,ⲥⲟⲟⲩ,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲯⲓⲧ
+Seven,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+Eight,`ϣⲙⲏⲛ,ϣⲁϣϥ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+-
+multichoice_img
+five,six,seven,eight,four,five
+ⲥⲟⲟⲩ:six
+ϣⲁϣϥ:seven
+`ϣⲙⲏⲛ:eight
+-
+multichoice
+Six,ⲥⲟⲟⲩ,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲯⲓⲧ
+Seven,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+Eight,`ϣⲙⲏⲛ,ϣⲁϣϥ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+-
+multichoice_img
+one,two,three,four,five
+̀ⲧⲓⲟⲩ:five
+̀ϥⲧⲟⲩ:four
+-
+multichoice_img
+one_date,two_apples,three_dates,four_apples,five_dates
+ⲟⲩⲁⲓ:one_date
+̀ⲥⲛⲁⲩ:two_apples
+ϣⲟⲙⲧ:three_dates
+-
+multichoice
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ,ⲟⲩⲟⲛ
+-
+multichoice
+Six Dates,ⲥⲟⲟⲩ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩϫⲉⲙⲫⲉϩ,`ϣⲙⲏⲛ `ⲙ‎ⲃⲉⲛⲓ,ϣⲁϣϥ `ⲙ‎ⲃⲉⲛⲓ
+Seven Apples,ϣⲁϣϥ `ⲛϫⲉⲙⲫⲉϩ,ⲥⲟⲟⲩ `ⲛϫⲉⲙⲫⲉϩ,̀ⲃⲉⲛⲓ ⲥⲛⲁⲩ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ
+Eight Books,`ϣⲙⲏⲛ `ⲛϫⲱⲙ,ⲟⲩϫⲱⲙ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,ϣⲁϣϥ ̀ϫⲉⲙⲫⲉϩ
+-
+sentence
+translate,I have four cell phones,ⲟⲩⲟⲛϯ ̀ϥⲧⲟⲩ `ⲙⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙⲙⲟⲩⲃⲁⲓⲗ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,̀ⲧⲓⲟⲩ
+translate,I have six dates,ⲟⲩⲟⲛϯ ⲥⲟⲟⲩ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,ⲥⲟⲟⲩ,ⲟⲩⲟⲛ
+translate,I have five books,ⲟⲩⲟⲛϯ ̀ⲧⲓⲟⲩ `ⲛϫⲱⲙ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,̀ⲧⲓⲟⲩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲛϫⲱⲙ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ
+-
+end_2
+
+
+ⲯⲓⲧ,ⲙⲏⲧ
+ⲟⲩⲟⲛ
+
+start_3
+multichoice
+There is/are,ⲟⲩⲟⲛ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ,ⲟⲩⲟⲛ
+-
+multichoice
+(Indicates undefined plural),ϩⲁⲛ,ⲛⲓ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ
+(Indicates defined plural),ⲛⲓ,ϩⲁⲛ,ϣⲟⲙⲧ,ⲟⲩⲟⲛ
+-
+multichoice
+Dates,ϩⲁⲛ‎ⲃⲉⲛⲓ,ⲛⲟϥⲣⲓ,ϫⲉⲙⲫⲉϩ,ⲡⲉⲣⲏϯ
+Books,ϩⲁⲛ‎ϫⲱⲙ,ⲡⲉⲣⲏϯ,ⲃⲉⲛⲓ,ⲛⲟϥⲣⲓ
+The Apples,ⲛⲓ‎ϫⲉⲙⲫⲉϩ,ⲡⲓϫⲉⲙⲫⲉϩ,ⲡⲉⲕ‎ⲃⲉⲛⲓ,ⲛⲓⲃⲉⲛⲓ
+The Cell Phones,ⲛⲓ‎ⲙⲟⲩⲃⲁⲓⲗ,ⲡⲓⲃⲉⲛⲓ,ⲡⲉⲕ‎ⲃⲉⲛⲓ,ⲛⲓⲃⲉⲛⲓ
+-
+multichoice_img
+five,six,seven,eight,four,five,nine,ten
+ⲯⲓⲧ:nine
+ⲙⲏⲧ:ten
+-
+multichoice
+The Apple (m),ⲡⲓϫⲉⲙⲫⲉϩ,ⲡⲓⲃⲉⲛⲓ,ⲡⲉⲕ‎ϫⲉⲙⲫⲉϩ,ⲛⲁ‎ϫⲉⲙⲫⲉϩ
+Nine,ⲯⲓⲧ,ϣⲁϣϥ,ⲙⲏⲧ,`ϣⲙⲏⲛ
+Ten,ⲙⲏⲧ,`ϣⲙⲏⲛ,ⲥⲟⲟⲩ,ⲯⲓⲧ
+-
+multichoice
+Six,ⲥⲟⲟⲩ,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲯⲓⲧ
+Seven,ϣⲁϣϥ,`ϣⲙⲏⲛ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+Eight,`ϣⲙⲏⲛ,ϣⲁϣϥ,ⲥⲟⲟⲩ,ⲙⲏⲧ
+-
+sentence
+translate,There are nine apples,ⲟⲩⲟⲛ ⲯⲓⲧ `ⲛϫⲉⲙⲫⲉϩ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ⲯⲓⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,`ⲛϫⲉⲙⲫⲉϩ
+translate,There are ten dates,ⲟⲩⲟⲛ ⲙⲏⲧ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲙⲏⲧ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,`ⲛϫⲉⲙⲫⲉϩ
+translate,I have eight apples,ⲟⲩⲟⲛϯ `ϣⲙⲏⲛ `ⲛϫⲉⲙⲫⲉϩ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,`ϣⲙⲏⲛ,ⲟⲩⲟⲛ,̀ⲧⲓⲟⲩ,`ⲛϫⲉⲙⲫⲉϩ
+-
+end_3
+
+
+// all numbers
+
+start_4
+multichoice
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ,ⲟⲩⲟⲛ
+There is/are,ⲟⲩⲟⲛ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ϣⲟⲙⲧ
+-
+multichoice
+One Date,ⲟⲩⲃⲉⲛⲓ,ⲃⲉⲛⲓ ⲥⲛⲁⲩ,ⲟⲩϫⲉⲙⲫⲉϩ,̀ϥⲧⲟⲩ `ⲙ‎ⲃⲉⲛⲓ
+Three Apples,ϣⲟⲙⲧ `ⲛϫⲉⲙⲫⲉϩ,ⲟⲩⲃⲉⲛⲓ,ϣⲟⲙⲧ `ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ `ⲛϫⲉⲙⲫⲉϩ
+-
+multichoice_img
+five,six,seven,eight,four,five,nine,ten
+ⲥⲟⲟⲩ:six
+ϣⲁϣϥ:seven
+`ϣⲙⲏⲛ:eight
+ⲯⲓⲧ:nine
+ⲙⲏⲧ:ten
+-
+multichoice_img
+one_date,two_dates,three_apples,four_apples,five_dates
+ⲟⲩⲁⲓ:one_date
+̀ⲥⲛⲁⲩ:two_dates
+ϣⲟⲙⲧ:three_apples
+̀ϥⲧⲟⲩ:four_apples
+̀ⲧⲓⲟⲩ:five_dates
+-
+sentence
+translate,There are four dates,ⲟⲩⲟⲛ ̀ϥⲧⲟⲩ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,`ⲛϫⲉⲙⲫⲉϩ
+translate,There are three apples,ⲟⲩⲟⲛ ϣⲟⲙⲧ `ⲛϫⲉⲙⲫⲉϩ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,̀ⲧⲓⲟⲩ,`ⲛϫⲉⲙⲫⲉϩ
+translate,I have two dates,ⲟⲩⲟⲛϯ ̀ⲥⲛⲁⲩ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ,̀ⲧⲓⲟⲩ
+translate,I have one date,ⲟⲩⲟⲛϯ ⲟⲩⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,ⲟⲩⲟϩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ
+translate,I have five dates,ⲟⲩⲟⲛϯ ̀ⲧⲓⲟⲩ `ⲙ‎ⲃⲉⲛⲓ,ⲟⲩⲟⲛϯ,ⲟⲩⲁⲓ,̀ⲧⲓⲟⲩ,ϣⲟⲙⲧ,̀ⲥⲛⲁⲩ,`ⲙ‎ⲃⲉⲛⲓ,̀ϥⲧⲟⲩ,ⲟⲩⲟⲛ
+-
+end_4
+
+Dictionary
+[ou.beni] a Date (Fruit):ⲟⲩⲃⲉⲛⲓ
+[en.jembeh] of Apple:`ⲛϫⲉⲙⲫⲉϩ
+[ou.johm] a Book:ⲟⲩϫⲱⲙ
+[ou.moubail] a Cell phone:ⲟⲩⲙⲟⲩⲃⲁⲓⲗ
+[ou.jembeh] an Apple:ⲟⲩϫⲉⲙⲫⲉϩ
+[em.beni] of date (Fruit):`ⲙ‎ⲃⲉⲛⲓ
+[ouon] There is:ⲟⲩⲟⲛ
+[ouondeei] I have:ⲟⲩⲟⲛϯ
+[ouoh] And:ⲟⲩⲟϩ
+[ouai] One:ⲟⲩⲁⲓ
+[esnau] Two:̀ⲥⲛⲁⲩ
+[shomt] Three:ϣⲟⲙⲧ
+[efdou] Four:̀ϥⲧⲟⲩ
+[ediou] Five:̀ⲧⲓⲟⲩ
+ⲡⲓⲃⲉⲛⲓ:the date (m)
+ⲛⲓⲃⲉⲛⲓ:the dates
+ⲃⲉⲛⲓ:date (fruit)
+ϫⲉⲙⲫⲉϩ:apple
+ⲟⲩⲁⲓ:one
+̀ⲥⲛⲁⲩ:two
+ϣⲟⲙⲧ:three
+̀ϥⲧⲟⲩ:four
+̀ⲧⲓⲟⲩ:five
+-

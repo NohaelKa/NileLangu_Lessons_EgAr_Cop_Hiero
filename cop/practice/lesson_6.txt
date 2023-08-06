@@ -1,0 +1,254 @@
+© NileLangu 2021
+Lesson 6 - Pronouns
+
+ⲁⲛⲟⲕ,ⲁⲛⲟⲛ,`ⲛⲑⲟ,`ⲛⲑⲟⲕ,`ⲛⲑⲱⲟⲩ,`ⲛⲑⲟϥ,`ⲛⲑⲟⲥ,`ⲛⲑⲱⲧⲉⲛ, ϫⲉⲣϫⲉⲣ, ϭⲓⲥⲃⲱ
+
+Girl/Daughter /Girls/Daughters: ϣⲉⲣⲓ
+Young Lady (شابه) : ϣⲉⲣ`ⲥϩⲓⲙⲓ
+Boy: ⲁⲗⲟⲩ
+Boys: ⲁⲗⲱⲟⲩ`ⲓ
+Son/ Sons: ϣⲏⲣⲓ (sheeri)
+Man/Men: ⲣⲱⲙⲓ
+Woman: `ⲥϩⲓⲙⲓ
+Women: ϩⲓⲟⲙⲓ
+Sir/Madam/Lord/Lady: ⲛⲏⲃ
+Professor/Mr/Ms: ⲥⲁϧ
+Great Proffessor: ⲥⲁϧⲟ
+
+
+start_0
+audiochoice
+ⲁⲛⲟⲕ,`ⲛⲑⲟⲕ,`ⲛⲑⲟϥ
+`ⲛⲑⲟⲕ,`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲱⲟⲩ
+`ⲛⲑⲟ,`ⲛⲑⲟϥ,`ⲛⲑⲱⲟⲩ
+-
+multichoice
+I,ⲁⲛⲟⲕ,`ⲛⲑⲟⲕ,`ⲛⲑⲟ,`ⲛⲑⲟⲥ
+You (m),`ⲛⲑⲟⲕ,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ
+You (f),`ⲛⲑⲟ,ⲁⲛⲟⲕ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ
+Are (f),ⲧⲉ,ⲡⲉ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ
+Are (m),ⲡⲉ,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ,ⲧⲉ
+-
+sentence
+translate,I'm Mai,ⲁⲛⲟⲕ ⲧⲉ ⲙⲁⲓ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲙⲁⲓ,ⲡⲉ
+translate,I'm Mina,ⲁⲛⲟⲕ ⲡⲉ ⲙⲏⲛⲁ,ⲁⲛⲟⲕ,ⲙⲏⲛⲁ,ⲧⲉ,ⲙⲁⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ
+-
+multichoice
+A (singular indefinite article),ⲟⲩ,ϩⲁⲛ,ⲡⲓ,ⲟⲩⲣⲱⲙⲓ
+A woman,ⲟⲩⲥϩⲓⲙⲓ,`ⲛⲑⲟⲕ,`ⲛⲑⲟ,ⲟⲩⲣⲱⲙⲓ
+A man,ⲟⲩⲣⲱⲙⲓ,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ
+-
+sentence
+translate,I'm a woman,ⲁⲛⲟⲕ ⲟⲩⲥϩⲓⲙⲓ ⲧⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ
+translate,I'm a man,ⲁⲛⲟⲕ ⲟⲩⲣⲱⲙⲓ ⲡⲉ,ⲁⲛⲟⲕ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ
+translate,You (m) are a man,`ⲛⲑⲟⲕ ⲟⲩⲣⲱⲙⲓ ⲡⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟⲕ
+-
+multichoice
+The (f),ϯ,ϩⲁⲛ,ⲡⲓ,ⲟⲩ
+The (m),ⲡⲓ,ϩⲁⲛ,ϯ,ⲟⲩ
+The woman,ϯⲥϩⲓⲙⲓ,ⲟⲩⲥϩⲓⲙⲓ,`ⲛⲑⲟⲕ,ⲟⲩⲣⲱⲙⲓ
+The man,ⲡⲓⲣⲱⲙⲓ,ⲟⲩⲣⲱⲙⲓ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲟⲩ
+-
+sentence
+translate,I'm the man,ⲁⲛⲟⲕ ⲡⲉ ⲡⲓⲣⲱⲙⲓ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ
+translate,You (f) are the woman,`ⲛⲑⲟ ⲧⲉ ϯⲥϩⲓⲙⲓ,ⲁⲛⲟⲕ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ
+translate,You (m) are the man,`ⲛⲑⲟⲕ ⲡⲓⲣⲱⲙⲓ ⲡⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟⲕ
+-
+end_0
+
+
+start_1
+audiochoice
+ⲁⲛⲟⲛ,`ⲛⲑⲟϥ,`ⲛⲑⲟⲥ
+`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲱⲟⲩ,ⲁⲛⲟⲛ
+`ⲛⲑⲱⲟⲩ,`ⲛⲑⲟ,ⲁⲛⲟⲛ
+`ⲛⲑⲟϥ,`ⲛⲑⲟⲥ,`ⲛⲑⲟ
+`ⲛⲑⲟⲥ,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ
+-
+multichoice
+You(pl),`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟ,`ⲛⲑⲟϥ,`ⲛⲑⲟⲥ
+He,`ⲛⲑⲟϥ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟⲥ
+She,`ⲛⲑⲟⲥ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ,`ⲛⲑⲱⲧⲉⲛ
+We,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ,`ⲛⲑⲟ
+They,`ⲛⲑⲱⲟⲩ,ⲁⲛⲟⲛ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+multichoice
+Women,ϩⲁⲛϩⲓⲟⲙⲓ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,`ⲛⲑⲱⲧⲉⲛ
+Men,ϩⲁⲛⲣⲱⲙⲓ,ⲁⲛⲟⲛ,ⲁⲗⲱⲟⲩ`ⲓ,`ⲛⲑⲱⲟⲩ
+Are (pl),ⲛⲉ,ⲡⲉ,ⲧⲉ,`ⲛⲑⲱⲟⲩ
+-
+sentence
+translate,You (pl) are women,`ⲛⲑⲱⲧⲉⲛ ϩⲁⲛϩⲓⲟⲙⲓ ⲛⲉ,`ⲛⲑⲱⲧⲉⲛ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ,ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ,ⲛⲉ
+translate,They are men,`ⲛⲑⲱⲟⲩ ϩⲁⲛⲣⲱⲙⲓ ⲛⲉ,ⲁⲛⲟⲕ,ⲡⲓⲁⲗⲟⲩ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+multichoice
+A girl,ⲟⲩϣⲉⲣⲓ,ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ,ⲁⲛⲟⲕ,ϩⲁⲛϣⲉⲣⲓ
+Girls,ϩⲁⲛϣⲉⲣⲓ,ⲁⲗⲱⲟⲩ`ⲓ,ⲟⲩϣⲉⲣⲓ,ⲟⲩⲣⲱⲙⲓ
+A boy,ⲟⲩⲁⲗⲟⲩ,ⲡⲓϣⲉⲣⲓ,ⲁⲗⲱⲟⲩ`ⲓ,ⲟⲩϣⲉⲣⲓ
+Boys,ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ,ⲁⲛⲟⲕ,ϣⲉⲣⲓ,ⲟⲩⲁⲗⲟⲩ
+-
+sentence
+translate,You (pl) are boys,`ⲛⲑⲱⲧⲉⲛ ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ ⲛⲉ,`ⲛⲑⲱⲧⲉⲛ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ,ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ,ⲛⲉ
+translate,He is the boy,`ⲛⲑⲟϥ ⲡⲉ ⲡⲓⲁⲗⲟⲩ,ⲁⲛⲟⲕ,ⲡⲓⲁⲗⲟⲩ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+translate,She is a girl,`ⲛⲑⲟⲥ ⲟⲩϣⲉⲣⲓ ⲧⲉ,`ⲛⲑⲟⲥ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲟⲩϣⲉⲣⲓ
+translate,We are girls,ⲁⲛⲟⲛ ϩⲁⲛϣⲉⲣⲓ ⲛⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ϩⲁⲛϣⲉⲣⲓ,ⲡⲉ,`ⲛⲑⲟⲕ,ⲁⲛⲟⲛ,ⲛⲉ
+translate,They are boys,`ⲛⲑⲱⲟⲩ ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ ⲛⲉ,ϩⲁⲛⲁⲗⲱⲟⲩ`ⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲛⲉ,ⲡⲉ,`ⲛⲑⲟⲕ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲟⲩ
+-
+multichoice
+You(pl),`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟ,`ⲛⲑⲟϥ,`ⲛⲑⲟⲥ
+He,`ⲛⲑⲟϥ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟⲥ
+She,`ⲛⲑⲟⲥ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ,`ⲛⲑⲱⲧⲉⲛ
+We,ⲁⲛⲟⲛ,ⲁⲛⲟⲕ,`ⲛⲑⲱⲟⲩ,`ⲛⲑⲟ
+They,`ⲛⲑⲱⲟⲩ,ⲁⲛⲟⲛ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+end_1
+
+
+start_2
+multichoice
+A father,ⲟⲩⲓⲱⲧ,ⲟⲩϩⲁⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲙⲁⲩ
+A mother,ⲟⲩⲙⲁⲩ,ⲟⲩⲓⲱⲧ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩϩⲁⲓ
+A wife,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲓⲱⲧ,ⲟⲩⲙⲁⲩ,ⲟⲩϩⲁⲓ
+A husband,ⲟⲩϩⲁⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲙⲁⲩ,ⲟⲩⲓⲱⲧ
+-
+sentence
+translate,I'm a father,ⲁⲛⲟⲕ ⲟⲩⲓⲱⲧ ⲡⲉ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ
+translate,I'm a mother,ⲁⲛⲟⲕ ⲟⲩⲙⲁⲩ ⲧⲉ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ
+translate,You are the wife,`ⲛⲑⲟ ⲧⲉ ϯⲥϩⲓⲙⲓ,ⲁⲛⲟⲕ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟⲕ
+translate,You are the husband,`ⲛⲑⲟⲕ ⲡⲉ ⲡⲓϩⲁⲓ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ
+-
+multichoice
+Mothers,ϩⲁⲛⲙⲁⲩ,ⲟⲩϩⲁⲓ,ϩⲁⲛⲓⲟϯ,ⲟⲩⲙⲁⲩ
+Fathers,ϩⲁⲛⲓⲟϯ,ⲟⲩϩⲁⲓ,ⲟⲩⲓⲱⲧ,ϩⲁⲛⲙⲁⲩ
+-
+sentence
+translate,You (pl) are mothers,`ⲛⲑⲱⲧⲉⲛ ϩⲁⲛⲙⲁⲩ ⲛⲉ,`ⲛⲑⲱⲧⲉⲛ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ,ⲟⲩⲁⲗⲱⲟⲩ`ⲓ,ⲛⲉ
+translate,They are fathers,`ⲛⲑⲱⲟⲩ ϩⲁⲛⲓⲟϯ ⲛⲉ,ⲁⲛⲟⲕ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ,ⲡⲓⲁⲗⲟⲩ
+translate,We are mothers,ⲁⲛⲟⲛ ϩⲁⲛⲙⲁⲩ ⲛⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ϩⲁⲛϣⲉⲣⲓ,ⲡⲉ,`ⲛⲑⲟⲕ,
+-
+multichoice
+Wives,ϩⲁⲛϩⲓⲟⲙⲓ,ⲟⲩϩⲁⲓ,ϩⲁⲛⲓⲟϯ,ⲟⲩⲥϩⲓⲙⲓ
+Husbands,ϩⲁⲛϩⲁⲓ,ⲟⲩϩⲁⲓ,ⲟⲩⲓⲱⲧ,ϩⲁⲛⲙⲁⲩ
+-
+sentence
+translate,You (pl) are husbands,`ⲛⲑⲱⲧⲉⲛ ϩⲁⲛϩⲁⲓ ⲛⲉ,`ⲛⲑⲱⲧⲉⲛ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ,ⲟⲩⲁⲗⲱⲟⲩ`ⲓ,ⲛⲉ
+translate,They are wives,`ⲛⲑⲱⲟⲩ ϩⲁⲛϩⲓⲟⲙⲓ ⲛⲉ,ⲁⲛⲟⲕ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ,ⲡⲓⲁⲗⲟⲩ
+translate,We are husbands,ⲁⲛⲟⲛ ϩⲁⲛϩⲁⲓ ⲛⲉ,ⲁⲛⲟⲕ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ϩⲁⲛϣⲉⲣⲓ,ⲡⲉ,`ⲛⲑⲟⲕ
+-
+multichoice
+A father,ⲟⲩⲓⲱⲧ,ⲟⲩϩⲁⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲙⲁⲩ
+A mother,ⲟⲩⲙⲁⲩ,ⲟⲩⲓⲱⲧ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩϩⲁⲓ
+A wife,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲓⲱⲧ,ⲟⲩⲙⲁⲩ,ⲟⲩϩⲁⲓ
+A husband,ⲟⲩϩⲁⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲟⲩⲙⲁⲩ,ⲟⲩⲓⲱⲧ
+-
+end_2
+
+
+start_3
+multichoice
+I'm,ϯ,`ⲥ,ⲛ,`ⲕ
+You (m),`ⲕ,ⲥⲉ,ϯ,`ⲥ
+You (f),ⲧⲉ,ⲧⲉⲛ,ϯ,`ⲥ
+You (pl),ⲧⲉⲧⲉⲛ,ⲥⲉ,ϯ,`ⲥ
+-
+multichoice
+ϫⲉⲣϫⲉⲣ,Play,Study,Read,Write
+-
+sentence
+translate,I'm playing,ϯ‎ϫⲉⲣϫⲉⲣ,ϯϭⲓⲥⲃⲱ,ϯⲛⲟⲩ,ⲡⲉ,ⲡⲓⲣⲱⲙⲓ,ⲟⲩⲁⲗⲱⲟⲩ`ⲓ
+translate,You (m) are playing,`ⲕ‎ϫⲉⲣϫⲉⲣ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+translate,You (f) are playing,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+translate,You (pl) are playing,ⲧⲉⲧⲉⲛ‎ϫⲉⲣϫⲉⲣ,ⲧⲉⲧⲉⲛ‎ϭⲓⲥⲃⲱ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+multichoice
+I'm,ϯ,`ⲥ,ⲛ,`ⲕ
+You (m),`ⲕ,ⲥⲉ,ϯ,`ⲥ
+You (f),ⲧⲉ,ⲧⲉⲛ,ϯ,`ⲥ
+You (pl),ⲧⲉⲧⲉⲛ,ⲥⲉ,ϯ,`ⲥ
+-
+multichoice
+ϭⲓⲥⲃⲱ,Study/Learn,Play,Read,Write
+ϯⲛⲟⲩ,Now,Play,Read,Study/Learn
+-
+sentence
+translate,I'm learning now,ϯϭⲓⲥⲃⲱ ϯⲛⲟⲩ,ϯϭⲓⲥⲃⲱ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ϯ‎ϫⲉⲣϫⲉⲣ
+translate,You (m) are learning,`ⲕ‎ϭⲓⲥⲃⲱ,`ⲕ‎ϭⲓⲥⲃⲱ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+translate,You (f) are studying now,ⲧⲉ‎ϭⲓⲥⲃⲱ ϯⲛⲟⲩ,ⲧⲉ‎ϭⲓⲥⲃⲱ,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲡⲉ,`ⲛⲑⲟ,ϯⲛⲟⲩ
+translate,You (pl) are studying,ⲧⲉⲧⲉⲛ‎ϭⲓⲥⲃⲱ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+sentence
+translate,I'm playing now,ϯ‎ϫⲉⲣϫⲉⲣ ϯⲛⲟⲩ,ϯϭⲓⲥⲃⲱ,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,ⲡⲉ,ⲧⲉⲧⲉⲛ‎ϭⲓⲥⲃⲱ
+translate,You (m) are studying,`ⲕ‎ϭⲓⲥⲃⲱ,ⲧⲉⲧⲉⲛ‎ϭⲓⲥⲃⲱ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ϯ‎ϫⲉⲣϫⲉⲣ,`ⲛⲑⲟϥ
+translate,You (f) are playing,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,`ⲕ‎ϭⲓⲥⲃⲱ,`ⲛⲑⲟϥ
+translate,You (pl) are learning,ⲧⲉⲧⲉⲛ‎ϭⲓⲥⲃⲱ,ϯⲥϩⲓⲙⲓ,ⲧⲉ‎ϫⲉⲣϫⲉⲣ,`ⲛⲑⲟ,`ⲛⲑⲟϥ
+-
+end_3
+
+
+start_4
+multichoice
+He,`Ϥ,ϯ,`ⲕ,ⲧⲉⲛ
+She,`ⲥ,`Ϥ,ϯ,ⲥⲉ
+We,ⲧⲉⲛ,ϯ,`ⲥ,ⲧⲉⲧⲉⲛ
+They,ⲥⲉ,ϯ,`ⲕ,ⲧⲉⲧⲉⲛ
+-
+multichoice
+`ⲥϧⲁⲓ,Write,Play,Read,Learn
+ⲱϣ,Read,Play,Study/Learn,Write
+ϯⲛⲟⲩ,Now,Play,Read,Study/Learn
+-
+sentence
+translate,She is reading now,`ⲥ‎ⲱϣ ϯⲛⲟⲩ,`ⲥϭⲓⲥⲃⲱ,ⲧⲉⲛ‎ⲱϣ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ϯⲛⲟⲩ
+translate,He is writing,`Ϥ‎`ⲥϧⲁⲓ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲟⲩϣⲉⲣⲓ
+translate,We are reading now,ⲧⲉⲛ‎ⲱϣ ϯⲛⲟⲩ,ⲧⲉⲛ‎ϭⲓⲥⲃⲱ,ⲟⲩⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ϯⲛⲟⲩ,ⲛⲉ
+translate,They are writing,ⲥⲉ‎`ⲥϧⲁⲓ,ⲧⲉⲛ‎ⲱϣ,ⲡⲉ,`ⲛⲑⲟⲕ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲟⲩ
+-
+multichoice
+He,`Ϥ,ϯ,`ⲕ,ⲧⲉⲛ
+She,`ⲥ,`Ϥ,ϯ,ⲥⲉ
+We,ⲧⲉⲛ,ϯ,`ⲥ,ⲧⲉⲧⲉⲛ
+They,ⲥⲉ,ϯ,`ⲕ,ⲧⲉⲧⲉⲛ
+-
+sentence
+translate,She is writing,`ⲥ‎`ⲥϧⲁⲓ,ϯⲥϩⲓⲙⲓ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,`ⲛⲑⲟ,ⲥ‎ⲱϣ
+translate,He is reading now,`Ϥ‎ⲱϣ ϯⲛⲟⲩ,`Ϥϫⲉⲣϫⲉⲣ,ϯⲛⲟⲩ,ⲧⲉ,ⲟⲩⲣⲱⲙⲓ,ⲡⲉ,ⲟⲩϣⲉⲣⲓ
+translate,We are writing,ⲧⲉⲛ‎`ⲥϧⲁⲓ,ⲧⲉ,ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ,ⲡⲉ,`ⲥ‎ⲱϣ,ⲁⲛⲟⲛ,ⲛⲉ
+translate,They are reading now,`ⲥ‎ⲱϣ ϯⲛⲟⲩ,ⲥⲉ‎ϭⲓⲥⲃⲱ,ⲥⲉ‎ϫⲉⲣϫⲉⲣ,ϯⲛⲟⲩ
+-
+end_4
+
+
+
+Dictionary
+[oh-sh] Read:ⲱϣ
+[jarjar] Play:ϫⲉⲣϫⲉⲣ
+[iskhai] Write:`ⲥϧⲁⲓ
+[dinou] Now:ϯⲛⲟⲩ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[(di)]I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aihal] I'm going :ϯϩⲏⲗ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Loving/Love - an Egyptian name:ⲙⲁⲓ
+[mina] an Egyptian kings name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ / `ϥ:he
+`ⲛⲑⲟⲥ / `ⲥ:she
+ⲁⲛⲟⲛ / ⲧⲉⲛ:we
+ⲁⲛⲟⲕ / ϯ:i
+`ⲛⲑⲱⲟⲩ / ⲥⲉ:they
+`ⲛⲑⲟⲕ / `ⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ / ⲧⲉ:you(f)
+`ⲛⲑⲱⲧⲉⲛ / ⲧⲉⲧⲉⲛ:you(pl)
+ⲙⲁⲓ:mai
+-

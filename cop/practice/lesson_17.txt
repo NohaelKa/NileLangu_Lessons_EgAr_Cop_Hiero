@@ -1,0 +1,232 @@
+Lesson 17 - How to discuss learning
+
+Audio: Todo
+Dictionary: Todo
+Database: Done
+
+ⲟⲩⲟⲛϯ ϣⲓⲛⲓ ( I have a question)
+ⲟⲩⲟⲛϣϫⲟⲙ( is it possible, momken)
+
+ⲟⲩⲟⲛϯ ϣⲓⲛⲓ ̀ⲛⲕⲉⲥⲟⲡ ( I have question again)
+
+ⲟⲩ ⲡⲉ ⲡⲃⲱⲗ ⲉⲃⲟⲗ ⲡⲓⲥⲁϫⲓ
+What is the translation of this word?
+
+ⲁϣ ⲡⲉ ⲡⲓⲙⲏⲛⲓ ⲛ
+What is the meaning of...?
+
+The meaning is..:
+ⲡⲓⲙⲏⲛⲓ ⲡⲉ...
+
+ϩⲟⲣϣ:difficult
+ⲉϥ‎ⲙⲟⲧⲉⲛ:easy (emton)
+ϫⲓⲛⲥⲁϫⲓ:sentence
+ⲡⲓⲥⲁϫⲓ: the word
+ⲟⲩⲥⲁϫⲓ: a word
+ϯⲕⲁϯ: I am understanding
+ϯϭⲓⲥⲃⲱ:I am learning
+ϯⲥⲁϫⲓ: I am speaking
+ϯⲕⲁϯ ⲁⲛ: I am not understanding (present)
+`ⲙⲡⲓⲕⲁϯ: I didn't understand(past)
+`ⲛⲟⲩⲕⲟⲩϫⲓ:a little
+ⲁⲥⲡⲓ,ϫⲓⲛⲥⲁϫⲓ: language
+ϯⲉⲙⲓ / ϯⲥⲱⲟⲩⲛ:I know
+ⲥⲟⲩⲧⲱⲛ:correct
+ϣⲟϥⲧ:wrong
+
+ⲙⲏ `ⲕⲕⲁϯ?,`ⲕⲕⲁϯ?: do you understand ?
+
+ⲡⲁⲓⲥⲁϫⲓ ⲉϥⲙⲟⲧⲉⲛ: this word is easy
+
+ⲡⲁⲓⲥⲁϫⲓ ⲡⲉ ϩⲟⲣϣ `ⲛⲟⲩⲕⲟⲩϫⲓ: This word is a little difficult
+
+The language of the arabic (Arabic language): ϯⲁⲥⲡⲓ `ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ
+I (can) speak the Egyptian Language: ϯϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+I (can't) speak the Egyptian Language: ϯϣⲥⲁϫⲓ ⲁⲛ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+I (can't) speak: ϯϣⲥⲁϫⲓ ⲁⲛ //can't due to tiredness/ or knowledge
+
+to Repeat: ⲟⲩⲁϩⲉⲙ, to Repeat the phrase: ⲟⲩⲁϩⲉⲙ ϯϫⲓⲛⲥⲁϫⲓ
+(You) Repeat the phrase: ⲟⲩⲁϩⲉⲙ ϯϫⲓⲛⲥⲁϫⲓ
+say it again: ⲁϫⲟⲥ ̀ⲛⲕⲉⲥⲟⲡ
+
+Todo translate,I can speak the Egyptian Language a little,
+
+
+start_0
+audiochoice
+ϣⲓⲛⲓ,`ⲛⲑⲟⲕ,ϩⲟⲣϣ
+ϩⲟⲣϣ,`ⲛⲑⲟϥ,`ⲛⲑⲱⲟⲩ
+`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲛⲑⲟ,ⲁⲛⲟⲛ
+-
+multichoice
+I'm speaking,ϯⲥⲁϫⲓ,ϯⲕⲁϯ,ϯϣⲥⲁϫⲓ,`ⲛⲑⲱⲟⲩ
+-
+multichoice
+I can speak,ϯϣⲥⲁϫⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+-
+multichoice
+You(m) can speak,`ⲕϣⲥⲁϫⲓ,ϯϣⲥⲁϫⲓ,ϯⲥⲁϫⲓ,ⲧⲉϣⲥⲁϫⲓ
+You(f) can speak,ⲧⲉϣⲥⲁϫⲓ,ϯϣⲥⲁϫⲓ,ϯⲥⲁϫⲓ,`ⲕϣⲕⲁϯ
+-
+sentence
+translate,I can speak the Egyptian language,ϯϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ϯϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ
+translate,I can speak the Arabic language,ϯϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+translate,Can you(m) speak the Egyptian language?,`ⲕϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,`ⲕϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+translate,Can you(f) speak the Egyptian language?,ⲧⲉϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ⲧⲉϣⲥⲁϫⲓ,`ⲕϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+-
+multichoice
+I understand,ϯⲕⲁϯ,`ⲕⲕⲁϯ,ϯⲕⲁϯ ⲁⲛ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+I don't understand,ϯⲕⲁϯ ⲁⲛ,`ⲕⲕⲁϯ,ϩⲟⲣϣ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+You(m) understand,`ⲕⲕⲁϯ,ϯⲕⲁϯ,ⲧⲉⲕⲁϯ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+You(f) understand,ⲧⲉⲕⲁϯ,ϯⲕⲁϯ,ϩⲟⲣϣ,`ⲕⲕⲁϯ
+-
+sentence
+translate,No I don't understand,`ⲙⲙⲟⲛ ϯⲕⲁϯ ⲁⲛ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ
+translate,Yes I understand,ⲁϩⲁ ϯⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ
+translate,Do you(m) understand?,`ⲕⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ,ⲧⲉⲕⲁϯ
+translate,Do you(f) understand?,ⲧⲉⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ,ⲧⲉⲕⲁϯ
+-
+multichoice
+The meaning,ⲡⲓ‎ⲙⲏⲓⲛⲓ,ⲫⲁⲓ,ⲉⲧⲉ ⲟⲩ,ⲡⲁⲓⲥⲁϫⲓ
+The meaning of,ⲡⲓ‎ⲙⲏⲓⲛⲓ `ⲛ,ⲉⲧⲉ ⲟⲩ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲡⲁⲓⲥⲁϫⲓ
+-
+sentence
+translate,What does ⲭⲏⲙⲓ mean?,ⲁϣ ⲡⲉ ⲡⲓ‎ⲙⲏⲓⲛⲓ `ⲛ‎ⲭⲏⲙⲓ,ⲭⲏⲙⲓ,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ⲫⲁⲓ,ⲡⲉ
+translate,ⲭⲏⲙⲓ means Egypt,ⲡⲓ‎ⲙⲏⲓⲛⲓ `ⲛ‎ⲭⲏⲙⲓ ⲡⲉ Egypt,ⲭⲏⲙⲓ,ⲟⲩ,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ
+-
+sentence
+translate,What does ϧⲟⲧϧⲉⲧⲛⲏⲓ mean?,ⲁϣ ⲡⲉ ⲡⲓ‎ⲙⲏⲓⲛⲓ `ⲛⲟⲩ‎ϧⲟⲧϧⲉⲧⲛⲏⲓ,ⲭⲏⲙⲓ,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ⲫⲁⲓ,ⲡⲉ
+translate,ϧⲟⲧϧⲉⲧⲛⲏⲓ means homework,ⲡⲓ‎ⲙⲏⲓⲛⲓ `ⲛⲟⲩ‎ϧⲟⲧϧⲉⲧⲛⲏⲓ ⲡⲉ homework,ⲭⲏⲙⲓ,ⲉⲧⲉ,ⲫⲁⲓ,Egypt,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ
+-
+end_0
+
+
+start_1
+multichoice
+Difficult,ϩⲟⲣϣ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ
+Easy,ⲙⲟⲧⲉⲛ,ϩⲟⲣϣ,`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟⲥ
+Correct,ⲥⲟⲩⲧⲱⲛ,ϩⲟⲣϣ,ϣⲟϥⲧ,`ⲛⲑⲟⲥ
+Wrong,ϣⲟϥⲧ,ⲥⲟⲩⲧⲱⲛ,ϯⲕⲁϯ,ⲉⲧⲉ ⲟⲩ
+-
+multichoice
+Yes,ⲁϩⲁ,ϩⲟⲣϣ,ϣⲟϥⲧ,`ⲙⲙⲟⲛ
+Yes,ⲁⲉⲓⲟ,ϩⲟⲣϣ,ϣⲟϥⲧ,`ⲙⲙⲟⲛ
+No,`ⲙⲙⲟⲛ,ⲥⲟⲩⲧⲱⲛ,ⲁϩⲁ,ⲁⲉⲓⲟ
+-
+sentence
+translate,Yes it's(m) correct,ⲁϩⲁ ⲉϥ‎ⲥⲟⲩⲧⲱⲛ,ϩⲟⲣϣ,ⲉϥ‎ϣⲟϥⲧ,ⲥⲟⲩⲧⲱⲛ,ϣⲟϥⲧ,`ⲙⲙⲟⲛ
+translate,No it's(m) wrong,`ⲙⲙⲟⲛ ⲉϥ‎ϣⲟϥⲧ,ⲉϥ‎ⲥⲟⲩⲧⲱⲛ,ⲁϩⲁ,ⲥⲟⲩⲧⲱⲛ,ϣⲟϥⲧ
+-
+sentence
+translate,This is difficult,ⲫⲁⲓ ⲉϥ‎ϩⲟⲣϣ,ⲫⲁⲓ,ⲡⲉ,ⲉϥ‎ϩⲟⲣϣ,ⲉⲙⲁϣⲱ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+translate,This is so easy,ⲫⲁⲓ ⲉϥ‎ⲙⲟⲧⲉⲛ ⲉⲙⲁϣⲱ,ⲫⲁⲓ,ⲡⲉ,ⲉϥ‎ϩⲟⲣϣ,ⲉⲙⲁϣⲱ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+-
+multichoice
+This word,ⲡⲁⲓⲥⲁϫⲓ,ⲁϩⲁ,ⲥⲟⲩⲧⲱⲛ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+This sentence,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲡⲁⲓⲥⲁϫⲓ,ⲉⲙⲁϣⲱ,ⲉⲥ‎ϩⲟⲣϣ
+-
+sentence
+translate,This word is easy,ⲡⲁⲓⲥⲁϫⲓ ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲡⲁⲓⲥⲁϫⲓ,ⲡⲉ,ⲉϥ‎ϩⲟⲣϣ,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲧⲉ,ⲙⲟⲧⲉⲛ
+translate,This sentence is difficult,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ ⲉⲥ‎ϩⲟⲣϣ,ⲡⲁⲓⲥⲁϫⲓ,ⲡⲉ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲉⲥ‎ϩⲟⲣϣ,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲧⲉ,ϩⲟⲣϣ
+-
+multichoice
+Say it,ⲁϫⲟⲥ,`ⲛⲕⲉⲥⲟⲡ,ⲉⲙⲁϣⲱ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+Another time,ⲕⲉⲥⲟⲡ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲁϩⲁ,ⲥⲟⲩⲧⲱⲛ
+-
+sentence
+translate,I don't understand,ϯⲕⲁϯ ⲁⲛ,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲡⲉ
+translate,I don't understand this word,ϯⲕⲁϯ ⲁⲛ `ⲙ‎ⲡⲁⲓⲥⲁϫⲓ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲡⲉ
+translate,Say it again,ⲁϫⲟⲥ `ⲛⲕⲉⲥⲟⲡ,ⲉϥ‎ϩⲟⲣϣ,ⲉϥ‎ⲙⲟⲧⲉⲛ,ⲡⲉ
+-
+multichoice
+Exam,ϧⲟⲧϧⲉⲧ,ϧⲟⲧϧⲉⲧⲛⲏⲓ,ⲉⲙⲁϣⲱ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+Homework,ϧⲟⲧϧⲉⲧⲛⲏⲓ,ϧⲟⲧϧⲉⲧ,ⲉⲙⲁϣⲱ,ⲉϥ‎ⲙⲟⲧⲉⲛ
+-
+sentence
+translate,I have homework,ⲟⲩⲟⲛϯ ϧⲟⲧϧⲉⲧⲛⲏⲓ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲛⲟⲩ‎ϧⲟⲧϧⲉⲧⲛⲏⲓ
+-
+end_1
+
+
+
+
+start_2
+multichoice
+Question,ϣⲓⲛⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ⲟⲩⲟⲛϯ
+I have,ⲟⲩⲟⲛϯ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ϣⲓⲛⲓ
+-
+multichoice
+ⲥⲃⲱ,Teach,A little,Study,Write
+ⲟⲩⲕⲟⲩϫⲓ,A little,Teach,Write,Study
+`ⲉⲣⲟⲓ,To me,To you(m),To you(f),Study
+`ⲉⲣⲟⲕ,To you(m),To you(f),A little,To me
+`ⲉⲣⲟ,To you(f),To you(m),To me,Study
+-
+sentence
+translate,I have a question,ⲟⲩⲟⲛϯ ϣⲓⲛⲓ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲛⲟ‎ⲩϣⲓⲛⲓ
+translate,I have homework,ⲟⲩⲟⲛϯ ϧⲟⲧϧⲉⲧⲛⲏⲓ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Is this correct?,ⲫⲁⲓ ⲉϥ‎ⲥⲟⲩⲧⲱⲛ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Could you(m) teach me?,`ⲕϣⲥⲃⲱ `ⲉⲣⲟⲓ,`ⲙⲙⲟⲓ,`ⲙⲙⲟⲕ
+translate,I can teach you(m) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟⲕ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟⲕ
+translate,Could you(f) teach me?,ⲧⲉϣⲥⲃⲱ `ⲉⲣⲟⲓ,`ⲕϣⲥⲃⲱ,`ⲙⲙⲟⲓ,ⲧⲉϣⲥⲃⲱ,`ⲉⲣⲟⲓ
+translate,I can teach you(f) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟ
+-
+multichoice
+Question,ϣⲓⲛⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ⲟⲩⲟⲛϯ
+I have,ⲟⲩⲟⲛϯ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ϣⲓⲛⲓ
+-
+multichoice
+ⲥⲃⲱ,Teach,A little,Study,Write
+ⲟⲩⲕⲟⲩϫⲓ,A little,Teach,Write,Study
+-
+sentence
+translate,I have a question,ⲟⲩⲟⲛϯ ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Is this correct?,ⲫⲁⲓ ⲡⲉ ⲥⲟⲩⲧⲱⲛ,ⲫⲁⲓ,ⲡⲉ,ⲥⲟⲩⲧⲱⲛ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Could you(m) teach me?,`ⲕϣⲥⲃⲱ `ⲉⲣⲟⲓ,`ⲙⲙⲟⲓ,`ⲙⲙⲟⲕ
+translate,I can teach you(m) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟⲕ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟⲕ
+translate,Could you(f) teach me?,ⲧⲉϣⲥⲃⲱ `ⲉⲣⲟⲓ,`ⲕϣⲥⲃⲱ,`ⲙⲙⲟⲓ,ⲧⲉϣⲥⲃⲱ,`ⲉⲣⲟⲓ
+translate,I can teach you(f) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟ
+-
+end_2
+
+
+Dictionary
+[aroi] To me:`ⲉⲣⲟⲓ
+[arok] To you(m):`ⲉⲣⲟⲕ
+[aro] To you(f):`ⲉⲣⲟ
+[cbwoh] Teach:ⲥⲃⲱ
+[ak-cbwoh] You(m) Teach:`ⲕ‎ⲥⲃⲱ
+[da-cbwoh] You(f) Teach:ⲧⲉ‎ⲥⲃⲱ
+[ou-kouji] A little:ⲟⲩⲕⲟⲩϫⲓ
+[shini] Question:ϣⲓⲛⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[di] I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to ⲡⲏⲓ=The Home(m): ̀ⲉⲡⲏⲓ
+[aishanai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Egyptian name:ⲙⲉⲓ
+[mina] Egyptian name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ/`ϥ:he
+`ⲛⲑⲟⲥ/`ⲥ:she
+ⲁⲛⲟⲛ/ⲧⲉⲛ:we
+ⲁⲛⲟⲕ/ϯ:i
+`ⲛⲑⲱⲟⲩ/ⲥⲉ:they
+`ⲛⲑⲟⲕ/`ⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ/ⲧⲉ:you(f)
+`ⲛⲑⲱⲧⲉⲛ/ⲧⲉⲧⲉⲛ:you(pl)
+ⲙeⲓ:mai
+ⲥⲁϫⲓ:speak
+ϣ:can
+ϫⲓⲛⲥⲁϫⲓ:sentence
+ⲕⲉ:another
+-

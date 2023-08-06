@@ -1,0 +1,166 @@
+Lesson 19 - Past tense
+
+ⲁⲓⲥⲱⲕ
+ⲁⲓϭⲓⲥⲃⲱ
+ⲁⲓⲫⲓⲥⲓ
+ⲁⲓϫⲟⲥ
+ⲁⲓ, ⲁⲛ, ⲁⲕ, ⲁⲣⲉ, ⲁⲧⲉⲧⲉⲛ, ⲁϥ, ⲁⲥ, ⲁⲩ
+ⲁⲥϣⲓⲛⲓ ⲉⲣⲟ ( she asked about him)
+
+ⲁ ⲛⲟϩⲁ ⲥⲁϫⲓ
+
+ⲙⲡⲓⲉⲙⲓ
+
+
+start_0
+audiochoice
+ϣⲓⲛⲓ,ϣⲓⲛⲓ,`ⲛⲑⲟⲕ,ϩⲟⲣϣ
+ⲉⲧⲉ,ⲉⲧⲉ,ϩⲟⲣϣ,`ⲛⲟⲩⲕⲟⲩϫⲓ
+ϩⲟⲣϣ,ϩⲟⲣϣ,`ⲛⲑⲟϥ,`ⲛⲑⲱⲟⲩ
+`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲛⲑⲟ,ⲁⲛⲟⲛ
+-
+multichoice
+I am speaking,ϯⲥⲁϫⲓ,ϯⲕⲁϯ,ϯϣⲥⲁϫⲓ,`ⲛⲑⲱⲟⲩ
+I can speak,ϯϣⲥⲁϫⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,`ⲙⲧⲟⲛ
+You(m) can speak,`ⲕϣⲥⲁϫⲓ,ϯϣⲥⲁϫⲓ,ϯⲥⲁϫⲓ,ⲧⲉϣⲥⲁϫⲓ
+You(f) can speak,ⲧⲉϣⲥⲁϫⲓ,ϯϣⲥⲁϫⲓ,ϯⲥⲁϫⲓ,`ⲕϣⲕⲁϯ
+-
+sentence
+translate,I can speak the Egyptian language,ϯϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ϯϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ
+translate,I can speak the Arabic language,ϯϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ
+translate,Can you(m) speak the Egyptian language?,ⲙⲏ `ⲕϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,`ⲕϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ⲙⲏ
+translate,Can you(f) speak the Egyptian language?,ⲙⲏ ⲧⲉϣⲥⲁϫⲓ `ⲛϯⲁⲥⲡⲓ `ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ⲧⲉϣⲥⲁϫⲓ,`ⲕϣⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ,`ⲙⲙⲉⲧⲁⲣⲁⲃⲟⲥ,ϯⲥⲁϫⲓ,`ⲛⲣⲉⲙⲛⲭⲏⲙⲓ,ⲙⲏ
+-
+multichoice
+I understand,ϯⲕⲁϯ,`ⲕⲕⲁϯ,ϯⲕⲁϯ ⲁⲛ,`ⲙⲧⲟⲛ
+I don't understand,ϯⲕⲁϯ ⲁⲛ,`ⲕⲕⲁϯ,ϩⲟⲣϣ,`ⲙⲧⲟⲛ
+You(m) understand,`ⲕⲕⲁϯ,ϯⲕⲁϯ,ⲧⲉⲕⲁϯ,`ⲙⲧⲟⲛ
+You(f) understand,ⲧⲉⲕⲁϯ,ϯⲕⲁϯ,ϩⲟⲣϣ,`ⲕⲕⲁϯ
+-
+sentence
+translate,No I don't understand,`ⲙⲙⲟⲛ ϯⲕⲁϯ ⲁⲛ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ
+translate,Yes I understand,ⲁϩⲁ ϯⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ
+translate,Do you(m) understand?,ⲙⲏ `ⲕⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ,ⲙⲏ,ⲧⲉⲕⲁϯ
+translate,Do you(f) understand?,ⲙⲏ ⲧⲉⲕⲁϯ,ϯⲕⲁϯ,ⲁⲛ,ϯϣⲥⲁϫⲓ,`ⲕⲕⲁϯ,`ⲙⲙⲟⲛ,ⲁϩⲁ,ⲙⲏ,ⲧⲉⲕⲁϯ
+-
+multichoice
+What does it mean,ⲉⲧⲉ ⲟⲩ,ⲫⲁⲓ,ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ,ⲡⲁⲓⲥⲁϫⲓ
+This means,ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ,ⲉⲧⲉ ⲟⲩ,`ⲙⲧⲟⲛ,ⲡⲁⲓⲥⲁϫⲓ
+-
+sentence
+translate,What does ⲭⲏⲙⲓ mean?,ⲉⲧⲉ ⲟⲩ ⲭⲏⲙⲓ,ⲭⲏⲙⲓ,ⲉⲧⲉ,ⲟⲩ,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ⲫⲁⲓ,ⲡⲉ
+translate,ⲭⲏⲙⲓ means Egypt,ⲭⲏⲙⲓ ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ Egypt,ⲭⲏⲙⲓ,ⲉⲧⲉ,ⲫⲁⲓ,ⲡⲉ,Egypt,ⲟⲩ,ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ
+-
+end_0
+
+
+start_1
+multichoice
+Difficult,ϩⲟⲣϣ,`ⲙⲧⲟⲛ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ
+Easy,`ⲙⲧⲟⲛ,ϩⲟⲣϣ,`ⲛⲑⲱⲧⲉⲛ,`ⲛⲑⲟⲥ
+Correct,ⲥⲟⲩⲧⲱⲛ,ϩⲟⲣϣ,ϣⲟϥⲧ,`ⲛⲑⲟⲥ
+Wrong,ϣⲟϥⲧ,ⲥⲟⲩⲧⲱⲛ,ϯⲕⲁϯ,ⲉⲧⲉ ⲟⲩ
+-
+multichoice
+Yes correct,ⲁϩⲁ ⲥⲟⲩⲧⲱⲛ,ϩⲟⲣϣ,ϣⲟϥⲧ,`ⲙⲙⲟⲛ ϣⲟϥⲧ
+No wrong,`ⲙⲙⲟⲛ ϣⲟϥⲧ,ⲥⲟⲩⲧⲱⲛ,ⲁϩⲁ ⲥⲟⲩⲧⲱⲛ,ⲉⲧⲉ ⲟⲩ
+-
+sentence
+translate,This is difficult,ⲫⲁⲓ ⲡⲉ ϩⲟⲣϣ,ⲫⲁⲓ,ⲡⲉ,ϩⲟⲣϣ,ⲉⲙⲁϣⲱ,`ⲙⲧⲟⲛ
+translate,This is so easy,ⲫⲁⲓ ⲡⲉ `ⲙⲧⲟⲛ ⲉⲙⲁϣⲱ,ⲫⲁⲓ,ⲡⲉ,ϩⲟⲣϣ,ⲉⲙⲁϣⲱ,`ⲙⲧⲟⲛ
+-
+multichoice
+This word,ⲡⲁⲓⲥⲁϫⲓ,ⲁϩⲁ,ⲥⲟⲩⲧⲱⲛ,`ⲙⲧⲟⲛ
+This sentence,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲡⲁⲓⲥⲁϫⲓ,ⲉⲙⲁϣⲱ,ϩⲟⲣϣ
+-
+sentence
+translate,This word is easy,ⲡⲁⲓⲥⲁϫⲓ ⲡⲉ `ⲙⲧⲟⲛ,ⲡⲁⲓⲥⲁϫⲓ,ⲡⲉ,`ⲙⲧⲟⲛ,ϩⲟⲣϣ,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲧⲉ
+translate,This sentence is difficult,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ ⲧⲉ ϩⲟⲣϣ,ⲡⲁⲓⲥⲁϫⲓ,ⲡⲉ,`ⲙⲧⲟⲛ,ϩⲟⲣϣ,ⲑⲁⲓϫⲓⲛⲥⲁϫⲓ,ⲧⲉ
+-
+multichoice
+Say it,ⲁϫⲟⲥ,`ⲛⲕⲉⲥⲟⲡ,ⲉⲙⲁϣⲱ,`ⲙⲧⲟⲛ
+Again,`ⲛⲕⲉⲥⲟⲡ,`ⲙⲧⲟⲛ,ⲁϩⲁ,ⲥⲟⲩⲧⲱⲛ
+If possible,ⲟⲩⲟⲛ ⲣⲏϯ,`ⲙⲧⲟⲛ,ⲥⲟⲩⲧⲱⲛ,ⲁϩⲁ
+-
+sentence
+translate,I don't understand. Could you say again?,ϯⲕⲁϯ ⲁⲛ ⲟⲩⲟⲛ ⲣⲏϯ ⲁϫⲟⲥ `ⲛⲕⲉⲥⲟⲡ,ϩⲟⲣϣ
+translate,I don't understand this word,ϯⲕⲁϯ ⲁⲛ `ⲛⲡⲁⲓⲥⲁϫⲓ,`ⲙⲧⲟⲛ
+-
+end_1
+
+
+
+
+start_2
+multichoice
+Question,ϣⲓⲛⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ⲟⲩⲟⲛϯ
+I have,ⲟⲩⲟⲛϯ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ϣⲓⲛⲓ
+Yes/No Question Marker,ⲙⲏ,ⲥⲟⲩⲧⲱⲛ,ϯⲕⲁϯ,ⲉⲧⲉ ⲟⲩ
+-
+multichoice
+ⲥⲃⲱ,Teach,A little,Study,Write
+ⲟⲩⲕⲟⲩϫⲓ,A little,Teach,A little,Study
+-
+sentence
+translate,I have a question,ⲟⲩⲟⲛϯ ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Is this correct?,ⲙⲏ ⲡⲁⲓ ⲡⲉ ⲥⲟⲩⲧⲱⲛ,ⲙⲏ,ⲡⲁⲓ,ⲡⲉ,ⲥⲟⲩⲧⲱⲛ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Could you(m) teach me?,ⲙⲏ `ⲕⲥⲃⲱ `ⲉⲣⲟⲓ,ⲙⲏ,ⲕⲥⲃⲱ,`ⲙⲙⲟⲓ
+translate,I can teach you(m) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟⲕ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟⲕ
+translate,Could you(f) teach me?,ⲙⲏ ⲧⲉⲥⲃⲱ `ⲉⲣⲟⲓ,ⲙⲏ,ⲕⲥⲃⲱ,`ⲙⲙⲟⲓ,ⲧⲉⲥⲃⲱ,`ⲉⲣⲟⲓ
+translate,I can teach you(f) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟ
+-
+multichoice
+Question,ϣⲓⲛⲓ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ⲟⲩⲟⲛϯ
+I have,ⲟⲩⲟⲛϯ,ϯⲕⲁϯ,ϯⲥⲁϫⲓ,ϣⲓⲛⲓ
+Yes/No Question Marker,ⲙⲏ,ⲥⲟⲩⲧⲱⲛ,ϯⲕⲁϯ,ⲉⲧⲉ ⲟⲩ
+-
+multichoice
+ⲥⲃⲱ,Teach,A little,Study,Write
+ⲟⲩⲕⲟⲩϫⲓ,A little,Teach,A little,Study
+-
+sentence
+translate,I have a question,ⲟⲩⲟⲛϯ ϣⲓⲛⲓ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Is this correct?,ⲙⲏ ⲡⲁⲓ ⲡⲉ ⲥⲟⲩⲧⲱⲛ,ⲙⲏ,ⲡⲁⲓ,ⲡⲉ,ⲥⲟⲩⲧⲱⲛ,ⲟⲩⲟⲛϯ,ϣⲓⲛⲓ,ϯⲥⲁϫⲓ,`ⲛϯⲁⲥⲡⲓ
+translate,Could you(m) teach me?,ⲙⲏ `ⲕⲥⲃⲱ `ⲉⲣⲟⲓ,ⲙⲏ,ⲕⲥⲃⲱ,`ⲙⲙⲟⲓ
+translate,I can teach you(m) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟⲕ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟⲕ
+translate,Could you(f) teach me?,ⲙⲏ ⲧⲉⲥⲃⲱ `ⲉⲣⲟⲓ,ⲙⲏ,ⲕⲥⲃⲱ,`ⲙⲙⲟⲓ,ⲧⲉⲥⲃⲱ,`ⲉⲣⲟⲓ
+translate,I can teach you(f) a little,ϯϣⲥⲃⲱ `ⲉⲣⲟ `ⲛⲟⲩⲕⲟⲩϫⲓ,ϯϣⲥⲃⲱ,`ⲙⲙⲟⲕ,`ⲛⲟⲩⲕⲟⲩϫⲓ,`ⲉⲣⲟ
+-
+end_2
+
+
+
+
+
+
+Dictionary
+[ou-kouji] A little:ⲟⲩⲕⲟⲩϫⲓ
+[shini] Question:ϣⲓⲛⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[(di)]I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aihal] I'm going :ϯϩⲏⲗ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Loving/Love - an Egyptian name:ⲙⲉⲓ
+[mina] an Egyptian kings name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ:he
+`ⲛⲑⲟⲥ:she
+ⲁⲛⲟⲛ:we
+ⲁⲛⲟⲕ:i
+`ⲛⲑⲱⲟⲩ:they
+`ⲛⲑⲟⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ:you(f)
+`ⲛⲑⲱⲧⲉⲛ:you(pl)
+ⲙⲁⲓ:mai
+-

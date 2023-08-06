@@ -1,0 +1,127 @@
+© NileLangu 2021
+
+Lesson 1 letters
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣,ⲩ
+
+ⲁⲑⲏ̣ⲣ,ϩⲏⲧ,ⲁⲛⲟⲕ,ⲁⲛⲟⲛ,ⲇⲓⲛⲁ
+ⲓⲱⲃ,ⲇⲁⲩⲓⲇ,ⲥⲏⲙ,
+
+start_x
+audiochoice
+ⲁ,ⲓ,ⲏ
+-
+end_x
+
+
+start_0
+audiochoice
+ⲏ,ⲓ,ϩ
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ̣,ⲥ,ⲏ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+audiochoice
+ⲏ,ⲓ,ϩ
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ̣,ϩ,ⲏ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+end_0
+
+
+start_1
+audiochoice
+ⲁ,ⲓ,ⲏ
+-
+multichoice
+ⲁⲛⲟⲕ,I,Egypt,Cairo,We
+ⲁⲛⲟⲛ,We,Egypt,Cairo,I
+-
+audiochoice
+ⲇ,ⲁ,ϩ
+ⲱ,ⲁ,ⲥ
+-
+multichoice
+ⲇⲓⲛⲁ,Dina,Egypt,Cairo,Ayoub
+ⲓⲱⲃ,Ayoub,Sam,Cairo,Dina
+-
+audiochoice
+ⲩ,ⲇ,ⲁ
+-
+multichoice
+ⲇⲁⲩⲓⲇ,Daoud,Hammer,Cairo,Dina
+-
+audiochoice
+ⲏ,ⲥ,ⲓ
+ⲥ,ⲱ,ϩ
+-
+multichoice
+ⲥⲏⲙ,Sam,Egypt,Hammer,Dina
+ⲁⲑⲏ̣ⲣ,Hammer,Egypt,Cairo,Sam
+-
+multichoice_img
+egy,milk,old_man,hammer,car,mobile,bag,bird,cook,morning
+ⲁⲑⲏ̣ⲣ:hammer
+-
+audiochoice
+ϩ,ϩ,ⲓ,ⲥ
+-
+multichoice_img
+egy,dates,milk,heart,hammer,car,mobile,bag,bird,cook,morning
+ϩⲏⲧ:heart
+-
+multichoice
+ϩⲁⲛ,Some,Egypt,Hammer,Dina
+-
+end_1
+
+
+
+start_2
+audiochoice
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ,ⲥ,ⲓ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+multichoice_img
+egy,dates,milk,old_man,hammer,car,mobile,bag,bird,cook,morning
+ⲁⲑⲏ̣ⲣ:hammer
+ϩⲏⲧ:heart
+-
+multichoice
+ⲁⲛⲟⲕ,I,Egypt,Ayoub,We
+ⲁⲛⲟⲛ,We,Dina,Cairo,I
+ⲇⲓⲛⲁ,Dina,Egypt,Cairo,Ayoub
+ⲓⲱⲃ,Ayoub,Sam,Cairo,Dina
+ⲇⲁⲩⲓⲇ,Daoud,Hammer,Cairo,Dina
+ⲥⲏⲙ,Sam,Egypt,Hammer,Dina
+ⲁⲑⲏ̣ⲣ,Hammer,Heart,Cairo,Sam
+ϩⲏⲧ,Heart,Egypt,Some,Sam
+ϩⲁⲛ,Some,Heart,Hammer,Dina
+-
+end_2
+
+
+Dictionary
+[dawid] a Name:ⲇⲁⲩⲓⲇ
+[dina] a Name:ⲇⲓⲛⲁ
+[iyob] a Name:ⲓⲱⲃ
+[sam] a Name:ⲥⲏⲙ
+[anon] We:ⲁⲛⲟⲛ
+[anok] I:ⲁⲛⲟⲕ
+[ateer] Hammer:ⲁⲑⲏ̣ⲣ
+[hat] Heart:ϩⲏⲧ
+[han] Some:ϩⲁⲛ
+-

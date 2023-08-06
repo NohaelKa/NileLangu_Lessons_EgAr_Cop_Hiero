@@ -1,0 +1,210 @@
+Lesson 13  - Verb to Have 1
+
+The particle `ⲛ (`ⲙ before words beginning with ⲃⲙπⲫⲯ)
+أداة الربط “ن” ، تستخدم “م” قبل الكلمات التب تبدأ بـ
+ⲃⲙπⲫⲯ:
+
+Do you have (with you) a phone charger?
+ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲕ `ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ `ⲙⲙⲟⲩⲃⲁⲓⲗ?
+In your(f) hands:`ⲛⲧⲟϯ
+In your(m) hands:`ⲛⲧⲟⲧⲕ
+In his hands:`ⲛⲧⲟⲧϥ
+In my hands:`ⲛⲧⲟⲧ
+In her hands:`ⲛⲧⲟⲧⲥ
+In their hands:`ⲛⲧⲟⲧⲟⲩ
+In our hands:`ⲛⲧⲟⲧⲉⲛ
+In your(pl) hands:`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ
+They have:ⲟⲩⲟⲛⲧⲟⲩ
+You(pl) have:ⲟⲩⲟⲛⲧⲱⲧⲉⲛ
+My bag:ⲧⲁ‎ⲁⲥⲟⲩⲓ
+Money:ⲟⲩϩⲁⲧ
+a Cat:ⲟⲩϣⲁⲩ
+Money/ Silver: ⲟⲩϩⲁⲧ
+Charger:ⲟⲩ‎ⲣⲉϥⲙⲟϩ
+Wedding: ⲟⲩ‎ϩⲟⲡ (ⲡ)
+Problem: ⲟⲩ‎ϩⲟϫϩⲉϫ
+Coffee:ⲉϩⲩⲁ
+Telephone: ⲧⲉⲗⲓϥⲱⲛ(ⲧ)
+
+`ϣⲧⲟϥ: face mask todo
+
+start_0
+audiochoice
+ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲉ,ⲟⲩⲟⲛⲧⲁⲕ
+ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲉ
+ⲟⲩⲟⲛⲧⲉ,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛϯ
+-
+multichoice
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲁⲕ,`ⲛⲑⲟ,ⲟⲩⲟⲛⲧⲉ
+You(m) have,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲉ,`ⲛⲑⲱⲟⲩ
+You(f) have,ⲟⲩⲟⲛⲧⲉ,ⲁⲛⲟⲕ,ⲁⲛⲟⲛ,ⲟⲩⲟⲛⲧⲁⲕ
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread,car,home,cat,bag
+ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ:car
+ⲡⲏⲓ:home
+ⲟⲩϩⲁⲧ:money
+ⲟⲩϣⲁⲩ:cat
+-
+multichoice
+The charger,ⲡⲓ‎ⲣⲉϥⲙⲟϩ,ⲡⲏⲓ,`ⲉ,ϯⲁⲥⲟⲩⲓ
+The home,ⲡⲏⲓ,`ⲉ,ⲟⲩϩⲁⲧ,ⲟⲩ‎ⲣⲉϥⲙⲟϩ
+The bag,ϯⲁⲥⲟⲩⲓ,ⲟⲩϩⲁⲧ,ⲡⲏⲓ,ⲟⲩ‎ⲣⲉϥⲙⲟϩ
+Question marker,ⲙⲏ,`ⲉ,ⲡⲏⲓ,ⲟⲩϩⲁⲧ
+At / In,`ⲉ,ⲡⲏⲓ,ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ϯⲁⲥⲟⲩⲓ
+-
+sentence
+translate,I own a car,ⲟⲩⲟⲛϯ `ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛϯ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛⲧⲉ,ⲟⲩϩⲁⲧ
+translate,You(f) have a cellphone charger in the car,ⲟⲩⲟⲛⲧⲉ `ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ `ⲙⲙⲟⲩⲃⲁⲓⲗ ϧⲉⲛ ⲡⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛⲧⲉ,`ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ,ϧⲉⲛ,ⲡⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲙⲙⲟⲩⲃⲁⲓⲗ
+translate,You(m) have money,ⲟⲩⲟⲛⲧⲁⲕ `ⲛⲟⲩϩⲁⲧ,ⲟⲩⲟⲛⲧⲁⲕ,`ⲛⲟⲩϩⲁⲧ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲟⲛⲧⲉ,`ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ
+translate,Do you(m) own a cat?,ⲙⲏ ⲟⲩⲟⲛⲧⲁⲕ `ⲛⲟⲩϣⲁⲩ,ⲙⲏ,ⲟⲩⲟⲛⲧⲁⲕ,`ⲛⲟⲩϣⲁⲩ,ϧⲉⲛ,ⲡⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛⲧⲉ
+-
+multichoice
+I have with me,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ,ⲟⲩϣⲁⲩ,ⲟⲩ‎ⲣⲉϥⲙⲟϩ,ⲟⲩⲟⲛ `ⲛⲧⲟϯ
+You(m) have with you,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲕ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ,ⲟⲩϣⲁⲩ,ⲟⲩⲟⲛ `ⲛⲧⲟϯ
+You(f) have with you,ⲟⲩⲟⲛ `ⲛⲧⲟϯ,ⲡⲏⲓ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ,ⲟⲩϩⲁⲧ
+-
+sentence
+translate,I have a car with me,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ `ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲛⲟⲩϩⲁⲧ,`ⲛⲧⲟⲧⲕ
+translate,Do you(m) have a car with you?,ⲙⲏ ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲕ `ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧⲕ,`ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ,`ⲙⲙⲟⲩⲃⲁⲓⲗ,`ⲛⲧⲟϯ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲙⲏ
+translate,Do you(f) have a cellphone charger with you?,ⲙⲏ ⲟⲩⲟⲛ `ⲛⲧⲟϯ `ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ `ⲙⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧⲕ,`ⲛⲟⲩ‎ⲣⲉϥⲙⲟϩ,`ⲙⲙⲟⲩⲃⲁⲓⲗ,`ⲛⲧⲟϯ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲙⲏ
+translate,I have with me money in my bag,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ `ⲛⲟⲩϩⲁⲧ ϧⲉⲛ ⲧⲁ‎ⲁⲥⲟⲩⲓ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧ,`ⲛⲟⲩϩⲁⲧ,ϧⲉⲛ,ⲧⲁ‎ⲁⲥⲟⲩⲓ,`ⲙⲙⲟⲩⲃⲁⲓⲗ
+-
+end_0
+
+
+
+start_1
+multichoice
+He has,ⲟⲩⲟⲛⲧⲁϥ,`ⲛⲑⲟⲕ,ⲟⲩⲟⲛⲧⲁⲥ,`ⲛⲑⲟⲥ
+She has,ⲟⲩⲟⲛⲧⲁⲥ,ⲁⲛⲟⲛ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ
+We have,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ,ⲁⲛⲟⲛ,`ⲛⲑⲱⲧⲉⲛ
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread,car,home,cat,coffee,tea,bag
+ⲟⲩ‎ϣⲏⲓ:tea
+ⲟⲩ‎ⲉϩⲩⲁ:coffee
+ⲟⲩⲉⲣϫ:chicken
+ⲟⲩⲁϥ:meat
+ⲟⲩⲥⲟⲕ:bag
+-
+multichoice
+The Problem,ⲡⲓ‎ϩⲟϫϩⲉϫ,ⲟⲩⲟⲛ,ⲟⲩⲉⲣϫ,ⲡⲓ‎ϩⲟⲡ
+The Wedding,ⲡⲓ‎ϩⲟⲡ,ⲟⲩⲟϩ,ⲟⲩⲁϥ,ⲡⲓⲥⲟⲕ
+The Telephone,ϯⲧⲉⲗⲓϥⲱⲛ,ⲟⲩ‎ϩⲟⲡ,ⲟⲩⲁϥ,ⲟⲩⲟⲛ
+The Bag,ⲡⲓⲥⲟⲕ,ⲡⲓ‎ϩⲟⲡ,ⲟⲩⲁϥ,ⲟⲩⲟⲛ
+-
+sentence
+translate,We have chicken and meat,ⲟⲩⲟⲛⲧⲉⲛ ⲟⲩⲉⲣϫ ⲟⲩⲟϩ ⲟⲩⲁϥ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲉⲣϫ,ⲟⲩⲟϩ,ⲟⲩⲁϥ,ⲟⲩⲟⲛⲧⲁϥ,ⲟⲩ‎ϩⲟϫϩⲉϫ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩ‎ϩⲟⲡ
+translate,We have tea and coffee,ⲟⲩⲟⲛⲧⲉⲛ ⲟⲩ‎ϣⲏⲓ ⲟⲩⲟϩ ⲟⲩ‎ⲉϩⲩⲁ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲉⲣϫ,ⲟⲩⲟϩ,ⲟⲩⲁϥ,ⲟⲩⲟⲛⲧⲁϥ,ⲟⲩ‎ϩⲟϫϩⲉϫ,ⲟⲩ‎ⲉϩⲩⲁ
+translate,He has a problem,ⲟⲩⲟⲛⲧⲁϥ ⲟⲩ‎ϩⲟϫϩⲉϫ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲉⲣϫ,ⲟⲩⲟϩ,ⲟⲩⲁϥ,ⲟⲩⲟⲛⲧⲁϥ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩ‎ϩⲟⲡ
+translate,She has a wedding,ⲟⲩⲟⲛⲧⲁⲥ ⲟⲩ‎ϩⲟⲡ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲉⲣϫ,ⲟⲩⲟϩ,ⲟⲩⲁϥ,ⲟⲩⲟⲛⲧⲁϥ,ⲟⲩ‎ϩⲟϫϩⲉϫ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩ‎ϩⲟⲡ
+-
+multichoice
+He has with him,ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲥ,ⲟⲩⲟⲛⲧⲁⲥ,`ⲛⲑⲟⲥ
+She has with her,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲥ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲉⲛ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ
+We have with us,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ,`ⲛⲑⲱⲧⲉⲛ
+-
+sentence
+translate,We have money with us,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲉⲛ ⲟⲩϩⲁⲧ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧⲉⲛ,ⲟⲩϩⲁⲧ,`ⲉϯⲧⲉⲗⲓϥⲱⲛ
+translate,I'm with him on the phone,ⲁⲛⲟⲕ ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ `ⲉϯⲧⲉⲗⲓϥⲱⲛ,ⲁⲛⲟⲕ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧϥ,`ⲉϯⲧⲉⲗⲓϥⲱⲛ
+translate,He has his cellphone with him,ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ ⲡⲉϥ‎ⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧϥ,ⲡⲉϥ‎ⲙⲟⲩⲃⲁⲓⲗ
+translate,She has her charger with her,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲥ ⲡⲉⲥ‎ⲣⲉϥⲙⲟϩ `ⲙⲙⲟⲩⲃⲁⲓⲗ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧⲥ,`ⲙⲙⲟⲩⲃⲁⲓⲗ
+-
+sentence
+translate,I own a bag,ⲟⲩⲟⲛϯ `ⲛⲟⲩ‎ⲥⲟⲕ,ⲟⲩⲟⲛϯ,`ⲛⲟⲩ‎ⲥⲟⲕ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ
+translate,I have a car with me,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ `ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲛⲟⲩ‎ⲥⲟⲕ
+translate,You(m) have a car at home,ⲟⲩⲟⲛⲧⲁⲕ `ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ `ⲉⲡⲏⲓ,ⲟⲩⲟⲛⲧⲁⲕ,`ⲙⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲉⲡⲏⲓ
+translate,I have with me a charger in the bag,ⲟⲩⲟⲛ `ⲛⲧⲟⲧ ⲟⲩ‎ⲣⲉϥⲙⲟϩ `ⲙⲙⲟⲩⲃⲁⲓⲗ ϧⲉⲛ ⲡⲓⲥⲟⲕ,ⲟⲩⲟⲛ,`ⲛⲧⲟⲧ,ⲟⲩ‎ⲣⲉϥⲙⲟϩ,`ⲙⲙⲟⲩⲃⲁⲓⲗ,ϧⲉⲛ,ⲡⲓⲥⲟⲕ
+-
+end_1
+
+
+start_2
+multichoice
+They have,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟⲛⲧⲱⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩⲟⲛⲧⲁϥ
+You (pl) have,ⲟⲩⲟⲛⲧⲱⲧⲉⲛ,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread,car,home,cat,coffee,tea
+ⲟⲩ‎ϣⲏⲓ:tea
+ⲟⲩ‎ⲉϩⲩⲁ:coffee
+-
+multichoice
+Playing cards,ⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩ‎ⲉϩⲩⲁ,ⲟⲩ‎ϣⲏⲓ
+-
+multichoice
+They have,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟⲛⲧⲱⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩⲟⲛⲧⲁϥ
+You (pl) have,ⲟⲩⲟⲛⲧⲱⲧⲉⲛ,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲟⲛⲧⲁϥ
+-
+sentence
+translate,Do you(pl) have tea?,ⲙⲏ ⲟⲩⲟⲛⲧⲱⲧⲉⲛ `ⲛⲟⲩ‎ϣⲏⲓ,ⲙⲏ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟϩ,ⲟⲩ‎ⲉϩⲩⲁ
+translate,They have tea and coffee,ⲟⲩⲟⲛⲧⲟⲩ `ⲛⲟⲩ‎ϣⲏⲓ ⲟⲩⲟϩ `ⲛⲟⲩ‎ⲉϩⲩⲁ,ⲟⲩⲟⲛⲧⲟⲩ,ⲟⲩⲟϩ,`ⲛⲟⲩ‎ⲉϩⲩⲁ,ⲙⲏ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ
+-
+multichoice
+They have with them,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲟⲩ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲥ,ⲟⲩⲟⲛⲧⲁⲥ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ
+You (pl) have with you,ⲟⲩⲟⲛ `ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲧⲟⲧⲟⲩ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ
+-
+sentence
+translate,Do you(pl) have a car with you?,ⲙⲏ ⲟⲩⲟⲛ `ⲛⲧⲉⲛⲑⲏⲛⲟⲩ `ⲛⲟⲩ‎ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,ⲙⲏ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲟⲩ‎ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲛⲧⲟⲧⲟⲩ,`ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ
+translate,They have playing cards,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲟⲩ `ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ,ⲙⲏ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲟⲩ‎ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ,`ⲛⲧⲟⲧⲟⲩ,`ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ
+-
+multichoice
+They have with them,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲟⲩ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲥ,ⲟⲩⲟⲛⲧⲁⲥ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ
+You (pl) have with you,ⲟⲩⲟⲛ `ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲧⲟⲧⲟⲩ,ⲟⲩⲟⲛⲧⲁⲥ,ⲟⲩⲟⲛ `ⲛⲧⲟⲧϥ
+-
+sentence
+translate,You(pl) have playing cards at home,ⲟⲩⲟⲛⲧⲱⲧⲉⲛ `ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ `ⲉⲡⲏⲓ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ,`ⲉⲡⲏⲓ,`ⲛⲧⲟⲧⲟⲩ,`ⲛⲟⲩϩⲁⲧ
+translate,They have money with them,ⲟⲩⲟⲛ `ⲛⲧⲟⲧⲟⲩ `ⲛⲟⲩϩⲁⲧ,`ⲛⲧⲟⲧⲟⲩ,`ⲛⲟⲩϩⲁⲧ,`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ,`ⲛⲟⲩ‎ⲕⲟϭϣⲏⲛⲁ,`ⲉⲡⲏⲓ
+-
+end_2
+
+
+
+
+
+
+Dictionary
+[endodi] In your(f) hands:`ⲛⲧⲟϯ
+[endodk] In your(m) hands:`ⲛⲧⲟⲧⲕ
+[endodf] In his hands:`ⲛⲧⲟⲧϥ
+[endod] In my hands:`ⲛⲧⲟⲧ
+[endods] In her hands:`ⲛⲧⲟⲧⲥ
+[endodw] In their hands:`ⲛⲧⲟⲧⲟⲩ
+[endodn] In our hands:`ⲛⲧⲟⲧⲉⲛ
+[endentenou] In your(pl) hands:`ⲛⲧⲉⲛⲑⲏⲛⲟⲩ
+[da-asowi] My bag:ⲧⲁ‎ⲁⲥⲟⲩⲓ
+[oushaw] a Cat:ⲟⲩϣⲁⲩ
+[ou-ondou] They have:ⲟⲩⲟⲛⲧⲟⲩ
+[ou-ondan] You(pl) have:ⲟⲩⲟⲛⲧⲱⲧⲉⲛ
+[ou-werechawouts] Car:ⲟⲩⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ
+[ou-hat] Money/ Silver:ⲟⲩϩⲁⲧ
+Charger:ⲟⲩ‎ⲣⲉϥⲙⲟϩ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[(di)]I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aihal] I'm going :ϯϩⲏⲗ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Loving/Love - an Egyptian name:ⲙⲁⲓ
+[mina] an Egyptian kings name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ:he
+`ⲛⲑⲟⲥ:she
+ⲁⲛⲟⲛ:we
+ⲁⲛⲟⲕ:i
+`ⲛⲑⲱⲟⲩ:they
+`ⲛⲑⲟⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ:you(f)
+`ⲛⲑⲱⲧⲉⲛ:you(pl)
+ⲙⲁⲓ:mai
+-

@@ -1,0 +1,85 @@
+Greetings 1
+
+Title
+Listen to the dialog between Nofret and Mina
+
+Dialog
+ⲛⲟϥⲣⲓ ⲙⲏⲛⲁ!
+ⲛⲟϥⲣⲓ ⲛⲟϥⲣⲉⲧ!
+-
+...
+ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ?
+-
+ϯⲟⲩⲟϫ
+...
+-
+ⲟⲩⲟϩ `ⲛⲑⲟⲕ, ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ?
+ⲛⲁⲛⲉϥ
+-
+ⲁϣ ⲡⲉ ⲡⲉⲕϩⲱⲃ?
+...
+-
+...
+ⲡⲁϩⲱⲃ ⲉϥϧⲟⲥⲓ
+-
+ⲟⲩⲟϩ `ⲛⲑⲟ, ⲁϣ ⲡⲉ ⲡⲉϣⲁⲩ?
+ⲡⲁϣⲁⲩ ⲡⲉ ⲛⲁⲛⲉϥ
+-
+end
+
+Todo add these lines
+...
+ⲁϣ ⲧⲉ ⲧⲉⲕⲥⲱⲛⲓ? 
+-
+ⲧⲉⲥⲱⲛⲓ ⲧⲉ ⲛⲁⲛⲉⲥ
+...
+-
+ⲟⲩⲟϩ ⲁϣ ⲡⲉ ⲡⲉⲥⲟⲛ?
+ⲡⲁⲥⲟⲛ ⲡⲉ ⲛⲁⲛⲉϥ
+-
+end
+
+Slideshow
+1_1,1_2,1_2,1_3,1_4,1_5,1_6
+-
+AudioSequence
+1_1,1_2,1_3,1_4,1_5,1_6,1_7
+-
+
+audioTrack
+yes
+-
+
+
+Dictionary
+[bakhob] Your (m) work:ⲡⲉⲕϩⲱⲃ
+[bahob] My work:ⲡⲁϩⲱⲃ
+[afkhosi] It (m) is tiring:ⲉϥϧⲟⲥⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[mina] Mina (Egyptian name):ⲙⲏⲛⲁ
+[nofret] Nofret (Egyptian name):ⲛⲟϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[be] Is/Are:ⲡⲉ
+[diowoj] I'm well, ϯ=I, ⲟⲩⲟϫ=healthy:ϯⲟⲩⲟϫ
+[bakredi] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition:ⲡⲉⲕⲣⲏϯ
+[baredi] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nanef] Good/Well:ⲛⲁⲛⲉϥ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You (m):`ⲛⲑⲟⲕ
+[(in)(t'h)o] You (f):`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[redi] Condition/Status:ⲣⲏϯ
+[be-shaw] Your (f) cat (m):ⲡⲉϣⲁⲩ
+[ba-shaw] My cat (m):ⲡⲁϣⲁⲩ
+-
+
+Extra Explanation (Boharic)
+ⲁϣ: what
+ⲡⲉ: a copula (note that it's not a verb)
+ⲡⲉ+word: Your (To a female, with masc noun)
+ⲡⲉⲕ+word: Your (To a male, with masc noun)
+ⲫ: masculine definite article (i.e. 'the') which comes before the following letters: ⲃ, ⲓ, ⲗ, ⲙ, ⲛ, ⲟ, and ⲣ. Otherwise we use 'ⲡ'. Note that there's also 'ⲡⲓ' which is more general and less specific.
+ⲣⲏϯ: condition/status (حالة)
+ⲙ: possession marker that comes before ⲡ, ⲫ, ⲃ, ⲙ and ⲯ (otherwise we use ⲛ). Like 'of' in English or 'de' in Spanish, it relates ⲣⲏϯ to ⲡⲉⲕⲉϩⲟⲟⲩ i.e. the status 'of' your day.
+ⲡⲉⲕ: masculine 2nd person (i.e. masculine you) possessive adjective for a masculine object
+ⲉϩⲟⲟⲩ: day/يوم/نهار (a masculine word)

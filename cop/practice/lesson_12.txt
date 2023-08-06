@@ -1,0 +1,140 @@
+Lesson 12
+Definite articles and Possession 1
+My, Your (m), Your (f), His, Hers
+
+
+start_0
+multichoice
+The (plural),ⲛⲓ,ⲡⲁ,ⲧⲉ,ⲛⲁ
+-
+multichoice
+The Friends,ⲛⲓ‎ϣⲫⲏⲣ,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲙⲉⲧⲓⲱⲧ
+The Family,ⲛⲓ‎ⲙⲉⲧⲓⲱⲧ,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲛⲓ‎ϣⲫⲏⲣ
+-
+multichoice
+The Brother,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲛⲓ‎ϣⲫⲏⲣ,ⲙⲉⲧⲓⲱⲧ
+The Sister,ϯ‎ⲥⲱⲛⲓ,ⲙⲉⲧⲓⲱⲧ,ⲛⲓ‎ϣⲫⲏⲣ,ⲡⲓ‎ⲥⲟⲛ
+-
+multichoice
+My (masc obj),ⲡⲁ,ⲧⲉ,ⲛⲁ,`ⲛⲑⲱⲟⲩ
+-
+multichoice
+My (masc obj),ⲡⲁ,ⲧⲉ,ⲛⲁ,`ⲛⲑⲱⲟⲩ
+My (fem obj),ⲧⲉ,ⲡⲁ,ϯ‎ⲥⲱⲛⲓ,ⲛⲁ
+My (pl obj),ⲛⲁ,ⲡⲁ,ⲧⲉ,ⲛⲁ‎ϣⲫⲏⲣ
+-
+multichoice
+My Brother,ⲡⲁ‎ⲥⲟⲛ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ
+My Sister,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲡⲁ‎ⲥⲟⲛ
+My Friends,ⲛⲁ‎ϣⲫⲏⲣ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲡⲁ‎ⲥⲟⲛ
+My Family,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲛⲁ‎ϣⲫⲏⲣ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲡⲁ‎ⲥⲟⲛ
+-
+multichoice
+Your(m) (masc obj),ⲡⲉⲕ,ⲧⲉ,ⲛⲁ,ⲡⲁ
+Your(m) (fem obj),ⲧⲉⲕ,ⲡⲁ,ⲧⲉ,ⲛⲁ
+Your(m) (pl obj),ⲛⲉⲕ,ⲡⲁ,ⲧⲉ,ⲛⲁ
+-
+multichoice
+Your(m) Brother,ⲡⲉⲕ‎ⲥⲟⲛ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲧⲉⲕ‎ⲥⲱⲛⲓ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ
+Your(m) Sister,ⲧⲉⲕ‎ⲥⲱⲛⲓ,ⲛⲁ‎ϣⲫⲏⲣ,ⲡⲉⲕ‎ⲥⲟⲛ,ⲡⲁ‎ⲥⲟⲛ
+Your(m) Friends,ⲛⲉⲕ‎ϣⲫⲏⲣ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲛⲉⲕ‎ⲙⲉⲧⲓⲱⲧ
+Your(m) Family,ⲛⲉⲕ‎ⲙⲉⲧⲓⲱⲧ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲉⲕ‎ϣⲫⲏⲣ,ⲡⲁ‎ⲥⲟⲛ
+-
+end_0
+
+
+start_1
+multichoice
+The Father,ⲡⲓ‎ⲓⲱⲧ,ϯ‎ⲥⲱⲛⲓ,ⲛⲓ‎ϣⲫⲏⲣ,ϯ‎ⲙⲁⲩ
+The Mother,ϯ‎ⲙⲁⲩ,ⲙⲉⲧⲓⲱⲧ,ⲡⲓ‎ⲓⲱⲧ,ⲡⲓ‎ⲥⲟⲛ
+The Friends,ⲛⲓ‎ϣⲫⲏⲣ,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲙⲉⲧⲓⲱⲧ
+The Family,ⲙⲉⲧⲓⲱⲧ,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲛⲓ‎ϣⲫⲏⲣ
+-
+multichoice
+Your(f) (masc obj),ⲡⲉ,ⲧⲉ,ⲛⲁ,ⲡⲉⲕ
+Your(f) (fem obj),ⲧⲉ,ⲡⲁ,ⲧⲉⲕ,ⲛⲁ
+Your(f) (pl obj),ⲛⲉ,ⲡⲁ,ⲧⲉ,ⲛⲉⲕ
+-
+multichoice
+Your(f) Father,ⲡⲉ‎ⲓⲱⲧ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ
+Your(f) Sister,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲡⲁ‎ⲥⲟⲛ
+Your(f) Friends,ⲛⲉ‎ϣⲫⲏⲣ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ,ⲡⲁ‎ⲥⲟⲛ
+-
+multichoice
+His (masc obj),ⲡⲉϥ,ⲧⲉ,ⲛⲁ,ⲡⲉⲕ
+His (fem obj),ⲧⲉϥ,ⲡⲁ,ⲧⲉ,ⲧⲉⲕ
+His (pl obj),ⲛⲉϥ,ⲡⲁ,ⲛⲉⲕ,ⲛⲁ
+-
+multichoice
+His Brother,ⲡⲉϥ‎ⲥⲟⲛ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲧⲉⲕ‎ⲥⲱⲛⲓ,ⲛⲁ‎ⲙⲉⲧⲓⲱⲧ
+His Mother,ⲧⲉϥ‎ⲙⲁⲩ,ⲛⲁ‎ϣⲫⲏⲣ,ⲡⲉⲕ‎ⲥⲟⲛ,ⲡⲁ‎ⲥⲟⲛ
+His Family,ⲛⲉϥ‎ⲙⲉⲧⲓⲱⲧ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲉⲕ‎ϣⲫⲏⲣ,ⲡⲁ‎ⲥⲟⲛ
+-
+end_1
+
+
+
+
+start_2
+multichoice
+The Colleagues,ⲛⲓ‎ϣⲫⲏⲣ,`ⲛⲉⲣϩⲱⲃ,ϯ‎ⲥⲱⲛⲓ,ⲡⲓ‎ⲓⲱⲧ
+The Son,ⲡⲓ‎ϣⲏⲣⲓ,ⲙⲉⲧⲓⲱⲧ,ⲡⲓ‎ⲓⲱⲧ,ⲡⲓ‎ⲥⲟⲛ
+The Daughter,ϯ‎ϣⲉⲣⲓ,ⲡⲓ‎ⲥⲟⲛ,ϯ‎ⲥⲱⲛⲓ,ⲙⲉⲧⲓⲱⲧ
+-
+multichoice
+Her (masc obj),ⲡⲉⲥ,ⲡⲉϥ,ⲛⲁ,ⲡⲉⲕ
+Her (fem obj),ⲧⲉⲥ,ⲧⲉϥ,ⲧⲉ,ⲧⲉⲕ
+Her (pl obj),ⲛⲉⲥ,ⲛⲉϥ,ⲛⲉⲕ,ⲛⲁ
+-
+multichoice
+Her Son,ⲡⲉⲥ‎ϣⲏⲣⲓ,ⲧⲉ‎ⲥⲱⲛⲓ,ⲧⲉⲕ‎ⲥⲱⲛⲓ,ⲛⲉⲥ‎ϣⲫⲏⲣ
+Her Daughter,ⲧⲉⲥ‎ϣⲉⲣⲓ,ⲡⲉⲥ‎ϣⲏⲣⲓ,ⲡⲉⲕ‎ⲥⲟⲛ,ⲡⲁ‎ⲥⲟⲛ
+Her Colleagues,ⲛⲉⲥ‎ϣⲫⲏⲣ,ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲉⲕ‎ϣⲫⲏⲣ,ⲡⲉⲥ‎ϣⲏⲣⲓ
+-
+sentence
+translate,ⲛⲓⲙ ⲡⲉ ⲫⲁⲓ?,ⲑⲁⲓ ⲧⲉ ⲧⲉⲥϣⲉⲣⲓ,Who is(m) this(m),Who,is(m),this(m)
+translate,ⲛⲓⲙ ⲧⲉ ⲑⲁⲓ?,ⲑⲁⲓ ⲧⲉ ⲧⲉⲥϣⲉⲣⲓ,Who is(f) this(f),Who,is(f),this(f)
+-
+sentence
+translate,This is her daughter,ⲑⲁⲓ ⲧⲉ ⲧⲉⲥ‎ϣⲉⲣⲓ,ⲑⲁⲓ,ⲧⲉ,ⲧⲉⲥ‎ϣⲉⲣⲓ,ⲧⲉ‎ⲥⲱⲛⲓ,ϯ‎ϣⲉⲣⲓ
+translate,This is his mother,ⲑⲁⲓ ⲧⲉ ⲧⲉϥ‎ⲙⲁⲩ,ⲑⲁⲓ,ⲧⲉ
+translate,These are your(m) family,ⲛⲁⲓ ⲛⲉ ⲛⲉⲕ‎ⲙⲉⲧⲓⲱⲧ,ⲛⲁⲓ,ⲛⲉ,ⲛⲉⲕ‎ⲙⲉⲧⲓⲱⲧ
+translate,This is your(f) father,ⲫⲁⲓ ⲡⲉ ⲡⲉ‎ⲓⲱⲧ,ⲫⲁⲓ,ⲡⲉ,ⲡⲉ‎ⲓⲱⲧ
+translate,These are my friends,ⲛⲁⲓ ⲛⲉ ⲛⲁ‎ϣⲫⲏⲣ,ⲛⲁⲓ,ⲛⲉ,ⲛⲁ‎ϣⲫⲏⲣ
+-
+end_2
+
+
+
+
+
+
+Dictionary
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[(di)]I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aihal] I'm going :ϯϩⲏⲗ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Loving/Love - an Egyptian name:ⲙⲁⲓ
+[mina] an Egyptian kings name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ:he
+`ⲛⲑⲟⲥ:she
+ⲁⲛⲟⲛ:we
+ⲁⲛⲟⲕ:i
+`ⲛⲑⲱⲟⲩ:they
+`ⲛⲑⲟⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ:you(f)
+`ⲛⲑⲱⲧⲉⲛ:you(pl)
+ⲙⲁⲓ:mai
+-

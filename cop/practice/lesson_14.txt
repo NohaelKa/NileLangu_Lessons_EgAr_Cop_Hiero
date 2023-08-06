@@ -1,0 +1,182 @@
+
+Lesson Number 14 Foods we have
+
+
+The particle `ⲛ (`ⲙ before words beginning with ⲃⲙπⲫⲯ)
+أداة الربط “ن” ، تستخدم “م” قبل الكلمات التب تبدأ بـ
+ⲃⲙπⲫⲯ:
+
+ⲁϥ:meat ⲥⲱⲟⲩϩⲓ:eggs, ⲱⲓⲕ:bread, ⲉⲣϫ:chicken, ⲁϩⲁ, ⲥⲉ, `ⲙⲙⲟⲛ, `ⲙⲙⲟⲛⲧⲉⲛ, `ⲙⲙⲟⲛϯ
+ⲟⲩ‎ⲁϥ, ⲟⲩ‎ⲥⲱⲟⲩϩⲓ, ⲟⲩ‎ⲱⲓⲕ, ⲟⲩ‎ⲉⲣϫ,
+ϩⲁⲛⲁϥ, ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ, ϩⲁⲛⲱⲓⲕ, ϩⲁⲛⲉⲣϫ,
+ⲟⲩⲟⲛⲧⲉⲛ,`ⲙⲙⲟⲛⲧⲉⲛ, ⲁⲗⲱⲙ, ⲁⲗⲱⲙ, ⲉⲣⲱϯ, ⲙⲟⲩ
+ⲟⲩⲟⲛⲧⲁⲕ, ⲟⲩⲟⲛⲧⲉ,ⲟⲩⲟⲛⲧⲁⲕ, ⲟⲩⲟⲛⲧⲉ,`ⲙⲙⲟⲛⲧⲁⲕ,`ⲙⲙⲟⲛⲧⲉ
+
+
+start_0
+multichoice_img
+cheese,milk,car,mobile,bag,eggs,bread,meat,chicken
+ⲟⲩ‎ⲁϥ:meat
+ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ:eggs
+ⲟⲩ‎ⲱⲓⲕ:bread
+ⲟⲩ‎ⲉⲣϫ:chicken
+-
+multichoice
+A piece of meat,ⲟⲩ‎ⲁϥ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,`ⲛⲫⲁⲓ,ⲟⲩ‎ⲱⲓⲕ
+An egg,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲁϥ,ⲡⲓ,ⲟⲩ‎ⲉⲣϫ
+A piece of bread,ⲟⲩ‎ⲱⲓⲕ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲡⲓ,ⲟⲩ‎ⲉⲣϫ
+One chicken,ⲟⲩ‎ⲉⲣϫ,ⲟⲩ‎ⲁϥ,ⲡⲓ,ⲟⲩ‎ⲱⲓⲕ
+-
+multichoice
+There is,ⲟⲩⲟⲛ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲁⲛⲟⲕ
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲟⲩⲟⲛ
+-
+sentence
+translate,There is meat,ⲟⲩⲟⲛ ⲟⲩ‎ⲁϥ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ⲁⲛⲟⲕ,ⲟⲩ‎ⲁϥ,ⲟⲩⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲁϣ,ⲧⲉ,ⲟⲩⲟⲛ
+translate,There isn't an egg,`ⲙⲙⲟⲛ ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ϯⲟⲩⲱϣ,ⲟⲩⲁⲥⲟⲩⲓ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲧⲉ,ⲛⲟϥⲣⲉⲧ,`ⲙⲙⲟⲛ,ⲟⲩⲟⲛ,ⲡⲉ
+-
+multichoice
+There isn't,`ⲙⲙⲟⲛ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+I don't have,`ⲙⲙⲟⲛϯ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+-
+sentence
+translate,I have a chicken,ⲟⲩⲟⲛϯ ⲟⲩ‎ⲉⲣϫ,ϯⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩ‎ⲉⲣϫ,ϯⲟⲩⲟϫ,ⲡⲉ,ⲙⲁⲓ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+translate,I don't have a piece of bread,`ⲙⲙⲟⲛϯ ⲟⲩ‎ⲱⲓⲕ,ⲟⲩⲟⲛϯ,ⲟⲩ‎ⲱⲓⲕ,ⲛⲟϥⲣⲓ,`ⲙⲙⲟⲛϯ,ⲡⲉ,`ⲛⲟⲩ‎ⲱⲓⲕ,ⲙⲉⲣⲉⲛ
+-
+multichoice
+The meat,ⲡⲓ‎ⲁϥ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,`ⲛⲫⲁⲓ,ⲟⲩ‎ⲱⲓⲕ
+The egg,ⲡⲓ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲁϥ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲉⲣϫ
+The bread,ⲡⲓ‎ⲱⲓⲕ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲡⲓ,ⲟⲩ‎ⲉⲣϫ
+The chicken,ϯⲉⲣϫ,ⲟⲩ‎ⲁϥ,ⲡⲓ,ⲟⲩ‎ⲱⲓⲕ
+-
+end_0
+
+
+
+
+start_1
+multichoice_img
+cheese,milk,car,mobile,bag,eggs,bread,meat,chicken
+ⲟⲩ‎ⲁϥ:meat
+ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ:eggs
+ⲟⲩ‎ⲱⲓⲕ:bread
+ⲟⲩ‎ⲉⲣϫ:chicken
+-
+multichoice
+Some meat,ϩⲁⲛⲁϥ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲱⲓⲕ
+Eggs,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲁϥ,ϩⲁⲛⲉⲣϫ,ⲟⲩ‎ⲉⲣϫ
+Some bread,ϩⲁⲛⲱⲓⲕ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ϩⲁⲛⲁϥ,ⲟⲩ‎ⲉⲣϫ
+Some chicken,ϩⲁⲛⲉⲣϫ,ⲟⲩ‎ⲁϥ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲱⲓⲕ
+-
+multichoice
+There is,ⲟⲩⲟⲛ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲁⲛⲟⲕ
+I have,ⲟⲩⲟⲛϯ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲟⲩⲟⲛ
+-
+sentence
+translate,There is some bread,ⲟⲩⲟⲛ ϩⲁⲛⲱⲓⲕ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ϩⲁⲛⲱⲓⲕ,`ⲛⲟⲩ‎ⲁϥ,`ⲙⲟⲩⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ,ⲁϣ,ⲧⲉ,ⲟⲩⲟⲛ
+translate,There isn't some chicken,`ⲙⲙⲟⲛ ϩⲁⲛⲉⲣϫ,ϯⲟⲩⲱϣ,`ⲛⲟⲩⲁⲥⲟⲩⲓ,`ⲛⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ϩⲁⲛⲉⲣϫ,ⲛⲟϥⲣⲉⲧ,`ⲙⲙⲟⲛ,ⲟⲩⲟⲛ,ⲡⲉ
+-
+multichoice
+There isn't,`ⲙⲙⲟⲛ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+I don't have,`ⲙⲙⲟⲛϯ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+-
+sentence
+translate,I have some eggs,ⲟⲩⲟⲛϯ ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ϯⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,`ⲛⲟⲩ‎ⲉⲣϫ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲡⲉ,ⲙⲁⲓ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+translate,I don't have some bread,`ⲙⲙⲟⲛϯ ϩⲁⲛⲁϥ,ⲟⲩⲟⲛϯ,ϩⲁⲛⲁϥ,ⲛⲟϥⲣⲓ,`ⲙⲙⲟⲛϯ,ⲡⲉ,`ⲛⲟⲩ‎ⲱⲓⲕ,ⲙⲉⲣⲉⲛ
+-
+multichoice
+We don't have,`ⲙⲙⲟⲛⲧⲉⲛ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+We have,ⲟⲩⲟⲛⲧⲉⲛ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲁⲛⲟⲕ
+-
+sentence
+translate,We have some meat,ⲟⲩⲟⲛⲧⲉⲛ ϩⲁⲛⲁϥ,ⲟⲩⲟⲛϯ,ϩⲁⲛⲁϥ,ⲟⲩⲟⲛⲧⲉⲛ,`ⲙⲙⲟⲛϯ,ⲡⲉ,`ⲛⲟⲩ‎ⲱⲓⲕ,ⲙⲉⲣⲉⲛ
+translate,We don't have some eggs,`ⲙⲙⲟⲛⲧⲉⲛ ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ϯⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,`ⲛⲟⲩ‎ⲉⲣϫ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲡⲉ,`ⲙⲙⲟⲛⲧⲉⲛ,`ⲛⲟⲩⲁⲥⲟⲩⲓ
+-
+end_1
+
+
+start_2
+multichoice_img
+cheese,milk,car,mobile,bag,eggs,bread,meat,chicken,water
+ⲟⲩ‎ⲁⲗⲱⲙ:cheese
+ⲟⲩ‎ⲉⲣⲱϯ:milk
+ⲟⲩ‎ⲙⲱⲟⲩ:water
+-
+multichoice
+Cake,ⲟⲩ‎ⲕⲏⲕ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲉⲣⲱϯ,ⲟⲩ‎ⲱⲓⲕ
+A water,ⲟⲩ‎ⲙⲱⲟⲩ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲉⲣⲱϯ,ⲟⲩ‎ⲱⲓⲕ
+A piece of cheese,ⲟⲩ‎ⲁⲗⲱⲙ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲉⲣⲱϯ,ⲟⲩ‎ⲱⲓⲕ
+Milk,ⲟⲩ‎ⲉⲣⲱϯ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲁⲗⲱⲙ,ⲟⲩ‎ⲱⲓⲕ
+-
+multichoice
+You (m) have,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲁⲛⲟⲕ
+You (f) have,ⲟⲩⲟⲛⲧⲉ,ⲟⲩⲱϣ,ⲛⲁⲛⲉ,ⲟⲩⲟⲛ
+-
+sentence
+translate,You (m) have water,ⲟⲩⲟⲛⲧⲁⲕ ⲟⲩ‎ⲙⲱⲟⲩ,ⲟⲩⲟⲛⲧⲁⲕ,ⲟⲩ‎ⲙⲱⲟⲩ,ϯⲟⲩⲱϣ,`ⲙⲫⲁⲓ,ϩⲁⲛⲱⲓⲕ,`ⲛⲟⲩ‎ⲁϥ,`ⲙⲟⲩⲙⲟⲩⲃⲁⲓⲗ,ϯⲟⲩⲟϫ
+translate,You (f) have some cheese,ⲟⲩⲟⲛⲧⲉ ϩⲁⲛⲁⲗⲱⲙ,ⲟⲩⲟⲛⲧⲉ,ϩⲁⲛⲉⲣϫ,`ⲛⲟⲩⲁⲥⲟⲩⲓ,`ⲛⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ϩⲁⲛⲉⲣϫ,ⲛⲟϥⲣⲉⲧ,`ⲙⲙⲟⲛ,ⲟⲩⲟⲛ,ⲡⲉ
+-
+multichoice
+You (m) don't have,`ⲙⲙⲟⲛⲧⲁⲕ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+You (f) don't have,`ⲙⲙⲟⲛⲧⲉ,ⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,ⲟⲩⲟⲛ
+-
+sentence
+translate,You (m) don't have milk,`ⲙⲙⲟⲛⲧⲁⲕ ⲟⲩ‎ⲉⲣⲱϯ,ϯⲟⲩⲱϣ,ⲟⲩⲟⲛϯ,`ⲛⲟⲩ‎ⲉⲣϫ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,`ⲙⲙⲟⲛⲧⲁⲕ,ⲟⲩ‎ⲉⲣⲱϯ
+translate,You (f) don't have some water,`ⲙⲙⲟⲛⲧⲉ ϩⲁⲛⲙⲱⲟⲩ,ⲟⲩⲟⲛϯ,ϩⲁⲛⲁϥ,`ⲙⲙⲟⲛⲧⲉ,ϩⲁⲛⲙⲱⲟⲩ,`ⲙⲙⲟⲛϯ,ⲡⲉ,`ⲛⲟⲩ‎ⲱⲓⲕ,ⲙⲉⲣⲉⲛ
+-
+multichoice
+Cake,ⲟⲩ‎ⲕⲏⲕ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲉⲣⲱϯ,ⲟⲩ‎ⲱⲓⲕ
+The cheese,ⲡⲓ‎ⲁⲗⲱⲙ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,`ⲛⲫⲁⲓ,ⲟⲩ‎ⲱⲓⲕ
+The milk,ⲡⲓ‎ⲉⲣⲱϯ,ⲟⲩ‎ⲁϥ,ϩⲁⲛ‎ⲥⲱⲟⲩϩⲓ,ⲟⲩ‎ⲉⲣϫ
+The water,ⲡⲓ‎ⲙⲱⲟⲩ,ⲟⲩ‎ⲥⲱⲟⲩϩⲓ,ⲡⲓ‎ⲉⲣⲱϯ,ⲟⲩ‎ⲉⲣϫ
+-
+end_2
+
+
+
+
+
+
+Dictionary
+Meat:ⲟⲩⲁϥ
+Eggs:ϩⲁⲛⲥⲱⲟⲩϩⲓ
+Bread:ⲟⲩⲱⲓⲕ
+Chicken:ⲟⲩⲉⲣϫ
+Cheese:ⲟⲩⲁⲗⲱⲙ
+Milk:ⲟⲩⲉⲣⲱϯ
+Water:ⲟⲩⲙⲱⲟⲩ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[meren] Meren (an Egyptian Male name):ⲙⲉⲣⲉⲛ
+[nofret] Nofret (an Egyptian Female name):ⲛⲟϥⲣⲉⲧ
+[mohamed] Mohamed (an Arabic name):ⲙⲟϩⲁⲙⲉⲇ
+[mai] Mai (a name):ⲙⲁⲓ
+[ash] What:ⲁϣ
+[ba] (A copula):ⲡⲉ
+[(di)(Kh)en] I (am) in:ϯϧⲉⲛ
+[ou-(ee)-r] How much:ⲟ̣ⲩⲏⲣ
+[owoj] Healthy:ⲟⲩⲟϫ
+[bakra(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition :ⲡⲉⲕⲣⲏϯ
+[bara(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nana] Good/Well:ⲛⲁⲛⲉ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[ahoow] day (masc.):ⲉϩⲟⲟⲩ
+[(di)] I :Ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[radi] Condition/Status:ⲣⲏϯ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt :ⲭⲏⲙⲓ
+[be-ran] Your(f) name:ⲡⲉⲣⲁⲛ
+[bek-ran] Your(m) name:ⲡⲉⲕⲣⲁⲛ
+[en-rombi] of year / of age:`ⲛⲣⲟⲙⲡⲓ
+ⲧⲉ:is (f)
+ⲡⲉ:is (m)
+ⲁⲛⲟⲕ / ϯ:i
+ⲣⲁⲛ:name
+ⲡⲉⲣⲁⲛ:your(f) name
+ⲡⲉⲕⲣⲁⲛ:your(m) name
+ⲁϣ:what
+-

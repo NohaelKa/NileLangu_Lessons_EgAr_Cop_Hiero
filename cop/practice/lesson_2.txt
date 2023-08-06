@@ -1,0 +1,103 @@
+© NileLangu 2021
+
+Lesson 2 letters
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣,ⲩ
+ϯ,ⲟ,ϥ,ϣ,ⲣ,ⲡ
+
+ⲁϣ,ⲕⲁϣⲣⲱⲙⲓ,ϣⲁⲩ,ⲣⲏⲙⲥⲓⲥ,ⲣⲏϯ,ⲡⲏⲓ,ⲛⲟϥⲣⲓ
+
+
+start_0
+audiochoice
+ⲟ,ⲓ,ⲥ
+ⲡ,ⲣ,ⲥ
+ⲣ,ⲡ,ϥ
+ϣ,ⲡ,ϥ
+ϯ,ⲇ,ⲏ
+-
+audiochoice
+ⲟ,ⲓ,ⲥ
+ⲡ,ⲣ,ⲥ
+ⲣ,ⲡ,ϥ
+ϣ,ⲡ,ϥ
+ϯ,ⲇ,ⲏ
+-
+end_0
+
+start_1
+audiochoice
+ϣ,ⲡ,ϥ
+ⲣ,ⲡ,ϥ
+-
+multichoice
+What,ⲁϣ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+Cairo,ⲕⲁϣⲣⲱⲙⲓ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲁϣ
+-
+multichoice_img
+sea,home,cat,egy,dog_m
+ⲟⲩϣⲁⲩ:cat
+-
+audiochoice
+ϯ,ϯ,ⲇ,ⲏ
+-
+multichoice
+A cat,ⲟⲩϣⲁⲩ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+Condition,ⲣⲏϯ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲡⲉⲕⲣⲏϯ
+Ramsis,ⲣⲏⲙⲥⲓⲥ,ⲣⲏϯ,ⲭⲏⲙⲓ,ⲕⲁϣⲣⲱⲙⲓ
+-
+audiochoice
+ⲟ,ⲓ,ⲥ
+ⲡ,ⲣ,ⲥ
+-
+multichoice_img
+sea,home,cat,egy
+ⲡⲏⲓ:home
+-
+multichoice
+Hello,ⲛⲟϥⲣⲓ,ⲁϣ,ⲭⲏⲙⲓ,ⲣⲏϯ
+The home,ⲡⲏⲓ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲣⲏϯ
+-
+end_1
+
+start_2
+audiochoice
+ϯ,ⲇ,ⲏ̣
+ϥ,ϩ,ⲡ
+ⲡ,ⲣ,ⲥ
+ⲣ,ⲡ,ϥ
+ϣ,ⲡ,ϥ
+-
+multichoice_img
+sea,home,cat,egy,dog
+ⲡⲏⲓ:home
+ⲟⲩϣⲁⲩ:cat
+-
+multichoice
+A cat,ⲟⲩϣⲁⲩ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+What,ⲁϣ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+Condition/state,ⲣⲏϯ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲡⲉⲕⲣⲏϯ
+Cairo,ⲕⲁϣⲣⲱⲙⲓ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲁϣ
+Ramsis,ⲣⲏⲙⲥⲓⲥ,ⲣⲏϯ,ⲭⲏⲙⲓ,ⲕⲁϣⲣⲱⲙⲓ
+Hello,ⲛⲟϥⲣⲓ,ⲁϣ,ⲭⲏⲙⲓ,ⲣⲏϯ
+The home,ⲡⲏⲓ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲣⲏϯ
+-
+multichoice
+A cat,ⲟⲩϣⲁⲩ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+What,ⲁϣ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲡⲉⲕⲣⲏϯ
+Condition/state,ⲣⲏϯ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲡⲉⲕⲣⲏϯ
+Cairo,ⲕⲁϣⲣⲱⲙⲓ,ⲛⲟϥⲣⲓ,ⲭⲏⲙⲓ,ⲁϣ
+Ramsis,ⲣⲏⲙⲥⲓⲥ,ⲣⲏϯ,ⲭⲏⲙⲓ,ⲕⲁϣⲣⲱⲙⲓ
+Hello,ⲛⲟϥⲣⲓ,ⲁϣ,ⲭⲏⲙⲓ,ⲣⲏϯ
+The home,ⲡⲏⲓ,ⲁϣ,ⲛⲟϥⲣⲓ,ⲣⲏϯ
+-
+end_2
+
+Dictionary
+[ash] What:ⲁϣ
+[rehdi] Condition/state:ⲣⲏϯ
+[kashromi] Cairo:ⲕⲁϣⲣⲱⲙⲓ
+[ramsis] Ramsis:ⲣⲏⲙⲥⲓⲥ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[b.ai] The home:ⲡⲏⲓ
+[ou.shaw] A cat:ⲟⲩϣⲁⲩ
+-

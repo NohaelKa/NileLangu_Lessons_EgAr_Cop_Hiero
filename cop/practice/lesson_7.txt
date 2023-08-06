@@ -1,0 +1,206 @@
+Lesson 7 Greetings 1
+
+ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,
+ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,
+ⲛⲟϥⲣⲓ ⲉϩⲟⲟⲩ
+ⲛⲟϥⲣⲓ,
+`ⲫⲣⲏϯ,
+ⲟⲩϫⲁⲓ,
+ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ
+ⲡⲁⲉϩⲟⲟⲩ
+Come! (to m):ⲁⲙⲟⲩ
+Come! (to f):ⲁⲙⲏ
+Come! (to pl):ⲁⲙⲱⲓⲛⲓ
+To inside: ⲉϧⲟⲩⲛ
+
+Go ahead: ⲁⲣⲓϩⲙⲟⲧ
+Everyone:ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ
+Your(pl): ⲡⲉⲧⲉⲛ
+Coming: ϫⲓⲛⲓ
+Please come in (etfadal): ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲟⲩ ⲉϧⲟⲩⲛ
+Please come in (etfadali): ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲏ(amii) ⲉϧⲟⲩⲛ
+Please come in  (etfadalu): ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲱⲓⲛⲓ ⲉϧⲟⲩⲛ
+Go ahead (etfadal(to anyone)): ⲁⲣⲓϩⲙⲟⲧ
+Welcome! (to pl), ⲛⲁⲛⲉ ⲡⲉⲧⲉⲛ ϫⲓⲛⲓ (Good is your coming)
+
+start_0
+multichoice_img
+morning,night,egy,drums,cheese,dates,milk
+ⲧⲟⲟⲩⲓ:morning
+ⲣⲟⲩϩⲓ:night
+-
+multichoice
+Morning,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ,ⲛⲟϥⲣⲓ,`ⲫⲣⲏϯ
+Evening,ⲣⲟⲩϩⲓ,ⲛⲁⲛⲉ,ⲟⲩϫⲁⲓ,`ⲫⲣⲏϯ
+Good,ⲛⲁⲛⲉ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ,ⲛⲟϥⲣⲓ
+Hello,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ
+-
+multichoice
+Good Morning,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,ⲛⲟϥⲣⲓ ⲉϫⲱⲣϩ
+Good Afternoon,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,`ⲫⲣⲏϯ,ⲛⲟϥⲣⲓ ⲉϫⲱⲣϩ
+Bye,ⲟⲩϫⲁⲓ,ⲣⲟⲩϩⲓ,ⲛⲁⲛⲉ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+-
+multichoice_img
+morning,night,egy,drums,cheese,dates,milk
+ⲧⲟⲟⲩⲓ:morning
+ⲣⲟⲩϩⲓ:night
+-
+multichoice
+Good,ⲛⲟϥⲣⲓ,ⲣⲟⲩϩⲓ,ⲟⲩϫⲁⲓ,`ⲫⲣⲏϯ
+Day,ⲉϩⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ,`ⲫⲣⲏϯ
+-
+multichoice
+Good day!,ⲛⲟϥⲣⲓ ⲉϩⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,ⲛⲟϥⲣⲓ ⲉϫⲱⲣϩ
+Bye,ⲟⲩϫⲁⲓ,ⲣⲟⲩϩⲓ,ⲛⲁⲛⲉ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ
+Hello,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ
+-
+sentence
+translate,Good day Mina,ⲛⲟϥⲣⲓ ⲉϩⲟⲟⲩ ⲙⲓⲛⲁ,ⲛⲟϥⲣⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲧⲟⲟⲩⲓ
+translate,Good evening Mary,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ ⲙⲉⲣⲓ,ⲛⲟϥⲣⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ
+translate,Good morning Mohamed,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ ⲙⲱϩⲁⲙⲙⲁⲧ,ⲛⲟϥⲣⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲙⲱϩⲁⲙⲙⲁⲧ,ⲧⲟⲟⲩⲓ
+translate,Hello Mai,ⲛⲟϥⲣⲓ ⲙⲉⲓ,ⲛⲟϥⲣⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲙⲉⲓ,ⲧⲟⲟⲩⲓ
+translate,Bye Mina,ⲟⲩϫⲁⲓ ⲙⲓⲛⲁ,ⲟⲩϫⲁⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲧⲟⲟⲩⲓ
+translate,Bye Mary,ⲟⲩϫⲁⲓ ⲙⲉⲣⲓ,`ⲫⲣⲏϯ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲟⲩϫⲁⲓ
+-
+end_0
+
+ⲙⲱϩⲁⲙⲙⲁⲧ
+
+start_1
+multichoice
+Go ahead,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲟⲩ,ⲁⲙⲏ
+To inside,ⲉϧⲟⲩⲛ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲏ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ
+Come! (to m),ⲁⲙⲟⲩ,ⲁⲙⲏ,ⲁⲙⲱⲓⲛⲓ,ⲉϧⲟⲩⲛ
+Come! (to f),ⲁⲙⲏ,ⲁⲙⲟⲩ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲉϧⲟⲩⲛ
+Come! (to pl),ⲁⲙⲱⲓⲛⲓ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲟⲩ,ⲁⲙⲏ
+Everyone,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲟⲩ
+-
+sentence
+translate,Go ahead come in Mina!,ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲟⲩ ⲉϧⲟⲩⲛ ⲙⲓⲛⲁ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲟⲩ,ⲉϧⲟⲩⲛ,ⲙⲓⲛⲁ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲏ,ⲛⲟϥⲣⲉⲧ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲛⲟϥⲣⲉⲧ
+translate,Go ahead come in everyone!,ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲱⲓⲛⲓ ⲉϧⲟⲩⲛ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲟⲩ,ⲉϧⲟⲩⲛ,ⲙⲓⲛⲁ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲏ,ⲛⲟϥⲣⲉⲧ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲛⲟϥⲣⲉⲧ
+translate,Go ahead come in Nofret!,ⲁⲣⲓϩⲙⲟⲧ ⲁⲙⲏ ⲉϧⲟⲩⲛ ⲛⲟϥⲣⲉⲧ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲟⲩ,ⲉϧⲟⲩⲛ,ⲙⲓⲛⲁ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲏ,ⲛⲟϥⲣⲉⲧ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲛⲟϥⲣⲉⲧ
+-
+multichoice
+Welcome!(to pl),ⲛⲁⲛⲉ ⲡⲉⲧⲉⲛ ϫⲓⲛⲓ,ⲁⲣⲓϩⲙⲟⲧ,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,ⲛⲟϥⲣⲓ ⲉϩⲟⲟⲩ
+Bye,ⲟⲩϫⲁⲓ,ⲣⲟⲩϩⲓ,ⲛⲁⲛⲉ,ϫⲓⲛⲓ
+Your(pl),ⲡⲉⲧⲉⲛ,ϫⲓⲛⲓ,ⲟⲩϫⲁⲓ,ⲁⲣⲓϩⲙⲟⲧ
+Coming,ϫⲓⲛⲓ,ⲡⲉⲧⲉⲛ,ⲣⲟⲩϩⲓ,ⲁⲣⲓϩⲙⲟⲧ
+-
+sentence
+translate,Good morning,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ,ⲉϫⲱⲣϩ,ⲁⲣⲓϩⲙⲟⲧ
+translate,Good afternoon,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,ⲧⲟⲟⲩⲓ,`ⲫⲣⲏϯ,ⲉϫⲱⲣϩ,ⲁⲛⲟⲕ
+translate,Hello everyone!,ⲛⲟϥⲣⲓ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲛⲟϥⲣⲓ,ⲉϩⲟⲟⲩ,ⲙⲓⲛⲁ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲙⲉⲓ
+translate,Welcome everyone! (Good is your coming everyone),ⲛⲁⲛⲉ ⲡⲉⲧⲉⲛ ϫⲓⲛⲓ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲛⲁⲛⲉ,ⲡⲉⲧⲉⲛ,ϫⲓⲛⲓ,ⲣⲟⲩϩⲓ,ⲙⲉⲣⲓ,ⲙⲉⲓ,ⲧⲟⲟⲩⲓ
+-
+multichoice
+Good day!,ⲛⲟϥⲣⲓ ⲉϩⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ,ⲛⲟϥⲣⲓ ⲉϫⲱⲣϩ
+-
+multichoice
+Go ahead,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲟⲩ,ⲁⲙⲏ
+To inside,ⲉϧⲟⲩⲛ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲏ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ
+Come! (to m),ⲁⲙⲟⲩ,ⲁⲙⲏ,ⲁⲙⲱⲓⲛⲓ,ⲉϧⲟⲩⲛ
+Come! (to f),ⲁⲙⲏ,ⲁⲙⲟⲩ,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲉϧⲟⲩⲛ
+Come! (to pl),ⲁⲙⲱⲓⲛⲓ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲟⲩ,ⲁⲙⲏ
+Everyone,ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ,ⲁⲣⲓϩⲙⲟⲧ,ⲁⲙⲱⲓⲛⲓ,ⲁⲙⲟⲩ
+-
+end_1
+
+
+start_2
+multichoice
+What,ⲁϣ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,`ⲫⲣⲏϯ
+The condition,`ⲫⲣⲏϯ,ⲛⲁⲛⲉ,ⲁϣ,ⲣⲟⲩϩⲓ
+-
+multichoice
+Your (m) day,ⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,`ⲫⲣⲏϯ
+Your (f) day,ⲡⲉ‎ⲉϩⲟⲟⲩ,ⲣⲏϯ,ⲁϣ,`ⲫⲣⲏϯ
+-
+multichoice
+Day,ⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+Such as,`ⲙ`ⲫⲣⲏϯ,ⲛⲁⲛⲉ,ⲁϣ,ⲣⲟⲩϩⲓ
+-
+sentence
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,How is your day,How,is,your,day,my,week,life
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,How is your day,How,is,your,day,my,week,life
+-
+sentence
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ ⲙⲓⲛⲁ,How is your day Mina,How,is,your,Mina,day,my,week,life
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉ‎ⲉϩⲟⲟⲩ ⲙⲉⲣⲓ,How is your day Mary,How,is,your,day,my,week,life,Mary
+-
+multichoice
+Your (m) day,ⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲛⲁⲛⲉ,ⲡⲉ‎ⲉϩⲟⲟⲩ,`ⲫⲣⲏϯ
+Your (f) day,ⲡⲉ‎ⲉϩⲟⲟⲩ,ⲣⲏϯ,ⲡⲉⲕ‎ⲉϩⲟⲟⲩ,`ⲫⲣⲏϯ
+-
+sentence
+translate,How is your day Mohamed,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ ⲙⲱϩⲁⲙⲙⲁⲧ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲙⲱϩⲁⲙⲙⲁⲧ,ⲙⲁⲓ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ
+translate,How is your day Mai,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉ‎ⲉϩⲟⲟⲩ ⲙⲁⲓ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,ⲙⲁⲓ,ⲙⲱϩⲁⲙⲙⲁⲧ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ
+-
+end_2
+
+
+start_3
+multichoice
+What,ⲁϣ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,`ⲫⲣⲏϯ
+The State (condition),ⲣⲏϯ,ⲛⲁⲛⲉ,ⲁϣ,`ⲫⲣⲏϯ
+-
+multichoice
+Your (m) day,ⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲛⲁⲛⲉ,ⲣⲟⲩϩⲓ,`ⲫⲣⲏϯ
+Your (f) day,ⲣⲏϯ,ⲡⲉ‎ⲉϩⲟⲟⲩ,ⲁϣ,`ⲫⲣⲏϯ
+-
+multichoice
+Day,ⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+My day,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+Nice (m),ⲛⲁⲛⲉϥ,ⲉϩⲟⲟⲩ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+-
+sentence
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,How is your day,How,is,your,day,my,week,life
+translate,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,How is your day,How,is,your,day,my,week,life
+-
+multichoice
+Day,ⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+My day,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+Nice (m),ⲛⲁⲛⲉϥ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲣⲟⲩϩⲓ
+Not nice (m),ⲛⲁⲛⲉϥ ⲁⲛ,ⲛⲟϥⲣⲓ,ⲧⲟⲟⲩⲓ,ⲛⲁⲛⲉϥ
+-
+sentence
+translate,My day is nice,ⲡⲁⲉϩⲟⲟⲩ ⲡⲉ ⲛⲁⲛⲉϥ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲙⲁⲣⲕ,ⲙⲁⲓ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲁⲛⲉϥ
+answer,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ?,ⲡⲁⲉϩⲟⲟⲩ ⲡⲉ ⲛⲁⲛⲉϥ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲙⲁⲣⲕ,ⲙⲁⲓ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲁⲛⲉϥ
+-
+sentence
+translate,My day is not nice,ⲡⲁⲉϩⲟⲟⲩ ⲡⲉ ⲛⲁⲛⲉϥ ⲁⲛ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲙⲁⲣⲕ,ⲙⲁⲓ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲁⲛⲉϥ,ⲁⲛ
+answer,ⲁϣ ⲡⲉ `ⲫⲣⲏϯ `ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ?,ⲡⲁⲉϩⲟⲟⲩ ⲡⲉ ⲛⲁⲛⲉϥ,ⲁϣ,ⲡⲉ,`ⲫⲣⲏϯ,`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ,ⲙⲁⲣⲕ,ⲙⲁⲓ,`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ,ⲡⲁⲉϩⲟⲟⲩ,ⲛⲁⲛⲉϥ ⲁⲛ
+-
+end_3
+
+
+Dictionary
+[amou] Come! (to m):ⲁⲙⲟⲩ
+[ami] Come! (to f):ⲁⲙⲏ
+[amoh-yni] Come! (to pl):ⲁⲙⲱⲓⲛⲓ
+[eKhoun] To inside:ⲉϧⲟⲩⲛ
+[arihmot] Go ahead:ⲁⲣⲓϩⲙⲟⲧ
+[ouon] Someone:ⲟⲩⲟⲛ
+[niben] Every:ⲛⲓⲃⲉⲛ
+[neden] Your(pl):ⲡⲉⲧⲉⲛ
+[jini] Coming:ϫⲓⲛⲓ
+[nofri] Hello / Goodness:ⲛⲟϥⲣⲓ
+[nana] Good:ⲛⲁⲛⲉ
+[anok] I :ⲁⲛⲟⲕ
+[dowi] Morning:ⲧⲟⲟⲩⲓ
+[roohi] Evening:ⲣⲟⲩϩⲓ
+[noha] a Name:ⲛⲟϩⲁ
+[ejorh] Night:ⲉϫⲱⲣϩ
+[oo-ram-n-kami] A person of Egypt (an Egyptian):ⲟⲩⲣⲉⲙⲛⲭⲏⲙⲓ
+[oo-jai] Bye (Be safe):ⲟⲩϫⲁⲓ
+[ba] (A copula):ⲡⲉ
+[da] (A copula):ⲧⲉ
+[ash] (Question Word):ⲁϣ
+[em-bek-eho] of your (m) day:`ⲙⲡⲉⲕ‎ⲉϩⲟⲟⲩ
+[em-be-eho] of your (f) day:`ⲙⲡⲉ‎ⲉϩⲟⲟⲩ
+[eb-redi] The state / condition:`ⲫⲣⲏϯ
+ⲫⲣⲏϯ/ⲟⲩϫⲁⲓ:bye
+ⲁϣ:what
+ⲣⲏϯ:state
+ⲛⲁⲛⲉ:good
+ⲧⲟⲟⲩⲓ:morning
+-

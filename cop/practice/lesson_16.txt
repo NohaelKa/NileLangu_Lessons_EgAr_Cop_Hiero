@@ -1,0 +1,225 @@
+Lesson 16 - Going Somewhere
+
+ⲏⲓ,ⲟⲩⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ
+ⲑⲱⲛ,ⲧⲉ ϣⲉⲛⲉ, ⲟⲩⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲓⲙⲁ`ⲛⲟⲩⲱⲙ,ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,`ⲉⲡⲏⲓ
+
+`ⲉϣⲉ,
+ϯϣⲉⲛⲏⲓ,ⲧⲉⲛϣⲉⲛⲁⲛ,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ,ⲥⲉϣⲉⲛⲱⲟⲩ,`ⲕϣⲉⲛⲁⲕ,ⲧⲉϣⲉⲛⲉ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+ϣⲉⲛⲁϥ,ϣⲉⲛⲁⲥ
+`ⲭⲟⲩⲱϣ
+
+Todo record `ⲫ,`ⲑ
+`ⲫ is used before masculine singular words with ⲃ,ⲓ,ⲗ,ⲙ,ⲛ,ⲟ,ⲣ
+`ⲑ is used before feminine singular words with ⲃ,ⲓ,ⲗ,ⲙ,ⲛ,ⲟ,ⲣ
+
+
+start_0
+multichoice
+I'm going,ϯϣⲉⲛⲏⲓ,ⲡⲉⲣⲏϯ,`ⲉⲡⲏⲓ,ϯⲟⲩⲟϫ
+You're(m) going,`ⲕϣⲉⲛⲁⲕ,ⲡⲉⲣⲏϯ,`ⲉⲫⲓⲟⲙ,ϯⲟⲩⲟϫ
+You're(f) going,ⲧⲉϣⲉⲛⲉ,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ
+-
+multichoice
+Place,ⲙⲁ,ⲡⲉⲣⲏϯ,ⲡⲁ,ϯⲟⲩⲟϫ
+-
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum,drink
+ⲓⲟⲙ:sea
+ⲏⲓ:home
+ⲟⲩⲙⲁ`ⲛⲥⲱ:coffee_shop
+ⲥⲱ:drink
+-
+sentence
+translate,I'm going to the sea,ϯϣⲉⲛⲏⲓ `ⲉⲫⲓⲟⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲏⲓ
+translate,I'm going home,ϯϣⲉⲛⲏⲓ `ⲉⲡⲏⲓ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ
+translate,I'm going to the drink shop,ϯϣⲉⲛⲏⲓ `ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲏⲓ
+-
+multichoice
+You(m) are going,`ⲕϣⲉⲛⲁⲕ,ⲡⲉⲣⲏϯ,`ⲉⲫⲓⲟⲙ,ϯⲟⲩⲟϫ
+You(f) are going,ⲧⲉϣⲉⲛⲉ,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ
+-
+sentence
+translate,Where are you(m) going?,`ⲕϣⲉⲛⲁⲕ `ⲉⲑⲱⲛ,`ⲕϣⲉⲛⲁⲕ,`ⲉⲑⲱⲛ,ⲥⲱ,`ⲉⲫⲓⲟⲙ
+translate,Where are you(f) going?,ⲧⲉϣⲉⲛⲉ `ⲉⲑⲱⲛ,ⲧⲉϣⲉⲛⲉ,`ⲉⲑⲱⲛ,ⲥⲱ,`ⲉⲫⲓⲟⲙ
+-
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum,drink
+ⲓⲟⲙ:sea
+ⲏⲓ:home
+ⲟⲩⲙⲁ`ⲛⲥⲱ:coffee_shop
+ⲥⲱ:drink
+-
+sentence
+translate,You're(m) going to the sea,`ⲕϣⲉⲛⲁⲕ `ⲉⲫⲓⲟⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲏⲓ,`ⲕϣⲉⲛⲁⲕ
+translate,You're(f) going home,ⲧⲉϣⲉⲛⲉ `ⲉⲡⲏⲓ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,ⲧⲉϣⲉⲛⲉ
+translate,I'm going to the drink shop,ϯϣⲉⲛⲏⲓ `ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲏⲓ
+-
+end_0
+
+
+
+start_1
+multichoice
+Place,ⲙⲁ,ⲡⲉⲣⲏϯ,ⲡⲁ,ϯⲟⲩⲟϫ
+-
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum,food
+ⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ:museum
+ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ:restaurant
+ⲟⲩⲁⲛⲍⲏⲃ̣:school
+ⲟⲩⲟⲩⲱⲙ:food
+-
+multichoice
+I want to go,ϯⲟⲩⲱϣ `ⲉϣⲉ,ϣⲉⲡϩⲙⲟⲧ,`ⲫⲣⲏϯ,`ⲭⲟⲩⲱϣ `ⲉϣⲉ
+You want to go,`ⲭⲟⲩⲱϣ `ⲉϣⲉ,ϣⲉⲡϩⲙⲟⲧ,`ⲫⲣⲏϯ,ϯⲟⲩⲱϣ `ⲉϣⲉ
+I'm going,ϯϣⲉⲛⲏⲓ,ⲡⲉⲣⲏϯ,`ⲉⲡⲏⲓ,ϯⲟⲩⲟϫ
+You(m) are going,`ⲕϣⲉⲛⲁⲕ,ⲡⲉⲣⲏϯ,`ⲉⲫⲓⲟⲙ,ϯⲟⲩⲟϫ
+You(f) are going,ⲧⲉϣⲉⲛⲉ,ⲡⲉⲣⲏϯ,ⲁϣ,ϯⲟⲩⲟϫ
+-
+multichoice
+To the restaurant,`ⲉⲡⲓⲙⲁ`ⲛⲟⲩⲱⲙ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ϯⲟⲩⲟϫ
+To the museum,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ϯⲟⲩⲱϣ
+To the school,`ⲉϯⲁⲛⲍⲏⲃ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲛⲟϥⲣⲓ,ϯϣⲉⲛⲏⲓ
+-
+sentence
+translate,I want to go to a restaurant,ϯⲟⲩⲱϣ `ⲉϣⲉ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯⲟⲩⲱϣ,`ⲉϣⲉ
+translate,You want to go to the museum,`ⲭⲟⲩⲱϣ `ⲉϣⲉ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+translate,I'm going to the school,ϯϣⲉⲛⲏⲓ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+-
+multichoice
+You're(m) going,`ⲕϣⲉⲛⲁⲕ,ⲡⲉⲣⲏϯ,`ⲉⲫⲓⲟⲙ,ⲧⲉϣⲉⲛⲉ
+You're(f) going,ⲧⲉϣⲉⲛⲉ,ⲡⲉⲣⲏϯ,`ⲕϣⲉⲛⲁⲕ,ϯⲟⲩⲟϫ
+To where,`ⲉⲑⲱⲛ,`ⲕϣⲉⲛⲁⲕ,ⲧⲉϣⲉⲛⲉ,`ⲉⲫⲓⲟⲙ
+-
+sentence
+answer,`ⲕϣⲉⲛⲁⲕ `ⲉⲑⲱⲛ?,ϯϣⲉⲛⲏⲓ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,ⲧⲉϣⲉⲛⲉ
+answer,ⲧⲉϣⲉⲛⲉ `ⲉⲑⲱⲛ?,ϯϣⲉⲛⲏⲓ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϯϣⲉⲛⲏⲓ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲕϣⲉⲛⲁⲕ
+-
+sentence
+translate,I'm going to a restaurant,ϯϣⲉⲛⲏⲓ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ
+translate,I'm going to the museum,ϯϣⲉⲛⲏⲓ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+translate,I'm going to the school,ϯϣⲉⲛⲏⲓ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+-
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum,food
+ⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ:museum
+ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ:restaurant
+ⲟⲩⲁⲛⲍⲏⲃ̣:school
+ⲟⲩⲟⲩⲱⲙ:food
+-
+end_1
+
+
+
+
+start_2
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum
+ⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ:museum
+ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ:restaurant
+ⲟⲩⲁⲛⲍⲏⲃ̣:school
+ⲓⲟⲙ:sea
+ⲡⲏⲓ:home
+ⲟⲩⲙⲁ`ⲛⲥⲱ:coffee_shop
+-
+multichoice
+She is going,`ⲥϣⲉⲛⲁⲥ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ
+He is going,`ϥϣⲉⲛⲁϥ,ϣⲉⲡϩⲙⲟⲧ,`ⲫⲣⲏϯ,ⲛⲟϥⲣⲓ
+-
+sentence
+translate,She is going to a restaurant,`ⲥϣⲉⲛⲁⲥ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+translate,He is going to the museum,`ϥϣⲉⲛⲁϥ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+translate,She is going to the school,`ⲥϣⲉⲛⲁⲥ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+translate,He is going to the sea,`ϥϣⲉⲛⲁϥ `ⲉⲫⲓⲟⲙ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲫⲓⲟⲙ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+-
+sentence
+answer,`ϥϣⲉⲛⲁϥ `ⲉⲑⲱⲛ?,`ϥϣⲉⲛⲁϥ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+answer,`ⲥϣⲉⲛⲁⲥ `ⲉⲑⲱⲛ?,`ⲥϣⲉⲛⲁⲥ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϯϣⲉⲛⲏⲓ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+-
+sentence
+translate,I want to go to a restaurant,ϯⲟⲩⲱϣ `ⲉϣⲉ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯⲟⲩⲱϣ,`ⲉϣⲉ
+translate,You want to go to the museum,`ⲭⲟⲩⲱϣ `ⲉϣⲉ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+translate,Mohamed is going to the museum,ⲙⲱϩⲁⲙⲙⲁⲧ ϣⲉⲛⲁϥ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϣⲉⲛⲁϥ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+translate,Mai is going to the school,ⲙⲉⲓ ϣⲉⲛⲁⲥ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ,ϣⲉⲛⲁⲥ
+-
+end_2
+
+
+
+start_3
+multichoice_img
+sea,home,school,coffee_shop,restaurant,museum
+ⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ:museum
+ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ:restaurant
+ⲟⲩⲁⲛⲍⲏⲃ̣:school
+ⲓⲟⲙ:sea
+ⲡⲏⲓ:home
+ⲟⲩⲙⲁ`ⲛⲥⲱ:coffee_shop
+-
+multichoice
+You(pl) are going,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲥⲉϣⲉⲛⲱⲟⲩ,ⲛⲟϥⲣⲓ
+We are going,ⲧⲉⲛϣⲉⲛⲁⲛ,`ⲙⲡⲉⲉϩⲟⲟⲩ,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ,ⲥⲉϣⲉⲛⲱⲟⲩ
+They are going,ⲥⲉϣⲉⲛⲱⲟⲩ,ϣⲉⲡϩⲙⲟⲧ,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ,ⲛⲟϥⲣⲓ
+-
+sentence
+translate,You're (pl) going to a restaurant,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+translate,We're going to the museum,ⲧⲉⲛϣⲉⲛⲁⲛ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ,ⲧⲉⲛϣⲉⲛⲁⲛ
+translate,They're going to the school,ⲥⲉϣⲉⲛⲱⲟⲩ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ,ⲥⲉϣⲉⲛⲱⲟⲩ
+translate,We're going to the sea,ⲧⲉⲛϣⲉⲛⲁⲛ `ⲉⲫⲓⲟⲙ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲫⲓⲟⲙ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ,ⲧⲉⲛϣⲉⲛⲁⲛ
+-
+sentence
+answer,`ϥϣⲉⲛⲁϥ `ⲉⲑⲱⲛ?,`ϥϣⲉⲛⲁϥ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+answer,`ⲥϣⲉⲛⲁⲥ `ⲉⲑⲱⲛ?,`ⲥϣⲉⲛⲁⲥ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϯϣⲉⲛⲏⲓ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲥϣⲉⲛⲁⲥ,`ϥϣⲉⲛⲁϥ
+answer,`ⲕϣⲉⲛⲁⲕ `ⲉⲑⲱⲛ?,ϯϣⲉⲛⲏⲓ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,ⲧⲉϣⲉⲛⲉ
+answer,ⲧⲉϣⲉⲛⲉ `ⲉⲑⲱⲛ?,ϯϣⲉⲛⲏⲓ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ϯϣⲉⲛⲏⲓ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,ⲟⲩⲟϩ,ⲛⲟϥⲣⲓ,ϣⲉⲡϩⲙⲟⲧ,`ⲕϣⲉⲛⲁⲕ
+-
+sentence
+translate,We want to go to a restaurant,ⲧⲉⲛϣⲉⲛⲁⲛ `ⲉϣⲉ `ⲉⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ,ϯϣⲉⲛⲏⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,ϯⲟⲩⲱϣ
+translate,They want to go to the museum,ⲥⲉϣⲉⲛⲱⲟⲩ `ⲉϣⲉ `ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ,`ⲉⲡⲏⲓ,`ⲉⲫⲓⲟⲙ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ
+translate,You(pl) are going to the school,ⲧⲉⲧⲉⲛϣⲉⲛⲱⲧⲉⲛ `ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲏⲓ,`ⲉϯⲁⲛⲍⲏⲃ,`ⲉⲡⲓⲙⲁ`ⲛⲥⲱ,`ⲉ‎ⲡⲓ‎ⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+-
+end_3
+
+
+Dictionary
+[eb.ai] The home:ⲡⲏⲓ
+[ai] Home:ⲏⲓ
+[soh] Drink:ⲥⲱ
+[a.tohn] To where:`ⲉⲑⲱⲛ
+[te.shana] You're(f) going:ⲧⲉϣⲉⲛⲉ
+[es.shanas] She's going:`ⲥϣⲉⲛⲁⲥ
+[ek.shanak] You're(m) going:`ⲕϣⲉⲛⲁⲕ
+[ef.shanaf] He's going:`ϥϣⲉⲛⲁϥ
+[ou.man.soh] A cafe:ⲟⲩⲙⲁ`ⲛⲥⲱ
+[ou.anzeeb] A school:ⲟⲩⲁⲛⲍⲏⲃ̣
+[ou.man.wom] A restaurant:ⲟⲩⲙⲁ`ⲛⲟⲩⲱⲙ
+[ou.man.ka.maini] A museum:ⲟⲩⲙⲁⲛⲭⲁⲙⲏⲓⲛⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[meren] Meren (Egy. name):ⲙⲉⲣⲉⲛ
+[nofret] Nofret (Egy. f. name):ⲛⲟϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[ba] (A copula):ⲡⲉ
+[(di)owoj] I'm well, ϯ=I, ⲟⲩⲟϫ=healthy:ϯⲟⲩⲟϫ
+[bakre(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition:ⲡⲉⲕⲣⲏϯ
+[bare(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nana] Good/Well:ⲛⲁⲛⲉ
+[shabhmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[hoow] day (masc.):ⲉϩⲟⲟⲩ
+[(di)] I'm :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[redi] Condition/Status:ⲣⲏϯ
+[ipredi] `ⲫ='The', ⲣⲏϯ=Condition:`ⲫⲣⲏϯ
+[imbakehoow] `ⲙ=Of, ⲡⲉⲕ=Your, ⲉϩⲟⲟⲩ=day :`ⲙⲡⲉⲕⲉϩⲟⲟⲩ
+[imba'ehoow] `ⲙ=Of, ⲡⲉ=Your, ⲉϩⲟⲟⲩ=day :`ⲙⲡⲉⲉϩⲟⲟⲩ
+[efyom] `ⲉ= to, ⲫ=The ⲓⲟⲙ=Sea:`ⲉⲫⲓⲟⲙ
+[fyom] ⲫ=The ⲓⲟⲙ=Sea:ⲫⲓⲟⲙ
+[yom] ⲓⲟⲙ=Sea:ⲓⲟⲙ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :ϣⲁⲩ
+[kami] Egypt/ Black (Land) :ⲭⲏⲙⲓ
+-

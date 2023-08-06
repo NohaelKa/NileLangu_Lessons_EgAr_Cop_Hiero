@@ -1,0 +1,169 @@
+Lesson 18 -
+
+Prepositions
+ϧⲉⲛ
+ϩⲓϫⲉⲛ
+ⲉϧⲟⲩⲛ
+ϧⲁϫⲉⲛ
+ⲉϧⲟⲩⲛ
+ϧⲁ
+ⲑⲱⲛ
+
+Audio: Todo
+Dictionary: Todo
+Database: done
+
+start_0
+multichoice
+In,ϧⲉⲛ,ϩⲓϫⲉⲛ,ϩⲟⲣϣ,ϧⲁϫⲉⲛ
+On,ϩⲓϫⲉⲛ,ⲉϧⲟⲩⲛ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+-
+multichoice_img
+sky,cup,cat,laundry,table,bathroom,tea
+ⲫⲟⲣϣⲓ:table
+ⲁⲫⲟⲧ:cup
+ⲙⲁⲛϫⲱⲕⲉⲙ:bathroom
+ϣⲏⲓ:tea
+-
+multichoice
+In,ϧⲉⲛ,ϩⲓϫⲉⲛ,ϩⲟⲣϣ,ϧⲁϫⲉⲛ
+On,ϩⲓϫⲉⲛ,ⲉϧⲟⲩⲛ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+-
+sentence
+translate,The cup is on the table,ⲡⲓⲁⲫⲟⲧ ⲡⲉ ϩⲓϫⲉⲛ ϯ‎ⲫⲟⲣϣⲓ,ϧⲉⲛ
+translate,I'm bathing in the bathroom,ϯ‎ϫⲱⲕⲉⲙ ϧⲉⲛ ⲡⲓ‎ⲙⲁⲛϫⲱⲕⲉⲙ,ⲡⲉ,ϩⲓϫⲉⲛ,ϯ‎ⲫⲟⲣϣⲓ
+translate,I'm eating on the table now,ϯ‎ⲟⲩⲱⲙ ϩⲓϫⲉⲛ ϯ‎ⲫⲟⲣϣⲓ ϯⲛⲟⲩ,ⲡⲉ,ϧⲉⲛ
+-
+multichoice
+A room,ⲟⲩⲣⲓ,ⲉϧⲟⲩⲛ,ϧⲉⲛ,ϩⲓϫⲉⲛ
+To rest,`ⲙⲧⲟⲛ,ⲫⲁⲓ,ϯ‎ⲧⲟⲧⲥ,ⲡⲁⲓⲥⲁϫⲓ
+The couch,ϯ‎ⲧⲟⲧⲥ,ϫⲱⲕⲉⲙ,`ⲙⲧⲟⲛ,ⲡⲁⲓⲥⲁϫⲓ
+-
+sentence
+translate,I'm in the room,ⲁⲛⲟⲕ ϧⲉⲛ ϯⲣⲓ,ϫⲱⲕⲉⲙ,ϧⲉⲛ,ⲡⲓ‎ⲙⲁⲛϫⲱⲕⲉⲙ,ⲡⲉ,ϩⲓϫⲉⲛ,ϯ‎ⲫⲟⲣϣⲓ
+translate,I'm resting on the couch,ϯ‎`ⲙⲧⲟⲛ ⲙⲙⲟⲓ ϩⲓϫⲉⲛ ϯ‎ⲧⲟⲧⲥ,ϧⲉⲛ
+translate,You're (m) at home,`ⲛⲑⲟⲕ ϧⲉⲛ ⲡⲏⲓ,ϩⲓϫⲉⲛ,`ⲛⲑⲟ
+-
+multichoice
+The road,ⲡⲓ‎ⲙⲱⲓⲧ,ϫⲱⲕⲉⲙ,`ⲙⲧⲟⲛ,ϯ‎ⲧⲟⲧⲥ
+-
+sentence
+translate,The man is on the road,ⲡⲓⲣⲱⲙⲓ ϩⲓϫⲉⲛ ⲡⲓ‎ⲙⲱⲓⲧ,ϧⲉⲛ
+translate,He's drinking the tea in a cup,`ϥ‎ⲥⲱ ⲙⲡⲓϣⲏⲓ ϧⲉⲛ ⲟⲩⲁⲫⲟⲧ,ϩⲓϫⲉⲛ
+-
+end_0
+
+
+start_1
+multichoice
+In front of,ϧⲁϫⲉⲛ,ϩⲓϫⲉⲛ,ϧⲉⲛ,ϧⲁⲧⲉⲛ
+At,ϧⲁⲧⲉⲛ,ϧⲁ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+-
+multichoice_img
+sky,cup,cat,laundry,table,bathroom,tea
+ⲫⲟⲣϣⲓ:table
+ⲁⲫⲟⲧ:cup
+ⲙⲁⲛϫⲱⲕⲉⲙ:bathroom
+ϣⲏⲓ:tea
+-
+multichoice
+The Door,ⲡⲓ‎ⲣⲟ,ϩⲓϫⲉⲛ,ϧⲉⲛ,ⲡⲓⲙⲉⲧⲕⲱⲧ
+-
+sentence
+translate,They are drinking the tea in front of the television,ⲥⲉ‎ⲥⲱ ⲙⲡⲓϣⲏⲓ ϧⲁϫⲉⲛ ⲡⲓⲑⲓⲗⲓϥⲍⲓⲟⲩⲛ,ⲧⲉⲛ‎ⲥⲱ,ⲧⲉⲧⲉⲛ‎ⲥⲱ
+translate,I'm at the door,ⲁⲛⲟⲕ ϧⲁⲧⲉⲛ ⲡⲓ‎ⲣⲟ,ⲡⲉ,ϩⲓϫⲉⲛ,ϯ‎ⲫⲟⲣϣⲓ,ⲧⲉⲧⲉⲛ‎ⲥⲱ
+-
+multichoice
+The Building,ⲡⲓⲙⲉⲧⲕⲱⲧ,ⲣⲟ,ϫⲱⲕⲉⲙ,ϯ‎ⲫⲟⲣϣⲓ
+The chair,ⲡⲓ‎ⲧⲟⲧⲥ,ⲡⲓⲙⲉⲧⲕⲱⲧ,ⲣⲟ,ϫⲱⲕⲉⲙ
+-
+sentence
+translate,We are in front of the building,ⲁⲛⲟⲛ ϧⲁϫⲉⲛ ⲡⲓⲙⲉⲧⲕⲱⲧ,ϯⲛⲟⲩ,ϧⲁⲧⲉⲛ,ϧⲉⲛ,ⲧⲉⲧⲉⲛ‎ⲥⲱ
+translate,I'm at the door,ⲁⲛⲟⲕ ϧⲁⲧⲉⲛ ⲡⲓ‎ⲣⲟ,ⲡⲉ,ϩⲓϫⲉⲛ,ϧⲁϫⲉⲛ
+translate,The child is by the chair,ⲡⲓⲁⲗⲟⲩ ϧⲁⲧⲉⲛ ⲡⲓ‎ⲧⲟⲧⲥ,ⲡⲉ,ϩⲓϫⲉⲛ,ϧⲁϫⲉⲛ
+-
+multichoice
+In front of,ϧⲁϫⲉⲛ,ϩⲓϫⲉⲛ,ϧⲉⲛ,ϧⲁⲧⲉⲛ
+At,ϧⲁⲧⲉⲛ,ϩⲓϫⲉⲛ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+-
+end_1
+
+
+start_2
+multichoice
+Inside,ⲉϧⲟⲩⲛ,ϧⲁ,ϧⲉⲛ,ϧⲁⲧⲉⲛ
+Below,ϧⲁ,ⲉϧⲟⲩⲛ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+Where,ⲑⲱⲛ,ϧⲁ,ϧⲉⲛ,ⲑⲁⲓ
+-
+multichoice_img
+sky,cup,cat,laundry,table,bathroom,tea,bed,dog
+ϭⲗⲟϫ:bed
+ⲟⲩϩⲟⲣ:dog
+-
+multichoice
+The Bed,ⲡⲓ‎ϭⲗⲟϫ,ϩⲓϫⲉⲛ,ⲡⲓ‎ⲣⲟ,ⲡⲓⲙⲉⲧⲕⲱⲧ
+-
+sentence
+translate,Come(pl) inside!,ⲁⲙⲱⲓⲛⲓ ⲉϧⲟⲩⲛ,ⲥⲉ‎ⲥⲱ,ⲙⲡⲓϣⲏⲓ,ϧⲁϫⲉⲛ
+translate,He is going inside the house,`ϥϣⲉⲛⲁϥ ⲉϧⲟⲩⲛ ⲡⲏⲓ,ϧⲁⲧⲉⲛ,ⲡⲓ‎ⲣⲟ,ⲡⲉ,ϩⲓϫⲉⲛ,`ⲥϣⲉⲛⲁⲥ
+translate,Where is the dog?,ⲑⲱⲛ ⲡⲉ ⲡⲓⲟⲩϩⲟⲣ,ⲡⲓⲁⲗⲟⲩ,ⲡⲓ‎ϭⲗⲟϫ,ϧⲁϫⲉⲛ
+translate,The dog is under the bed,ⲡⲓⲟⲩϩⲟⲣ ϧⲁ ⲡⲓ‎ϭⲗⲟϫ,ϧⲁⲧⲉⲛ,ⲡⲓ‎ⲣⲟ,ⲡⲉ,ϩⲓϫⲉⲛ,`ⲥϣⲉⲛⲁⲥ
+-
+multichoice
+The Paper,ⲡⲓ‎ϫⲱⲃⲓ,ⲣⲟ,ϫⲱⲕⲉⲙ,ⲡⲓϫⲱⲙ
+-
+sentence
+translate,The paper is under the book,ⲡⲓ‎ϫⲱⲃⲓ ϧⲁ ⲡⲓϫⲱⲙ,ϧⲁⲧⲉⲛ,ϧⲉⲛ
+-
+multichoice
+Kitchen,ⲙⲁⲛⲫⲓⲥⲓ,ϧⲁ,ⲙⲁⲛⲟⲩⲱⲙ,ⲑⲁⲓ
+-
+sentence
+translate,Where is the food?,ⲑⲱⲛ ⲡⲉ ⲡⲓ‎ⲟⲩⲱⲙ,ⲡⲓϫⲱⲙ,ⲡⲓ‎ⲙⲁⲛⲫⲓⲥⲓ,ϧⲁϫⲉⲛ
+answer,ⲑⲱⲛ ⲡⲉ ⲡⲓ‎ⲟⲩⲱⲙ,ⲡⲓ‎ⲟⲩⲱⲙ ⲉϧⲟⲩⲛ ⲡⲓ‎ⲙⲁⲛⲫⲓⲥⲓ,ⲡⲏⲓ,ⲙⲁⲛⲟⲩⲱⲙ,ϧⲁϫⲉⲛ
+-
+multichoice
+Inside,ⲉϧⲟⲩⲛ,ϧⲁ,ϧⲉⲛ,ϧⲁⲧⲉⲛ
+Below,ϧⲁ,ⲉϧⲟⲩⲛ,ϧⲉⲛ,ϧⲁϫⲉⲛ
+-
+end_2
+
+Todo: between: ⲟⲩⲧⲉ
+
+Dictionary
+Bed:ϭⲗⲟϫ
+Dog:ⲟⲩϩⲟⲣ
+[ma.en.jokam] Bathroom:ⲙⲁⲛϫⲱⲕⲉⲙ
+[phorshi] Table:ⲫⲟⲣϣⲓ
+[aphot] Cup:ⲁⲫⲟⲧ
+[shei] Tea (arabic word):ϣⲏⲓ
+[ou-kouji] A little:ⲟⲩⲕⲟⲩϫⲓ
+[shini] Question:ϣⲓⲛⲓ
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ba] (A copula):ⲡⲉ
+[(in)(t'h)ok] You:`ⲛⲑⲟⲕ
+[(in)(t'h)o] You:`ⲛⲑⲟ
+[woh] And:ⲟⲩⲟϩ
+[(di)]I :ϯ
+[ou] a :οⲩ
+[ep] The:`ⲫ
+[a-bay] `ⲉ= to, ⲡⲏⲓ=The Home (masc.): ̀ⲉⲡⲏⲓ
+[aihal] I'm going :ϯϩⲏⲗ
+[aishenai] I'm going :ϯϣⲉⲛⲏⲓ
+[(sh)aw] Cat :c
+[kami] Egypt/ Black (Land):ⲭⲏⲙⲓ
+[mai] Loving/Love - an Egyptian name:ⲙⲉⲓ
+[mina] an Egyptian kings name:ⲙⲏⲛⲁ
+ϫⲉⲙⲫⲉϩ:apple
+`ⲛⲑⲟϥ:he
+`ⲛⲑⲟⲥ:she
+ⲁⲛⲟⲛ:we
+ⲁⲛⲟⲕ:i
+`ⲛⲑⲱⲟⲩ:they
+`ⲛⲑⲟⲕ:you(m)
+`ⲥϩⲓⲙⲓ:woman
+ⲣⲱⲙⲓ:man
+`ⲛⲑⲟ:you(f)
+`ⲛⲑⲱⲧⲉⲛ:you(pl)
+ⲙⲁⲓ:mai
+-
