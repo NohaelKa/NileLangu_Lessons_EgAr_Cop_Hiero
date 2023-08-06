@@ -1,0 +1,108 @@
+#Letters 5
+#ش,غ,ل
+#
+---
+- Level_0: 
+  - audiochoice: 
+    - ش: ['ش', 'ص', 'غ']
+    - غ: ['غ', 'ف', 'ق']
+    - ل: ['ل', 'غ', 'ق']
+  - multichoice_img: 
+    - choices: ['work', 'cat_m', 'cat_f', 'noise', 'drums', 'weekend', 'home']
+    - بيت: home
+    - قط: cat_m
+    - قطة: cat_f
+    - شغل: work
+- Level_1: 
+  - multichoice: 
+    - London:
+      لندن: ['شغل', 'غلط', 'قط']
+    - Wrong:
+      غلط: ['قط', 'لندن', 'قطة']
+    - The:
+      ال: ['قط', 'شغل', 'لأ']
+    - Not:
+      مش: ['قط', 'شغل', 'لأ']
+  - write_it: 
+    - القط: ['ق', 'ف', 'ط', 'غ', 'ه', 'م', 'ا', 'ل', 'أ']
+    - شغل: ['ق', 'ل', 'غ', 'ط', 'ش', 'م', 'أ']
+    - غلط: ['ب', 'ط', 'ي', 'غ', 'ش', 'ا', 'ل', 'أ']
+    - لندن: ['ب', 'د', 'ي', 'ن', 'ه', 'ت', 'ا', 'ل', 'أ']
+  - sentence: 
+    - translate: How's work?
+      إزي الشغل: ['إزي', 'محمد', 'ماري', 'القط', 'شغل', 'لندن', 'الشغل']
+    - translate: How's the cat?
+      إزي القطة: ['إزي', 'محمد', 'ماري', 'قط', 'القطة', 'الشغل']
+    - translate: How's London?
+      إزي لندن: ['إزي', 'محمد', 'ماري', 'قط', 'القطة', 'لندن', 'الشغل']
+- Level_2: 
+  - multichoice: 
+    - Wrong:
+      غلط: ['شغل', 'ال', 'قط']
+    - 'No':
+      لأ: ['قط', 'ال', 'قطة']
+    - Not:
+      مش: ['قط', 'شغل', 'لأ']
+  - write_it: 
+    - لأ: ['ق', 'ف', 'ط', 'غ', 'ه', 'م', 'ا', 'ل', 'أ']
+    - مش: ['ق', 'ر', 'ش', 'م', 'ا', 'ل', 'أ']
+  - sentence: 
+    - translate: No the cat's not well
+      لأ القط مش كويس: ['لأ', 'القط', 'مش', 'كويس', 'قط', 'غلط', 'أيوه']
+    - translate: No that's not the cat
+      لأ ده مش القط: ['لأ', 'ده', 'مش', 'القط', 'قط', 'غلط', 'أيوه', 'قطَك']
+    - translate: Yes that's the(my) home
+      أيوه ده البيت: ['أيوه', 'ده', 'البيت', 'القط', 'لأ', 'قطِك']
+    - translate: Yes the cat's well
+      أيوه القط كويس: ['أيوه', 'القط', 'كويس', 'لأ', 'البيت']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[oTtak] Your cat (female cat. Addressing a male)', 'قطتَك']
+  - ['[oTtek] Your cat (female cat, Addressing a female)', 'قطتِك']
+  - ['[oTak] Your cat (male cat, Addressing a male)', 'قطَك']
+  - ['[oTtek] Your cat(male cat, Addressing a female)', 'قطِك']
+  - ['[oTty] My cat', 'قطتي']
+  - ['[oTa] Cat (female)', 'قطة']
+  - ['[oT] Cat (male)', 'قط']
+  - ['[oT] The cat (male)', 'القط']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[mt(ae)b] Tiring', 'متعب']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[elwyk] Week ', 'الويك']
+  - ['[end] end ', 'اند']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[Hlw] Nice | Sweet ', 'حلو']
+  - ['[l(ae)bt] I played', 'لعبت']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ktyr] a lot', 'كتير']
+  - ['[(ae)mlty)] You did (To female)', 'عملتي']
+  - ['[k(ae)dt] I sat', 'قعدت']
+  - ['[elbyt] The home', 'البيت']
+  - ['[byt] Home', 'بيت']
+  - ['[dw(sh)a] noise', 'دوشه']
+  - ['[t(ae)btny] Made me tired', 'تعبتني']
+  - ['[blyl] At night', 'بليل']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

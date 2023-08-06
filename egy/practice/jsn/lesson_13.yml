@@ -1,0 +1,123 @@
+#Lesson 12
+#When?, Today, Tomorrow..
+#إنهرده,بكره,إمتى,دلوقتي
+#
+---
+- Level_0: 
+  - multichoice: 
+    - Today:
+      إنهرده: ['بكره', 'دلوقتي', 'إمتى']
+    - When:
+      إمتى: ['بكره', 'إمبارح', 'إنهرده']
+  - sentence: 
+    - answer: إمتى ؟
+      عايز بلحه: ['بلحه', 'إنهرده', 'شغلي', 'جعان']
+  - multichoice: 
+    - Today:
+      إنهرده: ['بكره', 'دلوقتي', 'إمتى']
+    - When:
+      إمتى: ['بكره', 'إمبارح', 'إنهرده']
+    - Now:
+      دلوقتي: ['بكره', 'إمبارح', 'إمتى']
+  - sentence: 
+    - answer: إمتى ؟
+      عايز بلحه: ['بلحه', 'دلوقتي', 'شغلي', 'جعان']
+    - translate: I want a date now
+      أنا عايز بلحه دلوقتي: ['ده', 'بلحه', 'أنا عايز', 'شغلي', 'جعان', 'دلوقتي']
+- Level_1: 
+  - multichoice: 
+    - Today:
+      إنهرده: ['بكره', 'دلوقتي', 'إمتى']
+    - When:
+      إمتى: ['بكره', 'إمبارح', 'إنهرده']
+    - Tomorrow:
+      بكره: ['بكره', 'إمبارح', 'إنهرده']
+  - multichoice: 
+    - Tomorrow:
+      بكره: ['بكره', 'إمبارح', 'إنهرده']
+    - Not:
+      مش: ['عايز', 'تفاحه', 'بلحه']
+    - Now:
+      دلوقتي: ['بكره', 'إمبارح', 'إمتى']
+  - sentence: 
+    - answer: إمتى ؟
+      عايز بلحه: ['بلحه', 'بكره', 'شغلي', 'جعان']
+  - multichoice: 
+    - Now:
+      دلوقتي: ['بكره', 'إمبارح', 'إمتى']
+  - sentence: 
+    - answer: إمتى ؟
+      عايز بلحه: ['بلحه', 'بكره', 'شغلي', 'جعان']
+    - translate: Not today
+      tomorrow: ['مش إنهرده بكره', 'ده', 'بلحه', 'عايز', 'شغلي', 'مش', 'إنهرده', 'بكره', 'دلوقتي']
+    - translate: Not now
+      مش دلوقتي: ['ده', 'بلحه', 'عايز', 'شغلي', 'مش', 'إنهرده', 'بكره', 'دلوقتي']
+- Level_2: 
+  - multichoice: 
+    - Today:
+      إنهرده: ['بكره', 'دلوقتي', 'إمتى']
+    - When:
+      إمتى: ['بكره', 'إمبارح', 'إنهرده']
+    - Tomorrow:
+      بكره: ['إمتى', 'إمبارح', 'إنهرده']
+  - multichoice: 
+    - Not:
+      مش: ['عايز', 'تفاحه', 'بلحه']
+    - Now:
+      دلوقتي: ['بكره', 'إمبارح', 'إمتى']
+  - sentence: 
+    - answer: إمتى ؟
+      عايز بلحه: ['بلحه', 'بكره', 'شغلي', 'جعان']
+    - translate: Not tomorrow
+      Now: ['مش بكره إنهرده', 'ده', 'بلحه', 'عايز', 'شغلي', 'مش', 'إنهرده', 'بكره', 'دلوقتي']
+    - translate: Not today
+      مش إنهرده: ['ده', 'بلحه', 'عايز', 'شغلي', 'مش', 'إنهرده', 'بكره', 'دلوقتي']
+- Dictionary:
+  - ["[dlwa'ti] Now", 'دلوقتي']
+  - ['[bkra] Tomorrow', 'بكره']
+  - ['[enhrda] Today', 'إنهرده']
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[(ae)ayz] (I) want (female speaker)', 'عايز']
+  - ['[(ae)ayza] (I) want (male speaker)', 'عايزه']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[m(sh)] Not', 'مش']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[blHa] A date (fruit)', 'بلحه']
+  - ['[tfaHa] An apple', 'تفاحه']
+  - ['[oTy] A bag', 'شنطه']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[elwyk] Week ', 'الويك']
+  - ['[end] end ', 'اند']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[Hlw] Nice | Sweet ', 'حلو']
+  - ['[l(ae)bt] I played', 'لعبت']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ktyr] a lot', 'كتير']
+  - ['[(ae)mlty)] You did (To female)', 'عملتي']
+  - ['[k(ae)dt] I sat', 'قعدت']
+  - ['[elbyt] The home', 'البيت']
+  - ['[dw(sh)a] noise', 'دوشه']
+  - ['[t(ae)btny] Made me tired', 'تعبتني']
+  - ['[blyl] At night', 'بليل']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

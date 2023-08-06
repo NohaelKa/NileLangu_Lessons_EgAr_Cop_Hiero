@@ -1,0 +1,200 @@
+© NileLangu 2021
+
+Letters 1
+ا,أ,ي,ه,د,ب
+
+دا,دي,هيَ,يا,ايه,أب,بابا,باب,ب,
+
+
+start_x
+multichoice_img
+work_m,mobile,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2,ball
+قطَك:boy_cat_m
+-
+audiochoice
+د,ر,ا
+-
+multichoice
+دا,This (m),What,My,I
+-
+sentence
+translate,Your (m) mom is so kind,والدتَك طيبة أوي,والدتَك,لطيف,طيبة,محمد,أوي,لطيفة
+-
+write_it
+كرة,ك,ر,ت,ك,ة,ب
+-
+end_x
+
+start_0
+audiochoice
+ه,م,د
+ي,س,د
+ا,ب,أ
+أ,ب,ا
+ب,ت,ن
+د,ر,ا
+-
+audiochoice
+ه,م,د
+ي,س,د
+ا,ب,أ
+أ,ب,ا
+ب,ت,ن
+د,ر,ا
+-
+end_0
+
+
+
+start_1
+audiochoice
+د,ر,ا
+ه,م,د
+ي,ب,د
+-
+multichoice
+دا,This (m),What,My,I
+دي,This (f),Oh,My,I
+-
+audiochoice
+ا,ب,أ
+يَ,ي,يا
+ه,م,د
+-
+multichoice
+(Addressing someone),يا,دا,دي,ايه
+This (m),دا,يا,ايه,دي
+This (f),دي,هيَ,دا,ايه
+She,هيَ,يا,دا,دي
+-
+write_it
+يا,ا,ي
+هيَ,ا,ي,يَ,ه
+دا,ي,يَ
+دي,يَ,ه
+-
+audiochoice
+ا,ب,أ
+ي,ب,د
+ه,ب,د
+-
+write_it
+ايه,ا,ي,ه
+دا,ا,د,ي,ه
+-
+multichoice
+ايه,What,This (m),My,I
+-
+audiochoice
+دا,دي,دول
+دي,دا,دول
+ايه,يا,دي
+يا,أي,دي
+هيَ,ايه,دي
+-
+sentence
+translate,What's this (m),ايه دا,ايه,دا
+translate,What's this (f),ايه دي,ايه,دي
+-
+end_1
+
+
+
+start_2
+audiochoice
+أ,ب,ا
+ب,ت,ن
+ا,ب,أ
+-
+audiochoice
+أب,بابا,باب
+باب,بابا,أب
+بابا,باب,أب
+-
+multichoice
+أب,A father,What,A door,Dad
+باب,A door,A father,Dad,What
+بابا,Dad,What,A father,A door
+ايه,What,A door,A father,Dad
+ب,With,A door,What,Dad
+-
+write_it
+أب,أ,ب,ا
+باب,أ,ب,ا
+بابا,ب,أ,ا
+-
+multichoice
+That's a father,دا أب,دا باب,دا بابا,ايه دا
+That's a door,دا باب,دا بابا,دا أب,ايه دا
+That's dad,دا بابا,دا باب,دا أب,ايه دا
+-
+audiochoice
+أب,بابا,باب
+باب,بابا,أب
+بابا,باب,أب
+-
+sentence
+translate,That's dad,دا بابا,دا,باب,أب,بابا
+translate,That's a door,دا باب,دا,باب,أب,بابا
+translate,That's a father,دا أب,دا,باب,أب,بابا
+-
+end_2
+
+
+
+start_3
+audiochoice
+ب,أ,م
+د,ه,ا
+ه,ب,د
+ي,د,ا
+ا,ب,أ
+أ,ب,ا
+-
+multichoice
+a door,باب,أب,أنا,بابا
+Dad,بابا,أب,أنا,باب
+This,دا,أم,ماما,باب
+What,ايه,أم,ماما,باب
+This is a door,دا باب,ايه دا,ماما,ايه
+This is dad,دا بابا,دا باب,ماما,ايه
+A father,أب,باب,أم,ايه
+-
+write_it
+باب,أ,ب,ا
+يا,ا,ي
+هيَ,ا,ي,يَ,ه
+ايه,ا,ي,ه
+-
+sentence
+translate,What's this (m),ايه دا,ايه,دا
+-
+sentence
+answer,ايه دا؟,دا باب,دا,باب,ماما,أم
+translate,That's dad,دا بابا,دا,باب,أب,بابا
+translate,That's a door,دا باب,دا,باب,أب,بابا
+translate,That's a father,دا أب,دا,باب,أب,بابا
+-
+end_3
+
+
+Dictionary
+[b] With (objects):ب
+[baba] Dad:بابا
+['ab] A father:أب
+[bab] A door:باب
+[eh] What:ايه
+[hya] She:هيَ
+[ya] (Addressing someone):يا
+[dh] This (m):دا
+[di] This (f):دي
+ايه دا/دي:what's this
+[mama] Mom:ماما
+[ana] I | Me:أنا
+[Om] A Mother:أم
+دي | دا | دول:that's
+باب:door
+أب:father
+دي | دا | دول:this
+بابا:dad
+-

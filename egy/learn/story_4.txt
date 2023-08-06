@@ -1,0 +1,90 @@
+What foods do we have?
+
+Full list of things to learn:
+
+
+Title
+Listen to the dialog between Mary and Ahmed
+
+Dialog
+أنا جعانة، عندنا أكل؟
+زي ايه؟
+-
+في لبن؟
+ايوه في
+-
+عندنا جبنه؟
+ايوه عندنا
+-
+في لحمه؟
+ايوه في
+-
+عندنا دقيق؟
+لأ معندناش
+-
+في رز؟
+لأ مفيش
+-
+ممكن تشتري رز، و دقيق؟
+ايوه ممكن
+-
+...
+جبت الحاجه، تحبي نعمل ايه؟
+-
+خضار بس، أصلي عامله رچيم
+...
+-
+end
+
+
+Slideshow
+4_2,4_3,4_4,4_5,4_6,4_7,4_8,4_9,4_9
+-
+AudioSequence
+4_1,4_2,4_3,4_4,4_5,4_6,4_7,4_8,4_9
+-
+audioTrack
+yes
+-
+
+Dictionary
+[gae-a-na] Hungry (f):جعانة
+[akl] Food:أكل
+[lbn] Milk:لبن
+[lHma] Meat:لحمه
+[d'ee'] Flour:دقيق
+[gebna] Cheese:جبنه
+[roz] Rice:رز
+[Khodar] Vegetables:خضار
+[aywa] Yes:ايوه
+[la] No:لأ
+[t(sh)try] To buy:تشتري
+[Andena] We have:عندنا
+[mandna(sh)] We don't have:معندناش
+[mmkn] It's possible:ممكن
+[zy] Like:زي
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (m):كويس
+[Kwysa] Well (f):كويسه
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[mHmd] A name:محمد
+[nfrt] Egyptian name:نفرت
+[enti] You (f):إنتِ
+[gbt] I got:جبت
+[elHaga] The things:الحاجه
+[tHbi] You (f) would like:تحبي
+[nEml] We do:نعمل
+[bs] Only:بس
+[aSli] (It's just that I):أصلي
+[Aamla] I'm (f) doing:عامله
+[rjim] Diet (French):رچيم
+[w] And:و
+-
+
+
+

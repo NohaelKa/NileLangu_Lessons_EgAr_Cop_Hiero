@@ -1,0 +1,37 @@
+<bold> Lesson Number 1 "Uniliterals"
+
+Welcome to lesson 1 of the "r n kmt" which literally translates to "mouth of Egypt", but what is really means is the Language of Egypt.
+
+This course will be focusing on Middle Egyptian, and its content is taken from "Egyptian Grammar" by Alan Gardiner.
+Middle Egyptian, sometimes referred to as Classical Egyptian, refers to the language spoken at Egypt from the beginning of the second millennium BCE to roughly 1300 BCE, or midway through the New Kingdom.
+
+In this lesson you will learn uniliterals, which means a symbol consisting of or involving one sound only.
+Take care that Egyptian uniliterals do not function as "letters", depending on usage, the hieroglyph  may carry meaning as well.
+For example 𓂋 is a depiction of a mouth and is pronounced "r" which could be used as a letter, however if you place this symbol "𓏺" next to it, then 𓂋𓏺 it will mean mouth. For now you may only focus on the sounds the symbols make and their appearance.
+
+In this lesson you will learn the following uniliterals:
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
+
+<bold> The following is a rough guide to the pronunciation for this lesson:
+
+𓅂^§: Like an English "A" as
+in "Art", depicts a Vulture
+
+𓂝^§: Like the Arabic "ع"
+depicts a Forearm
+
+𓆑^§: English "f",
+depicts a Horned viper
+
+𓇋^§: English "y" or "i",
+depicts a Reed
+
+𓐍^§: Similar to a Spanish "j",
+depicts a sieve
+
+𓆓^§: English "j",
+depicts a cobra
+
+𓈖^§: English "n",
+depicts Water
+

@@ -1,0 +1,237 @@
+© NileLangu 2021
+
+Letters 2
+ر,ز,م,ك,ن,إ
+
+
+أم,ماما,ماري,أم,مين,إزيِك,إزيَك,إزي
+
+مين دي,إزي بابا,بكام دي,
+
+
+start_0
+audiochoice
+م,ر,د
+ك,ح,د
+ن,ت,ا
+ر,ز,د
+ز,ر,ذ
+إ,أ,ا
+يِ,ي,يَ
+-
+audiochoice
+م,ر,د
+ك,ح,د
+ن,ت,ا
+ر,ز,د
+ز,ر,ذ
+إ,أ,ا
+يِ,ي,يَ
+-
+end_0
+
+
+start_1
+audiochoice
+م,ر,د
+ا,ز,د
+أ,ز,ا
+-
+audiochoice
+أم,ماما,مين
+ماما,أم,دي
+-
+audiochoice
+م,ر,د
+ر,ز,د
+-
+audiochoice
+ماري,ماما,أم
+-
+multichoice
+ماما,Mom,Mary,A mother,Dad
+أم,A mother,Mary,Mom,Dad
+ماري,Mary,Mom,A mother,Dad
+-
+write_it
+ماري,م,ا,ر,ي,ز,أ
+أم,ا,أ,م,ه
+ماما,ا,م,أ,ه
+-
+audiochoice
+ن,ه,ا
+ي,ه,ا
+-
+audiochoice
+مين,ماما,دي
+دي,ماما,مين
+-
+multichoice
+مين,Who,Mary,A mother,What
+-
+write_it
+مين,م,ي,ن,ت,ب,ه
+-
+multichoice
+Who's this (f)?,مين دي,مين دا,دي ماما,دا بابا
+Who's this (m)?,مين دا,مين دي,دي ماما,دا بابا
+This is a mother,دي أم,ماما,دي ماما,بابا
+This is mom,دي ماما,دي أم,دي,باب
+This (f),دي,أم,ماما,باب
+-
+sentence
+answer,ايه دا؟,دا باب,دا,باب
+answer,مين دي؟,دي ماري,دي,دا,ماري
+answer,مين دي؟,دي ماما,دي,دا,ماما
+answer,مين دا؟,دا بابا,دي,دا,بابا
+-
+end_1
+
+ز,ك,إ
+start_2
+audiochoice
+ز,ر,ذ
+ك,ح,د
+إ,أ,ا
+م,ر,ه
+-
+audiochoice
+إزي,إزيِك,إزيَك
+كام,إزيَك,إزي
+-
+multichoice
+إزي,How is,What,Mom,Dad
+-
+multichoice
+How is Mom?,إزي ماما,إزي ماري,دي ماما,إزي بابا
+How is Mary?,إزي ماري,دي ماري,إزي ماما,دا بابا
+How is Dad?,إزي بابا,ده بابا,دا بابا,إزي ماما
+-
+write_it
+كام,م,ز,يَ,ك,ي,ا,د,يِ
+إزي,إ,ز,يَ,ك,ي,ا,د,يِ
+-
+multichoice
+كام,How much,How is,Mom,Dad
+ب,With,A door,What,Dad
+-
+multichoice
+بكام,With how much (money)?,How is,Mom,Dad
+-
+audiochoice
+ز,ر,ذ
+ك,ح,د
+يَ,ي,يا
+يِ,يَ,ي
+-
+audiochoice
+إزيَك,إزيِك,إزي
+إزيِك,إزيَك,إزي
+-
+sentence
+translate,How are you (m)?,إزيَك,إزي,إزيِك,ماما
+translate,How are you (f)?,إزيِك,إزي,بابا,باب,إزيَك
+-
+write_it
+إزيَك,إ,ي,ا,د,يِ
+إزيِك,إ,ي,ا,د,يِ
+-
+sentence
+translate,How is Dad?,إزي بابا,إزي,بابا,باب,ماما
+translate,How is Mom?,إزي ماما,إزي,ماما,بابا,أم
+translate,(with) How much is this(f)?,بكام دي,بكام,دي,باب,ماما
+translate,(with) How much is this(m)?,بكام دا,بكام,دي,باب,ماما
+-
+multichoice
+(Addressing someone),يا,دا,دي,ايه
+-
+sentence
+translate,How are you Mary?,إزيِك يا ماري,إزيِك,ماري,إزيَك,يا
+-
+sentence
+translate,How are you (m)?,إزيَك,إزي,إزيِك,ماما
+translate,How are you (f)?,إزيِك,إزي,بابا,باب,إزيَك
+-
+end_2
+
+ر,ز,م,ك,ن,إ
+
+start_3
+audiochoice
+م,ر,د
+ر,ز,د
+ن,ه,ا
+يَ,ي,يا
+يِ,يَ,ي
+ك,ح,د
+-
+audiochoice
+أم,ماما,مين
+ماري,ماما,أم
+ماما,أم,دي
+مين,أم,دي
+-
+multichoice
+Mom,ماما,أم,بابا,دي
+A mother,أم,ماما,دي,أب
+Mary,ماري,ماما,بابا,أم
+-
+write_it
+ماري,م,ا,ر,ي,ز,أ
+أم,ا,أ,م,ه
+ماما,ا,م,أ,ه
+مين,م,ي,ن,ت,ب,ه
+-
+audiochoice
+مين,ماما,دي
+دي,ماما,مين
+-
+multichoice
+Who,مين,ايه,دي,باب
+-
+multichoice
+Who's this (f)?,مين دي,مين دا,دي ماما,دا بابا
+Who's this (m)?,مين دا,مين دي,دي ماما,دا بابا
+This is Mom,دي ماما,دي أم,دي,باب
+This is Dad,دا بابا,دي أم,دي,باب
+How is Dad?,إزي بابا,دي ماما,دا بابا,إزي ماما
+-
+write_it
+إزيِك,إ,ز,يَ,ك,ي,ا,د,يِ
+إزي,إ,ز,يَ,ك,ي,ا,د,يِ
+-
+sentence
+answer,مين دا؟,دا بابا,دي,دا,بابا
+answer,مين دي؟,دي ماما,دي,دا,ماما
+translate,How is Mary?,إزي ماري,إزي,ماري,ماما
+translate,How are you Mary?,إزيِك يا ماري,إزيِك,ماري,إزيَك,يا
+-
+end_3
+
+
+Dictionary
+[meen] Who:مين
+[bab] Door:باب
+[eh] What:ايه
+[dh] This (m):دا
+[di] This (f):دي
+[ezyak] How are you (m)?:إزيَك
+[ezyek] How are you (f)?:إزيِك
+[ezy] How is:إزي
+[mHmd] Mohamed (name):محمد
+[mary] Mary (name):ماري
+[mama] Mom:ماما
+[Om] A Mother:أم
+[baba] Dad:بابا
+[ya] (Used to address someone):يا
+['ab] A father:أب
+[kem] How much:كام
+[maken] place:بكام
+دي | دا | دول:that's
+باب:door
+أب:father
+دي | دا | دول:this
+بابا:dad
+أم:mother
+ماما:mom
+-

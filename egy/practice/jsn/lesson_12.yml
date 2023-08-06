@@ -1,0 +1,126 @@
+#Lesson 11
+#I Want/ I Don't Wan't
+#عايز, عايزه, بلحة, تفاحة,مش
+#
+#
+---
+- Level_0: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice']
+    - تفاحة: one_apple
+    - بلحة: one_date
+    - شنطه: bag
+  - multichoice: 
+    - A date:
+      بلحة: ['مش', 'تفاحة', 'شنطه']
+    - An apple:
+      تفاحة: ['شنطه', 'عايز', 'بلحة']
+    - A bag:
+      شنطه: ['عايز', 'مش', 'بلحة']
+    - Not:
+      مش: ['عايز', 'تفاحة', 'بلحة']
+    - I want (male speaker):
+      عايز: ['شنطه', 'مش', 'بلحة']
+    - I want (male speaker):
+      أنا عايز: ['أنا جعان', 'أنا مش عايز', 'شنطه']
+    - I don't want (male speaker):
+      أنا مش عايز: ['أنا جعان', 'قطي', 'أنا عايز']
+  - sentence: 
+    - translate: I want a date
+      عايز بلحة: ['ده', 'بلحة', 'عايز', 'شغلي', 'جعان', 'دي']
+    - translate: I want a bag
+      عايز شنطه: ['ده', 'بلحة', 'عايز', 'شغلي', 'جعان', 'شنطه']
+    - translate: I don't want
+      مش عايز: ['ده', 'بلحة', 'عايز', 'مش', 'جعان', 'شنطه']
+- Level_1: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice']
+    - تفاحة: one_apple
+    - بلحة: one_date
+    - شنطه: bag
+  - multichoice: 
+    - A date:
+      بلحة: ['عايز', 'تفاحة', 'شنطه']
+    - An apple:
+      تفاحة: ['شنطه', 'عايز', 'بلحة']
+    - A bag:
+      شنطه: ['عايز', 'تفاحة', 'بلحة']
+    - I want (female speaker):
+      عايزه: ['شنطه', 'عايز', 'بلحة']
+    - I want (female speaker):
+      أنا عايزه: ['أنا جعان', 'أنا عايز', 'شنطه']
+  - sentence: 
+    - translate: I want this
+      عايزه ده: ['ده', 'بلحة', 'عايزه', 'جعان']
+    - translate: I want an apple
+      عايزه تفاحة: ['ده', 'بلحة', 'عايزه', 'تفاحة', 'دي']
+    - translate: I don't want
+      مش عايزه: ['ده', 'بلحة', 'عايزه', 'مش', 'جعان', 'شنطه']
+- Level_2: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice']
+    - تفاحة: one_apple
+    - بلحة: one_date
+    - شنطه: bag
+  - multichoice: 
+    - This:
+      ده: ['عايز', 'تفاحة', 'بلحة']
+    - This:
+      دي: ['عايز', 'تفاحة', 'بلحة']
+    - I want (female speaker):
+      عايزه: ['شنطه', 'عايز', 'بلحة']
+    - I want (male speaker):
+      عايز: ['شنطه', 'تفاحة', 'عايزه']
+  - sentence: 
+    - translate: I want this
+      عايزه ده: ['ده', 'بلحة', 'عايزه', 'جعان']
+    - translate: I want this
+      عايز دي: ['دي', 'بلحة', 'عايز', 'شغلي', 'جعان', 'شنطه']
+    - translate: I don't want this
+      مش عايزه دي: ['مش', 'بلحة', 'عايزه', 'دي', 'جعان', 'شنطه']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[(ae)ayz] (I) want (female speaker)', 'عايز']
+  - ['[(ae)ayza] (I) want (male speaker)', 'عايزه']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[blHa] A date (fruit)', 'بلحة']
+  - ['[tfaHa] An apple', 'تفاحة']
+  - ['[oTy] A bag', 'شنطه']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[elwyk] Week ', 'الويك']
+  - ['[end] end ', 'اند']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[Hlw] Nice | Sweet ', 'حلو']
+  - ['[l(ae)bt] I played', 'لعبت']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ktyr] a lot', 'كتير']
+  - ['[(ae)mlty)] You did (To female)', 'عملتي']
+  - ['[k(ae)dt] I sat', 'قعدت']
+  - ['[elbyt] The home', 'البيت']
+  - ['[dw(sh)a] noise', 'دوشه']
+  - ['[t(ae)btny] Made me tired', 'تعبتني']
+  - ['[blyl] At night', 'بليل']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

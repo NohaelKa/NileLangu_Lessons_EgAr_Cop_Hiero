@@ -1,0 +1,179 @@
+© NileLangu 2021
+
+You have free time?
+
+ علشان,أيوه,لأ
+
+الأوضة,فاضي,مشغول,علشان,فاضية,مشغولة,الحمام,
+
+
+start_0
+multichoice
+Yes,أيوه,فاضي,أنا,إنتو
+Yes,اه,فاضي,أنا,لأ
+No,لأ,اه,ماري,أيوه
+-
+multichoice
+Available (m),فاضي,مشغول,مدة,ساعة
+Available (f),فاضية,مشغولة,لمدة‏,ساعة
+Duration,مدة,مشغولة,عشر,لمدة‏
+For a duration of,لمدة‏,ساعة,مدة,فاضية
+One hour,ساعة,مشغولة,مدة,فاضية
+-
+write_it
+فاضي,ف,ا,ض,ي
+بعد ساعة,س,ا,ع,ة,ب,د
+-
+sentence
+translate,أنا فاضي,I(m) have available time,playing,working
+translate,محمد فاضي,Mohamed has available time,Mohamed,working,I have,has,I'm
+translate,ماري فاضية,Mary has available time,playing,working,I have,has,Mary
+translate,I'm available(m) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
+translate,I'm available(m) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
+-
+multichoice
+When,إمتى,كمان,مدة,ساعة
+After,بعد,لمدة‏,مدة,إمتى
+-
+sentence
+translate,فاضية إمتى؟,When are you available,playing,available,working,I have,I'm,When,are,you
+translate,بعد ساعة,After one hour,available time,working,I have,I am,After,one,hour
+-
+sentence
+answer,فاضية إمتى يا نهى؟,بعد ساعة,بعد,ساعة,أنا,أهلاً,إنتو,عشر
+question,فاضي بعد ساعة,فاضية,مدة,ساعة,فاضية,إمتى,يا,محمد
+answer,إنتَ فاضي؟(You are available in one hour),أيوه أنا فاضي بعد ساعة,أيوه,أنا فاضي,أنا  فاضية,أهلاً,إنتو,بعد,ساعة
+answer,أنتِ فاضية يا مي بعد ساعة؟,أه فاضية,اه,فاضية,أنا فاضي,أهلاً
+-
+end_0
+
+
+
+start_1
+multichoice
+Because,علشان,فاضي,أنا,هيَ
+Busy(m),مشغول,فاضي,أنا,هيَ
+Busy(m),مشغولة,فاضية,ماري,هيَ
+-
+multichoice_img
+work_m,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2,bathroom,clean
+بشتغل:work_m
+clean:بنضف
+-
+multichoice
+I'm working,بشتغل,بنضف,باكل,بلعب درامز
+I'm cleaning,بنضف,بلعب درامز,بشتغل,بطبخ
+-
+multichoice_img
+work_m,work_f,cat_f,cat_m,noise,drums,home,boy_cat_f,boy_cat_m,book2,bathroom
+الحمام:bathroom
+-
+multichoice
+الأوضة,The Room,The Kitchen,The Garden,The Bathroom
+الحمام,The Bathroom,The Kitchen,The Garden,The Room
+-
+multichoice
+Today,النهرده,دلوقتي,بُكرا,رياضة
+Now,دلوقتي,النهرده,بُكرا,بطبخ
+-
+sentence
+answer,أنتِ فاضية النهرده؟ (You are busy cleaning the room)لأ أنا مشغولة علشان بنضف الأوضة,لأ,أنا مشغولة,علشان,بنضف,الأوضة
+translate,I'm busy(m) because I'm working(m) now,مشغول علشان بشتغل دلوقتي,مشغول,علشان,بشتغل,دلوقتي,بلحة,كرة,شنطة,بلعب
+translate,I'm working now,بشتغل دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working today,بشتغل النهرده,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+translate,I'm busy because I'm working today,مشغول علشان بشتغل النهرده,بشتغل,بلحة,كرة,النهرده,دلوقتي,شنطة,بلعب
+-
+sentence
+translate,I'm not available because I'm cleaning the room,مش فاضية علشان بنضف الأوضة,علشان,بلحة,دلوقتي,بنضف,مش,فاضية,الأوضة,بلعب
+translate,I'm cleaning the room,بنضف الأوضة,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+translate,I'm busy because I'm cleaning the bathroom,مشغولة علشان بنضف الحمام,علشان,بلحة,دلوقتي,بنضف,مشغولة,فاضية,الأوضة,الحمام
+-
+multichoice
+Because,علشان,فاضي,أنا,هيَ
+Busy(m),مشغول,فاضي,علشان,فاضية
+Busy(f),مشغولة,فاضية,أيوه,هيَ
+-
+end_1
+
+
+start_2
+multichoice
+I'm studying,بذاكر,بنضف,باكل,بقرأ
+I'm reading,بقرأ,بلعب درامز,بذاكر,بتفرج
+I'm watching,بتفرج,بقرأ,بذاكر,بطبخ
+I'm watching the,بتفرج على,بقرأ حاجة,بذاكر,بشتغل
+-
+multichoice
+Today,النهرده,دلوقتي,بُكرا,رياضة
+Now,دلوقتي,النهرده,بُكرا,بطبخ
+Because,علشان,فاضي,أنا,هيَ
+Or not,ولا لأ,ايه,لأ,مين دي
+-
+sentence
+answer,إنتَ فاضي النهرده؟ (You are busy studying arabic),لأ مشغول علشان بذاكر عربي,لأ,مشغول,علشان,بتفرج,بذاكر,عربي,نوبي,مشغولة,أنا فاضية
+answer,أنتِ فاضية ولا لأ؟  (You are busy watching TV),لأ مشغولة علشان بتفرج على التليفزيون,لأ,بقرأ,مشغولة,علشان,بذاكر,بتفرج,على,التليفزيون
+answer,إنتَ فاضي ولا لأ؟  (You are busy reading a book),لأ مشغول علشان بقرأ كتاب,لأ,بقرأ,مشغولة,علشان,بذاكر,بتفرج,على,بقرأ,كتاب
+-
+sentence
+translate,I'm working now,بشتغل دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working today,بشتغل النهرده,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+translate,I'm busy because I'm working today,مشغول علشان بشتغل النهرده,بشتغل,بلحة,كرة,النهرده,دلوقتي,شنطة,بلعب
+-
+sentence
+translate,I'm not available because I'm cleaning the room,مش فاضية علشان بنضف الأوضة,علشان,بلحة,دلوقتي,بنضف,مش,فاضية,الأوضة,بلعب
+translate,I'm cleaning the room,بنضف الأوضة,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+translate,I'm not available because I'm cleaning the bathroom,مش فاضية علشان بنضف الحمام,علشان,بلحة,دلوقتي,بنضف,مش,فاضية,الأوضة,الحمام
+-
+sentence
+translate,فاضية إمتى؟,When are you available,playing,available time,working,I have,I am,When,are,you
+translate,بعد ساعة,After one hour,available time,working,I have,I am,After,one,hour
+answer,فاضية إمتى يا نهى؟,بعد ساعة,بعد,ساعة,أنا,أهلاً,إنتو,عشر
+answer,إنتَ فاضي؟(You are available in one hour),أيوه أنا فاضي بعد ساعة,أيوه,أنا فاضي,أنا  فاضية,أهلاً,إنتو,بعد,ساعة
+-
+end_2
+
+
+Dictionary
+[bazaker] I'm studying:بذاكر
+[ba'-ra] I'm reading:بقرأ
+[bat-fa-rag] I'm watching:بتفرج
+[ae-la] On:على
+[wal-la] Or:ولا
+[baed] After:بعد
+[saea] One hour:ساعة
+[bakl] I'm eating:باكل
+[b(sh)t(gh)l] I'm working:بشتغل
+[b(ae)ml] (I'm exercising) I'm doing..:بعمل
+[bt(ae)mli] You're doing (to a female):بتعملي
+[bt(ae)ml] You're doing (to a male):بتعمل
+[ryaDa] (I'm exercising) ..exercise:رياضة
+[bl(ae)b] I'm playing:بلعب
+[btb(kh)] I'm cooking:بطبخ
+[bnam] I'm falling asleep:بنام
+[bnDf] I'm cleaning:بنضف
+[fadi] Available / Empty (m):فاضي
+[fadya] Available / Empty (f):فاضية
+[mashghoul] Busy (m):مشغول
+[mashghoula] Busy (f):مشغولة
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[aywa] Yes:أيوه
+[la] No:لأ
+[entu] You (pl) :إنتو
+[mary] A Name:ماري
+[emta] When:إمتى
+[ya] (Used to address someone):يا
+[mHmd] A Name:محمد
+[heya] She (is):هيَ
+Today:النهرده
+[dlwa'ti] Now:دلوقتي
+[bokra] Tomorrow:بُكرا
+[balaHa] a Date:بلحة
+[kora] Ball:كرة
+[shanTa] a Bag:شنطة
+[msh] Not:مش
+[aerabi] Arabic:عربي
+[nubi] Nubian:نوبي
+-

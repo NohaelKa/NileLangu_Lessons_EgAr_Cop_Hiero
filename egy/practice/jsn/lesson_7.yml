@@ -1,0 +1,113 @@
+#Greetings 1
+#صباح الخير، صباح النور، مساء الخير، مساء النور،سلام
+#الصبح، بعد الضهر، بليل
+#
+---
+- Level_0: 
+  - multichoice: 
+    - The goodness:
+      الخير: ['النور', 'مساء', 'أوي', 'سلام']
+    - Morning:
+      صباح: ['الخير', 'مساء', 'الخير', 'سلام']
+    - Evening:
+      مساء: ['الخير', 'مساء', 'الخير', 'سلام']
+    - Good Morning:
+      صباح الخير: ['مساء الخير', 'مساء', 'الخير', 'سلام']
+    - Good Evening:
+      مساء الخير: ['صباح الخير', 'مساء', 'الخير', 'سلام']
+  - multichoice_img: 
+    - choices: ['morning', 'afternoon', 'night', 'sleep', 'egy']
+    - صباح الخير: morning
+    - مساء الخير: afternoon
+    - مساء الخير: night
+  - sentence: 
+    - translate: Good Morning
+      صباح الخير: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+    - translate: Good Evening
+      مساء الخير: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+- Level_1: 
+  - multichoice: 
+    - The light:
+      النور: ['الخير', 'مساء', 'أوي', 'سلام']
+    - Morning of the:
+      صباح ال: ['الخير', 'مساء', 'الخير', 'سلام']
+    - Evening of the:
+      مساء ال: ['الخير', 'مساء', 'الخير', 'سلام']
+    - Good Morning (Response):
+      صباح النور: ['مساء الخير', 'مساء', 'الخير', 'صباح الخير']
+    - Good Evening (Response):
+      مساء النور: ['صباح الخير', 'مساء', 'الخير', 'مساء الخير']
+  - sentence: 
+    - answer: صباح الخير
+      صباح النور: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+    - answer: مساء الخير
+      مساء النور: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+- Level_2: 
+  - multichoice: 
+    - Bye (Be at Peace):
+      سلام: ['صباح الخير', 'صباح الخير', 'مساء الخير']
+    - The Morning:
+      الصبح: ['بليل', 'بعد الضهر', 'مساء الخير']
+    - The Afternoon:
+      بعد الضهر: ['صباح الخير', 'الصبح', 'بليل']
+    - (in) The Night/Evening:
+      بليل: ['صباح الخير', 'الصبح', 'بعد الضهر']
+  - multichoice_img: 
+    - choices: ['morning', 'afternoon', 'night', 'sleep', 'egy']
+    - الصبح: morning
+    - بعد الضهر: afternoon
+    - بليل: night
+  - sentence: 
+    - answer: صباح الخير
+      صباح النور: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+    - answer: مساء الخير
+      مساء النور: ['مساء', 'صباح', 'الخير', 'سلام', 'النور', 'أوي']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[sbaH] Morning', 'صباح']
+  - ['[el(kh)yr] The Good', 'الخير']
+  - ['[elnur] The light', 'النور']
+  - ["[msa'] Evening", 'مساء']
+  - ['[elSbH] The Morning', 'الصبح']
+  - ['[b(ae)d] After', 'بعد']
+  - ['[eldhr] The Noon', 'الظهر']
+  - ['[blyl] At night', 'بليل']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[oTtk] Your cat', 'قطتَك']
+  - ['[oTty] My cat', 'قطتي']
+  - ['[oTa] Cat (female)', 'قطه']
+  - ['[oT] Cat (male)', 'قط']
+  - ['[oT] The cat (male)', 'القط']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[mt(ae)b] Tiring', 'متعب']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[elwyk] Week ', 'الويك']
+  - ['[end] end ', 'اند']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[Hlw] Nice | Sweet ', 'حلو']
+  - ['[(ae)mlty)] You did (To female)', 'عملتي']
+  - ['[k(ae)dt] I sat', 'قعدت']
+  - ['[elbyt] The home', 'البيت']
+  - ['[dw(sh)a] noise', 'دوشه']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

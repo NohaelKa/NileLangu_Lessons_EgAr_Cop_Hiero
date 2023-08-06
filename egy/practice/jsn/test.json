@@ -1,0 +1,169 @@
+{
+    "lessonID": 1,
+    "lesson": [
+        {
+            "levelID": 0,
+            "exerciceID": 1,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u062f",
+                "listofvalues": [
+                    "\u062f",
+                    "\u0631",
+                    "\u0627"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 2,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0647",
+                "listofvalues": [
+                    "\u0647",
+                    "\u0645",
+                    "\u062f"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 3,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u064a",
+                "listofvalues": [
+                    "\u064a",
+                    "\u0628",
+                    "\u062f"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "\u062f\u0647",
+                "answer": "This (m)",
+                "listofvalues": [
+                    "What",
+                    "My",
+                    "I"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

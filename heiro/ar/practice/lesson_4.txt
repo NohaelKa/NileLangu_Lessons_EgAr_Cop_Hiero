@@ -1,0 +1,51 @@
+Lesson 4
+𓆑,𓅂,𓂝,𓇋,𓆷,𓆼,𓍑,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡
+𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
+
+𓇋𓇋,𓅱,𓃭,𓍯,𓈎,𓏏,𓍿
+
+
+start_0
+audiochoice_0
+𓇋𓇋,𓇋𓇋,𓃭,𓅱
+𓅱,𓅱,𓈎,𓂋
+𓃭,𓃭,𓇋𓇋,𓏏
+𓍯,𓍯,𓊪,𓍯
+𓈎,𓈎,𓏏,𓅓
+𓏏,𓏏,𓇋𓇋,𓅱
+𓍿,𓍿,𓍯,𓃭
+-
+end_0
+
+start_1
+multichoice_1
+𓇋𓇋,Owl,Cobra,Reed mat,Mouth
+𓅱,Reed mat,Owl,Door bolt,Folded cloth
+𓃭,Mouth,Folded cloth,Reed mat,Mouth
+𓍯,Door bolt,Jar,Hand,Cobra
+𓈎,Folded cloth,Owl,Pool of water
+𓏏,Pool of water,Reed mat,Mouth,Door bolt
+𓍿,Pool of water,Reed mat,Mouth,Door bolt
+-
+end_1
+
+start_2
+audiochoice_2
+𓇋𓇋,𓇋𓇋,𓃭,𓅱
+𓅱,𓅱,𓈎,𓂋
+𓃭,𓃭,𓇋𓇋,𓏏
+𓍯,𓍯,𓊪,𓍯
+𓈎,𓈎,𓏏,𓅓
+𓏏,𓏏,𓇋𓇋,𓅱
+𓍿,𓍿,𓍯,𓃭
+-
+multichoice_1
+𓅓,Owl,Cobra,Reed mat,Mouth
+𓊪,Reed mat,Owl,Door bolt,Folded cloth
+𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓊃,Door bolt,Jar,Hand,Cobra
+𓋴,Folded cloth,Owl,Pool of water
+𓈙,Pool of water,Reed mat,Mouth,Door bolt
+-
+end_2

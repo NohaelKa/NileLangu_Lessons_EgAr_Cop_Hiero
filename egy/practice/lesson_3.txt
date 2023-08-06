@@ -1,0 +1,218 @@
+© NileLangu 2021
+
+Letters 3
+Definite and indefinite articles
+
+ا,أ,ي,ه,د,ب
+ر,ز,م,ك,ن,إ
+ح,س,و,خ,ج
+
+,محمد,إسم,إسم,سخن,جو,الجو,حر,و,أكل,الأكل
+
+
+start_0
+audiochoice
+و,ر,ز
+ج,خ,ح
+ل,ا,ح
+ح,خ,ج
+س,ح,ص
+خ,ر,ح
+-
+audiochoice
+و,ر,ز
+ج,خ,ح
+ل,ا,ح
+ح,خ,ج
+س,ح,ص
+خ,ر,ح
+-
+end_0
+
+start_1
+audiochoice
+و,ر,ز
+ج,خ,ح
+ل,ا,ح
+-
+audiochoice
+جو,جو,محمد,إسمي
+-
+multichoice
+The,ال,إسمي,ماما,محمد
+Weather,جو,إسمي,ماما,محمد
+And,و,ر,ز,د
+-
+write_it
+جو,م,ح,ر,ي,د,ا
+ال,إ,س,م,ح,ي,د
+-
+write_it
+الجو,إ,س,م,ح,ي,د
+-
+multichoice
+The weather,الجو,إسمي,ماما,محمد
+The door,الباب,إسمي,ماما,الجو
+The father,الأب,إسمي,ماما,الجو
+-
+write_it
+الباب,إ,س,م,ح,ي,د
+الأب,إ,س,م,ح,ي,د
+-
+multichoice
+And,و,ر,ز,د
+-
+sentence
+translate,The weather and the door,الجو و الباب,إسمي,ماما,محمد
+translate,The father and the mother,الأب و الأم,إسمي,أم,أب,ماما,محمد
+translate,Mom and Dad,ماما و بابا,إسمي,أم,أب,ماما,محمد
+translate,A mother and a father,أم و أب,إسمي,الأم,الأب,ماما,محمد
+-
+end_1
+
+
+start_2
+audiochoice
+ح,خ,ج
+س,ح,ص
+خ,ر,ح
+-
+audiochoice
+محمد,محمد,ماما,ماري
+إسم,إسم,محمد,إسمي
+جو,جو,محمد,إسمي
+-
+multichoice
+The,ال,إسمي,ماما,محمد
+Mohamed,محمد,أم,ماما,باب
+Name,إسم,ماري,إسمي,محمد
+The weather,الجو,إسمي,ماما,محمد
+-
+audiochoice
+ح,خ,ج
+س,ح,ص
+خ,ر,ح
+-
+audiochoice
+سخن,محمد,إسمي
+حر,محمد,إسمي
+-
+multichoice
+And,و,ر,ز,د
+Hot (thing),سخن,إسمي,ماما,محمد
+Hot (ambience),حر,إسمي,ماما,محمد
+-
+write_it
+محمد,م,ح,ر,ي,د,ا
+إسم,إ,س,م,ح,ي,د
+سخن,إ,س,م,ن,ح,خ,ي,د
+حر,إ,ح,ر,ح,خ,ي,د
+-
+end_2
+
+start_3
+audiochoice
+ح,خ,ج
+س,ح,ص
+و,ر,ز
+خ,ر,ح
+ج,خ,ح
+-
+multichoice
+Name,إسم,ماري,إسمي,محمد
+Hot (thing),سخن,إسمي,ماما,محمد
+Hot (ambience),حر,إسمي,ماما,محمد
+The weather,الجو,إسمي,ماما,محمد
+And,و,ر,د,ز
+-
+write_it
+محمد,م,ح,ر,ي,د,ا
+إسم,إ,س,م,ح,ي,د
+سخن,إ,س,م,ن,ح,خ,ي,د
+حر,إ,ر,ح,خ,ي,د
+-
+multichoice_img
+cat_m,milk,home,amaros,mobile,food
+أكل:food
+-
+multichoice
+Mary and Mohamed,ماري و محمد,محمد و ماري,محمد,بابا
+Food,الأكل,محمد و ماري,محمد,بابا
+-
+sentence
+translate,This is hot,دا سخن,محمد,دا,إسمِك,سخن,إسم
+translate,The food is hot,الأكل سخن,محمد,دا,الأكل,سخن,إسم
+translate,The weather is hot,الجو حر,محمد,الجو,حر,سخن,إسم
+translate,Mohamed and Mary,محمد و ماري,محمد,و,إسمِك,ماري,إسم
+-
+end_3
+
+
+
+start_4
+audiochoice
+ح,خ,ج
+س,ح,ص
+و,ر,ز
+خ,ر,ح
+ج,خ,ح
+-
+multichoice
+Name,إسم,ماري,إسمي,محمد
+Hot (thing),سخن,إسمي,ماما,محمد
+Hot (ambience),حر,إسمي,ماما,محمد
+The weather,الجو,إسمي,ماما,محمد
+And,و,ر,د,ز
+-
+write_it
+محمد,م,ح,ر,ي,د,ا
+إسم,إ,س,م,ح,ي,د
+سخن,إ,س,م,ن,ح,خ,ي,د
+حر,إ,ر,ح,خ,ي,د
+-
+multichoice_img
+cat_m,milk,home,flour,amaros,mobile,food
+أكل:food
+-
+sentence
+translate,This is hot,دا سخن,محمد,دا,إسمِك,سخن,إسم
+translate,The weather is hot,الجو حر,محمد,الجو,حر,سخن,إسم
+translate,Mohamed and Mary,محمد و ماري,محمد,و,إسمِك,ماري,إسم
+translate,The food is hot,الأكل سخن,محمد,دا,الأكل,سخن,إسم
+translate,The father and the mother,الأب و الأم,إسمي,أم,أب,ماما,محمد
+translate,Mom and Dad,ماما و بابا,إسمي,أم,أب,ماما,محمد
+translate,A mother and a father,أم و أب,إسمي,الأم,الأب,ماما,محمد
+-
+end_4
+
+
+Dictionary
+[so(kh)n] Hot (thing):سخن
+[Har] Hot (ambience):حر
+[elgaw] The weather:الجو
+[akl] Food:أكل
+[myn] Who:مين
+[bab] Door:باب
+[eh] What:ايه
+[dh] This (m):دا
+[di] This (f):دي
+[ezyk] How are you (f)?:إزيِك
+[ezyk]  How are you (m)?:إزيَك
+[mHmd] Mohamed (name):محمد
+[mary] Mary (name):ماري
+[esmi] My name:إسمي
+[esm] A name:إسم
+[esmak] Your (m) name:إسمَك
+[esmek] Your (f) name:إسمِك
+[w] And:و
+[mama] Mom:ماما
+[Om] A Mother:أم
+['ab] A father:أب
+[baba] Dad:بابا
+[gaw] weather:جو
+[elakl] the food:الأكل
+[el] the:ال
+[elbab] the door:الباب
+[el'ab] the father:الأب
+[elOm] the mother:الأم
+-

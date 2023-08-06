@@ -1,0 +1,240 @@
+© NileLangu 2021
+
+Letters 4
+ا,أ,ي,ه,د,ب
+ر,ز,م,ك,ن,إ
+ح,س,و,خ,ج
+
+ط,ق,ف
+تَ,ت,تِ
+
+تحت,بيت,قط,كويس,إنتَ,إنتِ,طبق,فوق
+
+
+start_0
+audiochoice
+ق,ش,ف
+ط,ص,ق
+تَ,تِ,ت
+تِ,تَ,ت
+ت,تَ,تِ
+ف,و,ق
+-
+audiochoice
+ق,ش,ف
+ط,ص,ق
+تَ,تِ,ت
+تِ,تَ,ت
+ت,تَ,تِ
+ف,و,ق
+-
+end_0
+
+
+
+start_1
+audiochoice
+ق,ش,ف
+ط,ص,ق
+-
+multichoice_img
+work,cat_m,cat_f,drums,home,plate
+قط:cat_m
+طبق:plate
+-
+audiochoice
+تَ,تِ,ت
+تِ,تَ,ت
+ت,تَ,تِ
+-
+multichoice_img
+work,cat_m,cat_f,drums,home,plate
+بيت:home
+-
+audiochoice
+إنتَ,إنتِ,أنا
+إنتِ,إنتَ,أم
+-
+multichoice
+You (m),إنتَ,إنتِ,و,أنا
+You (f),إنتِ,إنتَ,و,أنا
+Home,بيت,تعبان,مبسوط,قط
+-
+audiochoice
+و,ر,ت
+ف,و,ق
+-
+multichoice_img
+work,cat_m,cat_f,drums,home,plate,up,cat_below
+فوق:up
+تحت:cat_below
+-
+multichoice
+Up/Above,فوق,إنتَ,و,طبق
+Below,تحت,إنتَ,و,طبق
+Well/Fine,كويس,تعبان,مبسوط,أنا
+-
+write_it
+فوق,إ,ن,ت,ب
+طبق,ط,و,ا,ق,ب,س
+تحت,ح,و,ت,ي,ن,ب,ط
+-
+multichoice
+That is,اللي,إنتِ,و,أنا
+-
+sentence
+translate,The cat is below the table,القط تحت الترابيزا,القط,تحت,الترابيزا,تعبان,إنتَ
+translate,The floor that is above,الدور اللي فوق,القط,تحت,الترابيزا,تعبان,إنتَ
+-
+end_1
+
+start_2
+audiochoice
+ق,ش,ف
+ط,ص,ق
+-
+multichoice_img
+work,cat_m,cat_f,noise,drums,home,plate
+قط:cat_m
+طبق:plate
+-
+audiochoice
+تَ,تِ,ت
+تِ,تَ,ت
+ت,تَ,تِ
+-
+multichoice_img
+work,cat_m,cat_f,noise,drums,home,plate
+بيت:home
+-
+audiochoice
+إنتَ,إنتِ,أنا
+إنتِ,إنتَ,أم
+-
+multichoice
+You (m),إنتَ,إنتِ,و,أنا
+You (f),إنتِ,إنتَ,و,أنا
+Home,بيت,تعبان,مبسوط,قط
+-
+audiochoice
+و,ر,ت
+ف,و,ق
+-
+multichoice_img
+work,cat_m,cat_f,drums,home,plate,up,cat_below
+فوق:up
+تحت:cat_below
+-
+multichoice
+Up/Above,فوق,إنتَ,و,طبق
+Below,تحت,إنتَ,و,طبق
+Well/Fine,كويس,تعبان,مبسوط,أنا
+-
+write_it
+فوق,إ,ن,ت,ب
+طبق,ط,و,ا,ب,ق,ب,س
+تحت,ح,و,ت,ي,ن,ك,س,ق,ط
+-
+multichoice
+That is,اللي,إنتِ,و,أنا
+-
+sentence
+translate,The cat is below the table,القط تحت الترابيزا,القط,تحت,الترابيزا,تعبان,إنتَ
+translate,The floor that is above,الدور اللي فوق,القط,تحت,الترابيزا,تعبان,إنتَ
+-
+multichoice
+That is,اللي,إنتِ,و,أنا
+-
+sentence
+translate,The cat is below the table,القط تحت الترابيزا,القط,تحت,الترابيزا,تعبان,إنتَ
+translate,The floor that is above,الدور اللي فوق,القط,تحت,الترابيزا,تعبان,إنتَ
+-
+end_2
+
+start_3
+audiochoice
+ق,ش,ف
+ط,ص,ق
+-
+multichoice_img
+work,cat_m,cat_f,noise,drums,home,plate
+قط:cat_m
+طبق:plate
+-
+audiochoice
+تَ,تِ,ت
+تِ,تَ,ت
+ت,تَ,تِ
+-
+multichoice_img
+work,cat_m,cat_f,noise,drums,home,plate
+بيت:home
+-
+audiochoice
+إنتَ,إنتِ,أنا
+إنتِ,إنتَ,أم
+-
+multichoice
+You (to male),إنتَ,إنتِ,و,أنا
+You (to female),إنتِ,إنتَ,و,أنا
+Home,بيت,تعبان,مبسوط,قط
+-
+audiochoice
+و,ر,ت
+ف,و,ق
+-
+multichoice_img
+work,cat_m,cat_f,drums,home,plate,up,cat_below
+فوق:up
+تحت:cat_below
+-
+multichoice
+Up/Above,فوق,إنتَ,و,طبق
+Below,تحت,إنتَ,و,طبق
+Well/Fine,كويس,تعبان,مبسوط,أنا
+-
+write_it
+فوق,إ,ن,ت,ب
+طبق,ط,و,ا,ب,ق,ب,س
+تحت,ح,و,ت,ي,ن,ك,س,ق,ط
+-
+sentence
+translate,The cat is below the table,القط تحت الترابيزا,القط,تحت,الترابيزا,تعبان,إنتَ
+translate,The floor that is above,الدور اللي فوق,القط,تحت,الترابيزا,تعبان,إنتَ
+-
+end_3
+
+
+Dictionary
+[fo'] Up/above:فوق
+[el.li] That is:اللي
+[eldoor] The floor:الدور
+[taHt] Down/below:تحت
+[enti] You (f):إنتِ
+[enta] You (m):إنتَ
+[Taba'] plate:طبق
+[eh] What:ايه
+[dh] This (m):دا
+[ezy] How is:إزي
+[di] This (f):دي
+[kwys] Well/Good (m):كويس
+[kwysh] Well/Good (f):كويسه
+[ezyek] How are you(f) ?:إزيِك
+[ezyak]  How are you(m) ?:إزيَك
+[mHmd] A name:محمد
+[mary] A name:ماري
+[aywh] Yes:أيوه
+[oT] Cat (m):قط
+[beit] Home:بيت
+[ana] I | Me:أنا
+[Om] A Mother:أم
+[taeban] Tired (m):تعبان
+[mabsout] Happy (m):مبسوط
+[eloT] The cat (m):القط
+[elTarabeza] the table:الترابيزا
+دور:floor
+فوق:above
+ترابيزا:table
+تحت:below
+-
+

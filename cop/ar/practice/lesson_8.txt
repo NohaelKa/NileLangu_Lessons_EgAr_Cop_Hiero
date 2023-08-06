@@ -1,0 +1,110 @@
+Lesson 8
+كلمات شبه لهجتنا
+
+Todo ⲙⲉⲕⲙⲉⲕ
+
+start_0
+multichoice_img
+towel,old_man,oasis,rice,cheese,water,moon,crocodile,fruits_veg
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲉⲙⲥⲁϩ:crocodile
+ⲟⲩⲧⲁϩ:fruits_veg
+-
+multichoice
+من غير لوم,ⲁⲧⲁⲣⲓⲕⲓ,`ϧⲣⲏⲓ,ϧⲉⲗⲗⲟ,ⲟⲩⲏⲓ
+خناق,ϧⲉⲛⲓ,ⲓⲟϩ,ⲕⲏⲕ,ⲁⲧⲁⲣⲓⲕⲓ
+تكرار,ⲟⲩⲁϩⲉⲙ,ⲁϩⲁ,ⲟⲩⲁϩ,ⲁϧ
+كيك / كحك,ⲕⲏⲕ,ⲁⲫⲉ,ⲁϩⲁ,ⲟⲩⲏⲓ
+زُق,ⲥⲱⲕ,ⲓϧ,ϧⲉⲛⲓ,ϥⲟⲧⲉ
+ⲓⲉ,أو,ايه,زُق,حُب
+ⲙⲉⲓ,حُب,أو,فكر,يغني
+ⲙⲟⲕⲙⲉⲕ,يفكر,حُب,أو,يسمع
+-
+multichoice_img
+towel,old_man,oasis,rice,cheese,water,moon,crocodile,fruits_veg
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲉⲙⲥⲁϩ:crocodile
+ⲟⲩⲧⲁϩ:fruits_veg
+-
+end_0
+
+start_1
+multichoice_img
+towel,old_man,oasis,rice,moon,music,water,cheese,dine_table,brick
+ⲓⲟϩ:moon
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+ⲧⲱⲃⲓ:brick
+-
+multichoice
+أي (صوت الوجع),ⲁϧ,ϧⲉⲗⲗⲟ,ⲁⲉⲓⲟ,ⲟⲩⲁϩ
+أه (نعم),ⲁϩⲁ,ⲁⲧⲁⲣⲓⲕⲓ,ⲁϧ,ⲧⲱⲃⲓ
+أيوه,ⲁⲉⲓⲟ,ⲁⲣⲣⲟⲥ,ⲟⲩⲁϩⲉⲙ,ⲓϧ
+شيطان,ⲓϧ,ⲟⲩⲁϩ,`ϧⲣⲏⲓ,ⲓⲟϩ
+تحت / أسفل,`ϧⲣⲏⲓ,ⲟⲩⲁϩⲉⲙ,ⲟⲩⲏⲓ,ⲁϩⲁ
+بجد / أوي,ⲟⲩⲏⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+يمشي,ⲙⲟϣⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+-
+multichoice_img
+towel,old_man,oasis,rice,moon,music,water,cheese,dine_table,brick
+ⲓⲟϩ:moon
+ⲧⲱⲃⲓ:brick
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+-
+end_1
+
+start_2
+multichoice_img
+towel,old_man,oasis,rice,moon,music,cheese,table,water,dine_table,brick
+ϥⲟⲧⲉ:towel
+ⲟⲩⲁϩ:oasis
+ⲁⲣⲣⲟⲥ:rice
+ϧⲉⲗⲗⲟ:old_man
+ⲓⲟϩ:moon
+ⲁⲗⲱⲙ:cheese
+ⲙⲱⲟⲩ:water
+ⲧⲣⲁⲡⲉⲍⲁ:dine_table
+ⲧⲱⲃⲓ:brick
+-
+multichoice
+أي (صوت الوجع),ⲁϧ,ϧⲉⲗⲗⲟ,ⲁⲉⲓⲟ,ⲟⲩⲁϩ
+أه (نعم),ⲁϩⲁ,ⲁⲧⲁⲣⲓⲕⲓ,ⲁϧ,ⲧⲱⲃⲓ
+أيوه,ⲁⲉⲓⲟ,ⲁⲣⲣⲟⲥ,ⲟⲩⲁϩⲉⲙ,ⲓϧ
+شيطان,ⲓϧ,ⲟⲩⲁϩ,`ϧⲣⲏⲓ,ⲓⲟϩ
+تحت / أسفل,`ϧⲣⲏⲓ,ⲟⲩⲁϩⲉⲙ,ⲟⲩⲏⲓ,ⲁϩⲁ
+بجد / أوي,ⲟⲩⲏⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+يمشي,ⲙⲟϣⲓ,ⲁϧ,`ϧⲣⲏⲓ,ⲁⲉⲓⲟ
+من غير لوم,ⲁⲧⲁⲣⲓⲕⲓ,`ϧⲣⲏⲓ,ϧⲉⲗⲗⲟ,ⲟⲩⲏⲓ
+خناق,ϧⲉⲛⲓ,ⲓⲟϩ,ⲕⲏⲕ,ⲁⲧⲁⲣⲓⲕⲓ
+تكرار,ⲟⲩⲁϩⲉⲙ,ⲁϩⲁ,ⲟⲩⲁϩ,ⲁϧ
+كيك / كحك,ⲕⲏⲕ,ⲁⲫⲉ,ⲁϩⲁ,ⲟⲩⲏⲓ
+زُق,ⲥⲱⲕ,ⲓϧ,ϧⲉⲛⲓ,ϥⲟⲧⲉ
+ⲓⲉ,أو,ايه,زُق,حُب
+ⲙⲉⲓ,حُب,أو,فكر,يغني
+ⲙⲟⲕⲙⲉⲕ,يفكر,حُب,أو,يسمع
+-
+end_2
+
+
+Dictionary
+طوب [طوبي]:ⲧⲱⲃⲓ
+ترابيزا (يوناني):ⲧⲣⲁⲡⲉⲍⲁ
+[ماوو] مياه:ⲙⲱⲟⲩ
+[اروس] زر (يوناني):ⲁⲣⲣⲟⲥ
+[أوطا] ثمار:ⲟⲩⲧⲁϩ
+فوطة:ϥⲟⲧⲉ
+[ألوم] جبنة:ⲁⲗⲱⲙ
+[واح] واحة:ⲟⲩⲁϩ
+[خالو] رجل عجوز:ϧⲉⲗⲗⲟ
+[يوح] قمر:ⲓⲟϩ
+[موك.ماك] يفكر:ⲙⲟⲕⲙⲉⲕ
+-

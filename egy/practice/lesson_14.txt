@@ -1,0 +1,164 @@
+© NileLangu 2021
+
+Lesson 14
+I Want/ I Don't Wan't
+عايز, عايزه, بلحة, تفاحة,مش
+
+todo: add he, she, we, they. Increase lesson
+
+start_0
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice,coffee,eggs
+تفاحة:one_apple
+بلحة:one_date
+شنطة:bag
+قهوة:coffee
+بيض:eggs
+-
+multichoice
+A date,بلحة,مش,تفاحة,شنطة
+An apple,تفاحة,شنطة,عايز,بلحة
+A bag,شنطة,عايز,مش,بلحة
+Not,مش,عايز,تفاحة,بلحة
+I (m) want,عايز,شنطة,مش,بلحة
+I (m) want,أنا عايز,أنا جعان,أنا مش عايز,شنطة
+I (m) don't want,أنا مش عايز,أنا جعان,قطي,أنا عايز
+-
+sentence
+translate,I (m) want a date,عايز بلحة,دا,بلحة,عايز,شغلي,جعان,دي
+translate,I (m) want a bag,عايز شنطة,دا,بلحة,عايز,شغلي,جعان,شنطة
+translate,I (m) don't want,مش عايز,دا,بلحة,عايز,مش,جعان,شنطة
+-
+multichoice
+He wants,هوَ عايز,مش,أنا عايز,شنطة
+-
+sentence
+translate,He wants a ball,هوَ عايز كرة,دا,بلحة,عايز,شغلي,جعان,قهوة
+translate,He wants coffee,هوَ عايز قهوة,كرة,بلحة,عايز,شغلي,جعان,دي
+translate,He doesn't want eggs,هوَ مش عايز بيض,كرة,بلحة,عايز,شغلي,جعان,دي
+-
+end_0
+
+
+
+start_1
+multichoice_img
+dog_m,one_date,bag,home,cheese,rice
+كلب:dog_m
+قهوة:coffee
+بيض:eggs
+شنطة:bag
+-
+multichoice
+A date,بلحة,عايز,تفاحة,شنطة
+An apple,تفاحة,شنطة,عايز,بلحة
+A bag,شنطة,عايز,تفاحة,بلحة
+I (f) want,عايزه,شنطة,عايز,بلحة
+I (f) want,أنا عايزه,أنا جعان,أنا عايز,شنطة
+-
+sentence
+translate,I (f) want this,عايزه دا,دا,بلحة,عايزه,جعان
+translate,I (f) want an apple,عايزه تفاحة,دا,بلحة,عايزه,تفاحة,دي
+translate,I (f) want coffee,عايزه قهوة,دا,بلحة,عايزه,تفاحة,دي
+translate,I (f) don't want,مش عايزه,دا,بلحة,عايزه,مش,جعان,شنطة
+-
+multichoice
+I (f) want,عايزه,شنطة,عايز,بلحة
+I (f) want,أنا عايزه,أنا جعان,أنا عايز,شنطة
+-
+multichoice
+She wants,هيَ عايزة,مش,أنا عايز,هوَ عايز
+-
+sentence
+translate,She wants a dog,هيَ عايزة كلب,دا,بلحة,عايز,كرة,قهوة
+translate,She wants eggs,هيَ عايزة بيض,كرة,قهوة,عايز,شغلي,جعان,دي
+translate,She doesn't want a bag,هيَ مش عايزة شنطة,كرة,بلحة,عايز,شغلي,جعان,دي
+-
+end_1
+
+
+
+start_2
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice
+تفاحة:one_apple
+بلحة:one_date
+شنطة:bag
+-
+multichoice
+This,دا,عايز,تفاحة,بلحة
+This,دي,عايز,تفاحة,بلحة
+I (f) want,عايزه,شنطة,عايز,بلحة
+I (m) want,عايز,شنطة,تفاحة,عايزه
+-
+sentence
+translate,I (f) want this (m),عايزه دا,دا,بلحة,عايزه,جعان
+translate,I (m) want this (f),عايز دي,دي,بلحة,عايز,شغلي,جعان,شنطة
+translate,I (f) don't want this (f),مش عايزه دي,مش,بلحة,عايزه,دي,جعان,شنطة
+-
+multichoice
+She wants,هيَ عايزة,مش,أنا عايز,هوَ عايز
+He wants,هوَ عايز,مش,أنا عايز,شنطة
+-
+sentence
+translate,She wants a dog,هيَ عايزة كلب,دا,بلحة,عايز,كرة,قهوة
+translate,She wants eggs,هيَ عايزة بيض,كرة,قهوة,عايز,شغلي,جعان,دي
+translate,She doesn't want a bag,هيَ مش عايزة شنطة,كرة,بلحة,عايز,شغلي,جعان,دي
+translate,He wants a ball,هوَ عايز كرة,دا,بلحة,عايز,شغلي,جعان,قهوة
+translate,He wants coffee,هوَ عايز قهوة,كرة,بلحة,عايز,شغلي,جعان,دي
+translate,He doesn't want eggs,هوَ مش عايز بيض,كرة,بلحة,عايز,شغلي,جعان,دي
+-
+end_2
+
+
+Dictionary
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[(ae)ayz] (I) want (female speaker):عايز
+[(ae)yza] I (f) want:عايزه
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (to a female):أنتِ
+[blHa] A date (fruit):بلحة
+[tfaHa] An apple:تفاحة
+[oTy] A bag:شنطة
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[gdn] Very:جداً
+[can] Was:كان
+[elwyk] Week :الويك
+[end] end :اند
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[Hlw] Nice | Sweet :حلو
+[l(ae)bt] I played:لعبت
+[dramz] Drums:درامز
+[ktyr] a lot:كتير
+[(ae)malty)] You (f) did:عملتي
+[k(ae)dt] I sat:قعدت
+[elbeit] The home:البيت
+[dw(sh)a] noise:دوشه
+[t(ae)btny] Made me tired:تعبتني
+[blyl] At night:بليل
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+[msh] Not:مش
+[oTy] My cat (m):قطي
+[da] This (m):دا
+[di] This (f):دي
+[ahwa] Coffee:قهوة
+[kora] Ball:كرة
+-

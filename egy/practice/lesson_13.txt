@@ -1,0 +1,249 @@
+© NileLangu 2021
+
+Female Possession (Your) 1
+قطِك,شغلِك,قطتِك,الحاجه,بتاعِك,حاجاتك,القط,موبيلِك,دول,العربية,القطة
+
+صاحبَك,صاحبتَك,أخوكي,أختِك,قرايبَك,أصحابَك,والدتِك,
+عائلتَك, إسمِك, صاحبِك, صاحبتِك, أصحابِك, قرايبِك
+والدِك,ناحية, ناحية‏
+القطة, العربية, كبير, صغير
+
+
+
+start_0
+multichoice
+Your (f) Sister,أختِك,قطتَك,والدتِك,أخوكي
+Your (f) Mom,والدتِك,قط,قطَك,أختِك
+Your (f) Dad,والدِك,والدتِك,أختِك,أخوكي
+Your (f) Brother,أخوكي,قطتَك,والدتِك,أختِك
+-
+multichoice
+Small (m),صغير,كبير,والدتِك,أخوكي
+Big (m),كبير,قط,صغير,أختِك
+-
+sentence
+translate,Your (f) little sister is so nice,أختِك الصغيرة لطيفة أوي,أختِك,الصغيرة,لطيفة,الصغير,كبير,صغيرة,أوي
+translate,Your (f) brother is old,أخوكي كبير,أخوكي,كبير,أوي,أختِك,الصغيرة,لطيفة,صغير
+translate,Is this your (f) older sister?,دي أختِك الكبيرة,أخوكي,كبير,دي,أختِك,الصغيرة,الكبيرة,صغير
+translate,Where is your (f) little brother?,أخوكي الصغير فين؟,أخوكي,كبير,فين,أختِك,الصغيرة,الكبيرة,الصغير,صغير
+-
+multichoice_img
+work_m,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2
+قطِك:girl_cat_m
+قطتِك:girl_cat_f
+شغلِك:work_f
+كتابِك:book2
+-
+multichoice
+Your (f) cat (m),قطِك,قطتَك,قط,قطة
+Your (f) cat (f),قطتِك,قط,قطَك,قطة
+Your (f) work,شغلِك,كتابِك,إسمِك,دول
+Your (f) book,كتابِك,قط,قطَك,شغلِك
+Your (f) name,إسمِك,قطتَك,كتابِك,شغلِك
+Those,دول,قطتَك,إسمِك,كتابِك
+-
+sentence
+translate,Is this your cat (m) Nofret?,دا قطِك يا نوفرت,دا,نوفرت,يا,قطة,قطِك,دي
+translate,Your name is Mary,إسمِك ماري,دا,إسمِك,قطة,ماري,قطِك,مينا
+translate,What's your name,إسمِك ايه,دا,إسمِك,قطة,ماري,ايه,مينا
+-
+multichoice
+Your(f) thing (m),بتاعِك,قطتَك,إسمِك,قطة
+Yours(f) (pl obj),بتوعِك,دول,إسمِك,بتاعِك
+-
+sentence
+translate,This (m) is yours Mary,دا بتاعِك يا ماري,دا,قطِك,ماري,بتاعِك,يا,إسمِك,دي
+translate,Is this (m) yours(f)?,دا بتاعِك,دا,قطِك,بتوعِك,بتاعِك,قطة,دي
+translate,These are yours Nofret,دول بتوعِك يا نوفرت,دا,قطِك,ماري,نوفرت,بتاعِك,يا,إسمِك,دي
+-
+sentence
+translate,This(m) is yours Mary,دا بتاعِك يا ماري,دا,قطِك,ماري,بتاعِك,يا,إسمِك,دي
+translate,Is this (m) yours(f)?,دا بتاعِك,دا,قطِك,بتوعِك,بتاعِك,قطة,دي
+translate,These are yours Nofret,دول بتوعِك يا نوفرت,دا,قطِك,ماري,نوفرت,بتاعِك,يا,إسمِك,دي
+-
+end_0
+
+
+صاحبِك, صاحبتِك, أصحابِك, قرايبِك
+
+start_1
+multichoice
+Your (f) friend (f),صاحبتِك,صاحبِك,والدتِك,أصحابِك
+Your (f) friend (m),صاحبِك,قط,صاحبتِك,أختِك
+Your (f) friends,أصحابِك,صاحبتِك,صاحبِك,قرايبِك
+Your (f) relatives,قرايبِك,أصحابِك,صاحبِك,أختِك
+-
+multichoice
+Your cell Phone,موبيلِك,قطتَك,شغل,قطة
+Your work,شغلِك,شغلَك,قطَك,قطة
+Yours (f),بتاعِك,قطتَك,إسمِك,قطة
+-
+write_it
+شغلك,ش,غ,ل,ك,د,ف,ع,س,ا
+أصحابك,أ,ص,ح,ا,ب,ك
+قرايبك,ق,ر,ا,ي,ب,ك
+-
+sentence
+translate,How is your (f) work?,إزي شغلِك,إزي,شغلَك,شغلِك,قطتَك,شغل
+translate,How is your (f) friend Noha?,إزي صاحبتِك نهى,إزي,صاحبتِك,صاحبتَك,شغلِك,نهى,شغل
+translate,This is your (f) cell phone Mary,دا موبيلِك يا ماري,إزي,دا,موبيلِك,ماري,قطتَك,شغل
+translate,This (m) is yours Mai,دا بتاعِك يا مي,دا,قطِك,يا,مي,بتاعِك,قطة,دي
+-
+multichoice
+Yours (m obj),بتاعِك,قطتَك,إسمِك,قطة
+Yours (f) (pl obj),بتوعِك,دول,إسمِك,بتاعِك
+Those,دول,ناحية,بتوعِك,إسمِك
+Side,ناحية,قطتَك,بتوعِك,إسمِك
+Side of,ناحية‏,قطتَك,بتوعِك,إسمِك
+-
+sentence
+translate,This (m) is yours Mai,دا بتاعِك يا مي,دا,قطِك,يا,مي,بتاعِك,قطة,دي
+translate,These are your (f) relatives from the side of your father,دول قرايبِك من ناحية‏ والدِك,دول,قرايبِك,من,ناحية‏,والدِك
+translate,These are yours Nofret,دول بتوعِك يا نوفرت,دا,قطِك,ماري,نوفرت,بتاعِك,يا,إسمِك,دي
+-
+sentence
+translate,This (m) is yours Mai,دا بتاعِك يا مي,دا,قطِك,يا,مي,بتاعِك,قطة,دي
+translate,These are your (f) relatives from the side of your father,دول قرايبِك من ناحية‏ والدِك,دول,قرايبِك,من,ناحية‏,والدِك
+translate,These are yours Nofret,دول بتوعِك يا نوفرت,دا,قطِك,ماري,نوفرت,بتاعِك,يا,إسمِك,دي
+-
+end_1
+
+
+start_2
+multichoice_img
+work,cat_f,cat_m,drums,home,girl_cat_f,girl_cat_m,boy_cat_f,boy_cat_m
+قطة:cat_f
+قطتِك:girl_cat_f
+عربية:car
+-
+multichoice
+Your cat (f),قطتِك,قط,قطَك,قطة
+The thing,الحاجه,قطتَك,قط,قطة
+Your car,عربيتك,قطتَك,قط,قطة
+Your things,حاجاتك,قطتَك,قط,قطة
+-
+sentence
+translate,How are your (f) friends?,إزي أصحابِك,إزي,أصحابِك,عربيتك,حاجاتك,قط
+translate,Is this your cat (f)?,دي قطتِك,دا,قطتِك,قطَك,قطتَك,قطة,دي
+translate,This is your car Nofret,دي عربيتك يا نوفرت,دا,نوفرت,قطَك,عربيتك,يا,دي
+translate,These are your things Mai,دي حاجاتك يا مي,دا,نوفرت,مي,حاجاتك,عربيتك,يا,دي
+-
+sentence
+translate,Your(f) little sister is nice,أختِك الصغيرة لطيفة,أختِك,الصغيرة,لطيفة,الصغير,كبير,صغيرة,أوي
+translate,Your(f) brother is so old,أخوكي كبير أوي,أخوكي,كبير,أوي,أختِك,الصغيرة,لطيفة,صغير
+translate,Is this your(f) older sister?,دي أختِك الكبيرة,أخوكي,كبير,دي,أختِك,الصغيرة,الكبيرة,صغير
+translate,Where is your little brother?,أخوكي الصغير فين؟,أخوكي,كبير,فين,أختِك,الصغيرة,الكبيرة,الصغير,صغير
+-
+sentence
+translate,This is yours(f) Mai,دا بتاعِك يا مي,دا,قطِك,يا,مي,بتاعِك,قطة,دي
+translate,These are your(f) relatives from the side of your father,دول قرايبِك من ناحية‏ والدِك,دول,قرايبِك,من,ناحية‏,والدِك
+translate,These are yours Nofret,دول بتوعِك يا نوفرت,دا,قطِك,ماري,نوفرت,بتاعِك,يا,إسمِك,دي
+-
+multichoice
+Those,دول,قطتَك,قط,قطة
+Your car,عربيتك,قطتَك,قط,قطة
+Your things,حاجاتك,قطتَك,قط,قطة
+Yours (f) (f obj),بتاعتِك,قطتَك,إسمِك,قطة
+-
+sentence
+translate,This is your cat(f),دي القطة بتاعتِك,القط,القطة,بتاعتِك,بتاعِك,دي
+translate,This is your car,دي العربية بتاعتِك,القط,القطة,العربية,بتاعتِك,بتاعِك,دي
+translate,This is your car Nofret,دي عربيتك يا نوفرت,دا,نوفرت,قطَك,عربيتك,يا,دي
+translate,These are your things Mai,دي حاجاتك يا مي,دا,نوفرت,مي,حاجاتك,عربيتك,يا,دي
+-
+end_2
+
+
+
+Dictionary
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (to a female):أنتِ
+[ezy] How is:إزي
+[oTtk] Your cat:قطتَك
+[oTty] My cat:قطتي
+[oTa] Cat (female):قطة
+[oT] Cat (male):قط
+[oT] The cat (male):القط
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[mt(ae)b] Tiring:متعب
+[gdn] Very:جداً
+[can] Was:كان
+[elwyk] Week :الويك
+[end] end :اند
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[Hlw] Nice | Sweet :حلو
+[l(ae)bt] I played:لعبت
+[dramz] Drums:درامز
+[ktyr] a lot:كتير
+[(ae)malty)] You (f) did:عملتي
+[k(ae)dt] I sat:قعدت
+[elbeit] The home:البيت
+[dw(sh)a] noise:دوشه
+[t(ae)btny] Made me tired:تعبتني
+[blyl] At night:بليل
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+[oTek] Your (f) cat (m):قطِك
+[o.T.tek] Your (f) cat (f):قطتِك
+[elHaga] The things:الحاجه
+[dol] Those | These:دول
+[eloTa] The cat (f):القطة
+[oTak] Your (m) cat (m):قطَك
+[lateefa] Kind:لطيفة
+[di] This (f):دي
+[da] This (m):دا
+[esmek] Your (f) name:إسمِك
+[(sh)(gh)l] Work:شغل
+[ezy] How is:إزي
+[noha] An arabic female name:نهى
+[mobilek] Your (f) mobile:موبيلِك
+[elaerabeya] The car:العربية
+[saHbak] Your (m) Friend (m):صاحبَك
+[saHbetak] Your (f) Friend (f):صاحبتَك
+[akhoki] Your (f) brother:أخوكي
+[okhtek] Your (f) sister:أختِك
+[araybak] Your (m) relatives:قرايبَك
+[asHabak] Your (m) friends:أصحابَك
+[waldetek] Your (f) mother:والدتِك
+[aeltak] Your (m) family:عائلتَك
+[waldek] Your (f) father:والدِك
+[naHya] Side (of):ناحية
+[kebir] Big (m):كبير
+[soghayar] Small (m):صغير
+[elsoghayara] The small/young (f):الصغيرة
+[elsoghayar] The small/young (m):الصغير
+[soghayarq] Small (f):صغيرة
+[awy] Very:أوي
+[kebira] Big (f):الكبيرة
+[feen] Where:فين
+[ketabik] Your (f) book:كتابِك
+Nofret (Egyptian name):نوفرت
+Mina (Egyptian name):مينا
+[betoae.ek] Your (f) things (m):بتوعِك
+[saHbek] Your (f) friend (m):صاحبِك
+[saHbetek] Your (f) friend (f):صاحبتِك
+[asHabek] Your (f) friends:أصحابِك
+['araybek] Your (f) relatives:قرايبِك
+Mai (Egyptian name):مي
+[men] From:من
+[aerabitek] Your (f) car:عربيتك
+[betae.ek] Your (f) thing (f):بتاعتِك
+-

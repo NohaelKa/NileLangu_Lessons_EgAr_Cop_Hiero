@@ -1,0 +1,218 @@
+Lesson 8
+Notes /**
+Pronouns (2)
+
+‎
+Todo record: all
+
+𓀀: I /me /my, 𓎡: You / Your (m), 𓍿: You /Your (f),𓆑: He/Him,His, 𓋴: She/ Her/ hers, 𓈖𓏥: We, us, our, 𓍿𓈖𓏥: Your/ Your (pl), 
+
+𓋴𓈖𓏥: They/Them/their, 𓅱𓏥: They, Them, Their
+
+𓄔𓅓(sdjem: hear)
+𓆓𓂧(djd: say)
+
+𓏞,scribe equipment
+𓏞𓀀: scribe
+𓎟: nab , lord/ lady
+𓊪𓏏𓂋𓆴𓀁: ptr: What
+**/ End of Notes
+
+//Suffix pronouns
+start_0
+sentence
+translate,𓉐𓏺𓆑,His House,the,sun,rises,in,the,sky,His,house
+-
+audiochoice
+𓉐𓏺,𓃀,𓅱
+𓆑,𓃭,𓅓
+𓍿,𓆑,𓊪
+𓊪,𓃀,𓅓
+𓏏,𓊪,𓃀
+𓅱,𓃀,𓊪
+𓀀,𓃀,𓊪
+-
+multichoice_img
+moon,sun,sun_god,sky,home
+𓉐𓏺:home
+-
+multichoice
+𓉐𓏺,House,In,Rise,Mouth
+𓅓,in,Cobra,Rise,Mouth
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+sentence
+translate,𓉐𓏺𓆑,His house,the,sun,rises,in,the,sky,His,house
+translate,𓉐𓏺𓎡,Your(m) house,the,sun,rose,in,the,sky,Your(m),house
+translate,𓉐𓏺𓍿,Your(f) house,the,sun,rose,in,the,sky,Your(f),house
+translate,𓉐𓏺𓋴,Her house,the,sun,rose,in,the,sky,Her,house
+translate,𓉐𓏺𓆑,His house,the,sun,rose,in,the,sky,His,house
+translate,𓉐𓏺𓀀,My house,the,sun,rose,in,the,sky,My,house
+-
+multichoice
+𓉐𓏺,House,In,Rise,Mouth
+𓅓,in,Cobra,Rise,Mouth
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+sentence
+translate,𓉐𓏺𓆑,His house,the,sun,rises,in,the,sky,His,house
+translate,𓉐𓏺𓎡,Your(m) house,the,sun,rose,in,the,sky,Your(m),house
+translate,𓉐𓏺𓍿,Your(f) house,the,sun,rose,in,the,sky,Your(f),house
+translate,𓉐𓏺𓋴,Her house,the,sun,rose,in,the,sky,Her,house
+translate,𓉐𓏺𓆑,His house,the,sun,rose,in,the,sky,His,house
+translate,𓉐𓏺𓀀,My house,the,sun,rose,in,the,sky,My,house
+-
+end_0
+
+//Suffix pronouns
+start_1
+audiochoice
+𓄔𓅓,𓉐𓏺,𓃀
+𓆓𓂧,𓄔𓅓,𓉐𓏺
+-
+multichoice
+𓄔𓅓,Hear,House,In,Rise
+𓆓𓂧,Say,in,Cobra,Hear
+𓈖,to,in,Rise,Mouth
+-
+sentence
+translate,𓄔𓅓𓀀,I hear,I,hear,his,house,say
+translate,𓄔𓅓𓎡,You(m) hear,I,You(m),hear,his,house
+translate,𓆓𓂧𓍿,You(f) say,I,you(m),hear,his,house,You(f),say
+translate,𓆓𓂧𓆑,He says,I,you(m),hears,He,house,you(f),says
+translate,𓄔𓅓𓋴,She hears,I,She,hears,he,house,you(f)
+-
+sentence
+translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,She,said,to,him,we,house
+translate,𓆓𓂧𓀀 𓈖 𓋴,I said to her,She,said,to,him,we,house
+-
+sentence
+translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,we,house
+translate,𓄔𓅓𓀀,I hear,I,hear,his,house
+translate,𓄔𓅓𓎡,You(m) hear,I,You(m),hear,his,house
+translate,𓆓𓂧𓍿,You(f) say,I,you(m),hear,his,house,You(f),say
+translate,𓆓𓂧𓆑,He says,I,you(m),hears,He,house,you(f),says
+translate,𓄔𓅓𓋴,She heard,I,She,he,house,you(f),says
+translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,She,said,to,him,we,house
+translate,𓆓𓂧𓀀 𓈖 𓋴,I say to her,She,to,him,we,house
+-
+end_1
+
+//Compound pronouns
+start_2
+multichoice
+𓄔𓅓,Hear,House,In,Rise
+𓆓𓂧,Say,in,Cobra,Hear
+𓈖,to,in,Rise,Mouth
+-
+multichoice
+𓉐𓏺,House,In,Rise,Mouth
+𓅓,in,Cobra,Rise,Mouth
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+sentence
+translate,𓉐𓏺 𓍿𓈖𓏥,Your(pl) house,Your(pl),sun,rose,in,the,sky,my,house
+translate,𓉐𓏺 𓈖𓏥,Our house,your(pl),sun,Our,in,the,sky,my,house
+translate,𓉐𓏺 𓋴𓈖𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+translate,𓉐𓏺 𓅱𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+-
+sentence
+translate,𓆓𓂧 𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,house,They,us
+translate,𓆓𓂧 𓋴𓈖𓏥,They say,your(pl),sun,They,in,the,sky,my,house,say
+translate,𓆓𓂧 𓈖𓏥,We say,your(pl),sun,We,in,the,sky,my,house,say
+translate,𓄔𓅓 𓍿𓈖𓏥,You(pl) hear,Your(pl),sun,rose,in,the,sky,my,house,hear
+-
+sentence
+translate,𓉐𓏺 𓍿𓈖𓏥,Your(pl) house,Your(pl),sun,rose,in,the,sky,my,house
+translate,𓉐𓏺 𓈖𓏥,Our house,your(pl),sun,Our,in,the,sky,my,house
+translate,𓉐𓏺 𓋴𓈖𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+translate,𓉐𓏺 𓅱𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+-
+sentence
+translate,𓆓𓂧 𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,house,They,us
+translate,𓆓𓂧 𓋴𓈖𓏥,They say,your(pl),sun,They,in,the,sky,my,house,say
+translate,𓆓𓂧 𓈖𓏥,We say,your(pl),sun,We,in,the,sky,my,house,say
+translate,𓄔𓅓 𓍿𓈖𓏥,You(pl) hear,Your(pl),sun,rose,in,the,sky,my,house,hear
+-
+end_2
+
+
+I am heard
+
+start_3
+multichoice
+𓄔𓅓,Hear,House,In,Rise
+-
+multichoice
+𓏏𓅱,(Passive verb),Active verb,Rise,Mouth
+-
+sentence
+translate,𓄔𓅓 𓏏𓅱𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓏺𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
+translate,𓄔𓅓 𓏏𓅱𓆑,He's heard,She's,hear,in,the,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
+translate,𓄔𓅓 𓏏𓅱𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
+translate,𓄔𓅓 𓏏𓅱𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
+-
+sentence
+translate,𓄔𓅓 𓏏𓅱𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓏺𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
+translate,𓄔𓅓 𓏏𓅱𓆑,He's heard,She's,hear,in,the,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
+translate,𓄔𓅓 𓏏𓅱𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
+translate,𓄔𓅓 𓏏𓅱𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓 𓏏𓅱𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
+-
+end_3
+
+
+Dictionary
+[sn] They; Them; Their:𓋴𓈖𓏥
+[w] They; Them:𓅱𓏥
+[jd.i][ϯϫⲟⲥ] I say:𓆓𓂧𓀀
+[th.n] You(pl):𓍿𓈖𓏥
+[nt.s.n][`ⲛⲑⲱⲟⲩ] They:𓈖𓏏𓋴𓈖𓏥
+[en][`ⲛ] of; to; for:𓈖
+[f][`Ϥ] He; Him; His:𓆑
+[s][`ⲥ] She; Her; Hers:𓋴
+[jd.th][ⲧⲉϫⲟⲥ] You(f) say:𓆓𓂧𓍿
+[pr.i] My house:𓉐𓏺𓀀
+[pr.th] Your(f) house:𓉐𓏺𓍿
+[pr.k] Your(m) house:𓉐𓏺𓎡
+[pr.f] His house:𓉐𓏺𓆑
+[n] We; Us:𓈖𓏥
+[tw.s] She's (passive):𓏏𓅱𓏺𓋴
+[tw.f] He's (passive):𓏏𓅱𓆑
+[tw.i] I'm (passive):𓏏𓅱𓀀
+[tw.n] We're (passive):𓏏𓅱𓈖𓏥
+[tw.sn] They're (passive):𓏏𓅱𓋴𓈖𓏥
+[tw.th] You're(f) (passive):𓏏𓅱𓍿
+[tw.k] You're(m) (passive):𓏏𓅱𓎡
+[jod.f][̀ϥϫⲱ] He say:𓆓𓂧𓆑
+[sodjam.s][̀ⲥⲥⲱⲧⲉⲙ] She hear:𓄔𓅓𓋴
+[pr.s][ⲡⲉⲥⲏⲓ] Her house:𓉐𓏺𓋴
+[sodjam][ⲥⲱⲧⲉⲙ] Hear:𓄔𓅓
+[sodam.k][̀ⲕⲥⲱⲧⲉⲙ] He hear:𓄔𓅓𓎡
+[jod.s][̀ⲥϫⲱ] She say:𓆓𓂧𓋴
+[sodjam.i][ϯⲥⲱⲧⲉⲛ] I hear:𓄔𓅓𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[jod][ϫⲱ] Say:𓆓𓂧
+[nbi][ⲡⲁⲛⲏⲃ] My Lord/Lady:𓎟𓀀
+[ntk][`ⲛⲑⲟⲕ] You(m) are:𓈖𓏏𓎡
+[iw.i] I'm:𓇋𓅱𓀀
+[iw.k] You(m) are:𓇋𓅱𓎡
+[iw.th] You(f) are:𓇋𓅱𓍿
+[cash][ⲥⲁϧ] scribe:𓏞𓀀
+[iw] is / was:𓇋𓅱
+[ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
+[re´][ⲣⲉ] Sun:𓂋𓂝𓇳
+[kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
+[Wbn] Rise /Shine:𓅱𓃀𓈖𓇳
+[pt][ⲫⲉ] Sky:𓊪𓏏𓇯
+[em] as a / in:𓅓
+[ideogram] Country/Land/Village/Egypt:𓊖
+[ideogram] Sun:𓇳
+[ideogram] Sky:𓇯
+[ideogram] Confirms the object depicted:𓏺
+-

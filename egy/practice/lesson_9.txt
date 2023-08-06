@@ -1,0 +1,189 @@
+© NileLangu 2021
+
+Greetings 1
+
+صباح الخير, صباح النور, مساء الخير, مساء النور,سلام
+, بعد الظهر, بليل,أهلاً و سهلاً
+إتفضل,إتفضلي,إتفضلو
+
+فرصة سعيدة
+أنا الأسعد
+
+start_0
+multichoice
+The goodness,الخير,النور,مساء,سلام
+Morning,صباح,الخير,مساء,سلام
+Evening,مساء,إزيَك,سلام,الخير
+Good morning,صباح الخير,مساء الخير,أهلاً و سهلاً,سلام
+Good evening,مساء الخير,صباح الخير,إزيَك,سلام
+-
+multichoice_img
+morning,night,egy,car,mobile,bird,towel,dog
+صباح:morning
+مساء:night
+-
+write_it
+صباح,ص,ب,ا,ح,خ,ج,ت
+الخير,ر,ب,ا,ح,ل,خ,ي,ج,ت
+-
+sentence
+translate,Good Morning,صباح الخير,مساء,صباح,الخير,سلام,النور,أوي
+translate,Good Evening,مساء الخير,مساء,صباح,الخير,سلام,النور,أوي
+-
+multichoice
+Welcome!,أهلاً و سهلاً,مساء الخير,مساء,سلام
+Go ahead (to m),إتفضل,مساء الخير,أهلاً و سهلاً,سلام
+Go ahead (to f),إتفضلي,مساء الخير,أهلاً و سهلاً,سلام
+-
+sentence
+translate,Welcome! Come in Mohamed,أهلاً و سهلاً إتفضل يا محمد,مساء,صباح,يا,محمد,سلام,إتفضل,أوي
+translate,Welcome! Come in Mary,أهلاً و سهلاً إتفضلي يا ماري,مساء,صباح,يا,ماري,سلام,إتفضلي,أوي
+-
+multichoice_img
+morning,night,egy,car,mobile,bird,towel
+صباح:morning
+مساء:night
+-
+end_0
+
+
+فرصة سعيدة
+
+start_1
+multichoice
+The light,النور,الخير,مساء,سلام
+Good morning (Response),صباح النور,مساء الخير,الخير,صباح الخير
+Good evening (Response),مساء النور,صباح الخير,مساء,مساء الخير
+Bye,سلام,الخير,أوي,إزيَك
+Goodbye,مع السلامه,الخير,أهلاً,أنا
+-
+sentence
+answer,صباح الخير,صباح النور,مساء,صباح,الخير,سلام,النور,أوي
+answer,مساء الخير,مساء النور,مساء,صباح,الخير,سلام,النور,أوي
+-
+multichoice
+فرصة,Opportunity,Light,Evening,Peace
+سعيدة,Happy,Evening,Opportunity,Peace
+-
+multichoice
+Nice to meet you!,فرصة سعيدة,مساء الخير,مساء,سلام
+-
+sentence
+translate,Nice to meet you Mai,فرصة سعيدة يا مي,يا,مي,مساء,صباح,سلام,النور,أوي
+translate,Nice to meet you Mina,فرصة سعيدة يا مينا,يا,مينا,مساء,الخير,سلام,النور,أوي
+-
+multichoice
+I'm the happiest (Likewise) (response),أنا الأسعد,مساء الخير,مساء,سلام
+-
+sentence
+answer,صباح الخير,صباح النور,مساء,صباح,الخير,سلام,النور,أوي
+answer,مساء الخير,مساء النور,مساء,صباح,الخير,سلام,النور,أوي
+answer,فرصة سعيدة,أنا الأسعد,مبسوط,سلام,الخير,النور,أوي
+-
+multichoice
+Bye,سلام,إزيِك,أوي,إنتَ
+Goodbye,مع السلامه,الخير,أيوه,إنتِ
+-
+end_1
+
+
+
+start_2
+multichoice
+Opportunity,فرصة,سعيدة,مساء,سلام
+Happy,سعيدة,مساء الخير,فرصة,سلام
+-
+sentence
+translate,Nice to meet you Mai,فرصة سعيدة يا مي,يا,مي,مساء,صباح,سلام,النور,أوي
+translate,Nice to meet you Mina,فرصة سعيدة يا مينا,يا,مينا,مساء,الخير,سلام,النور,أوي
+-
+multichoice
+Nice to meet you!,فرصة سعيدة,مساء الخير,مساء,سلام
+I'm the happiest (Likewise) (response),أنا الأسعد,مساء الخير,أنا مبسوط,سلام
+-
+sentence
+answer,صباح الخير,صباح النور,مساء,صباح,الخير,سلام,النور
+answer,مساء الخير,مساء النور,مساء,صباح,الخير,سلام,أوي
+answer,فرصة سعيدة,أنا الأسعد,مبسوط,سلام,الخير,النور,أوي
+-
+multichoice
+Bye,سلام,إزيِك,أوي,إنتَ
+Goodbye,مع السلامه,الخير,أيوه,إنتِ
+-
+write_it
+سلام,س,ل,ا,م
+فرصة,إ,ت,ش,ر,ف,ت
+سعيدة,إ,ت,ش,ر,ف,ت
+-
+multichoice
+Welcome!,أهلاً و سهلاً,مساء الخير,مساء,سلام
+Go ahead (to m),إتفضل,مساء الخير,إتفضلي,سلام
+Go ahead (to f),إتفضلي,إتفضل,أهلاً و سهلاً,سلام
+-
+sentence
+translate,Welcome! Come in Mohamed,أهلاً و سهلاً إتفضل يا محمد,مساء,صباح,يا,محمد,سلام,إتفضل,أوي
+translate,Welcome! Come in Mary,أهلاً و سهلاً إتفضلي يا ماري,مساء,صباح,يا,ماري,سلام,إتفضلي,أوي
+-
+end_2
+
+Dictionary
+[forSa] Opportunity:فرصة
+[sa(ae)eda] Happy:سعيدة
+[el.as(ae)ad] The happiest:الأسعد
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[sbaH] Morning:صباح
+[el(kh)yr] The Good:الخير
+[elnur] The light:النور
+[msa'] Evening:مساء
+[b(ae)d] After:بعد
+[eldhr] The Noon:الظهر
+[blyl] At night:بليل
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[enti] You (f):إنتِ
+[w] And:و
+[eh] What:ايه
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (f):إنتِ
+[ezy] How is:إزي
+[oTtk] Your cat:قطتَك
+[oTty] My cat:قطتي
+[oT] Cat (male):قط
+[oT] The cat (male):القط
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[mt(ae)b] Tiring:متعب
+[gdn] Very:جداً
+[can] Was:كان
+[elwyk] Week :الويك
+[end] end :اند
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[Hlw] Nice | Sweet :حلو
+[(ae)malty)] You (f) did:عملتي
+[k(ae)dt] I sat:قعدت
+[elbeit] The home:البيت
+[dw(sh)a] noise:دوشه
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+[mHmd] A Name:محمد
+[enta] You (m):إنتَ
+[aywa] Yes:أيوه
+[awy] Very:أوي
+[salam] Peace (Salutation):سلام
+[etfadal] Go ahead (to m):إتفضل
+[etfadali] Go ahead (to f):إتفضلي
+[etfadalu] Go ahead (to pl):إتفضلو
+[ahlan] Welcome:أهلاً
+Mai (Egyptian name):مي
+Mina (Egyptian name):مينا
+-

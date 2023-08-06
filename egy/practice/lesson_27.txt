@@ -1,0 +1,187 @@
+© NileLangu 2021
+
+The future begins with a ه
+
+Audio: done
+Dictionary: Todo
+Database: done
+
+Full list of things to learn:
+
+هروح, همشي, هذاكر, هشوف
+هجيب, هقول, هاكل, هتكلم
+
+
+
+start_0
+multichoice
+Tomorrow,بُكرا,رايح,النهرده,إمبارح
+-
+multichoice
+I'll go,هروح,رايح,بروح,رُحت
+I'll see,هشوف,رايح,رايحة,رُحت
+-
+sentence
+translate,I'll go and see what I want,هروح و هشوف أنا عايزه ايه,هجيب,بُكرا
+translate,I'll think about it,هشوف,النهرده,هجيب,عايزه
+translate,I'll go to the office tomorrow,هروح المكتب بُكرا,النهرده,هجيب,عايزه
+answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُكرا,هجيب,عايزه
+-
+multichoice
+I'll get,هجيب,رايح,رايحة,جبت
+The airport,المطار,محل,بيت,جبت
+Vegetables,خضار,لحمه,فراخ,لبن
+-
+sentence
+translate,I'll go to the supermarket and I'll get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
+translate,I'll pick-up Mohamed from the airport,هجيب محمد من المطار,على,النهرده
+-
+multichoice
+I'll get,هجيب,رايح,رايحة,جبت
+I'll go,هروح,رايح,بروح,رُحت
+I'll see,هشوف,رايح,رايحة,رُحت
+-
+multichoice
+After a while,كمان شويه,رايح,من شويه,عندي
+I'll speak,هتكلم,رايح,إتكلمت,بتكلم
+I'll say,هقول,هتكلم,بقول,رأيي
+My opinion,رأيي,هروح,شويه,هتكلم
+-
+sentence
+translate,I'll speak with Mina and say my opinion,هتكلم مع مينا و هقول رأيي,فاهم,أيوه,فلوس,الموبيل
+translate,I'll speak on the cell phone,هتكلم على الموبيل,فاهم,مينا,هقول,أيوه,إنتَ
+translate,I'll tell to Nofret,هقول لنوفرت,أيوه,فلوس,هتكلم
+-
+end_0
+
+همشي,هاكل
+
+
+start_1
+multichoice
+I'll walk,همشي,رايح,هاكل,هذاكر
+I'll eat,هاكل,رايح,همشي,هذاكر
+There,هناك,رايح,هنا,هذاكر
+-
+sentence
+translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
+translate,I'll leave in a while,همشي كمان شويه,النهرده,هجيب,عايزه
+translate,I'll eat at home,هاكل في البيت,همشي
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+-
+sentence
+translate,I'll go and see what I want,هروح و هشوف أنا عايزه ايه,هجيب,بُكرا
+translate,I'm going to the office tomorrow,هروح المكتب بُكرا,النهرده,هجيب,عايزه
+answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُكرا,هجيب,عايزه
+-
+multichoice
+The airport,المطار,محل,بيت,جبت
+Vegetables,خضار,لحمه,فراخ,لبن
+-
+sentence
+translate,I'll go to the supermarket and get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
+translate,I'll pick-up Mohamed from the airport,هجيب محمد من المطار,على,عند
+-
+multichoice
+After a while,كمان شويه,رايح,من شويه,عندي
+There,هناك,رايح,هنا,هذاكر
+Here,هنا,رايح,هناك,هذاكر
+-
+multichoice
+I'll walk,همشي,رايح,هاكل,هذاكر
+I'll eat,هاكل,رايح,همشي,هذاكر
+-
+sentence
+translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
+translate,I'll leave in a while,همشي كمان شويه,النهرده,هجيب,عايزه
+translate,I'll eat at home,هاكل في البيت,همشي
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+-
+end_1
+
+هذاكر
+
+start_2
+multichoice
+I'll study,هذاكر,هاكل,همشي,رُحت
+-
+multichoice
+I'll walk,همشي,رايح,هاكل,هذاكر
+I'll eat,هاكل,رايح,همشي,هذاكر
+There,هناك,رايح,هنا,هذاكر
+-
+sentence
+translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
+translate,I'll study in a while,هذاكر كمان شويه,النهرده,هجيب,همشي,عايزه
+translate,I'll study at home,هذاكر في البيت,هاكل,همشي
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+-
+sentence
+translate,I'll go and see what I want,هروح و هشوف أنا عايزه ايه,هجيب,بُكرا
+translate,I'm going to the office tomorrow,هروح المكتب بُكرا,النهرده,هجيب,عايزه
+answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُكرا,هجيب,عايزه
+-
+multichoice
+The airport,المطار,محل,بيت,جبت
+Vegetables,خضار,لحمه,فراخ,لبن
+-
+sentence
+translate,I'll go to the supermarket and get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
+translate,I'll pick-up Mohamed from the airport,هجيب محمد من المطار,على,عند
+-
+multichoice
+After a while,كمان شويه,رايح,من شويه,عندي
+There,هناك,رايح,هنا,هذاكر
+Here,هنا,رايح,هناك,هذاكر
+-
+multichoice
+I'll walk,همشي,رايح,هاكل,هذاكر
+I'll eat,هاكل,رايح,همشي,هذاكر
+I'll study,هذاكر,هاكل,همشي,رُحت
+-
+sentence
+translate,I'll study here,هذاكر هنا,النهرده,هجيب,همشي,عايزه
+translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
+translate,I'll leave in a while,همشي كمان شويه,النهرده,هجيب,عايزه
+translate,I'll eat at home,هاكل في البيت,همشي
+translate,I'll study at home,هذاكر في البيت,هاكل,همشي
+-
+end_2
+
+
+Dictionary
+I'll go:هروح
+I'll walk/leave:همشي
+I'll study:هذاكر
+I'll see (think):هشوف
+I'll bring:هجيب
+I'll say:هقول
+I'll eat:هاكل
+I'll speak:هتكلم
+The airport:المطار
+Vegetables:خضار
+Today:النهرده
+The restaurant:المطعم
+There:هناك
+Here:هنا
+[bokra] Tomorrow:بُكرا
+I'm going:رايح
+I go:بروح
+I went:رُحت
+[rayHa] I (f)/ She/ You (f) is/are going:رايحة
+[(ae)yza] I (f) want:عايزه
+I brought:جبت
+A shop:محل
+[beit] Home:بيت
+[lbn] Milk:لبن
+[ae-la] On:على
+[aendi] I have:عندي
+I spoke:إتكلمت
+[bat-kalem] I (am) speaking:بتكلم
+I'm saying:بقول
+[shewaya] A little:شويه
+[fahem] (He/You(m)/I(m)) understand:فاهم
+[aywa] Yes:أيوه
+Money:فلوس
+[enta] You (m):إنتَ
+-

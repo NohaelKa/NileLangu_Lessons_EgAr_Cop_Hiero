@@ -1,0 +1,77 @@
+Lesson 4
+Notes/**
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
+𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
+
+𓇋𓇋,𓅱,𓃭,𓍯,𓈎,𓏏,𓍿
+**/ End of Notes
+
+start_0
+audiochoice
+𓇋𓇋,𓃭,𓅱
+𓅱,𓈎,𓂋
+𓃭,𓇋𓇋,𓏏
+𓍯,𓊪,𓅓
+𓈎,𓏏,𓅓
+𓏏,𓇋𓇋,𓅱
+𓍿,𓍯,𓃭
+-
+audiochoice
+𓇋𓇋,𓃭,𓅱
+𓅱,𓈎,𓂋
+𓃭,𓇋𓇋,𓏏
+𓍯,𓊪,𓅓
+𓈎,𓏏,𓅓
+𓏏,𓇋𓇋,𓅱
+𓍿,𓍯,𓃭
+-
+end_0
+
+start_1
+multichoice
+𓇋𓇋,Two Reeds,Quail chick,Pile of sand,Lion
+𓅱,Quail chick,Two Reeds,Door bolt,Folded cloth
+𓃭,Lion,Bread,Reed mat,Tethering rope
+𓍯,Cord,Jar,Two Reeds,Quail chick
+𓈎,Pile of sand,Tethering rope,Pool of water,Lion
+𓏏,Bread,Quail chick,Two Reeds,Door bolt
+𓍿,Tethering rope,Pile of sand,Mouth,Bread
+-
+multichoice
+𓇋𓇋,Two Reeds,Quail chick,Pile of sand,Lion
+𓅱,Quail chick,Two Reeds,Door bolt,Folded cloth
+𓃭,Lion,Bread,Reed mat,Tethering rope
+𓍯,Cord,Jar,Two Reeds,Quail chick
+𓈎,Pile of sand,Tethering rope,Pool of water,Lion
+𓏏,Bread,Quail chick,Two Reeds,Door bolt
+𓍿,Tethering rope,Pile of sand,Mouth,Bread
+-
+end_1
+
+start_2
+audiochoice
+𓇋𓇋,𓃭,𓅱
+𓅱,𓈎,𓂋
+𓃭,𓇋𓇋,𓏏
+𓍯,𓊪,𓍯
+𓈎,𓏏,𓅓
+𓏏,𓇋𓇋,𓅱
+𓍿,𓍯,𓃭
+-
+multichoice
+𓇋𓇋,Two Reeds,Quail chick,Pile of sand,Lion
+𓅱,Quail chick,Two Reeds,Door bolt,Folded cloth
+𓃭,Lion,Bread,Reed mat,Tethering rope
+𓍯,Cord,Jar,Two Reeds,Quail chick
+𓈎,Pile of sand,Tethering rope,Pool of water,Lion
+𓏏,Bread,Quail chick,Two Reeds,Door bolt
+𓍿,Tethering rope,Pile of sand,Mouth,Bread
+-
+end_2
+
+Dictionary
+[pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[iw.i] I'm:𓇋𓅱𓀀
+-

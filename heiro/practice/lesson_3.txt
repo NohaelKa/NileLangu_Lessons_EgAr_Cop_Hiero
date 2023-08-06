@@ -1,0 +1,70 @@
+Lesson 3
+Notes/**
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
+𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
+**/ End of Notes
+
+start_0
+audiochoice
+𓅓,𓊪,𓂋
+𓊪,𓅓,𓂋
+𓂋,𓅓,𓋴
+𓊃,𓊪,𓈙
+𓋴,𓊪,𓅓
+𓈙,𓊪,𓂋
+-
+audiochoice
+𓅓,𓊪,𓂋
+𓊪,𓅓,𓂋
+𓂋,𓅓,𓋴
+𓊃,𓊪,𓈙
+𓋴,𓊪,𓅓
+𓈙,𓊪,𓂋
+-
+end_0
+
+start_1
+multichoice
+𓅓,Owl,Cobra,Reed mat,Mouth
+𓊪,Chair,Owl,Door bolt,Folded cloth
+𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓊃,Door bolt,Jar,Hand,Cobra
+𓋴,Folded cloth,Owl,Pool of water,Chair
+𓈙,Pool of water,Reed mat,Mouth,Door bolt
+-
+multichoice
+𓅓,Owl,Cobra,Reed mat,Mouth
+𓊪,Chair,Owl,Door bolt,Folded cloth
+𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓊃,Door bolt,Jar,Hand,Cobra
+𓋴,Folded cloth,Owl,Pool of water,Chair
+𓈙,Pool of water,Reed mat,Mouth,Door bolt
+-
+end_1
+
+start_2
+audiochoice
+𓅓,𓊪,𓂋
+𓊪,𓅓,𓂋
+𓂋,𓅓,𓋴
+𓊃,𓊪,𓈙
+𓋴,𓊪,𓅓
+𓈙,𓊪,𓂋
+-
+multichoice
+𓅓,Owl,Cobra,Reed mat,Mouth
+𓊪,Chair,Owl,Door bolt,Folded cloth
+𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓊃,Door bolt,Jar,Hand,Cobra
+𓋴,Folded cloth,Owl,Pool of water,Chair
+𓈙,Pool of water,Reed mat,Mouth,Door bolt
+-
+end_2
+
+
+Dictionary
+[pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[iw.i] I'm:𓇋𓅱𓀀
+-

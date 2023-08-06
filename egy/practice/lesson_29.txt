@@ -1,0 +1,142 @@
+© NileLangu 2021
+Lesson: 29
+
+Listening to Songs
+Audio: done
+Dictionary: Todo
+Database: done
+
+start_0
+multichoice_img
+eye,night,arm,hand,foot,mouth
+عين:eye
+ليل:night
+-
+multichoice
+My beloved (m),حبيبي,ليلي,حبيبتي,عيني
+My beloved (f),حبيبتي,رايح,حبيبي,ليلي
+Oh my,اه ياني,رايح,حبيبتي,عيني
+My eye,عيني,ليلي,بروح,رايح
+My night,ليلي,حبيبي,عيني,هجيب
+-
+sentence
+translate,Oh my night my eye,اه يا ليلي يا عيني,حبيبتي,يا,يا,ياني
+translate,Oh my eye my night,اه يا عيني يا ليلي,حبيبتي,يا,يا,ياني
+translate,My beloved(m) my eye,يا حبيبي يا عيني,ليلي,حبيبتي,يا,يا,ياني
+-
+multichoice
+My beloved (m),حبيبي,ليلي,حبيبتي,عيني
+My beloved (f),حبيبتي,رايح,حبيبي,ليلي
+Oh my,اه ياني,رايح,حبيبتي,عيني
+My eye,عيني,ليلي,بروح,رايح
+My night,يا ليلي,حبيبي,عيني,هجيب
+-
+sentence
+translate,Oh my night my eye,اه يا ليلي يا عيني,حبيبتي,يا,يا,ياني
+translate,Oh my eye my night,اه يا عيني يا ليلي,حبيبتي,يا,يا,ياني
+translate,My beloved(m) my eye,يا حبيبي يا عيني,ليلي,حبيبتي,يا,يا,ياني
+-
+end_0
+
+
+start_1
+multichoice_img
+eye,night,arm,hand,foot,sea,sky
+البحر:sea
+السماء:sky
+عين:eye
+ليل:night
+-
+multichoice
+The sea,السماء,بعشق,بموت,البحر
+The sky,البحر,السماء,بحب,هجيب
+I'm dying,بموت,السماء,بحب,هجيب
+-
+multichoice
+I love,بحب,بعشق,هروح,هجيب
+I adore,بعشق,رايح,بحب,هجيب
+I revere,بموت في,رايح,بحب,هجيب
+The love,الحب,رايح,بحب,هجيب
+(It's) not kind,حرام,رايح,بحب,هجيب
+-
+sentence
+translate,I adore the sea,أنا بعشق البحر,السماء,بحب,حرام
+translate,and I revere the sea,و بموت في السماء,البحر,عيني,عايزه
+translate,I love you(m) so much,بحبَك موت,البحر,عيني,عايزه
+-
+sentence
+translate,Oh my night my eye,اه يا ليلي يا عيني,حبيبتي,يا,يا,ياني
+translate,Oh my eye my night,اه يا عيني يا ليلي,حبيبتي,يا,يا,ياني
+translate,My beloved(m) my eye,يا حبيبي يا عيني,ليلي,حبيبتي,يا,يا,ليلي,ياني
+-
+multichoice
+I love,بحب,بعشق,هروح,هجيب
+I adore,بعشق,رايح,بحب,هجيب
+I revere,بموت في,رايح,بحب,هجيب
+The love,الحب,رايح,بحب,هجيب
+(It's) not kind,حرام,رايح,بحب,هجيب
+-
+end_1
+
+
+start_2
+multichoice
+Why so?,ليه كده,رايح,هروح,هجيب
+Oh how lovely,يا سلام,رايح,هروح,هجيب
+Oh the night,اه يا ليل,رايح,هروح,هجيب
+Oh the time,اه يا زمن,رايح,هروح,هجيب
+Oh the love(air),اه يا هوا,رايح,هروح,هجيب
+-
+multichoice
+I love,بحب,بعشق,هروح,هجيب
+I adore,بعشق,رايح,بحب,هجيب
+I revere,بموت في,رايح,بحب,هجيب
+The love,الحب,رايح,بحب,هجيب
+(It's) not kind,حرام,رايح,بحب,هجيب
+-
+sentence
+translate,I adore the sea,أنا بعشق البحر,السماء,بحب,حرام
+translate,and I revere the sea,و بموت في السماء,البحر,عيني,عايزه
+translate,I love you(m) so much,بحبَك موت,البحر,عيني,عايزه
+-
+sentence
+translate,Oh my night my eye,اه يا ليلي يا عيني,حبيبتي,حبيبي,يا,يا,ياني
+translate,Oh my eye my night,اه يا عيني يا ليلي,حبيبتي,يا,يا,ياني
+translate,My beloved(m) my eye,يا حبيبي يا عيني,ليلي,حبيبتي,يا,يا,ليلي,ياني
+-
+multichoice
+Why so?,ليه كده,رايح,هروح,هجيب
+Oh how lovely,يا سلام,رايح,هروح,هجيب
+Oh the night,اه يا ليل,رايح,هروح,هجيب
+Oh the time,اه يا زمن,رايح,هروح,هجيب
+Oh the love(air),اه يا هوا,رايح,هروح,هجيب
+-
+end_2
+
+
+
+Dictionary
+[bat-aelem] I learn:بتعلم
+I'm going:رايح
+I go:بروح
+I'll bring:هجيب
+I'll go:هروح
+[(ae)yza] I (f) want:عايزه
+My darling (m):حبيبي
+My night:ليلي
+My darling (f):حبيبتي
+My eye:عيني
+The market:السوق
+Oh my:ياني
+The sea:البحر
+The sky:السماء
+Night:ليل
+eye:عين
+The mall:المول
+I adore:بعشق
+I adore/die:بموت
+I love:بحب
+The love:الحب
+(It's) not kind:حرام
+حبيب:beloved
+-

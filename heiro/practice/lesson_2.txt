@@ -1,0 +1,76 @@
+Lesson 2
+Notes /**
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
+
+𓂧 t (like in cleopatra), in coptic it is theta
+**/ End of Notes
+
+start_0
+audiochoice
+𓂧,𓆓,𓉔
+𓎼,𓆓,𓎛
+𓆓,𓎡,𓎛
+𓉔,𓂧,𓎼
+𓎛,𓎼,𓎡
+𓎡,𓂧,𓎼
+𓃀,𓃭,𓅓
+-
+audiochoice
+𓂧,𓆓,𓉔
+𓎼,𓆓,𓎛
+𓆓,𓎡,𓎛
+𓉔,𓂧,𓎼
+𓎛,𓎼,𓎡
+𓎡,𓂧,𓎼
+𓃀,𓃭,𓅓
+-
+end_0
+
+start_1
+multichoice
+𓂧,Hand,Cobra,Twisted flax,Basket with handle
+𓃀,Foot,Cobra,Twisted flax,Basket with handle
+𓎼,Jar,Hand,Cobra,Courtyard
+𓆓,Cobra,Jar,Hand,Twisted flax
+𓉔,Courtyard,Jar,Hand,Cobra
+𓎛,Twisted flax,Jar,Basket with handle,Courtyard
+𓎡,Basket with handle,Hand,Cobra,Courtyard
+-
+multichoice
+𓂧,Hand,Cobra,Twisted flax,Basket with handle
+𓃀,Foot,Cobra,Twisted flax,Basket with handle
+𓎼,Jar,Hand,Cobra,Courtyard
+𓆓,Cobra,Jar,Hand,Twisted flax
+𓉔,Courtyard,Jar,Hand,Cobra
+𓎛,Twisted flax,Jar,Basket with handle,Courtyard
+𓎡,Basket with handle,Hand,Cobra,Courtyard
+-
+end_1
+
+start_2
+audiochoice
+𓂧,𓆓,𓉔
+𓎼,𓆓,𓎛
+𓆓,𓎡,𓎛
+𓉔,𓂧,𓉔
+𓎛,𓎼,𓎡
+𓎡,𓂧,𓎼
+𓃀,𓃭,𓅓
+-
+multichoice
+𓂧,Hand,Cobra,Twisted flax,Basket with handle
+𓃀,Foot,Cobra,Twisted flax,Basket with handle
+𓎼,Jar,Hand,Cobra,Courtyard
+𓆓,Cobra,Jar,Hand,Twisted flax
+𓉔,Courtyard,Jar,Hand,Cobra
+𓎛,Twisted flax,Jar,Basket with handle,Courtyard
+𓎡,Basket with handle,Hand,Cobra,Courtyard
+-
+end_2
+
+Dictionary
+[pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[iw.i] I'm:𓇋𓅱𓀀
+-

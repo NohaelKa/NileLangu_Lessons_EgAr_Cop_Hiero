@@ -1,0 +1,156 @@
+Lesson 7
+
+كلمات و صورها
+TODO: record all classical arabic
+
+start_0
+audiochoice
+أكل,أكل,شاي,كيلو
+طعام,طعام,جبنة,شاي
+لبن,لبن,شاي,جبنة
+جبنة,جبنة,أكل,علبة
+شاي,شاي,طعام,أكل
+علبة,علبة,طعام,أكل
+كرتونة,كرتونة,كيلو,أكل
+كيلو,كيلو,أكل,كرتونة
+-
+multichoice_img
+cat_m,milk,home,flour,mobile,fruits_veg,bag,cheese,one_date,car,ball,eggs,moon,money,water,bird,one_apple,chicken,oil,tea,bread,coffee
+أكل:fruits_veg
+طعام:fruits_veg
+لبن:milk
+جبنة:cheese
+بلحة:one_date
+بيض:eggs
+ميه:water
+ماء:water
+تفاحة:one_apple
+دجاج:chicken
+زيت:oil
+شاي:tea
+عيش:bread
+خبز:bread
+قهوة:coffee
+-
+write_it
+كرتونة بيض,ك,ر,ت,و,ن,ة, ,ب,ي,ض
+كيلو فراخ,ك,ي,ل,و, ,ف,ر,ا,خ
+علبة شاي,ع,ل,ب,ة, ,ش,ا,ي
+-
+audiochoice
+إزازة,إزازة,كوباية,شاي
+زجاجة,إزازة,كوباية,شاي
+كوباية,كوباية,شاي,إزازة
+-
+write_it
+إزازة ميه,إ,ز,ا,ز,ة, ,م,ي,ه
+زجاجة ماء,ز,ج,ا,ج,ة, ,م,ا,ء
+كوباية شاي,ك,و,ب,ا,ي,ة, ,ش,ي
+كوب شاي,ك,و,ب, ,ش,ا,ي
+-
+end_0
+
+
+start_1
+audiochoice
+شنطة,شنطة,شاي,حقيبة
+حقيبة,حقيبة,شنطة,شاي
+فلوس,فلوس,شاي,جبنة
+نقود,نقود,فلوس,عصفور
+عصفور,عصفور,عربية,أكل
+عربية,عربية,طعام,عصفور
+سيارة,سيارة,كيلو,طعام
+-
+multichoice_img
+cat_m,milk,home,flour,mobile,fruits_veg,bag,cheese,one_date,car,ball,eggs,moon,money,water,bird,crocodile,book2,mobile,dog
+حقيبة:bag
+شنطة:bag
+عربية:car
+سيارة:car
+كرة:ball
+قمر:moon
+فلوس:money
+نقود:money
+عصفور:bird
+تمساح:crocodile
+كتاب:book2
+الموبايل:mobile
+الهاتف:mobile
+كلب:dog
+-
+write_it
+شنطة إيد,ش,ن,ط,ة, ,ي,د
+فلوس,ف,ل,و,س, ,ك,ا,ف,ي,ة
+نقود,م,ا,ل, ,ك,ا,ف,ي
+كرة قدم,ك,ر,ة, ,ق,د,م
+عصفور في الشجرة,ع,ص,ف,و, ,ي,ا,ل,ش,ج,ر,ة
+كلب طيب,ك,ل,ب, ,ط,ي,ب
+كتاب عربي,ك,ت,ا,ب, ,ع,ر,ب,ي
+-
+end_1
+
+
+
+start_2
+multichoice_img
+cat_m,milk,home,flour,mobile,fruits_veg,bag,cheese,one_date,car,ball,eggs,moon,money,water,bird,crocodile,book2,mobile,dog
+حقيبة:bag
+شنطة:bag
+عربية:car
+سيارة:car
+كرة:ball
+قمر:moon
+فلوس:money
+نقود:money
+عصفور:bird
+تمساح:crocodile
+كتاب:book2
+الموبايل:mobile
+الهاتف:mobile
+كلب:dog
+-
+multichoice_img
+cat_m,milk,home,flour,mobile,fruits_veg,bag,cheese,one_date,car,ball,eggs,moon,money,water,bird,one_apple,chicken,oil,tea,bread,coffee
+أكل:fruits_veg
+طعام:fruits_veg
+لبن:milk
+جبنة:cheese
+بلحة:one_date
+بيض:eggs
+ميه:water
+ماء:water
+تفاحة:one_apple
+دجاج:chicken
+زيت:oil
+شاي:tea
+عيش:bread
+خبز:bread
+قهوة:coffee
+-
+end_2
+
+
+Dictionary
+[عربي فصحة] جيد:كويس
+[عربي فصحة] جيدة :كويسه
+[عربي فصحة] قِطة:قطة
+[عربي فصحة] قِط:قط
+[عربي فصحة] من:مين
+[عربي فصحة] ماذا:ايه
+[عربي فصحة] كيف حالَك:إزيَك
+[عربي فصحة] كيف حالِك:إزيِك
+[عربي فصحة] مٌحمد:محمد
+[عربي فصحة] إسمي:إسمي
+[عربي فصحة] إسم:إسم
+[عربي فصحة] إسمَك:إسمَك
+[عربي فصحة] إسمِك:إسمِك
+[عربي فصحة] و:و
+[عربي فصحة] أبي:بابا
+[عربي فصحة] أب:أب
+[عربي فصحة] باب:باب
+[عربي فصحة] ماذا:ايه
+[عربي فصحة] هيَ :هيَ
+[عربي فصحة] يا :يا
+[عربي فصحة] هذا :ده
+[عربي فصحة] هذه :دي
+-

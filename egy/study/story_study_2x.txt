@@ -1,0 +1,100 @@
+<b>Lesson Number 3 "What foods do we have?"</b>
+
+In this lesson you will learn about some food names and the phrase "Is there" and the responses.
+
+The word "في" [fi] means "there is", and can be used as follows.
+There is milk: في لبن
+Is there milk?: في لبن؟
+
+Notice that there is is no need to put a question word to ask "Is there", you can simply use "في" .
+This question can be used for example when you are asking someone if an object exists in their home,or asking an supermarket employee if this object exists at their supermarket.
+Yes, there is Wifi: ايوه، في وايفاي
+
+The word "عندنا" [(ae)ndena] means "We have", and can be used as follows.
+We have cheese: عندنا جبنه
+Do we have cheese?: عندنا جبنه؟
+
+Negation
+In Egyptian Arabic, negating a verb can usually have a structure. You add "م" at the beginning and "ش" at the end of the verb.
+This grammer rule does not exist in the classical fus-ha arabic.
+
+Example:
+The word "There is" which is "في" becomes "مفيش"
+The word "We have" which is "عندنا" becomes "معندناش"
+
+Below is the full dialog between Mary and Nerfet:
+
+Dialog
+أنا جعانه، عندنا أكل؟
+زي ايه؟
+في لبن؟
+ايوه في
+عندنا جبنه؟
+ايوه عندنا
+في لحمه؟
+ايوه في
+عندنا دقيق؟
+لأ معندناش
+في رز؟
+لأ مفيش
+ممكن تشتري رز، و دقيق؟
+ايوه ممكن
+...
+جبت الحاجه، تحبي نعمل ايه؟
+خضار بس، اصلي عامله رچيم
+-
+
+Dictionary
+[akl] Food:أكل
+[lbn] Milk:لبن
+[lHma] Meat:لحمه
+[d'ee'] Flour:دقيق
+[gebna] Cheese:جبنه
+[roz] Rice:رز
+[Khodar] Vegetables:خضار
+[aywa] Yes:ايوه
+[la] No:لأ
+[t(sh)try] To buy:تشتري
+[Andena] We have:عندنا
+[mandna(sh)] We don't have:معندناش
+[mmkn] It's possible:ممكن
+[zy] Like:زي
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ezyak] How are you (to a male):إزيَك
+[ezyek] How are you (to a female):إزيِك
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[mHmd] A name:محمد
+[nfrt] An ancient Egyptian name (not used anymore):نفرت
+[enti] You (to a female):أنتِ
+[gbt] I got:جبت
+[elHaga] The things:الحاجه
+[tHbi] You would like (to a female):تحبي
+[nEml] We do:نعمل
+[bs] Only:بس
+[aSli] (It's just that I):اصلي
+[Aamla] I am doing (Female speaker):عامله
+[rjim] Diet (French: Regime):رچيم
+[w] And:و
+-
+
+
+toMale
+none
+
+toFemale
+none
+
+
+nonGendered
+Do we have foodName?:عندنا اسم_اكل
+No we don't have: لأ معندناش
+Yes we have: ايوه عندنا
+Could you buy?: ممكن تشتري؟
+Yes it's possible:أيوه ممكن
+-
+

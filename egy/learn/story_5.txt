@@ -1,0 +1,77 @@
+Going out
+
+Full list of things to learn:
+
+Title
+Listen to the dialog between Mary and Ahmed
+
+Dialog
+يلا نخرج؟
+ماشي يلا
+-
+نروح فين؟
+يلا نروح السنيما
+-
+تمام يلا
+...
+-
+أنا وصلت
+و أنا كمان
+-
+طب متيجي نروح مطعم
+يلا
+-
+أنا وصلت
+و أنا كمان
+-
+متيجي نروح البحر
+ماشي
+-
+الله حلو البحر
+اه أوي
+-
+يلا نروح الفضاء
+...
+-
+end
+
+
+Slideshow
+5_1,5_2,5_2,5_3,5_4,5_5,5_6,5_7,5_8
+-
+AudioSequence
+5_1,5_2,5_3,5_4,5_5,5_6,5_7,5_8,5_9
+-
+audioTrack
+yes
+-
+
+
+Dictionary
+[Elfada'] Outer space:الفضاء
+[Tamam] Affirmative:تمام
+[akl] Food:أكل
+[yla] Let's go:يلا
+[n(kh)rg] We go out:نخرج
+[ma(sh)i] Sure (he/it walks):ماشي
+[nrwH] We go:نروح
+[fyn] Where:فين
+[elcnyma] The cinema:السنيما
+[awkyh] Okay:اوكيه
+[ana] I|me:أنا
+[wSlt] Arrived:وصلت
+[w] And:و
+[kman] Too|Also :كمان
+[Tb] How about :طب
+[mtigi] Why don't we :متيجي
+[mT(ae)m] Restaurant:مطعم
+[hna] Here:هنا
+[elbHr] The Sea:البحر
+[allh] Wow:الله
+[Hlw] Nice:حلو
+[ah] Yes:اه
+[awy] Very:أوي
+[la'] No:لأ
+[eHna] We are:أحنا
+[tmam] fine:تمام
+-

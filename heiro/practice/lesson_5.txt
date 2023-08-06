@@ -1,0 +1,115 @@
+Lesson 5
+Notes/**
+Biliterals (1)
+
+𓆎𓅓𓏏𓊖
+𓂋𓏺𓈖𓆎𓅓𓏏𓊖
+
+𓁹:ir, 𓉐:pr, 𓅮:p2, 𓅭:s2, 𓄣:ib,𓌸:mr
+
+𓂋𓏺𓈖𓆎𓅓𓏏𓊖,𓁹,𓉐,𓅮,𓅭,𓄣,𓌸
+**/ End of Notes
+
+start_0
+audiochoice
+𓆎,𓃭,𓅱
+𓁹,𓈎,𓂋
+𓅮,𓊪,𓍯
+𓅭,𓏏,𓅓
+𓄣,𓇋𓇋,𓅱
+𓌸,𓍯,𓃭
+-
+multichoice
+𓊖,Country/Land,Cobra,Reed mat,Mouth
+𓏺,Depicted Object,Cobra,Reed mat,Mouth
+-
+audiochoice
+𓆎,𓃭,𓅱
+𓁹,𓈎,𓂋
+𓅮,𓊪,𓍯
+𓅭,𓏏,𓅓
+𓄣,𓇋𓇋,𓅱
+𓌸,𓍯,𓃭
+-
+end_0
+
+start_1
+audiochoice
+𓆎,𓃭,𓅱
+𓁹,𓈎,𓂋
+𓅮,𓊪,𓍯
+𓅭,𓏏,𓅓
+𓄣,𓇋𓇋,𓅱
+𓌸,𓍯,𓃭
+𓂋,𓃭,𓅱
+𓈖,𓇋𓇋,𓅱
+-
+multichoice
+𓆎,Crocodile Skin,Owl,Door bolt,Folded cloth
+𓌸,Diagonal Hoe,Folded cloth,Reed mat,Mouth
+𓉐𓏺,House,Jar,Hand,Cobra
+𓁹,Eye,Owl,Pool of water,Hand
+𓅭,Pintail,Reed mat,Mouth,Door bolt
+𓅮,Pintail Flying,Reed mat,Mouth,Door bolt
+𓄣,Jar with handles,House,Jar,Hand
+-
+multichoice
+𓂋𓏺,Mouth/Utterance,Cobra,Reed mat,Cobra
+𓆎𓅓𓏏𓊖,Egypt,Cobra,of,Mouth
+𓈖,of,Owl,Egypt,Folded cloth
+-
+write_it
+𓆎𓅓𓏏𓊖,𓆎,𓅓,𓏏,𓊖,𓈖
+𓂋𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺
+𓉐𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓉐
+-
+sentence
+translate,Language of Egypt,𓂋𓏺𓈖𓆎𓅓𓏏𓊖,𓂋,𓏺,𓈖,𓆎,𓅓,𓏏,𓊖
+translate,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,Language of Egypt,Language,of,Egypt,Cairo,owl
+-
+end_1
+
+start_2
+audiochoice
+𓆎,𓃭,𓅱
+𓁹,𓈎,𓂋
+𓉐,𓇋𓇋,𓏏
+𓅮,𓊪,𓍯
+𓅭,𓏏,𓅓
+𓄣,𓇋𓇋,𓅱
+𓌸,𓍯,𓃭
+𓂋,𓃭,𓅱
+𓈖,𓇋𓇋,𓅱
+-
+multichoice
+𓆎,Crocodile Skin,Owl,Door bolt,Folded cloth
+𓌸,Diagonal Hoe,Folded cloth,Reed mat,Mouth
+𓉐𓏺,House,Jar,Hand,Cobra
+𓁹,Eye,Owl,Pool of water,Hand
+𓅭,Pintail,Reed mat,Mouth,Door bolt
+𓅮,Pintail Flying,Reed mat,Mouth,Door bolt
+𓄣,Jar with handles,House,Jar,Hand
+-
+multichoice
+𓂋𓏺,Mouth/Language,Cobra,Reed mat,Cobra
+𓆎𓅓𓏏𓊖,Egypt,Cobra,of,Mouth
+𓈖,of,Owl,Egypt,Folded cloth
+-
+write_it
+𓆎𓅓𓏏𓊖,𓆎,𓅓,𓏏,𓊖,𓈖
+𓂋𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺
+𓉐𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓉐
+-
+sentence
+translate,Language of Egypt,𓂋𓏺𓈖𓆎𓅓𓏏𓊖,𓂋,𓏺,𓈖,𓆎,𓅓,𓏏,𓊖
+translate,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,Language of Egypt,Language,of,Egypt,Cairo,owl
+-
+end_2
+
+Dictionary
+[n][`ⲛ] Of:𓈖
+[ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
+[kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
+[ideogram] Country/Land/Village/Egypt:𓊖
+[ideogram] Confirms the object depicted:𓏺
+-

@@ -1,0 +1,130 @@
+#Lesson 13
+#Please and Thank you
+#من فضلَك,شكراً,من فضلِك,أجازة
+#
+#
+---
+- Level_0: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'meat', 'mobile', 'car']
+    - شنطة: bag
+    - تفاحة: one_apple
+    - لحمة: meat
+  - multichoice: 
+    - Please (to a male):
+      من فضلَك: ['بكره', 'دلوقتي', 'شكراً']
+    - If you please (to a male):
+      لو سمحت: ['بكره', 'دلوقتي', 'شكراً']
+    - Thank you:
+      شكراً: ['من فضلَك', 'إمبارح', 'إنهرده']
+  - sentence: 
+    - translate: I want an apple please
+      عايز تفاحه من فضلَك: ['بلحه', 'عايز', 'من', 'فضلَك', 'إنهرده', 'تفاحه', 'جعان']
+    - translate: I want meat please
+      عايز لحمة لو سمحت: ['بلحه', 'عايز', 'لو سمحت', 'لحمة', 'تفاحه', 'جعان']
+    - translate: I don't want thanks
+      مش عايز شكراً: ['بلحه', 'مش', 'عايز', 'من', 'فضلَك', 'إنهرده', 'تفاحه', 'شكراً']
+  - multichoice: 
+    - Vacation:
+      أجازة: ['من فضلَك', 'دلوقتي', 'شكراً']
+    - Please (to a male):
+      من فضلَك: ['بكره', 'دلوقتي', 'شكراً']
+    - Thank you:
+      شكراً: ['من فضلَك', 'إمبارح', 'إنهرده']
+  - sentence: 
+    - translate: I want a bag please
+      عايزه شنطة من فضلَك: ['بلحه', 'عايزه', 'من', 'فضلَك', 'إنهرده', 'شنطة', 'تفاحه']
+    - translate: Thank you
+      شكراً: ['ده', 'بلحه', 'أنا عايز', 'شكراً', 'شغلي', 'جعان', 'دلوقتي']
+- Level_1: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'meat', 'mobile', 'car']
+    - موبيل: mobile
+    - عربية: car
+  - multichoice: 
+    - Please (to a female):
+      من فضلِك: ['من فضلَك', 'دلوقتي', 'شكراً']
+    - No thank you:
+      لأ شكراً: ['من فضلَك', 'من فضلِك', 'إنهرده']
+    - If you please (to a female):
+      لو سمحتي: ['بكره', 'دلوقتي', 'شكراً']
+  - sentence: 
+    - translate: I want a taxi please
+      عايز تاكسي من فضلِك: ['بلحه', 'عايز', 'بكره', 'من فضلِك', 'شغلي', 'جعان']
+    - translate: I want a car please
+      أنا عايز عربية لو سمحتي: ['بلحه', 'أنا عايز', 'بكره', 'لو سمحتي', 'عربية', 'جعان']
+  - multichoice: 
+    - Please (to a female):
+      من فضلِك: ['من فضلَك', 'دلوقتي', 'شكراً']
+    - No thank you:
+      لأ شكراً: ['من فضلَك', 'من فضلِك', 'إنهرده']
+    - If you please (to a female):
+      لو سمحتي: ['بكره', 'دلوقتي', 'شكراً']
+  - sentence: 
+    - translate: I don't want thanks
+      مش عايزه شكراً: ['بلحه', 'مش', 'عايزه', 'من', 'فضلَك', 'إنهرده', 'تفاحه', 'شكراً']
+    - translate: I want a car please
+      أنا عايز عربية لو سمحتي: ['بلحه', 'أنا عايز', 'بكره', 'لو سمحتي', 'عربية', 'جعان']
+    - translate: I want a cell phone please
+      أنا عايز موبيل من فضلِك: ['بلحه', 'أنا عايز', 'بكره', 'من فضلِك', 'شغلي', 'موبيل']
+- Level_2: 
+  - multichoice: 
+    - Please (to a male):
+      من فضلَك: ['بكره', 'من فضلِك', 'شكراً']
+    - If you please (to a male):
+      لو سمحت: ['لو سمحت', 'دلوقتي', 'شكراً']
+  - sentence: 
+    - translate: I want a date please
+      عايز بلحه من فضلِك: ['بلحه', 'عايز', 'بكره', 'من فضلِك', 'شغلي', 'جعان']
+    - translate: I don't want thanks
+      مش عايز شكراً: ['بلحه', 'مش', 'عايز', 'من', 'فضلَك', 'إنهرده', 'تفاحه', 'شكراً']
+  - multichoice: 
+    - Please (to a female):
+      من فضلِك: ['من فضلَك', 'دلوقتي', 'شكراً']
+    - Please (to a male):
+      من فضلَك: ['بكره', 'من فضلِك', 'شكراً']
+  - sentence: 
+    - translate: I want a taxi please
+      عايز تاكسي من فضلِك: ['بلحه', 'عايز', 'بكره', 'من فضلِك', 'شغلي', 'جعان']
+    - translate: I don't want thanks
+      مش عايزه شكراً: ['بلحه', 'مش', 'عايزه', 'من', 'فضلَك', 'إنهرده', 'تفاحه', 'شكراً']
+- Level_3: 
+  - sentence: 
+    - translate: I want a taxi please
+      عايز تاكسي من فضلَك: ['بلحه', 'عايز', 'بكره', 'من فضلَك', 'شغلي', 'لو']
+    - translate: I want a car please
+      أنا عايزه عربية لو سمحت: ['بلحه', 'أنا عايز', 'بكره', 'لو سمحت', 'عربية', 'جعان']
+  - sentence: 
+    - translate: I want an apple please
+      عايز تفاحه لو سمحتي: ['بلحه', 'عايز', 'من', 'لو سمحتي', 'إنهرده', 'تفاحه', 'شكراً']
+    - translate: I want a bag please
+      عايزه شنطة من فضلِك: ['بلحه', 'عايزه', 'من', 'فضلِك', 'إنهرده', 'شنطة', 'تفاحه']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[(ae)ayz] (I) want (female speaker)', 'عايز']
+  - ['[(ae)ayza] (I) want (male speaker)', 'عايزه']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[blHa] A date (fruit)', 'بلحه']
+  - ['[tfaHa] An apple', 'تفاحه']
+  - ['[oTy] A bag', 'شنطة']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[taksi] Taxi', 'تاكسي']
+  - ['باكل', "I'm eating"]
+...

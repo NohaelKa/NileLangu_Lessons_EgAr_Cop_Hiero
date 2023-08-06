@@ -1,0 +1,197 @@
+© NileLangu 2021
+Verbs to have
+
+Full list of things to learn:
+عندي,عندَك,عندِك,عندها,عنده,عندنا,عندهم,عندكم
+معايا,معاك,معاكي,معاها,معاه,معانا,معاهم,معاكم
+شاحن,عربية,البيت
+الشنطة,مشكلة,فرح,موبيل,بتاعها,كوتشينا,فلوس
+
+
+start_0
+multichoice
+At,عند,إنتَ,عندي,معايا
+-
+multichoice
+I have,عندي,عندِك,عند,عندَك
+You (m) have,عندَك,لبن,معاك,عندِك
+You (f) have,عندِك,ممكن,معاكي,عندَك
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread,car,home
+عربية:car
+البيت:home
+-
+multichoice
+A charger,شاحن,إنتَ,البيت,معايا
+The home,البيت,لبن,معاك,شاحن
+There is/ Inside,في,البيت,معاك,شاحن
+-
+sentence
+translate,I own a car,أنا عندي عربية,أنا عندي,عربية,لودوفيك,محمد,مينا
+translate,You (m) have a car at home,عندَك عربية في البيت,عندَك,عربية,في,البيت,لودوفيك,إنتَ,محمد,هوَ,مينا
+translate,Do you (f) own a cat?,عندِك قطة,عندَك,عربية,في,قطة,أنا,لودوفيك,محمد,هوَ,مينا
+translate,I have a charger at home,عندي شاحن في البيت,عندي,عربية,البيت,محمد,في,مينا
+-
+multichoice
+I have with me,معايا,إنتَ,عندي,إنتِ
+You (m) have with you,معاك,لبن,عندَك,إنتِ
+You (f) have with you,معاكي,ممكن,عندِك,عندَك
+-
+multichoice
+Bag,الشنطة,لبن,معاك,شاحن
+at / in,في,البيت,معاك,شاحن
+-
+sentence
+translate,I have a car with me,معايا عربية,عندي,عربية,معايا,محمد,مينا
+translate,Do you (m) have a car with you?,معاك عربية,عندَك,عربية,في,البيت,معاك,محمد,هوَ,مينا
+translate,Do you (f) have a charger with you?,معاكي شاحن,عربية,في,قطة,شاحن,معاكي,هوَ,مينا
+translate,I have with me a charger in the bag,معايا شاحن في الشنطة,شاحن,في,الشنطة,عندي,عربية,معايا,مينا
+-
+sentence
+translate,I own a car,أنا عندي عربية,أنا عندي,عربية,لودوفيك,محمد,مينا
+translate,I have my car with me,معايا عربيتي,عندي,عربية,معايا,محمد,عربيتي
+translate,You (m) have a car at home,عندَك عربية في البيت,عندَك,عربية,في,البيت,إنتَ,محمد,هوَ,مينا
+translate,I have with me a charger in the bag,معايا شاحن في الشنطة,شاحن,في,الشنطة,عندي,عربية,معايا,مينا
+-
+end_0
+
+
+عندها,عنده,عندنا
+
+start_1
+multichoice
+At,عند,إنتَ,عندي,عنده
+-
+multichoice
+You (pl)  have,عندكم,ممكن,عندها,ايه
+He has,عنده,عندكم,إنتَ,عندها
+She has,عندها,ممكن,عنده,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread,car,home,tea
+شاي:tea
+-
+multichoice
+Problem,مشكلة,فرح,عندي,إنتِ
+Wedding,فرح,إنتَ,عندي,مشكلة
+Tea,شاي,فرح,عندي,مشكلة
+-
+sentence
+translate,Do you (pl) have tea?,عندكم شاي,عندي,عربية,عندكم,شاي,مشكلة,مينا
+translate,He has a problem,عنده مشكلة,عندَك,عربية,في,البيت,إنتَ,عنده,مشكلة,فرح,شاي
+translate,She has a wedding,عندها فرح,عندَك,عربية,في,عندها,قطة,أنا,فرح,هوَ,مشكلة
+-
+multichoice
+You (pl) have with you,معاكم,ممكن,عندها,ايه
+He has with him,معاه,عندكم,إنتَ,عندها
+She has with her,معاها,ممكن,عنده,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,mobile,oil,chicken,bread,car,home,tea
+موبيل:mobile
+-
+sentence
+translate,I have him on the phone,هوَ معايا علي الموبيل,عندي,عربية,معايا,محمد,مينا
+translate,He has his cellphone,معاه موبيله,عندَك,عربية,في,البيت,معاك,محمد,معاه,موبيله
+translate,She has her charger,معاها الشاحن بتاعها,عربية,في,قطة,الشاحن,معاكي,هوَ,مينا
+translate,Do you (pl) have a car with you?,معاكم عربية,شاحن,في,الشنطة,عندي,عربية,معايا,معاكم
+-
+sentence
+translate,I own a car,أنا عندي عربية,أنا عندي,عربية,لودوفيك,محمد,مينا
+translate,I have a car with me,معايا عربية,عندي,عربية,معايا,محمد,مينا
+translate,You (m) have a car at home,عندَك عربية في البيت,عندَك,عربية,في,البيت,لودوفيك,إنتَ,محمد,هوَ,مينا
+translate,I have with me a charger in the bag,معايا شاحن في الشنطة,شاحن,في,الشنطة,عندي,عربية,معايا,مينا
+-
+end_1
+
+
+
+start_2
+multichoice
+We have,عندنا,ممكن,عندهم,معانا
+They have,عندهم,ممكن,معاهم,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,tea,bread,car,home,coffee
+لحمة:meat
+فراخ:chicken
+شاي:tea
+قهوة:coffee
+-
+sentence
+translate,We have meat and chicken,عندنا لحمة و فراخ,عندنا,لحمة,و,فراخ,أنا,أستاذ,محمد,إنتِ,مينا
+translate,They have tea and coffee,عندهم شاي و قهوة,عندَك,عربية,في,البيت,عندهم,شاي,و,قهوة
+-
+multichoice
+We have with us,معانا,ممكن,عندنا,ايه
+They have with us,معاهم,ممكن,عندهم,عندنا
+-
+multichoice
+Playing cards,كوتشينا,فلوس,عندهم,معانا
+Money,فلوس,شاي,معاهم,كوتشينا
+-
+sentence
+translate,We have money with us,معانا فلوس,عندنا,لحمة,و,فراخ,أنا,معانا,فلوس,إنتِ,مينا
+translate,They have playing cards,معاهم كوتشينا,معاهم,كوتشينا,عربية,في,البيت,عندهم,شاي,و,قهوة
+-
+sentence
+translate,We have money in the bank,عندنا فلوس في البنك,عندنا,فلوس,لحمة,و,فراخ,في,البنك,محمد,معانا,مينا
+translate,We have money with us,معانا فلوس,عندنا,لحمة,و,فراخ,أنا,معانا,فلوس,إنتِ,مينا
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,tea,bread,car,home,coffee
+لحمة:meat
+فراخ:chicken
+شاي:tea
+قهوة:coffee
+-
+multichoice
+Playing cards,كوتشينا,فلوس,عندهم,معانا
+Money,فلوس,شاي,معاهم,كوتشينا
+-
+end_2
+
+
+
+Dictionary
+I am | Me:أنا
+Money:فلوس
+Playing Cards:كوتشينا
+Coffee:قهوة
+Tea:شاي
+Coffee:قهوة
+Tea:شاي
+There is/ Inside:في
+The Bank:البنك
+I have / own:عندي
+You(m) have / own:عندَك
+You(f) have / own:عندِك
+She has / owns:عندها
+He has / owns:عنده
+They have / own:عندهم
+You(pl) have / own:عندكم
+I have with me:معايا
+You(m) have with you:معاك
+You(f) have with you:معاكي
+She has with her:معاها
+He has with him:معاه
+They have with them:معاهم
+You(pl) have with you:معاكم
+a Charger:شاحن
+a Car:عربية
+The Home:البيت
+The Bag:الشنطة
+a Problem:مشكلة
+a Wedding:فرح
+[Andena] We have / We own:عندنا
+[enta] You (m):إنتَ
+[lbn] Milk:لبن
+[momken] Possible:ممكن
+[mHmd] A Name:محمد
+[oTa] Cat (female):قطة
+[enti] You (f):إنتِ
+[eh] What:ايه
+[lHma] Meat:لحمة
+[ostaz] Professor/ Mr :أستاذ
+-

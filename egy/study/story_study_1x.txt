@@ -1,0 +1,53 @@
+<b>Listen Module "Greetings 1"</b>
+
+In this lesson, in the "Dialog" module, you will hear a dialog between our Egyptian characters.
+
+Below is the full dialog between Mary and Ahmed:
+
+<b>Dialog</b>
+إزيَك يا محمد؟
+أنا كويس
+-
+و إنتِ إزيِك يا ماري؟
+أنا كويسه، كله تمام
+-
+إزي والدتَك و والدَك؟
+ماما و بابا كويسين
+-
+و إزي أختِك و أخوكي؟
+أختي كويسة و أخويا كويس
+-
+إزي أختَك و أخوك؟
+أختي و أخويا كويسين
+-
+و إزي شغلِك؟
+شغلي صعب أوي
+-
+إتفضل جوا
+شكراً
+-
+
+Basics:
+Arabic is read from right to left.
+
+How are you: إزيِك/إزيَك
+The word إزاي when used on it's own means "How", and can be used as a question word.
+In the "How are you" expression, an ا is removed after the ز. When you do that it becomes إزي, meaning "How is/are". You can put any noun after that to say How is/are X. The word "You" is trasnlated literally as "إنتَ" or "إنتِ" depending if you are speaking to a male or female. However in this expression "You" becomes the letter "K" = "ك", and it is attached at the end of the word becoming إزيَك or إزيِك.
+
+Male and Female:
+Nouns in Arabic are always either male or female, the same holds true in Egyptian Arabic.
+For example the word "Cat" can be "قط" for male or "قطة" for female.
+As a general rule, if a word end with a "ة", it is a female. Notice that "ة" letter takes a different form in the "قطة" example, and thats true for most of the letters.
+
+Possession:
+To indicate possession of the listener, usually there will be a "ك" added at the end of a word
+
+Examples:
+قطتك :Your cat
+شغلِك :Your work
+
+To indicate possession of the speaker, usually there will be a "ي" added at the end of a word
+
+Examples
+قطتي : My cat
+شغلي : My work

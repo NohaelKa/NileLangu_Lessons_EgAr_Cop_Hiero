@@ -1,0 +1,135 @@
+#Do you have free time?
+#
+#
+---
+- Level_0: 
+  - multichoice: 
+    - فاضي:
+      Empty: ['Happy', 'Busy', 'Walking']
+    - فاضيه:
+      Empty: ['Happy', 'Busy', 'Walking']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'cook']
+    - باكل: eat
+    - بطبخ: cook
+    - بنظف: clean
+  - sentence: 
+    - translate: أنا فاضي
+      I have free time: ['playing', 'free time', 'working', 'I have', 'I am']
+    - translate: أنا فاضيه
+      I have free time: ['playing', 'free time', 'working', 'I have', 'I am']
+- Level_1: 
+  - multichoice: 
+    - مشغول:
+      Busy: ['Happy', 'Empty', 'Walking']
+    - مشغوله:
+      Busy: ['Happy', 'Empty', 'Walking']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice']
+    - بلعب: play
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'ball']
+    - درامز: drums
+    - كرة: ball
+  - sentence: 
+    - translate: I'm playing
+      أنا بلعب: ['أنا باكل', 'بلحة', 'أنا بشتغل', 'أنا تفاحة', 'أنا شنطه', 'أنا بلعب']
+    - translate: I'm playing drums
+      بلعب درامز: ['باكل', 'بلحة', 'درامز', 'تفاحة', 'شنطه', 'بلعب']
+    - translate: I'm playing football
+      بلعب كرة: ['باكل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm playing now
+      بلعب دلوقتي: ['باكل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+- Level_2: 
+  - multichoice: 
+    - I'm working:
+      بشتغل: ['بنضف', 'باكل', 'بلعب درامز']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بشتغل: work
+  - multichoice: 
+    - Today:
+      إنهرده: ['دلوقتي', 'بكره', 'رياضة']
+    - Now:
+      دلوقتي: ['إنهرده', 'بكره', 'بطبخ']
+  - sentence: 
+    - translate: I'm working
+      بشتغل: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm working now
+      بشتغل دلوقتي: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm working today
+      بشتغل إنهرده: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'إنهرده', 'بلعب']
+- Level_3: 
+  - multichoice: 
+    - I'm cleaning:
+      بنضف: ['بلعب درامز', 'بشتغل', 'بطبخ']
+    - الأوضه:
+      The Room: ['The Kitchen', 'The Garden', 'The Bathroom']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بنضف: clean
+  - sentence: 
+    - translate: I'm cleaning
+      بنضف: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'بنضف', 'بلعب']
+    - translate: I'm cleaning the room now
+      بنضف الأوضه دلوقتي: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm cleaning the room
+      بنضف الأوضه: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'إنهرده', 'بلعب']
+- Level_4: 
+  - multichoice: 
+    - What:
+      ايه: ['بتعملي', 'باكل', 'بنضف']
+    - You are doing (to a female):
+      بتعملي: ['بتعمل', 'باكل', 'بنضف']
+    - You are doing (to a male):
+      بتعمل: ['بتعملي', 'باكل', 'بنضف']
+  - sentence: 
+    - translate: What are you doing?
+      بتعمل ايه: ['ايه', 'بتعمل']
+  - multichoice: 
+    - What:
+      ايه: ['بتعملي', 'باكل', 'بنضف']
+    - You are doing (to a female):
+      بتعملي: ['بتعمل', 'باكل', 'بنضف']
+    - You are doing (to a male):
+      بتعمل: ['بتعملي', 'باكل', 'بنضف']
+  - sentence: 
+    - translate: What are you doing?
+      بتعملي ايه: ['ايه', 'بتعملي']
+- Level_5: 
+  - multichoice: 
+    - I'm making:
+      بعمل: ['باكل', 'بنام', 'رياضة']
+    - Exercise:
+      رياضة: ['باكل', 'بنام', 'بعمل']
+    - I'm drinking:
+      بشرب: ['بنام', 'بعمل رياضة', 'بطبخ']
+  - multichoice: 
+    - I'm making:
+      بعمل: ['باكل', 'بنام', 'رياضة']
+    - Exercise:
+      رياضة: ['باكل', 'بنام', 'بعمل']
+    - I'm drinking:
+      بشرب: ['بنام', 'بعمل رياضة', 'بطبخ']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بعمل رياضة: exercise
+    - بشرب: drink
+- Dictionary:
+  - ["[bakl] I'm eating", 'باكل']
+  - ["[b(sh)t(gh)l] I'm working", 'بشتغل']
+  - ["[b(ae)ml] (I'm exercising) I'm doing..", 'بعمل']
+  - ["[bt(ae)mli] You're doing (to a female)", 'بتعملي']
+  - ["[bt(ae)ml] You're doing (to a male)", 'بتعمل']
+  - ["[ryaDa] (I'm exercising) ..exercise", 'رياضة']
+  - ["[bl(ae)b] I'm playing", 'بلعب']
+  - ["[btb(kh)] I'm cooking", 'بطبخ']
+  - ["[b(S)(H)a] I'm waking", 'بصحى']
+  - ["[bnam] I'm falling asleep", 'بنام']
+  - ["[bnDf] I'm cleaning", 'بنضف']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+...

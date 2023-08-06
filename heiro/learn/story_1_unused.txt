@@ -1,0 +1,39 @@
+Paragraph Reading (1)
+
+Title
+Listen to the following paragraph
+
+Dialog
+
+-
+
+Slideshow
+1_1,1_2,1_2,1_3,1_4,1_5,1_6
+-
+AudioSequence
+1_1,1_2,1_3,1_4,1_5,1_6,1_7
+-
+
+audioTrack
+yes
+-
+
+Dictionary
+[nofri] Hello:ⲛⲟϥⲣⲓ
+[ramose] Ramose (an Egyptian name):ⲣⲁⲙⲟⲥⲉ
+[nefret] Nefret (an Egyptian name):ⲛⲉϥⲣⲉⲧ
+[ash] What:ⲁϣ
+[pe] Is/Are:ⲡⲉ
+[(di)owoj] I'm well, ϯ=I, ⲟⲩⲟϫ=healthy:ϯⲟⲩⲟϫ
+[pekre(di)] ⲡⲉⲕ=Your, ⲣⲏϯ=Condition:ⲡⲉⲕⲣⲏϯ
+[pere(di)] ⲡⲉ=Your, ⲣⲏϯ=Condition:ⲡⲉⲣⲏϯ
+[nanef] Good/Well:ⲛⲁⲛⲉϥ
+[shepehmot] Thanks:ϣⲉⲡϩⲙⲟⲧ
+[(in)(t'h)ok] You (to a male):`ⲛⲑⲟⲕ
+[(in)(t'h)o] You (to a female):`ⲛⲑⲟ
+[ouoh] And:ⲟⲩⲟϩ
+[(di)]I :Ϯ
+[redi] Condition/Status:ⲣⲏϯ
+[pe-shaw] ⲡⲉ=Your ϣⲁⲩ=cat:ⲡⲉϣⲁⲩ
+[pa-shaw] ⲡⲁ=My ϣⲁⲩ=cat:ⲡⲁϣⲁⲩ
+-

@@ -1,0 +1,214 @@
+© NileLangu 2021
+Lesson:
+Counting from 1 to 10
+
+
+start_0
+multichoice_img
+one_date,one_apple,bag,cheese,meat,rice,car,mobile
+بلحة:one_date
+موبيل:mobile
+تفاحة:one_apple
+-
+multichoice
+A date (f),بلحة,سلام,موبيل,إزيَك
+The date (f),البلحة,الموبيل,موبيلي,البلح
+-
+multichoice
+One,واحد,إثنين,ثلاثة,أربعة
+Two,إثنين,واحد,ثلاثة,أربعة
+Three,ثلاثة,واحد,إثنين,أربعة
+-
+multichoice_img
+one,two,three,four,five
+واحد:one
+إثنين:two
+ثلاثة:three
+-
+multichoice
+One,واحد,إثنين,ثلاثة,أربعة
+Two,إثنين,واحد,ثلاثة,أربعة
+Three,ثلاثة,واحد,إثنين,أربعة
+The Dates (m),البلح,البلحة,أربعة,ثلاثة
+The Cell Phones (m),الموبيلات,البلحة,التفاح,البلح
+The Apples (m),التفاح,البلحة,أربعة,الموبيلات
+-
+multichoice_img
+one_date,two_apples,three_dates,four_apples,five_dates
+واحد:one_date
+إثنين:two_apples
+ثلاثة:three_dates
+-
+multichoice
+One Date (f),بلحة واحدة,موبيل واحد,تفاحة واحدة,بلحتين إثنين
+One Mobile (m),موبيل واحد,تفاحة واحدة,موبيلين,بلحة واحدة
+One Apple (f),تفاحة واحدة,موبيل واحد,تفاحتين,بلحة واحدة
+-
+multichoice
+Two Dates,بلحتين,موبيلين,بلحة واحد,موبيل واحد
+Two Mobile Phones,موبيلين,بلحتين,موبيل واحد,تفاحتين
+Two Apples,تفاحتين,بلحتين,بلحة واحدة,موبيل واحد
+-
+multichoice
+Three Apples,ثلاث تفاحات,موبيل واحد,تفاحتين,تفاحة واحدة
+Three Mobile Phones,ثلاث موبيلات,موبيل واحد,موبيلين,ثلاث تفاحات
+Three Dates,ثلاث بلحات,بلحة واحدة,بلحتين,ثلاث تفاحات
+-
+end_0
+
+
+
+start_1
+multichoice_img
+one_date,one_apple,bag,cheese,meat,rice,car,mobile
+عربية:one_apple
+شنطة:bag
+-
+multichoice
+a Song,أغنية,واحد,شنطة,عربية
+-
+multichoice
+Three,ثلاثة,واحد,إثنين,خمسة
+Four,أربعة,إثنين,واحد,ثلاثة
+Five,خمسة,أربعة,إثنين,واحد
+-
+multichoice_img
+one,two,three,four,five
+أربعة:four
+خمسة:five
+-
+multichoice_img
+one,two,three,four,five
+واحد:one
+إثنين:two
+ثلاثة:three
+-
+multichoice_img
+one_apple,two_dates,three_apples,four_dates,five_apples
+ثلاثة:three_apples
+أربعة:four_dates
+خمسة:five_apples
+-
+multichoice_img
+one_date,two_apples,three_dates,four_dates,five_dates
+واحد:one_date
+إثنين:two_apples
+-
+multichoice
+Four cars,أربع عربيات,موبيل واحد,تفاحتين,تفاحة واحدة
+Five songs,خمس أغاني,موبيل واحد,موبيلين,ثلاث تفاحات
+three bags,ثلاث شنط,شنطة واحدة,شنطتين,أربع شنط
+-
+end_1
+
+
+
+start_2
+multichoice_img
+one_date,one_apple,book2,bag,cheese,meat,rice,car,mobile
+كتاب:book2
+-
+multichoice
+Six,ستة,سبعة,ثمانية,تسعة
+Seven,سبعة,ثمانية,ستة,تسعة
+Eight,ثمانية,سبعة,ستة,تسعة
+-
+multichoice_img
+five,six,seven,eight,four,five
+ستة:six
+سبعة:seven
+ثمانية:eight
+-
+multichoice_img
+one,two,three,four,five
+خمسة:five
+أربعة:four
+-
+multichoice_img
+one_date,two_apples,three_dates,four_dates,five_dates
+واحد:one_date
+إثنين:two_apples
+ثلاثة:three_dates
+-
+multichoice
+Six Bags,ست شنط,ثمن عربيات,كتاب واحد,شنطة واحدة
+Seven Books,سبع كتب,كتابين,ست شنط,كتاب واحد
+Eight Cars,ثمن عربيات,ست شنط,شنطة واحدة,ثلاث عربيات
+-
+end_2
+
+
+
+
+start_3
+multichoice_img
+five,six,seven,eight,four,five,nine,ten
+تسعة:nine
+عشرة:ten
+-
+multichoice
+Nine,تسعة,سبعة,عشرة,ثمانية
+Ten,عشرة,إثنين,ستة,تسعة
+-
+multichoice_img
+five,six,seven,eight,four,five
+ستة:six
+سبعة:seven
+ثمانية:eight
+-
+multichoice_img
+five,six,seven,eight,four,five,nine,ten
+تسعة:nine
+عشرة:ten
+-
+multichoice
+Nine books,تسع كتب,كتابين,ست شنط,كتاب واحد
+Ten songs,عشر أغاني,ست شنط,شنطة واحدة,ثلاث أغاني
+-
+multichoice
+Six Bags,ست شنط,ثمن عربيات,كتاب واحد,شنطة واحدة
+Seven Books,سبع كتب,كتابين,ست شنط,كتاب واحد
+Eight Cars,ثمن عربيات,ست شنط,شنطة واحدة,ثلاث عربيات
+-
+end_3
+
+
+// all numbers
+
+start_4
+multichoice_img
+five,six,seven,eight,four,five,nine,ten
+ستة:six
+سبعة:seven
+ثمانية:eight
+تسعة:nine
+عشرة:ten
+-
+multichoice_img
+one_date,two_apples,three_dates,four_apples,five_dates
+واحد:one_date
+إثنين:two_apples
+ثلاثة:three_dates
+أربعة:four_apples
+خمسة:five_dates
+-
+end_4
+
+Dictionary
+[mobile] A cell phone:موبيل
+[tofaHa] An apple:تفاحة
+[waHd] One:واحد
+[etnen] Two:إثنين
+[talata] Three:ثلاثة
+[arbAa] Four:أربعة
+[khamsa] Five:خمسة
+[set.ta] Six:ستة
+[sabAa] Seven:سبعة
+[tmanya] Eight:ثمانية
+[tsAa] Nine:تسعة
+[A.shra] Ten:عشرة
+[balaHa] a Date:بلحة
+[ezyak] How are you (m):إزيَك
+[shanTa] a Bag:شنطة
+a Car:عربية
+-

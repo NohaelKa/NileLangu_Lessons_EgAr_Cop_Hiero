@@ -1,0 +1,172 @@
+© NileLangu 2021
+
+Feminine and Masculine
+قط,قطة,كرة,لبن,دي,دا,ولد,بنت
+موبيل,عربية,هوَ,هيَ
+
+
+start_0
+multichoice
+This (m),دا,دي,كرة,أوي
+-
+multichoice_img
+cat_m,milk,home,flour,amaros,mobile
+ولد:amaros
+-
+sentence
+translate,This boy,الولد دا,الولد,دي,بيت,دا
+translate,This is a boy,دا ولد,ولد,دي,بيت,دا
+-
+write_it
+ولد,و,ل,د,ر,ب
+-
+multichoice
+He,هوَ,دي,كرة,دا
+-
+sentence
+translate,He is a boy,هوَ ولد,ولد,دي,هوَ,دا
+-
+multichoice_img
+cat_m,milk,home,flour,amaros,mobile
+لبن:milk
+-
+sentence
+translate,This milk,اللبن دا,اللبن,دي,بيت,دا
+translate,This is milk,دا لبن,ولد,دي,لبن,دا
+-
+write_it
+اللبن,و,ل,د,ر,ب,ا,ن
+-
+multichoice_img
+cat_m,milk,home,flour,amaros,mobile
+قط:cat_m
+موبيل:mobile
+-
+sentence
+translate,This cat,القط دا,اللبن,دي,القط,دا
+translate,This is a cat,دا قط,قط,دي,لبن,دا
+translate,This is a cell phone,دا موبيل,قط,موبيل,دي,لبن,دا
+-
+end_0
+
+
+start_1
+multichoice
+This (f),دي,دا,هوَ,هيَ
+-
+multichoice_img
+cat_f,bag,mary,ball,car
+mary:بنت
+-
+sentence
+translate,This girl,البنت دي,الولد,البنت,دي,بيت,دا
+translate,This is a girl,دي بنت,ولد,دي,بيت,دا
+-
+write_it
+البنت,و,ل,د,ت,ب,ا,ن
+-
+multichoice
+She,هيَ,دي,هوَ,دا
+-
+sentence
+translate,She is a girl,هيَ بنت,هيَ,بنت,ولد,دي,هوَ,دا
+-
+multichoice_img
+cat_f,bag,mary,ball,car
+كرة:ball
+-
+sentence
+translate,This ball,الكرة دي,اللبن,الكرة,دي,بيت,دا
+translate,This is a ball,دي كرة,ولد,كرة,دي,لبن,دا
+-
+write_it
+كرة,و,ك,د,ت,ة,ا,ن
+-
+audiochoice_
+ع,غ,ق
+-
+multichoice_img
+cat_f,bag,mary,ball,car
+قطة:cat_f
+عربية:car
+-
+sentence
+translate,This cat,القطة دي,اللبن,القطة,دي,القط,دا
+translate,This is a cat,دي قطة,قط,دي,قطة,دا
+translate,This is a car,دي عربية,قطة,عربية,دي,الكرة,دا
+-
+end_1
+
+
+
+start_2
+multichoice
+Choose the masculine word,لبن,قطة,موبيل,كرة
+-
+multichoice
+Choose the masculine word,قط,قطة,عربية,بلحة
+-
+multichoice
+Choose the masculine word,موبيل,كرة,عربية,بلحة
+-
+multichoice
+Choose the feminine  word,قطة,لبن,بيت,قط
+-
+multichoice
+Choose the feminine  word,كرة,لبن,بيت,قط
+-
+multichoice
+Choose the feminine  word,عربية,لبن,بيت,موبيل
+-
+sentence
+translate,She is a girl,هيَ بنت,هيَ,بنت,ولد,دي,هوَ,دا
+translate,He is a boy,هوَ ولد,ولد,دي,هوَ,دا
+-
+sentence
+translate,This cat,القطة دي,اللبن,القطة,دي,القط,دا
+translate,This is a cat,دا قط,قط,دي,لبن,دا
+translate,This is a car,دي عربية,قطة,عربية,دي,الكرة,دا
+-
+sentence
+translate,This is a girl,دي بنت,هيَ,بنت,ولد,دي,هوَ,دا
+translate,This is a boy,دا ولد,ولد,دي,هوَ,دا
+-
+end_2
+
+
+Dictionary
+[lbn] milk (m):لبن
+[elbnt] The girl:البنت
+[ellbn] The milk (m):اللبن
+[kra] The ball (f):كرة
+[elkra] The ball (f):الكرة
+[eloTa] The cat (f):القطة
+[oTa] Cat (f):قطة
+[oT] Cat (m):قط
+[oT] The cat (m):القط
+[wld] Boy:ولد
+[bnt] Girl:بنت
+a Car:عربية
+[heya] She (is):هيَ
+[beit] Home:بيت
+[balaHa] a Date:بلحة
+mobile phone:موبيل
+[di] This (f):دي
+[da] This (m):دا
+[awy] Very:أوي
+[elwld] the boy:الولد
+He:هوَ
+هوَ:he
+هيَ:she
+دا | دي:this
+هوَ:He
+هيَ:She
+دا | دي:This
+أنا:i
+دا:This (m)
+ولد:boy
+بنت:girl
+دي:This (f)
+بلحة:date
+شنطة:bag
+-

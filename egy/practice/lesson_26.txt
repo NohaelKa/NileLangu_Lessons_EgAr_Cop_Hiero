@@ -1,0 +1,195 @@
+© NileLangu 2021
+Lesson: 26
+The past ends with a ت
+
+-- Stop putting the transliteration
+
+Audio:
+Dictionary: Todo
+Database: done
+Full list of things to learn:
+
+شُفت, مشيت, ذاكرت, إشتريت,جبت
+رُحت, بروح, بقول, قُلت, إتكلمت,بجيب
+
+جزمة,محل,شارع
+
+
+start_0
+multichoice
+Yesterday,إمبارح,رايح,النهرده,عندي
+-
+multichoice
+I go,بروح,رايح,رايحة,رُحت
+I'm (m) going,رايح,بروح,رايحة,رُحت
+-
+sentence
+translate,بروح السوبر ماركت كل إسبوع,I go to the supermarket everyday,I'm going,went,I,go
+translate,رايح السوبر ماركت,I'm going to the supermarket,everyday,going,went,I'm,go
+-
+multichoice
+I went,رُحت,رايح,رايحة,عندي
+-
+sentence
+translate,Yesterday I went to the supermarket,إمبارح رُحت السوبر ماركت,بجيب,المول
+-
+multichoice
+I'm getting,بجيب,رايح,جبت,عندي
+-
+sentence
+translate,I'm getting Mom from the mall,بجيب ماما من المول,إمبارح,رُحت,ماركت
+-
+multichoice
+I brought,جبت,رايح,رايحة,عندي
+-
+sentence
+translate,رُحت السوبر ماركت و جبت أكل,I went to the supermarket and brought food,everyday,I'm going,went,I,go
+translate,جبت تليفون جديد,I brought a new phone,the,everyday,am going,went,go
+-
+multichoice
+A while ago,من شويه,رايح,إنجليزي,نوبي
+I'm speaking,بتكلم,رايح,إتكلمت,عندي
+I speak,بتكلم,رايح,إتكلمت,عندي
+I spoke,إتكلمت,رايح,بتكلم,عندي
+-
+sentence
+translate,I went home and talked with Nofret,رُحت البيت و إتكلمت مع نوفرت,بتكلم,جبت,من
+translate,I went home a while ago,رُحت البيت من شويه,مع,جبت,من
+translate,I spoke on the phone,إتكلمت على التليفون,بتكلم,جبت,أكل,من
+-
+multichoice
+I'm saying,بقول,قُلت,عربي,أنا محتاج
+I say,بقول,قُلت,عربي,أنا محتاجص
+I said,قُلت,بقول,محمد,فرنساوي
+You(m) said,قُلت,بقول,محمد,فرنساوي
+-
+sentence
+translate,What did you say?,قُلت ايه,شويه,بقول
+translate,I said I went to the mall a while ago,قُلت رُحت المول من شويه,ايه,بقول
+answer,قُلت ايه؟,قُلت رايح البيت
+-
+end_0
+
+
+شُفت, لعبت, مشيت, خوفت, ذاكرت, إشتريت,أكلت
+
+جزمة,محل
+
+start_1
+multichoice
+Yesterday,إمبارح,رايح,النهرده,عندي
+A while ago,من شويه,رايح,إنجليزي,نوبي
+-
+multichoice_img
+foot,laundry,bag,shoe,mobile,car
+جزمة:shoe
+-
+multichoice
+I saw,شُفت,رايح,إشتريت,محل
+Shop,محل,شُفت,إشتريت,رُحت
+Shoe,جزمة,شُفت,محل,رُحت
+-
+sentence
+translate,What did you see?,شُفت ايه,شويه,لأ,بقول
+translate,I saw Mohamed a while ago,شُفت محمد من شويه,ايه,المحل,بقول
+translate,I saw a nice shoe in the shop,شُفت جزمة حلوة في المحل,ايه,لأ,دا
+-
+multichoice
+I bought,إشتريت,رايح,شُفت,رُحت
+-
+sentence
+translate,I bought the shoe from that shop,إشتريت الجزمه من المحل دا,قُلت ايه,بقول
+translate,I bought the shoe today,إشتريت الجزمه النهارده,ايه,دا,بقول
+-
+multichoice
+I saw,شُفت,رايح,إشتريت,محل
+Shop,محل,شُفت,إشتريت,رُحت
+Shoe,جزمة,شُفت,محل,رُحت
+I bought,إشتريت,رايح,شُفت,رُحت
+-
+sentence
+translate,Yesterday I went to the supermarket,إمبارح رُحت السوبر ماركت,إمبارح,رُحت,السوبر,ماركت
+translate,رُحت السوبر ماركت و جبت أكل,I went to the super market and brought food,to the,everyday,am going,went,supermarket,I,go
+translate,I went home a while ago,رُحت البيت من شويه,مع,جبت,من
+translate,I spoke on the phone,إتكلمت على التليفون,بتكلم,جبت,أكل,من
+-
+end_1
+
+مشيت, ذاكرت
+
+start_2
+multichoice
+Yesterday,إمبارح,رايح,ذاكرت,عندي
+A while ago,من شويه,رايح,ذاكرت,مشيت
+I studied,ذاكرت,رايح,شارع,محل
+I walked,مشيت,شُفت,إشتريت,شارع
+Street,شارع,شُفت,محل,رُحت
+-
+sentence
+translate,I studied on NileLangu yesterday,ذاكرت على نايل لانجو إمبارح,شُفت,مشيت,شارع,بقول
+translate,I walked in the street,مشيت في الشارع,محل,من,بقول
+translate,I left the supermarket,مشيت من السوبر ماركت,ايه,لأ,الشارع,على
+-
+multichoice
+Yesterday,إمبارح,رايح,ذاكرت,عندي
+A while ago,من شويه,رايح,ذاكرت,مشيت
+I studied,ذاكرت,رايح,شارع,محل
+I walked,مشيت,شُفت,إشتريت,شارع
+Street,شارع,شُفت,محل,رُحت
+-
+sentence
+translate,I studied on NileLangu yesterday,ذاكرت على نايل لانجو إمبارح,شُفت,مشيت,شارع,بقول
+translate,I walked in the street,مشيت في الشارع,محل,من,بقول
+translate,I left the supermarket,مشيت من السوبر ماركت,ايه,لأ,الشارع,على
+-
+sentence
+translate,Yesterday I went to the supermarket,إمبارح رُحت السوبر ماركت,إمبارح,رُحت,السوبر,ماركت
+translate,رُحت السوبر ماركت و جبت أكل,I went to the super market and brought food,to the,everyday,am going,went,supermarket,I,go
+translate,I bought the shoe from that shop,إشتريت الجزمه من المحل دا,قُلت ايه,بقول
+translate,I spoke on the phone,إتكلمت على التليفون,بتكلم,جبت,أكل,من
+translate,I said I went to the mall a while ago,قُلت رُحت المول من شويه,ايه,بقول
+-
+end_2
+
+Dictionary
+Telephone/Cellphone:تليفون
+And:و
+New:جديد
+I/You(m) said:قُلت
+The shoe:الجزمه
+The home:البيت
+The street:الشارع
+Every:كل
+Week:إسبوع
+I/You(m) saw:شُفت
+I/You(m) walked/left:مشيت
+I/You(m) studied:ذاكرت
+I/You(m) bought:إشتريت
+I/You(m) brought:جبت
+I/You(m) went:رُحت
+I go:بروح
+I'm/You're(m) going:رايح
+I'm saying:بقول
+I/You(m) spoke:إتكلمت
+I'm getting:بجيب
+A shoe:جزمة
+A shop:محل
+A street:شارع
+Today:النهرده
+[aendi] I have:عندي
+[rayHa] I (f)/ She/ You (f) is/are going:رايحة
+[englyzi] English:إنجليزي
+[nubi] Nubian:نوبي
+[bat-kalem] I (am) speaking:بتكلم
+[akl] Food:أكل
+[aerabi] Arabic:عربي
+[mHmd] A Name:محمد
+[frnsawy] French:فرنساوي
+[eh] What:ايه
+[la] No:لأ
+[da] This (m):دا
+[ae-la] On:على
+يشوف:see
+جزمة:shoe
+إمبارح:yesterday
+-

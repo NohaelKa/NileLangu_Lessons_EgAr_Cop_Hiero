@@ -1,0 +1,141 @@
+Vocab (2)
+Gardiner Page 79???
+
+start_0
+multichoice_img
+moon,sun,sun_god,sky
+𓇋𓂝𓎛𓇺:moon
+𓂋𓂝𓇳:sun
+𓂋𓂝𓇳𓀭:sun_god
+𓊪𓏏𓇯:sky
+-
+multichoice
+𓆓𓂧,Say,See,Rise,Your/Your
+𓊪𓈖,This,Say,Your/Your,See
+𓍿𓈖𓏥,Your/Your,Say,This,See
+𓂋𓈖,Name,Say,Your/Your,See
+-
+multichoice
+𓌴𓁹𓄿𓄿,See,Say,Your/Your,Rejoice
+𓅓,in,Cobra,Man,Mouth
+𓇋𓅱,is/was,Sky,Daughter,Rise
+𓊃𓀀𓏤,Man,See,Sun,Daughter
+𓅭𓏏𓁐,Daughter,Man,Sun,See
+𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
+-
+multichoice
+𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
+𓎛𓈖𓂝,With,Sun,Moon,Rejoice
+-
+end_0
+
+
+
+start_1
+multichoice
+𓆓𓂧,Say,See,Rise,Your/Your
+𓊪𓈖,This,Say,Your/Your,See
+𓍿𓈖𓏥,Your/Your,Say,This,See
+𓂋𓈖,Name,Say,Your/Your,See
+-
+sentence
+translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
+-
+multichoice
+𓌴𓁹𓄿𓄿,See,Say,Your/Your,Rejoice
+𓅓,in,Cobra,Man,Mouth
+𓇋𓅱,is/was,Sky,Daughter,Rise
+𓊃𓀀𓏤,Man,See,Sun,Daughter
+𓅭𓏏𓁐,Daughter,Man,Sun,See
+𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
+-
+sentence
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,he,hear,his,his
+-
+multichoice
+𓂋𓂝𓇳𓀭,Sun God,Sun,Sky,Rejoice
+𓂋𓂝𓇳,Sun,Sun God,Sky,Divine Boat
+𓊪𓏏𓇯,Sky,Sun God,Cross,Rejoice
+𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
+-
+sentence
+translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
+-
+multichoice
+𓇋𓂝𓎛𓇺,Moon,Sun,With,Rejoice
+𓎛𓈖𓂝,With,Sun,Moon,Rejoice
+-
+sentence
+translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
+-
+sentence
+translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
+translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,he,hear,his,his
+translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
+-
+end_1
+
+
+Dictionary
+[en][ⲛ] of; to; for:𓈖
+[iw] is / was:𓇋𓅱
+[Hna] With:𓎛𓈖𓂝
+[i'ah][ⲓⲟϩ] Moon:𓇋𓂝𓎛𓇺
+[wi´] Divine boat:𓅱𓇋𓄿𓊛
+[re´][ⲣⲉ] Sun:𓂋𓂝𓇳
+[re´][ⲣⲉ] Sun God:𓂋𓂝𓇳𓀭
+[iwf] He is / was:𓇋𓅱𓆑
+[prf][ⲡⲉϥⲏⲓ] His house:𓉐𓏺𓆑
+[s][ⲥⲁ] Man:𓊃𓀀𓏤
+[pn][ⲫⲁⲓ] This:𓊪𓈖
+[rn][ⲣⲁⲛ] Name:𓂋𓈖
+[thn] You;Your:𓍿𓈖𓏥
+[mAA] See:𓌴𓁹𓄿𓄿
+[djA] Cross; Ferry across:𓍑𓄿𓊛
+[rsh][ⲣⲁϣⲓ] Rejoice:𓂋𓈙𓂉𓀁
+[rshwt][ⲣⲁϣⲓ] Joy:𓂋𓈙𓅱𓏏𓂉𓏜
+[hAb] Send:𓉔𓄿𓃀𓂻
+[sA][ⲥⲁ] Son:𓅭𓏤𓀀
+[sAt] Daughter:𓅭𓏏𓁐
+[sAtf] His daughter:𓅭𓏏𓁐𓆑
+[cash][ⲥⲁϧ] scribe:𓏞𓀀
+[it][ⲓⲱⲧ] Father:𓇋𓏏𓆑𓀀
+[bAk][ⲃⲱⲕ] Man-Servant:𓅡𓎡𓀀
+[bAkt][ⲃⲱⲕⲓ] Maid-Servant:𓅡𓎡𓏏𓁐
+[wAt] Road; Way; Side:𓍯𓄿𓏏𓈐
+[Kha] Office; Diwan:𓆼𓄿𓉹
+[kAt] Construction; Work; Device:𓂓𓏏𓀋
+[tjaty] Vizier:𓅷𓏏𓏤𓀀
+[sStA] Secret:𓋴𓈙𓏏𓍔𓄿𓏴𓏥
+[itrw][ⲓⲁⲣⲟ] River; Nile:𓇋𓏏𓂋𓅱𓈗
+[msH][ⲙⲥⲁϩ] Crocodile:𓅓𓊃𓎛𓆊
+[r][ⲣⲟ] Mouth; Utterance:𓂋𓏤
+[hr][ϩⲟ] Face;Sight;Concerning;Because of; Upon:𓁷𓏤
+[hr][ϩⲟ] Concerning;Because of; Upon:𓁷𓂋
+[m][̀ⲙ] as a; in; with (instrument); from:𓅓
+[m][̀ⲙ] as a; in; with (instrument); from:𓇋𓅓
+[pt][ⲫⲉ] Sky:𓊪𓏏𓇯
+[jd][ϫⲱ] Say:𓆓𓂧
+-
+[jod.f][̀ϥϫⲱ] He say:𓆓𓂧𓆑
+[sodjam.s][̀ⲥⲥⲱⲧⲉⲙ] She hear:𓄔𓅓𓋴
+[pr.s][ⲡⲉⲥⲏⲓ] Her house:𓉐𓏺𓋴
+[sodjam][ⲥⲱⲧⲉⲙ] Hear:𓄔𓅓
+[sodam.k][̀ⲕⲥⲱⲧⲉⲙ] He hear:𓄔𓅓𓎡
+[jod.s][̀ⲥϫⲱ] She say:𓆓𓂧𓋴
+[sodjam.i][ϯⲥⲱⲧⲉⲛ] I hear:𓄔𓅓𓀀
+[nbi][ⲡⲁⲛⲏⲃ] My Lord/Lady:𓎟𓀀
+[ntk][`ⲛⲑⲟⲕ] You(m) are:𓈖𓏏𓎡
+[iw.i] I'm:𓇋𓅱𓀀
+[iw.k] You(m) are:𓇋𓅱𓎡
+[iw.th] You(f) are:𓇋𓅱𓍿
+[en][`ⲛ] of / to / for:𓈖
+[ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
+[kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
+[Wbn] Rise /Shine:𓅱𓃀𓈖𓇳
+[ideogram] Country/Land/Village/Egypt:𓊖
+[ideogram] Sun:𓇳
+[ideogram] Sky:𓇯
+[ideogram] Confirms the object depicted:𓏺
+-

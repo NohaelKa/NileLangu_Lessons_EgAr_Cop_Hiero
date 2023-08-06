@@ -1,0 +1,1459 @@
+{
+    "lessonID": 1,
+    "lesson": [
+        {
+            "levelID": 0,
+            "exerciceID": 1,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u062d",
+                "listofvalues": [
+                    "\u062d",
+                    "\u062e",
+                    "\u062c"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 2,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0633",
+                "listofvalues": [
+                    "\u0633",
+                    "\u062d",
+                    "\u0635"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 3,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0648",
+                "listofvalues": [
+                    "\u0648",
+                    "\u0631",
+                    "\u0632"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 4,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u0627\u0631\u064a"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 5,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0625\u0633\u0645",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0625\u0633\u0645\u064a"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 6,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Mohamed",
+                "answer": "\u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0623\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0628\u0627\u0628"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 7,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Name",
+                "answer": "\u0625\u0633\u0645",
+                "listofvalues": [
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 8,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "My Name",
+                "answer": "\u0625\u0633\u0645\u064a",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 9,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "And",
+                "answer": "\u0648",
+                "listofvalues": [
+                    "\u0631",
+                    "\u0632",
+                    "\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 10,
+            "type": "write_it",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "\u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0645",
+                    "\u062d",
+                    "\u0631",
+                    "\u064a",
+                    "\u062f",
+                    "\u0627"
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 11,
+            "type": "write_it",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "\u0625\u0633\u0645\u064a",
+                "listofvalues": [
+                    "\u0625",
+                    "\u0633",
+                    "\u0645",
+                    "\u062d",
+                    "\u064a",
+                    "\u062f"
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 1,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u062d",
+                "listofvalues": [
+                    "\u062d",
+                    "\u062e",
+                    "\u062c"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 2,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0633",
+                "listofvalues": [
+                    "\u0633",
+                    "\u062d",
+                    "\u0635"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 3,
+            "type": "audiochoice",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "\u0648",
+                "listofvalues": [
+                    "\u0648",
+                    "\u0631",
+                    "\u0632"
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Name",
+                "answer": "\u0625\u0633\u0645",
+                "listofvalues": [
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 5,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "My name",
+                "answer": "\u0625\u0633\u0645\u064a",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 6,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your name (to male)",
+                "answer": "\u0625\u0633\u0645\u064e\u0643",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 7,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your name (to female)",
+                "answer": "\u0625\u0633\u0645\u0650\u0643",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 8,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "And",
+                "answer": "\u0648",
+                "listofvalues": [
+                    "\u0631",
+                    "\u062f",
+                    "\u0632"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 9,
+            "type": "write_it",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "\u0625\u0633\u0645\u0643",
+                "listofvalues": [
+                    "\u0643",
+                    "\u0648",
+                    "\u0631",
+                    "\u0625",
+                    "\u0647",
+                    "\u062f",
+                    "\u0645",
+                    "\u0633"
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 10,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Mary and Mohamed",
+                "answer": "\u0645\u0627\u0631\u064a \u0648 \u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0645\u062d\u0645\u062f \u0648 \u0645\u0627\u0631\u064a",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0628\u0627\u0628\u0627"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 11,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "My name is Mohamed",
+                "answer": "\u0625\u0633\u0645\u064a \u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 12,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "My name is Mary",
+                "answer": "\u0625\u0633\u0645\u064a \u0645\u0627\u0631\u064a",
+                "listofvalues": [
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 13,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "Mohamed and Mary",
+                "answer": "\u0645\u062d\u0645\u062f \u0648 \u0645\u0627\u0631\u064a",
+                "listofvalues": [
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0648",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 14,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "What is your name? (to male)",
+                "answer": "\u0625\u0633\u0645\u064e\u0643 \u0627\u064a\u0647",
+                "listofvalues": [
+                    "\u0623\u0633\u0645\u064e\u0643",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0627\u064a\u0647",
+                    "\u0623\u0633\u0645"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 1,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Mohamed",
+                "answer": "\u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0623\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0628\u0627\u0628"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Name",
+                "answer": "\u0623\u0633\u0645",
+                "listofvalues": [
+                    "\u0645\u0627\u0631\u064a",
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "My Name",
+                "answer": "\u0625\u0633\u0645\u064a",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "And",
+                "answer": "\u062f",
+                "listofvalues": [
+                    "\u0631",
+                    "\u0632",
+                    "\u0648"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 5,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your name (to male)",
+                "answer": "\u0625\u0633\u0645\u064e\u0643",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 6,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your name (to female)",
+                "answer": "\u0625\u0633\u0645\u0650\u0643",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0645\u0627",
+                    "\u0645\u062d\u0645\u062f"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 7,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "question",
+                "question": "...? >n \u0625\u0633\u0645\u064a \u0645\u062d\u0645\u062f",
+                "answer": "\u0625\u0633\u0645\u064e\u0643 \u0627\u064a\u0647",
+                "listofvalues": [
+                    "\u0625\u0633\u0645\u064e\u0643",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0627\u064a\u0647"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 8,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "question",
+                "question": "...? >n \u0625\u0633\u0645\u064a \u0645\u0627\u0631\u064a",
+                "answer": "\u0625\u0633\u0645\u0650\u0643 \u0627\u064a\u0647",
+                "listofvalues": [
+                    "\u0625\u0633\u0645\u064e\u0643",
+                    "\u0625\u0633\u0645\u0650\u0643",
+                    "\u0627\u064a\u0647",
+                    "\u0625\u0633\u0645"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 9,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "answer",
+                "question": "\u0625\u0633\u0645\u064e\u0643 \u0627\u064a\u0647\u061f",
+                "answer": "\u0625\u0633\u0645\u064a \u0645\u062d\u0645\u062f",
+                "listofvalues": [
+                    "\u0625\u0633\u0645\u064a",
+                    "\u0625\u0633\u0645",
+                    "\u0645\u062d\u0645\u062f\u060c\u0645\u0627\u0631\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 10,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "\u0625\u0633\u0645\u0650\u0643 \u0627\u064a\u0647\u061f",
+                "question": "\u0625\u0633\u0645\u064a \u0645\u0627\u0631\u064a",
+                "answer": "\u0625\u0633\u0645\u064a",
+                "listofvalues": [
+                    "\u0625\u0633\u0645",
+                    "\u0645\u0627\u0631\u064a\u060c\u0645\u062d\u0645\u062f",
+                    "answer"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+© NileLangu 2021
+
+Male Possession (Your) 1
+شغلَك,قطَك,قطتَك
+
+صاحبَك,صاحبتَك,أخوك,أختَك,قرايبَك,أصحابَك,والدتَك,والدَك
+,عائلتَك
+
+
+record all audio, esmak
+
+start_0
+multichoice_img
+work_m,mobile,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2,ball
+قطَك:boy_cat_m
+شغلَك:work_m
+-
+multichoice
+Your(m) mom,والدتَك,قطتَك,لطيف,والدَك
+Your(m) dad,والدَك,والدتَك,لطيفة,صاحبَك
+Kind(m),طيب,لطيفة,قطَك,صاحبَك
+Kind(f),طيبة,شغلَك,لطيف,صاحبَك
+Alright/OK,طيب,شغلَك,لطيف,طيبة
+-
+sentence
+translate,Your (m) mom is so kind,والدتَك طيبة أوي,والدتَك,لطيف,طيبة,محمد,أوي,لطيفة
+translate,Your (m) dad is so kind,والدَك طيب أوي,أوي,لطيفة,والدَك,طيب,لطيف
+-
+multichoice
+Your (m) friend(m),صاحبَك,قطتَك,لطيف,قطة
+Your (m) friend(f),صاحبتَك,شغلَك,لطيفة,صاحبَك
+Nice (m),لطيف,لطيفة,قطَك,صاحبَك
+Nice (f),لطيفة,شغلَك,لطيف,صاحبَك
+Not nice (m),مش لطيف,شغلَك,لطيف,صاحبَك
+-
+sentence
+translate,Your friend (m) is nice Mohamed,صاحبَك لطيف يا محمد,صاحبَك,لطيف,يا,محمد,إزي,لطيفة
+translate,Your friend (f) is nice Mina,صاحبتَك لطيفة يا مينا,صاحبتَك,لطيفة,يا,مينا,لطيف
+-
+sentence
+translate,Your (m) friend (m) is so nice,صاحبَك لطيف أوي,صاحبَك,لطيف,أوي,محمد,إزي,لطيفة
+translate,Your (m) friend (f) is so nice,صاحبتَك لطيفة أوي,صاحبتَك,لطيفة,أوي,مينا,لطيف
+translate,Your (m) mom is so kind,والدتَك طيبة أوي,والدتَك,لطيف,طيبة,محمد,أوي,لطيفة
+translate,Your (m) dad is so kind,والدَك طيب أوي,أوي,لطيفة,والدَك,طيب,لطيف
+-
+end_0
+
+
+start_1
+multichoice
+Your(m) brother,أخوك,قطتَك,لطيف,أختَك
+Your(m) sister,أختَك,أخوك,لطيفة,صاحبَك
+Kind(m),طيب,لطيفة,قطَك,صاحبَك
+Kind(f),طيبة,شغلَك,لطيف,صاحبَك
+-
+sentence
+translate,Is this(f) your sister?,دي أختَك,دا,أختَك,قطة,دي
+translate,Your(m) brother is kind,أخوك طيب,أخوك,أختَك,طيب,دي
+translate,فين أخوك؟,Where is your brother,Where,is,your,brother,cat,work,sister
+-
+multichoice_img
+work_m,mobile,work_f,cat_f,cat_m,home,boy_cat_f,boy_cat_m,book2,ball,dog_m
+كتاب:book2
+كرة:ball
+كلب:dog_m
+-
+multichoice
+Your(m) dog(m),كلبَك,الجديد,شغل,قطة
+Your(m) book,كتابَك,قطتَك,شغل,قطة
+Your(m) ball,كرتَك,شغلَك,قطَك,قطة
+The new,الجديد,قطتَك,قطَك,قطة
+-
+write_it
+شغلك,ش,غ,ل,ك,د,ف,ع,س,ا
+كرتك,ك,ر,ت,ة,ب
+كرة,ك,ر,ت,ك,ة,ب
+-
+sentence
+translate,This(m) is your cat(m),دا قطَك,دا,قطَك,قطة,دي
+translate,Your(m) dog(m) is so kind,كلبَك طيب أوي,كلبَك,طيب,أوي,قطة,دي
+translate,How is your work?,إزي شغلَك,إزي,شغلَك,قطتَك,شغل
+translate,دا موبيلَك الجديد؟,Is this your new cell phone,Is,this,your,new,cell phone
+-
+end_1
+
+
+
+start_2
+multichoice_img
+work_m,mobile,work_f,cat_f,cat_m,home,boy_cat_f,boy_cat_m,book2,ball,dog_m
+كتاب:book2
+كرة:ball
+كلب:dog_m
+-
+multichoice
+Your(m) name,إسمَك,قطتَك,أختَك,قط
+Your(m) family,عائلتك,قطتَك,أختَك,قط
+-
+sentence
+translate,Is this your family?,دي عائلتك,دي,دول,عائلتك,إزي,قط
+translate,What's your name,إسمَك ايه,إسمَك,دول,ايه,إزي,قط
+translate,Your family is so nice,عائلتك طيبة أوي,عائلتك,طيبة,أوي,إسمَك,قطة,دي
+-
+sentence
+answer,إسمَك ايه؟,إسمي مينا,إسمي,مينا,إسمَك,دول,ايه,إزي
+translate,Your family is so nice,عائلتك طيبة أوي,عائلتك,طيبة,أوي,إسمَك,قطة,دي
+-
+multichoice
+Nice(m),لطيف,لطيفة,قطَك,صاحبَك
+Nice(f),لطيفة,شغلَك,لطيف,صاحبَك
+Not nice(m),مش لطيف,شغلَك,لطيف,صاحبَك
+The new,الجديد,قطتَك,قطَك,قطة
+-
+sentence
+translate,Your(m) cat(f) is so nice,قطتَك لطيفة أوي,قطتَك,لطيفة,كلبَك,أوي,قطة,دي
+translate,Your(m) dog(m) is so kind,كلبَك طيب أوي,كلبَك,طيب,أوي,قطتَك,قطة,دي
+translate,Your(m) friend(f) is so nice,صاحبتَك لطيفة أوي,صاحبتَك,لطيفة,أوي,مينا,لطيف
+translate,Your(m) mom is so kind,والدتَك طيبة أوي,والدتَك,لطيف,طيبة,محمد,أوي,لطيفة
+translate,دا موبيلَك الجديد؟,Is this your new cell phone,Is,this,your,new,cell phone
+-
+end_2
+
+
+Dictionary
+[lateef] Nice:لطيف
+[lateefa] Kind:لطيفة
+[kora] Ball:كرة
+[kortak] Your ball:كرتَك
+[mobylak] Your(m) cell phone:موبيلَك
+[elgedid] The new:الجديد
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (m):كويس
+[Kwysa] Well (f):كويسه
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[Kwys] Well (m):كويس
+[Kwysa] Well (f):كويسه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (to female):أنتِ
+[ezy] How is:إزي
+[oTtk] Your cat:قطتَك
+[oTty] My cat:قطتي
+[oTa] Cat (f):قطة
+[oT] Cat (m):قط
+[oT] The cat (m):القط
+[oTak] Your (m) cat (m):قطَك
+[(sh)o(gh)lk] Your work (to female):شغلِك
+[(sh)o(gh)lk] Your work (to male):شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[mt(ae)b] Tiring:متعب
+[gdn] Very:جداً
+[can] Was:كان
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+[mHmd] A Name:محمد
+[ezy] How is:إزي
+[da] This (m):دا
+[di] This (f):دي
+[(sh)(gh)l] Work:شغل
+[esmek] Your (m) name:إسمَك
+[dol] Those | These:دول
+[esmi] My name:إسمي
+[saHbak] Your (m) Friend (m):صاحبَك
+[saHbetak] Your (f) Friend (f):صاحبتَك
+[akho] Your (m) brother:أخوك
+[okhtak] Your (s) sister:أختَك
+[araybak] Your (m) relatives:قرايبَك
+[asHabak] Your (m) friends:أصحابَك
+[waldetak] Your (m) mother:والدتَك
+[waldak] Your (m) father:والدَك
+[aeltak] Your (m) family:عائلتَك
+[tayeb] Kind (m):طيب
+[tayebq] Kind (f):طيبة
+[awy] Very:أوي
+Mina (Egyptian name):مينا
+[kalbak] Your (m) dog:كلبَك
+[ketabak] Your (m) book:كتابَك
+-

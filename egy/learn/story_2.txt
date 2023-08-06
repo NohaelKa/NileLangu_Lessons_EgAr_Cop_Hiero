@@ -1,0 +1,86 @@
+I Want (1)
+
+
+Dialog
+صباح الخير يا ماري
+صباح النور يا محمد
+-
+أنا عايز دا النهرده الظهر، و دا النهرده بعد الظهر من فضلِك
+...
+-
+ماري، من فضلِك عايز دا دلوقتي، شكراً
+...
+-
+ماري، من فضلِك عايزه دا بعد الظهر و دا بُكرا الصبح
+...
+-
+خلصتي التاسك يا ماري؟ ولا لسه؟
+لأ، لسه..
+-
+عايزه قهوة يا ماري؟
+لأ مش عايزه، شكراً
+-
+أنا عايزه أجازة
+...
+-
+end
+
+Slideshow
+2_1,2_1,2_2,2_3,2_4,2_5,2_6
+-
+AudioSequence
+2_1,2_2,2_3,2_4,2_5,2_6,2_7
+-
+audioTrack
+yes
+-
+
+
+Dictionary
+[shokran] Thank you:شكراً
+[khal-asti] You(f) finished:خلصتي
+[eltask] The task (English):التاسك
+[wal-la] Or is it:ولا
+[les-a] Not yet:لسه
+[la'] No:لأ
+[dlwa'ti] Now:دلوقتي
+[bokra] Tomorrow:بُكرا
+[enhrda] Today:النهرده
+[sbaH] Morning:صباح
+[el(kh)yr] The Good:الخير
+[elnur] The light:النور
+[msa'] Evening:مساء
+[elSbH] The Morning:الصبح
+[b(ae)d] After:بعد
+[eldhr] The Noon:الظهر
+[blyl] At night:بليل
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[(ae)ayz] (I) want (m):عايز
+[(ae)ayza] (I) want (f):عايزه
+[eh] What:ايه
+[ana] I | Me:أنا
+[kwys] Well (m):كويس
+[kwysa] Well (f):كويسة
+[enti] You (f):أنتِ
+[w] And:و
+[eh] What:ايه
+[agaza] Vacation:أجازة
+[khwa] Coffee:قهوة
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (f):أنتِ
+[ezy] How is:إزي
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[gdn] Very:جداً
+[can] Was:كان
+[Hlw] Nice | Sweet :حلو
+-
+
+

@@ -1,0 +1,196 @@
+© NileLangu 2021
+Lesson: 28
+Shopping
+
+Audio: done
+Dictionary: Todo
+Database: done
+
+start_0
+multichoice_img
+pants,blouse,dress,slippers,shoe,jacket,sunglasses
+بنطالون:pants
+بلوزة:blouse
+فستان:dress
+شبشب:slippers
+جزمة:shoe
+جاكت:jacket
+نظارة‏ شمس:sunglasses
+-
+multichoice_img
+pants,blouse,dress,slippers,shoe,jacket,sunglasses
+بنطالون:pants
+بلوزة:blouse
+فستان:dress
+شبشب:slippers
+جزمة:shoe
+جاكت:jacket
+نظارة شمس:sunglasses
+-
+end_0
+
+start_1
+multichoice
+The shop,المحل,المول,النهرده,السوق
+The mall,المول,رايح,المحل,السوق
+The bazaar,السوق,رايح,المول,المحل
+-
+multichoice
+I'll go,هروح,هشوف,بروح,هجيب
+I'll look around,هتفرج,رايح,هروح,هجيب
+Only,بس,رايح,هروح,هجيب
+-
+sentence
+translate,I'll go to the shop,هروح المحل,هجيب,السوق
+translate,I went to the shop,رُحت المحل,هجيب,المحل
+translate,I'll only look around,هتفرج بس,هروح,هجيب,عايزه
+-
+multichoice
+I'll get,هجيب,هروح,هشوف,هتفرج
+-
+sentence
+translate,I'll get money from the ATM,هجيب فلوس من الاي تي ام,هروح,هجيب,عايزه
+translate,I'll get a blouse from the shop,هجيب بلوزة من المحل,هروح,السوق,عايزه
+-
+sentence
+translate,I went to the mall yesterday,رُحت المول إمبارح,هجيب,المحل
+translate,I'll go to the bazaar tomorrow,هروح السوق بُكرا,هجيب,المحل
+translate,I'm only looking around,بتفرج بس,هروح,هجيب,عايزه
+-
+sentence
+translate,I'll go to the shop,هروح المحل,هجيب,السوق
+translate,I went to the shop,رُحت المحل,هجيب,المحل
+translate,I'll only look around,هتفرج بس,هروح,هجيب,عايزه
+translate,I'll get money from the ATM,هجيب فلوس من الاي تي ام,هروح,هجيب,عايزه
+translate,I'll get a blouse from the shop,هجيب بلوزة من المحل,هروح,السوق,عايزه
+-
+sentence
+translate,I went to the mall yesterday,رُحت المول إمبارح,هجيب,المحل
+translate,I'll go to the bazaar tomorrow,هروح السوق بُكرا,هجيب,المحل
+translate,I'm only looking around,بتفرج بس,هروح,هجيب,عايزه
+-
+end_1
+
+
+start_2
+multichoice
+It(m) pleases,عاجب,عاجباني,رايحة,عاجبني
+It(m) pleases me,عاجبني,عاجباني,رايحة,جبت
+It(f) pleases me,عاجباني,رايح,عاجبني,جبت
+-
+sentence
+translate,I like this (m),دا عاجبني,هجيب,بُكرا
+translate,I like it(m),عاجبني,النهرده,هجيب,عايزه
+translate,I don't like it(m),مش عاجبني,همشي
+translate,(It's) nice,حلو,همشي,خضار,عاجبني
+-
+sentence
+translate,Do you like it Mam?,عاجب حضرتِك,بُكرا,هجيب,حضرتَك,عايزه
+translate,Yes I like it,اه عاجبني,بُكرا,هجيب,عايزه
+translate,I want this blouse,أنا عايزه البلوزة دي,هروح,السوق,عايزه
+-
+multichoice
+I'll see,هشوف,هروح,بروح,هجيب
+If,لو,هروح,عايزه,هجيب
+-
+sentence
+translate,I'll see if I like it,هشوف لو عاجبني,النهرده,هجيب,عايزه
+translate,It pleases me a lot,عاجبني أوي,النهرده,هجيب,عايزه
+translate,I'll see if I want this(m),هشوف لو أنا عايز دا,النهرده,هجيب,هروح
+translate,I'll see if I want this(m),هشوف لو أنا عايزه دا,النهرده,هجيب,هروح
+-
+sentence
+translate,I'll get money from the ATM,هجيب فلوس من الاي تي ام,هروح,هجيب,عايزه
+translate,I'll get a blouse from the shop,هجيب بلوزة من المحل,هروح,السوق,عايزه
+translate,I'll go to the shop,هروح المحل,هجيب,السوق
+translate,I went to the shop,رُحت المحل,هجيب,المحل
+translate,I'll only look around,هتفرج بس,هروح,هجيب,عايزه
+-
+end_2
+
+أوضة القياس
+مقاس
+
+start_3
+multichoice
+Size,مقاس,قُلت,رأي,أوضة القياس
+Fitting Room,أوضة القياس,قُلت,شويه,مقاس
+Room,أوضة,قُلت,شويه,مقاس
+I'll try,هجرب,قُلت,شويه,مقاس
+-
+sentence
+translate,What size?,مقاس ايه؟,بُكرا,قُلت,رأي
+translate,Where is the dressing room please?,فين أوضة القياس من فضلَك,بُكرا,هجيب,ايه,مقاس
+-
+sentence
+translate,I'll try (on) these pants,هجرب البنطالون دا,ايه,هجيب,بُكرا
+translate,I'll try (on) the dress and I'll see,هجرب الفستان و هشوف,ايه,هجيب,البنطالون
+-
+multichoice
+Big,كبير,قُلت,رأي,أوضة القياس
+Small,صغير,قُلت,شويه,مقاس
+It's exactly right,مظبوط,قُلت,شويه,مقاس
+-
+sentence
+translate,The size is too big,المقاس كبير أوي,صغير,ماركت
+translate,The size is too small,المقاس صغير جداً,كبير,إمبارح
+translate,The size is exactly right,المقاس مظبوط,كبير,صغير
+translate,It's not big,مش كبير,المقاس,مظبوط,صغير
+translate,It's not exactly right,مش مظبوط,المقاس,كبير,صغير
+-
+multichoice
+I'll try,هجرب,قُلت,شويه,مقاس
+I'll see,هشوف,هروح,بروح,هجيب
+If,لو,هروح,عايزه,هجيب
+-
+sentence
+translate,I'll see if I like it,هشوف لو عاجبني,النهرده,هجيب,عايزه
+translate,I'll see if I want this,هشوف لو أنا عايزه دا,النهرده,هجيب,هروح
+translate,I want a small size,أنا عايزه مقاس صغير,كبير,هجيب,هروح
+translate,I want a medium size,أنا عايزه مقاس ميديوم,النهرده,هجيب,كبير
+-
+end_3
+
+
+Dictionary
+Glasses of Sun:نظارة‏ شمس
+Blouse:بلوزة
+Dress:فستان
+Slippers:شبشب
+Shoes:جزمة
+Sun:شمس
+Jacket:جاكت
+Glasses (of):نظارة‏
+Pants:بنطالون
+[bat-aelem] I learn:بتعلم
+Today:النهرده
+I'm going:رايح
+I'll go:هروح
+I'll see (think):هشوف
+I go:بروح
+I'll bring:هجيب
+[bs] Only:بس
+[(ae)yza] I (f) want:عايزه
+[rayHa] I (f)/ She/ You (f) is/are going:رايحة
+I brought:جبت
+[bokra] Tomorrow:بُكرا
+I'll walk/leave:همشي
+[Hlw] Nice | Sweet :حلو
+Vegetables:خضار
+[Hadretak] You (m) (polite):حضرتَك
+[shewaya] A little:شويه
+[eh] What:ايه
+The store:المحل
+The mall:المول
+The market:السوق
+I'll watch:هتفرج
+It (m) is liked by:عاجب
+It (f) is liked by me:عاجباني
+It (m) is liked by me:عاجبني
+If:لو
+size:مقاس
+Opinoin:رأي
+Room:أوضة
+I'll try:هجرب
+The pants:البنطالون
+-

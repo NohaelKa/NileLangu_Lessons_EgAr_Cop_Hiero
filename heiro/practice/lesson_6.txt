@@ -1,0 +1,132 @@
+Lesson 6
+Notes/**
+First sentence
+
+Previous:
+𓂋𓏺𓈖𓆎𓅓𓏏𓊖
+𓆑,𓅂,𓂝,𓇋,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
+𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
+𓇋𓇋,𓅱,𓃭,𓍯,𓈎,𓏏,𓍿
+𓁹:ir, 𓉐:pr, 𓅮:p2, 𓅭:s2, 𓄣:ib,𓌸:mr
+
+this lesson:
+𓇳,𓇯
+𓂋𓂝𓇳,ⲣⲏ
+𓊪𓏏𓇯,ⲫⲉ
+𓅱𓃀𓈖𓇳,ϣⲁ
+𓇋𓅱,ⲡⲉ,ⲧⲉ,ⲛⲉ
+Notes/**
+
+
+start_0
+audiochoice
+𓅓,𓃀,𓅱
+𓃀,𓃭,𓅓
+𓊪,𓃀,𓅓
+𓏏,𓊪,𓃀
+𓅱,𓃀,𓊪
+-
+multichoice
+𓅓,in,Cobra,Rise,Mouth
+𓇳,Sun,Cobra,In,Mouth
+𓂋𓂝𓇳,Sun,Cobra,In,Rise
+𓅱𓃀𓈖𓇳,Rise,Sun,In,Lotus
+𓇯,Sky,Sun,In,Lotus
+𓊪𓏏𓇯,Sky,Rise,Sun,Lotus
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+sentence
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rises in the sky,The,sun,rises,in,the,sky
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rose in the sky,The,sun,rose,in,the,sky
+translate,The sun will rise in the sky,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯,𓇋𓅱
+-
+multichoice
+𓅓,in,Cobra,Rise,Mouth
+𓇳,Sun,Cobra,In,Mouth
+𓂋𓂝𓇳,Sun,Cobra,In,Rise
+𓅱𓃀𓈖𓇳,Rise,Sun,In,Lotus
+𓇯,Sky,Sun,In,Lotus
+𓊪𓏏𓇯,Sky,Rise,Sun,Lotus
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+end_0
+
+start_1
+audiochoice
+𓅓,𓃀,𓅱
+𓃀,𓃭,𓅓
+𓊪,𓃀,𓅓
+𓏏,𓊪,𓃀
+𓅱,𓃀,𓊪
+-
+multichoice
+𓅓,in,Cobra,Rise,Mouth
+𓇳,Sun,Cobra,In,Mouth
+𓂋𓂝𓇳,Sun,Cobra,In,Rise
+𓅱𓃀𓈖𓇳,Rise,Sun,In,Lotus
+𓇯,Sky,Sun,In,Lotus
+𓊪𓏏𓇯,Sky,Rise,Sun,Lotus
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+write_it
+𓆎𓅓𓏏𓊖,𓆎,𓅓,𓏏,𓊖,𓈖
+𓅱𓃀𓈖𓇳,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓅱,𓃀,𓇳
+𓊪𓏏𓇯,𓆎,𓅓,𓊖,𓈖,𓂋,𓏺,𓉐,𓊪,𓏏,𓇯
+-
+sentence
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rises in the sky,The,sun,rises,in,the,sky
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rose in the sky,The,sun,rose,in,the,sky
+translate,The sun will rise in the sky,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯,𓇋𓅱
+-
+end_1
+
+start_2
+audiochoice
+𓅓,𓃀,𓅱
+𓃀,𓃭,𓅓
+𓊪,𓃀,𓅓
+𓏏,𓊪,𓃀
+𓅱,𓃀,𓊪
+-
+multichoice
+𓅓,in,Cobra,Rise,Mouth
+𓇳,Sun,Cobra,In,Mouth
+𓂋𓂝𓇳,Sun,Cobra,In,Rise
+𓅱𓃀𓈖𓇳,Rise,Sun,In,Lotus
+𓇯,Sky,Sun,In,Lotus
+𓊪𓏏𓇯,Sky,Rise,Sun,Lotus
+𓇋𓅱,is/was,Sky,Sun,Rise
+-
+write_it
+𓆎𓅓𓏏𓊖,𓆎,𓅓,𓏏,𓊖,𓈖
+𓅱𓃀𓈖𓇳,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓅱,𓃀,𓇳
+𓊪𓏏𓇯,𓆎,𓅓,𓊖,𓈖,𓂋,𓏺,𓉐,𓊪,𓏏,𓇯
+-
+sentence
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rises in the sky,The,sun,rises,in,the,sky
+translate,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,The sun rose in the sky,The,sun,rose,in,the,sky
+translate,The sun will rise in the sky,𓅱𓃀𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯
+translate,The sun is/was in the sky,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓂋𓂝𓇳,𓅓,𓊪𓏏𓇯,𓇋𓅱
+-
+end_2
+
+Dictionary
+[en][`ⲛ] of / to / for:𓈖
+[iw] is / was:𓇋𓅱
+[ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
+[re´][ⲣⲉ] Sun:𓂋𓂝𓇳
+[kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
+[wbn][ⲟⲩⲱⲓⲛⲓ] Rise /Shine:𓅱𓃀𓈖𓇳
+[pt][ⲫⲉ] Sky:𓊪𓏏𓇯
+[em][`ⲛ] in / by means of / from / with (instr.):𓅓
+[ideogram] Country/Land/Village/Egypt:𓊖
+[ideogram] Sun:𓇳
+[ideogram] Sky:𓇯
+[ideogram] Confirms the object depicted:𓏺
+-

@@ -1,0 +1,190 @@
+#Lesson 7
+#How are you 1
+#
+---
+- Level_0: 
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوط: happy_m
+    - تعبان: tired_m
+  - multichoice: 
+    - How are you (to a male):
+      إزيَك: ['قطة', 'إزيِك', 'إزي']
+    - Very:
+      أوي: ['قطة', 'إزي', 'محمد']
+    - I:
+      أنا: ['صعب', 'محمد', 'قطة']
+  - sentence: 
+    - answer: إزيَك ؟
+      تعبان: ['تعبان', 'زعلانة', 'تعبانة', 'مبسوطة']
+    - translate: I am tired
+      أنا تعبان: ['أنا تعبان', 'أنا مبسوط', 'أنا زعلان']
+    - translate: I am very happy
+      أنا مبسوط أوي: ['أنا تعبان', 'أنا مبسوط', 'أوي', 'أنا زعلان']
+- Level_1: 
+  - multichoice: 
+    - How are you? (to female):
+      إزيِك: ['أنا', 'إزي', 'إزيَك']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوطة: happy_f
+    - تعبانة: tired_f
+  - sentence: 
+    - answer: إزيِك ؟
+      مبسوطة: ['مبسوطة', 'تعبان', 'مبسوط', 'زعلان']
+    - translate: I am tired
+      أنا تعبانة: ['أنا تعبانة', 'أنا مبسوطة', 'أنا زعلانة']
+    - translate: I am very happy
+      أنا مبسوطة أوي: ['أنا تعبانة', 'أنا مبسوطة', 'أوي', 'أنا زعلانة']
+- Level_2: 
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - زعلان: sad_m
+    - زعلانة: sad_f
+  - multichoice: 
+    - How are you (to a male):
+      إزيَك: ['قطة', 'إزيِك', 'إزي']
+    - How are you? (to female):
+      إزيِك: ['أنا', 'إزي', 'إزيَك']
+    - Very:
+      أوي: ['قطة', 'إزي', 'محمد']
+  - sentence: 
+    - answer: إزيَك ؟
+      زعلان: ['زعلان', 'زعلانة', 'تعبانة', 'مبسوطة']
+    - answer: إزيِك ؟
+      زعلانة: ['زعلانة', 'تعبان', 'مبسوط', 'زعلان']
+    - translate: I am very sad
+      أنا زعلان أوي: ['أنا تعبان', 'أنا مبسوط', 'أوي', 'أنا زعلان']
+    - translate: I am sad
+      زعلانة: ['تعبانة', 'مبسوطة', 'زعلانة']
+  - multichoice: 
+    - How is:
+      إزي: ['إزيَك', 'أنا', 'صعب']
+  - sentence: 
+    - translate: How is Mohamed?
+      إزي محمد: ['إزي', 'محمد', 'ماري']
+    - translate: How is Mary?
+      إزي ماري: ['إزي', 'محمد', 'ماري']
+- Level_3: 
+  - multichoice: 
+    - How is:
+      إزي: ['إزيَك', 'أنا', 'صعب']
+    - Very:
+      أوي: ['قطة', 'إزي', 'محمد']
+    - I:
+      أنا: ['صعب', 'محمد', 'قطة']
+    - How are you (to a male):
+      إزيَك: ['قطة', 'إزيِك', 'إزي']
+    - How are you? (to female):
+      إزيِك: ['أنا', 'إزي', 'إزيَك']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوط: happy_m
+    - تعبان: tired_m
+    - زعلان: sad_m
+    - تعبانة: tired_f
+    - زعلانة: sad_f
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوطة: happy_f
+  - sentence: 
+    - answer: إزي ماري؟
+      مبسوطة: ['مبسوطة', 'تعبان', 'مبسوط', 'زعلان']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - زعلان: sad_m
+  - sentence: 
+    - answer: إزي محمد؟
+      محمد زعلان: ['محمد زعلان', 'محمد مبسوطة', 'محمد تعبانة', 'محمد زعلانة']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - تعبانة: tired_f
+  - sentence: 
+    - answer: إزي ماري؟
+      ماري تعبانة: ['ماري تعبانة', 'ماري زعلان', 'ماري تعبان', 'ماري مبسوط']
+- Level_4: 
+  - multichoice: 
+    - How is:
+      إزي: ['إزيَك', 'أنا', 'صعب']
+    - Very:
+      أوي: ['قطة', 'إزي', 'محمد']
+    - I:
+      أنا: ['صعب', 'محمد', 'قطة']
+    - How are you (to a male):
+      إزيَك: ['قطة', 'إزيِك', 'إزي']
+    - How are you? (to female):
+      إزيِك: ['أنا', 'إزي', 'إزيَك']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوط: happy_m
+    - تعبان: tired_m
+    - زعلان: sad_m
+    - تعبانة: tired_f
+    - زعلانة: sad_f
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - مبسوط: happy_m
+  - sentence: 
+    - answer: إزي محمد؟
+      مبسوط: ['مبسوط', 'تعبانة', 'مبسوطة', 'زعلانة']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - زعلانة: sad_f
+  - sentence: 
+    - answer: إزي ماري؟
+      ماري زعلانة: ['ماري زعلانة', 'ماري زعلان', 'ماري تعبان', 'ماري مبسوط']
+  - multichoice_img: 
+    - choices: ['happy_m', 'happy_f', 'sad_m', 'sad_f', 'tired_m', 'tired_f']
+    - تعبان: tired_m
+  - sentence: 
+    - answer: إزي محمد؟
+      محمد تعبان: ['محمد تعبان', 'محمد مبسوطة', 'محمد تعبانة', 'محمد زعلانة']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[mabsout] Happy (male)', 'مبسوط']
+  - ['[mabsouta] Happy (female)', 'مبسوطة']
+  - ['[taeban] Tired (male)', 'تعبان']
+  - ['[taebana] Tired (female)', 'تعبانة']
+  - ['[zaelan] Sad (male)', 'زعلان']
+  - ['[zaelana] Sad (female)', 'زعلانة']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[oTtk] Your cat', 'قطتَك']
+  - ['[oTty] My cat', 'قطتي']
+  - ['[oTa] Cat (female)', 'قطة']
+  - ['[oT] Cat (male)', 'قط']
+  - ['[oT] The cat (male)', 'القط']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[mt(ae)b] Tiring', 'متعب']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[elwyk] Week ', 'الويك']
+  - ['[end] end ', 'اند']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[Hlw] Nice | Sweet ', 'حلو']
+  - ['[l(ae)bt] I played', 'لعبت']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ktyr] a lot', 'كتير']
+  - ['[(ae)mlty)] You did (To female)', 'عملتي']
+  - ['[k(ae)dt] I sat', 'قعدت']
+  - ['[elbyt] The home', 'البيت']
+  - ['[dw(sh)a] noise', 'دوشه']
+  - ['[t(ae)btny] Made me tired', 'تعبتني']
+  - ['[blyl] At night', 'بليل']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

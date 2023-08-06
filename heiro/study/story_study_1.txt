@@ -1,0 +1,32 @@
+<b>Greetings !</b>
+
+Title
+Listen to the dialog between Nefret and Ramose
+
+Dialog
+ⲛⲟϥⲣⲓ ⲣⲁⲙⲟⲥⲉ!
+ⲛⲟϥⲣⲓ ⲛⲉϥⲣⲉⲧ!
+...
+ⲁϣ ⲡⲉ ⲡⲉⲣⲏϯ?
+ϯⲟⲩⲟϫ
+...
+ⲟⲩⲟϩ ̀ⲛⲑⲟⲕ, ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ?
+ⲛⲁⲛⲉϥ, ϣⲉⲡϩⲙⲟⲧ
+-
+
+Basics:
+Coptic is read from left to right.
+
+<b> Ⲁϣ ⲡⲉ ⲡⲉⲕⲣⲏϯ? Explanation (Boharic)</b>
+
+<b>Translation:</b> How are you?
+
+ⲁϣ: General Question Word
+ⲡⲉ: A copula (Note that it's not a verb)
+
+ⲡⲉⲣⲏϯ: ⲡⲉ= your ⲣⲏϯ= condition/status : Your condition/status
+- ⲡⲉ: The ⲡⲉ here is different that the copula above, when it is combined with a word it means your. It is a feminine second person (i.e. feminine you) possessive adjective for a masculine object
+- ⲣⲏϯ: Condition/Status, a masculine word.
+
+ⲡⲉⲕⲣⲏϯ: Your condition/status
+ⲡⲉⲕ: masculine second person (i.e. masculine you) possessive adjective for a masculine object

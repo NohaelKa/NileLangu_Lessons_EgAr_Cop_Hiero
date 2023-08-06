@@ -1,0 +1,204 @@
+© NileLangu 2021
+
+When?, Today, Tomorrow..
+النهرده,بُكرا,إمتى,دلوقتي
+
+,كان,كانت,الخروجة, عزومة ,خروجة, إمتحان,الإمتحان, حفلة,الحفلة,العزومة,الخروجة,شويه,كمان
+‎   Unicode cheats
+
+
+start_0
+multichoice
+An Invitation,عزومة,خروجة,دلوقتي,إمتى
+An outing,خروجة,بُكرا,حفلة,عزومة
+-
+multichoice
+Today,النهرده,بُكرا,دلوقتي,إمتى
+Tomorrow,بُكرا,النهرده,دلوقتي,إمتى
+When,إمتى,بُكرا,إمبارح,النهرده
+-
+sentence
+answer,إمتى العزومة؟ >n (It's today),النهرده,حفلة,النهرده,دلوقتي,بُكرا
+answer,إمتى الخروجة؟ >n (It's tomorrow),بُكرا,بلحة,النهرده,دلوقتي,بُكرا
+translate,The outing is today,العزومة النهرده,الحفلة,النهرده,مش,الإمتحان,العزومة
+-
+write_it
+إمتى,إ,م,ت,ى,ي,خ,ه
+-
+sentence
+translate,When is the outing?,إمتى الخروجة,إمتى,الخروجة,العزومة,النهرده,دلوقتي,خروجة
+translate,When is the invitation?,إمتى العزومة,إمتى,الخروجة,العزومة,النهرده,عزومة,بُكرا
+-
+write_it
+الخروجة,ا,ل,خ,ر,و,ج,ة
+العزومة,ا,ل,ع,ز,و,م,ة
+-
+multichoice
+Today,النهرده,بُكرا,دلوقتي,إمتى
+Tomorrow,بُكرا,إمبارح,دلوقتي,إمتى
+When,إمتى,بُكرا,إمبارح,النهرده
+At,عند,في,إمبارح,إمتى
+There is/Inside,في,إمتى,عند,بُكرا
+-
+sentence
+answer,إمتى خروجة الكافيه؟ >n (It's tomorrow),بُكرا,إمتى,الخروجة,كافيه,العزومة,النهرده,بُكرا,خروجة
+answer,إمتى عزومة‏ مينا؟ >n (It's today),النهرده,إمتى,الخروجة,مينا,العزومة,النهرده,عزومة,خروجة
+-
+sentence
+translate,When is the cafe outing?,إمتى خروجة‏ الكافيه,إمتى,الخروجة,كافيه,العزومة,النهرده,الكافيه,خروجة
+translate,When is Mohamed's invitation?,إمتى عزومة‏ محمد,إمتى,الخروجة,كافيه,العزومة,عزومة‏,الكافيه,محمد
+translate,When is the invitation at Nofret's?,إمتى العزومة عند نوفرت,إمتى,الخروجة,العزومة,النهرده,عزومة,بُكرا,عند,في,نوفرت
+-
+end_0
+
+start_1
+multichoice
+Exam,إمتحان,حفلة,خروجة,عزومة
+Party,حفلة,إمتحان,دلوقتي,خروجة
+-
+multichoice
+Today,النهرده,بُكرا,دلوقتي,إمتى
+Tomorrow,بُكرا,إمتى,إمبارح,النهرده
+-
+sentence
+translate,The party is today,الحفلة النهرده,الحفلة,النهرده,مش,الإمتحان,حفلة
+-
+multichoice
+Yesterday,إمبارح,بُكرا,كانت,النهرده
+Was (f),كانت,بُكرا,كان,النهرده
+It (f),هيَ,بُكرا,دلوقتي,هوَ
+-
+sentence
+translate,The party was yesterday,الحفلة كانت إمبارح,الحفلة,كانت,إمبارح,النهرده,مش,الإمتحان,حفلة
+translate,The party is not tomorrow. It's today,الحفلة مش بُكرا هيَ النهرده,الحفلة,النهرده,مش,هيَ,بُكرا,الإمتحان,حفلة
+-
+multichoice
+It (m),هوَ,بُكرا,هيَ,إمتى
+Not / Isn't,مش,عايز,تفاحة,بلحة
+Was (m),كان,بُكرا,إمبارح,كانت
+-
+sentence
+translate,The exam is not today. It's tomorrow,الإمتحان مش النهرده هوَ بُكرا,الإمتحان,مش,النهرده,هوَ,بُكرا,دلوقتي
+translate,The exam is not today. It was yesterday,الإمتحان مش النهرده هوَ كان إمبارح,الإمتحان,مش,النهرده,هوَ,كان,إمبارح,بُكرا
+-
+multichoice
+Or,ولا,بُكرا,لأ,إمتى
+-
+sentence
+answer,هيَ الحفلة النهرده ولا بُكرا؟ >n (It's‎tomorrow),الحفلة بُكرا,الحفلة بُكرا,الحفلة دلوقتي,الحفلة النهرده,جعان
+answer,هوَ الإمتحان النهرده ولا بُكرا؟ >n (It's‎today),الإمتحان النهرده,الإمتحان بُكرا,الإمتحان دلوقتي,الإمتحان النهرده,جعان
+-
+sentence
+translate,Isn't the party today?,مش الحفلة النهرده,الحفلة,النهرده,مش,الإمتحان,حفلة
+translate,Not today. Tomorrow,مش النهرده بُكرا,بلحة,عايز,شغلي,مش,النهرده,بُكرا,دلوقتي
+-
+end_1
+
+
+start_2
+multichoice
+Today,النهرده,بُكرا,دلوقتي,إمتى
+Tomorrow,بُكرا,إمتى,إمبارح,النهرده
+Yesterday,إمبارح,بُكرا,عايز,النهرده
+-
+multichoice
+When,إمتى,بُكرا,إمبارح,النهرده
+Not,مش,عايز,تفاحة,بلحة
+Now,دلوقتي,بُكرا,إمبارح,إمتى
+-
+multichoice
+A little bit,شويه,بُكرا,دلوقتي,كمان
+Again / More,كمان,إمتى,إمبارح,شويه
+-
+sentence
+translate,Not now. In a little bit,مش دلوقتي كمان شويه,مش,دلوقتي,كمان,شويه,النهرده,بُكرا
+translate,Not today,مش النهرده,بلحة,عايز,شغلي,مش,النهرده,بُكرا,دلوقتي
+-
+sentence
+translate,The exam is in a little bit,الإمتحان كمان شويه,الإمتحان,كمان,شويه,شغلي,مش,النهرده,بُكرا,دلوقتي
+translate,I want a date(fruit) now,أنا عايز بلحة دلوقتي,بلحة,أنا عايز,شغلي,بُكرا,دلوقتي
+-
+multichoice
+Or,ولا,بُكرا,لأ,إمتى
+A little bit,شويه,بُكرا,دلوقتي,كمان
+Again / More,كمان,إمتى,إمبارح,شويه
+-
+sentence
+answer,هيَ الحفلة النهرده ولا بُكرا؟ >n (It's tomorrow),الحفلة بُكرا,الحفلة بُكرا,الحفلة دلوقتي,الحفلة النهرده,جعان
+answer,هوَ الإمتحان النهرده ولا بُكرا؟ >n (It's today),الإمتحان النهرده,الإمتحان بُكرا,الإمتحان دلوقتي,الإمتحان النهرده,جعان
+-
+sentence
+translate,Isn't the party today?,مش الحفلة النهرده,الحفلة,النهرده,مش,الإمتحان,حفلة
+translate,Not today. Tomorrow,مش النهرده بُكرا,بلحة,عايز,شغلي,مش,النهرده,بُكرا,دلوقتي
+-
+sentence
+translate,When is the outing?,إمتى الخروجة,إمتى,الخروجة,العزومة,النهرده,دلوقتي,خروجة
+translate,When is Mohamed's invitation?,إمتى عزومة‏ محمد,إمتى,الخروجة,كافيه,العزومة,عزومة‏,الكافيه,محمد
+-
+end_2
+
+
+
+
+Dictionary
+[wal-la] Or:ولا
+[elae-zooma] The invitation:العزومة
+[elkhrouga] The outing:الخروجة
+[emta] When:إمتى
+[ae-zooma] Invitation:عزومة
+[ae-zoomt] Invitation of:عزومة‏
+[khrouga] Tomorrow:خروجة
+[em-taHan] Today:إمتحان
+[elHafla] The Party:الحفلة
+[Hafla] Party:حفلة
+[dlwa'ti] Now:دلوقتي
+[bokra] Tomorrow:بُكرا
+[enhrda] Today:النهرده
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[(ae)ayz] (I) want (female speaker):عايز
+[(ae)yza] I (f) want:عايزه
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[m(sh)] Not:مش
+[aHmd] A name:أحمد
+[enti] You (to a female):أنتِ
+[blHa] A date (fruit):بلحة
+[tfaHa] An apple:تفاحة
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[gdn] Very:جداً
+[can] Was:كان
+[elwyk] Week :الويك
+[end] end :اند
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[Hlw] Nice | Sweet :حلو
+[l(ae)bt] I played:لعبت
+[dramz] Drums:درامز
+[ktyr] a lot:كتير
+[(ae)malty)] You (f) did:عملتي
+[k(ae)dt] I sat:قعدت
+[elbeit] The home:البيت
+[dw(sh)a] noise:دوشه
+[t(ae)btny] Made me tired:تعبتني
+[blyl] At night:بليل
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+[cafeh] Coffee (French):كافيه
+[mHmd] A Name:محمد
+[heya] She (is):هيَ
+[la] No:لأ
+[shewaya] A little:شويه
+-

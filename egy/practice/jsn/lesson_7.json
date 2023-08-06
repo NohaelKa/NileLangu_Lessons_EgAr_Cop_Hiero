@@ -1,0 +1,1111 @@
+{
+    "lessonID": 1,
+    "lesson": [
+        {
+            "levelID": 0,
+            "exerciceID": 1,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "The goodness",
+                "answer": "\u0627\u0644\u062e\u064a\u0631",
+                "listofvalues": [
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0623\u0648\u064a",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Morning",
+                "answer": "\u0635\u0628\u0627\u062d",
+                "listofvalues": [
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Evening",
+                "answer": "\u0645\u0633\u0627\u0621",
+                "listofvalues": [
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Good Morning",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 5,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Good Evening",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "listofvalues": [
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 6,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                "answer": "morning",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 7,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "answer": "afternoon",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 8,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "answer": "night",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 9,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "Good Morning",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 10,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "Good Evening",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 1,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "The light",
+                "answer": "\u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0623\u0648\u064a",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Morning of the",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644",
+                "listofvalues": [
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Evening of the",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644",
+                "listofvalues": [
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Good Morning (Response)",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 5,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Good Evening (Response)",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 6,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "answer",
+                "question": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 7,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "answer",
+                "question": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 1,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Bye (Be at Peace)",
+                "answer": "\u0633\u0644\u0627\u0645",
+                "listofvalues": [
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "The Morning",
+                "answer": "\u0627\u0644\u0635\u0628\u062d",
+                "listofvalues": [
+                    "\u0628\u0644\u064a\u0644",
+                    "\u0628\u0639\u062f \u0627\u0644\u0636\u0647\u0631",
+                    "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "The Afternoon",
+                "answer": "\u0628\u0639\u062f \u0627\u0644\u0636\u0647\u0631",
+                "listofvalues": [
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0627\u0644\u0635\u0628\u062d",
+                    "\u0628\u0644\u064a\u0644"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "(in) The Night/Evening",
+                "answer": "\u0628\u0644\u064a\u0644",
+                "listofvalues": [
+                    "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                    "\u0627\u0644\u0635\u0628\u062d",
+                    "\u0628\u0639\u062f \u0627\u0644\u0636\u0647\u0631"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 5,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0627\u0644\u0635\u0628\u062d",
+                "answer": "morning",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 6,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0628\u0639\u062f \u0627\u0644\u0636\u0647\u0631",
+                "answer": "afternoon",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 7,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0628\u0644\u064a\u0644",
+                "answer": "night",
+                "listofchoices": [
+                    "morning",
+                    "afternoon",
+                    "night",
+                    "sleep",
+                    "egy"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 8,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "answer",
+                "question": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+                "answer": "\u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 9,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "answer",
+                "question": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+                "answer": "\u0645\u0633\u0627\u0621 \u0627\u0644\u0646\u0648\u0631",
+                "listofvalues": [
+                    "\u0645\u0633\u0627\u0621",
+                    "\u0635\u0628\u0627\u062d",
+                    "\u0627\u0644\u062e\u064a\u0631",
+                    "\u0633\u0644\u0627\u0645",
+                    "\u0627\u0644\u0646\u0648\u0631",
+                    "\u0623\u0648\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

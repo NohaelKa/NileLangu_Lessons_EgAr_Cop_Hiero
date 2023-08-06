@@ -1,0 +1,75 @@
+Free time?
+
+Title
+Listen to the dialog
+
+Dialog
+صباح الخير يا مينا
+صباح النور يا نوفرت
+-
+فاضي النهرده؟
+لأ مش فاضي، بطبخ
+-
+مساء الخير يا ماري
+مساء النور يا نوفرت
+-
+فاضية النهرده؟
+لا مش فاضية، بشتغل
+-
+مساء الخير يا محمد
+مساء النور يا نوفرت
+-
+فاضي النهرده؟
+لأ مشغول، بنظف
+-
+صباح الخير يا أماروس
+صباح النور يا نوفرت
+-
+فاضي النهرده؟
+ايوه فاضي
+-
+متيجي نخرج؟
+ماشي يلا
+-
+end
+
+Slideshow
+3_1,3_2,3_3,3_4,3_5,3_6,3_7,3_8,3_9
+-
+AudioSequence
+-
+
+audioTrack
+no
+-
+
+Dictionary
+[eh] What:ايه
+[Kwys] Well (m):كويس
+[Kwysa] Well (female):كويسه
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[mHmd] A name:محمد
+[enti] You (to a female):أنتِ
+[aywa] Yes:ايوه
+[ezy] How is:إزي
+[mashy] Sure:ماشي
+[yalla] Let's (go):يلا
+[mateegy] Why don't we:متيجي
+[masa'] Evening:مساء
+[sabah] Morning:صباح
+[w] And:و
+[fadya] Available (f):فاضية
+[fady] Available (m):فاضي
+[batbo(kh)] (I'm) cooking:بطبخ
+[bashtaghal] (I'm) working:بشتغل
+[banadaf] (I'm) cleaning:بنظف
+[mesh] Not:مش
+[Hlw] Nice | Sweet :حلو
+[ana] I | Me:أنا
+[bs] But:بس
+-
+

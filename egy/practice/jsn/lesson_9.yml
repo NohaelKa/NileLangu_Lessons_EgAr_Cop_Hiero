@@ -1,0 +1,121 @@
+#Lesson 8
+#Male Possession (Your) 1
+#شغلَك,قطَك,قطتَك
+#
+---
+- Level_0: 
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'car', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - قط: cat_m
+  - multichoice_img: 
+    - choices: ['work_m', 'mobile', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - قطَك: boy_cat_m
+  - multichoice: 
+    - Your cat (masc. cat - addressing a male):
+      قطَك: ['قطتَك', 'محمد', 'قطة']
+    - A cat (male):
+      قط: ['قطتَك', 'قطَك', 'قطة']
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - قط: cat_m
+    - قطَك: boy_cat_m
+  - sentence: 
+    - translate: This is your cat
+      ده قطَك: ['ده', 'قطَك', 'قطة', 'دي']
+    - translate: Is this your cat?
+      ده قطَك: ['ده', 'قطَك', 'قطة', 'دي']
+- Level_1: 
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - شغلَك: work_m
+  - multichoice: 
+    - Work (masc.):
+      شغل: ['قطتَك', 'محمد', 'قطة']
+    - Your work (masc. noun - addressing a male):
+      شغلَك: ['مي', 'قطَك', 'قطة']
+    - Your cat (masc. cat - addressing a male):
+      قطَك: ['قطتَك', 'محمد', 'قطة']
+  - write_it: 
+    - شغلك: ['ش', 'غ', 'ل', 'ك', 'د', 'ف', 'ع', 'س', 'ا']
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - شغلَك: work_m
+  - sentence: 
+    - translate: How is your work?
+      إزي شغلَك: ['إزي', 'شغلَك', 'قطتَك', 'شغل']
+- Level_2: 
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'boy_cat_f', 'boy_cat_m']
+    - cat_f: قطة
+  - multichoice: 
+    - A cat (female):
+      قطة: ['قطتَك', 'قطَك', 'قط']
+  - multichoice: 
+    - Your cat (fem. cat - addressing a male):
+      قطتَك: ['مي', 'قطَك', 'قطة']
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_f', 'cat_m', 'noise', 'drums', 'weekend', 'home', 'girl_cat_f', 'girl_cat_m', 'boy_cat_f', 'boy_cat_m']
+    - قطتَك: boy_cat_f
+    - قطة: cat_f
+  - sentence: 
+    - translate: How is your cat?
+      إزي قطتَك: ['إزي', 'قطتَك', 'قطة', 'قط']
+    - translate: Is this your cat?
+      دي قطتَك: ['ده', 'قطَك', 'قطتَك', 'قطة', 'دي']
+- Level_3: 
+  - multichoice_img: 
+    - choices: ['girl_cat_f', 'girl_cat_m', 'boy_cat_f', 'boy_cat_m']
+    - قطتَك: boy_cat_f
+    - قطَك: boy_cat_m
+  - multichoice_img: 
+    - choices: ['work_m', 'work_f', 'cat_m', 'cat_f', 'noise', 'drums', 'weekend', 'home', 'girl_cat_f', 'girl_cat_m', 'boy_cat_f', 'boy_cat_m']
+    - شغلَك: work_m
+    - قطة: cat_f
+    - قط: cat_m
+  - multichoice: 
+    - Your cat (fem. cat - addressing a male):
+      قطتَك: ['مي', 'قطَك', 'قطة']
+    - Your cat (masc. cat - addressing a male):
+      قطَك: ['قطتَك', 'محمد', 'قطة']
+    - Work (masc.):
+      شغل: ['قطتَك', 'محمد', 'قطة']
+    - Your work (masc. noun - addressing a male):
+      شغلَك: ['مي', 'قطَك', 'قطة']
+  - write_it: 
+    - قطتك: ['ق', 'ط', 'ل', 'ك', 'ت', 'ف', 'ع', 'س', 'ا']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to female)', 'أنتِ']
+  - ['[ezy] How is', 'إزي']
+  - ['[oTtk] Your cat', 'قطتَك']
+  - ['[oTty] My cat', 'قطتي']
+  - ['[oTa] Cat (f)', 'قطة']
+  - ['[oT] Cat (m)', 'قط']
+  - ['[oT] The cat (m)', 'القط']
+  - ['[oTak] Your cat (m)', 'قطَك']
+  - ['[(sh)o(gh)lk] Your work (to female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[w] And', 'و']
+  - ['[mt(ae)b] Tiring', 'متعب']
+  - ['[gdn] Very', 'جداً']
+  - ['[can] Was', 'كان']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+...

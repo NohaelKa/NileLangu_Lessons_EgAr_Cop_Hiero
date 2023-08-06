@@ -1,0 +1,115 @@
+#Lesson 10
+#My Possession 1
+#شغلي,قطتي,قطي,شنطتي,شنطه,أسمي
+#موبيلي، عربيتي
+#
+---
+- Level_0: 
+  - multichoice_img: 
+    - choices: ['one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'meat', 'mobile', 'car', 'work']
+    - موبيل: mobile
+    - شغل: work
+  - multichoice: 
+    - My cell phone:
+      موبيلي: ['قطتِك', 'أسمي', 'عربيتي']
+    - My work:
+      شغلي: ['شغلِك', 'قطَك', 'قطة']
+  - sentence: 
+    - translate: This is my cat
+      دي قطتي: ['ده', 'قطتي', 'قطة', 'عربيتي', 'شغلي', 'دي']
+    - translate: This is my work
+      ده شغلي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+  - multichoice: 
+    - My car:
+      عربيتي: ['موبيلي', 'إسمي', 'قطة']
+  - write_it: 
+    - إسمي: ['م', 'إ', 'ر', 'س', 'د', 'ي', 'ا']
+  - sentence: 
+    - translate: This is my car
+      دي عربيتي: ['ده', 'قطتي', 'عربيتي', 'قطة', 'شغلي', 'دي']
+  - multichoice: 
+    - My name:
+      إسمي: ['قطتِك', 'موبيلي', 'شغلي']
+  - sentence: 
+    - translate: My name is Meren
+      إسمي ميرن: ['ده', 'إسمي', 'قطتي', 'ميرن', 'شغلي', 'دي']
+    - translate: My name is Mai
+      إسمي مي: ['مي', 'إسمي', 'قطتي', 'ميرن', 'شغلي', 'دي']
+- Level_1: 
+  - multichoice: 
+    - My cat (fem.):
+      قطتي: ['شنطه', 'قطي', 'قطة']
+    - My cat (masc.):
+      قطي: ['قطتِك', 'شنطه', 'قطتي']
+    - My work:
+      شغلي: ['شنطه', 'قطَك', 'قطة']
+    - A bag:
+      شنطه: ['شغلِك', 'قطَك', 'قطة']
+  - sentence: 
+    - translate: This is my cat
+      ده قطتي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+    - translate: This is my cat
+      ده قطي: ['ده', 'قطي', 'قطة', 'شغلي', 'دي']
+    - translate: This is my work
+      ده شغلي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+  - sentence: 
+    - translate: My name is Mohamed
+      إسمي محمد: ['ده', 'إسمي', 'محمد', 'ميرن', 'شغلي', 'دي']
+    - translate: My name is Noha
+      إسمي نهى: ['مي', 'إسمي', 'قطتي', 'ميرن', 'شغلي', 'نهى']
+- Level_2: 
+  - multichoice: 
+    - My cat (fem.):
+      قطتي: ['شغلي', 'قطي', 'شنطتي']
+    - My cat (masc.):
+      قطي: ['شنطتي', 'شغلي', 'قطتي']
+    - My work:
+      شغلي: ['شغلِك', 'قطَك', 'قطة']
+    - My bag:
+      شنطتي: ['شغلي', 'قطَك', 'قطة']
+  - sentence: 
+    - translate: This is my cat
+      دي قطتي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+    - translate: This is my cat
+      ده قطي: ['ده', 'قطي', 'قطة', 'شغلي', 'دي']
+    - translate: This is my bag
+      دي شنطتي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+    - translate: This is my work
+      ده شغلي: ['ده', 'قطتي', 'قطة', 'شغلي', 'دي']
+  - sentence: 
+    - answer: إسمَك ايه؟
+      إسمي محمد: ['ده', 'إسمي', 'محمد', 'نهى', 'شغلي', 'دي']
+    - answer: إسمِك ايه؟
+      إسمي ماري: ['إسمي', 'قطتي', 'محمد', 'شغلي', 'ماري']
+- Dictionary:
+  - ['[ezyak] How are you (to a male)', 'إزيَك']
+  - ['[ezyek] How are you (to a female)', 'إزيِك']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[w] And', 'و']
+  - ['[ayh] What', 'ايه']
+  - ['[ya] (Used to address someone)', 'يا']
+  - ['[fi] There is', 'في']
+  - ['[mary] A name', 'ماري']
+  - ['[aHmd] A name', 'أحمد']
+  - ['[enti] You (to a female)', 'أنتِ']
+  - ['[esmak] Your name (to male)', 'إسمَك']
+  - ['[esmek] Your name (to female)', 'إسمَك']
+  - ['[oTtk] Your cat', 'قطتَك']
+  - ['[oTty] My cat (female)', 'قطتي']
+  - ['[oTy] My cat (male)', 'قطي']
+  - ['[oTa] Cat (female)', 'قطة']
+  - ['[oT] Cat (male)', 'قط']
+  - ['[oT] The cat (male)', 'القط']
+  - ['[(sh)o(gh)lk] Your work (to a female)', 'شغلِك']
+  - ['[(sh)o(gh)lk] Your work (to a male)', 'شغلَك']
+  - ['[el(sh)(gh)l] The work', 'الشغل']
+  - ['[(sh)(gh)l] Work', 'شغل']
+  - ['[w] And', 'و']
+  - ['[bta(ae)k] Your (to a male)', 'بتاعَك']
+  - ['[bta(ae)k] Your (to a female)', 'بتاعِك']
+  - ['أسم', 'name']
+  - ['...ي ', 'my']
+...

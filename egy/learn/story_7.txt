@@ -1,0 +1,48 @@
+Dining table
+
+Full list of things to learn:
+
+Title
+Listen to the Beach Song
+
+Dialog
+
+-
+
+Slideshow
+-
+AudioSequence
+-
+audioTrack
+-
+
+Dictionary
+[akl] Food:أكل
+[yla] Let's go:يلا
+[n(kh)rg] We go out:نخرج
+[ma(sh)i] Sure (he/it walks):ماشي
+[nrwH] We go:نروح
+[fyn] Where:فين
+[elcnyma] The Cinema:السنيما
+[awkyh] Okay:اوكيه
+[ana] I|me:أنا
+[wSlt] Arrived:وصلت
+[w] And:و
+[kman] Too|Also :كمان
+[Tb] How about :طب
+[mtigi] Why don't we :متيجي
+[mT(ae)m] Restaurant:مطعم
+[hna] Here:هنا
+[elbHr] The Sea:البحر
+[allh] Wow:الله
+[Hlw] Nice:حلو
+[ah] Yes:اه
+[awy] Very:أوي
+[msh] negation (don't):مش
+[(ae)ayzeen] You want (plural):عايزين
+[t(kh)rogu)] You go out (plural):تخرجو
+[bgd] for real:بجد
+[la'] No:لأ
+[eHna] We are:أحنا
+[tmam] fine:تمام
+-

@@ -1,0 +1,128 @@
+#Feminine and Masculine
+#قط،قطة,كرة,لبن,دي,ده,ولد,بنت
+#موبيل,عربية
+#
+---
+- Level_0: 
+  - multichoice: 
+    - This (m):
+      ده: ['دي', 'كرة', 'أوي']
+  - multichoice_img: 
+    - choices: ['cat_m', 'milk', 'home', 'flour', 'amaros', 'mobile']
+    - ولد: amaros
+  - sentence: 
+    - translate: This boy
+      الولد ده: ['الولد', 'دي', 'بيت', 'ده']
+    - translate: This is a boy
+      ده ولد: ['ولد', 'دي', 'بيت', 'ده']
+  - multichoice: 
+    - He:
+      هو: ['دي', 'كرة', 'ده']
+  - sentence: 
+    - translate: He is a boy
+      هو ولد: ['ولد', 'دي', 'هو', 'ده']
+  - multichoice_img: 
+    - choices: ['cat_m', 'milk', 'home', 'flour', 'amaros', 'mobile']
+    - لبن: milk
+  - sentence: 
+    - translate: This milk
+      اللبن ده: ['اللبن', 'دي', 'بيت', 'ده']
+    - translate: This is milk
+      ده لبن: ['ولد', 'دي', 'لبن', 'ده']
+  - multichoice_img: 
+    - choices: ['cat_m', 'milk', 'home', 'flour', 'amaros', 'mobile']
+    - قط: cat_m
+    - موبيل: mobile
+  - sentence: 
+    - translate: This cat
+      القط ده: ['اللبن', 'دي', 'القط', 'ده']
+    - translate: This is a cat
+      ده قط: ['قط', 'دي', 'لبن', 'ده']
+    - translate: This is a cell phone
+      ده موبيل: ['قط', 'موبيل', 'دي', 'لبن', 'ده']
+- Level_1: 
+  - multichoice: 
+    - This (f):
+      دي: ['ده', 'هو', 'هي']
+  - multichoice_img: 
+    - choices: ['cat_f', 'bag', 'mary', 'ball', 'car']
+    - mary: بنت
+  - sentence: 
+    - translate: This girl
+      البنت دي: ['الولد', 'البنت', 'دي', 'بيت', 'ده']
+    - translate: This is a girl
+      دي بنت: ['ولد', 'دي', 'بيت', 'ده']
+  - multichoice: 
+    - She:
+      هي: ['دي', 'هو', 'ده']
+  - sentence: 
+    - translate: She is a girl
+      هي بنت: ['هي', 'بنت', 'ولد', 'دي', 'هو', 'ده']
+  - multichoice_img: 
+    - choices: ['cat_f', 'bag', 'mary', 'ball', 'car']
+    - كرة: ball
+  - sentence: 
+    - translate: This ball
+      الكرة دي: ['اللبن', 'الكرة', 'دي', 'بيت', 'ده']
+    - translate: This is a ball
+      دي كرة: ['ولد', 'كرة', 'دي', 'لبن', 'ده']
+  - multichoice_img: 
+    - choices: ['cat_f', 'bag', 'mary', 'ball', 'car']
+    - قطة: cat_f
+    - car: عربية
+  - sentence: 
+    - translate: This cat
+      القطة دي: ['اللبن', 'القطة', 'دي', 'القط', 'ده']
+    - translate: This is a cat
+      دي قطة: ['قط', 'دي', 'قطة', 'ده']
+    - translate: This is a car
+      دي عربية: ['قطة', 'عربية', 'دي', 'الكرة', 'ده']
+- Level_2: 
+  - multichoice: 
+    - Choose the masculine word:
+      لبن: ['قطة', 'موبيل', 'كرة']
+  - multichoice: 
+    - Choose the masculine word:
+      قط: ['قطة', 'عربية', 'بلحة']
+  - multichoice: 
+    - Choose the masculine word:
+      موبيل: ['كرة', 'عربية', 'بلحة']
+  - multichoice: 
+    - Choose the feminine  word:
+      قطة: ['لبن', 'بيت', 'قط']
+  - multichoice: 
+    - Choose the feminine  word:
+      كرة: ['لبن', 'بيت', 'قط']
+  - multichoice: 
+    - Choose the feminine  word:
+      عربية: ['لبن', 'بيت', 'موبيل']
+  - sentence: 
+    - translate: She is a girl
+      هي بنت: ['هي', 'بنت', 'ولد', 'دي', 'هو', 'ده']
+    - translate: He is a boy
+      هو ولد: ['ولد', 'دي', 'هو', 'ده']
+- Dictionary:
+  - ['[lbn] milk (m)', 'لبن']
+  - ['[ellbn] The milk (m)', 'اللبن']
+  - ['[kra] The ball (f)', 'كرة']
+  - ['[elkra] The ball (f)', 'الكرة']
+  - ['[eloTa] The cat (f)', 'القطة']
+  - ['[oTa] Cat (f)', 'قطة']
+  - ['[oT] Cat (m)', 'قط']
+  - ['[oT] The cat (m)', 'القط']
+  - ['[wld] Boy', 'ولد']
+  - ['[bnt] Girl', 'بنت']
+  - ['هو', 'he']
+  - ['هي', 'she']
+  - ['ده | دي', 'this']
+  - ['هو', 'He']
+  - ['هي', 'She']
+  - ['ده | دي', 'This']
+  - ['أنا', 'i']
+  - ['ده', 'This (m)']
+  - ['ولد', 'boy']
+  - ['بنت', 'girl']
+  - ['دي', 'This (f)']
+  - ['بلحة', 'date']
+  - ['شنطة', 'bag']
+...

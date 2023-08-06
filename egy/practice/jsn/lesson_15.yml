@@ -1,0 +1,169 @@
+#Actions
+#
+#Learning in the present tense
+#باكل,بشتغل,بنضف,بلعب,بطبخ
+#
+---
+- Level_0: 
+  - multichoice: 
+    - I'm eating:
+      باكل: ['بشتغل', 'بشرب', 'بطبخ']
+    - I'm cooking:
+      بطبخ: ['بشتغل', 'بشرب', 'باكل']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'cook', 'bag', 'home', 'cheese', 'rice']
+    - باكل: eat
+    - بطبخ: cook
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'cook', 'bag', 'home', 'cheese', 'rice']
+    - تفاحة: one_apple
+    - بلحة: one_date
+    - رز: rice
+  - sentence: 
+    - translate: I'm eating
+      أنا باكل: ['أنا باكل', 'أنا بلحة', 'أنا بشتغل', 'أنا تفاحة', 'شنطه', 'أنا بلعب']
+    - translate: I'm eating a date
+      باكل بلحة: ['باكل', 'بلحة', 'بشتغل', 'تفاحة', 'بطبخ', 'بلعب']
+    - translate: I'm eating an apple
+      باكل تفاحة: ['باكل', 'بلحة', 'بشتغل', 'تفاحة', 'شنطه', 'بلعب']
+    - translate: I'm cooking rice
+      بطبخ رز: ['باكل', 'رز', 'بلحة', 'بشتغل', 'تفاحة', 'بطبخ', 'بلعب']
+    - translate: I'm cooking now
+      بطبخ دلوقتي: ['باكل', 'بلحة', 'بشتغل', 'دلوقتي', 'شنطه', 'بطبخ']
+- Level_1: 
+  - multichoice: 
+    - بلعب:
+      I'm playing: ["I'm eating", "I'm working", "I'm cleaning"]
+    - كرة:
+      ball: ['bag', 'date', 'drums']
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice']
+    - بلعب: play
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'ball']
+    - درامز: drums
+    - كرة: ball
+  - sentence: 
+    - translate: I'm playing
+      أنا بلعب: ['أنا باكل', 'بلحة', 'أنا بشتغل', 'أنا تفاحة', 'أنا شنطه', 'أنا بلعب']
+    - translate: I'm playing drums
+      بلعب درامز: ['باكل', 'بلحة', 'درامز', 'تفاحة', 'شنطه', 'بلعب']
+    - translate: I'm playing football
+      بلعب كرة: ['باكل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm playing now
+      بلعب دلوقتي: ['باكل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+- Level_2: 
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بشتغل: work
+  - multichoice: 
+    - I'm working:
+      بشتغل: ['بنضف', 'باكل', 'بلعب درامز']
+  - multichoice: 
+    - Today:
+      إنهرده: ['دلوقتي', 'بكره', 'رياضة']
+    - Now:
+      دلوقتي: ['إنهرده', 'بكره', 'بطبخ']
+  - sentence: 
+    - translate: I'm working
+      بشتغل: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm working now
+      بشتغل دلوقتي: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm working today
+      بشتغل إنهرده: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'إنهرده', 'بلعب']
+- Level_3: 
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بنضف: clean
+  - multichoice: 
+    - I'm cleaning:
+      بنضف: ['بلعب درامز', 'بشتغل', 'بطبخ']
+    - الأوضه:
+      The Room: ['The Kitchen', 'The Garden', 'The Bathroom']
+  - sentence: 
+    - translate: I'm cleaning
+      بنضف: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'بنضف', 'بلعب']
+    - translate: I'm cleaning the room now
+      بنضف الأوضه دلوقتي: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'شنطه', 'بلعب']
+    - translate: I'm cleaning the room
+      بنضف الأوضه: ['بشتغل', 'بلحة', 'كرة', 'دلوقتي', 'إنهرده', 'بلعب']
+- Level_4: 
+  - multichoice: 
+    - What:
+      ايه: ['بتعملي', 'باكل', 'بنضف']
+    - You are doing (to a male):
+      بتعمل: ['بتعملي', 'باكل', 'بنضف']
+  - sentence: 
+    - translate: بتعمل ايه
+      What are you doing: ['What', 'are', 'you', 'doing', 'who', 'is', 'he']
+  - sentence: 
+    - translate: What are you doing Mohamed?
+      بتعمل ايه يا محمد: ['ايه', 'بتعمل', 'يا', 'محمد', 'ماري', 'بتعملي']
+  - multichoice: 
+    - What:
+      ايه: ['بتعملي', 'باكل', 'بنضف']
+    - You are doing (to a female):
+      بتعملي: ['بتعمل', 'باكل', 'بنضف']
+  - sentence: 
+    - translate: بتعملي ايه
+      What are you doing: ['What', 'are', 'you', 'doing', 'who', 'is', 'he']
+  - sentence: 
+    - translate: What are you doing Mary?
+      بتعملي ايه يا ماري: ['ايه', 'يا', 'محمد', 'ماري', 'بتعملي', 'بتعمل']
+- Level_5: 
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'wake']
+    - بعمل رياضة: exercise
+  - multichoice: 
+    - I'm making:
+      بعمل: ['باكل', 'بنام', 'رياضة']
+    - Exercise:
+      رياضة: ['باكل', 'بنام', 'بعمل']
+  - sentence: 
+    - translate: بعمل رياضة
+      I'm exercising: ["I'm", 'exercising', 'you', 'eating', 'make']
+  - sentence: 
+    - translate: I'm exercising
+      بعمل رياضة: ['بعمل', 'رياضة', 'باكل', 'إنتَ', 'ايه']
+- Level_6: 
+  - multichoice_img: 
+    - choices: ['work', 'drums', 'eat', 'exercise', 'drink', 'sleep', 'cook', 'wake', 'play', 'one_apple', 'one_date', 'bag', 'home', 'cheese', 'rice', 'ball']
+    - بلعب درامز: drums
+    - بلعب كرة: play
+    - بنضف: clean
+    - باكل: eat
+    - بشتغل: work
+    - بطبخ: cook
+  - sentence: 
+    - translate: What are you doing Mary?
+      بتعملي ايه يا ماري: ['ايه', 'يا', 'محمد', 'ماري', 'بتعملي', 'بتعمل']
+    - translate: What are you doing Mohamed?
+      بتعمل ايه يا محمد: ['ايه', 'بتعمل', 'يا', 'محمد', 'ماري', 'بتعملي']
+- Dictionary:
+  - ["[bakl] I'm eating", 'باكل']
+  - ["[b(sh)t(gh)l] I'm working", 'بشتغل']
+  - ["[b(ae)ml] (I'm exercising) I'm doing..", 'بعمل']
+  - ["[bt(ae)mli] You're doing (to a female)", 'بتعملي']
+  - ["[bt(ae)ml] You're doing (to a male)", 'بتعمل']
+  - ['[ryaDa] Exercise', 'رياضة']
+  - ["[bl(ae)b] I'm playing", 'بلعب']
+  - ["[btb(kh)] I'm cooking", 'بطبخ']
+  - ["[b(S)(H)a] I'm waking", 'بصحى']
+  - ["[bnam] I'm falling asleep", 'بنام']
+  - ["[bnDf] I'm cleaning", 'بنضف']
+  - ['[dramz] Drums', 'درامز']
+  - ['[ayh] What', 'ايه']
+  - ['[ana] I | Me', 'أنا']
+  - ['[Kwys] Well (male)', 'كويس']
+  - ['[Kwysa] Well (female)', 'كويسه']
+  - ['[tofaHa] an Apple', 'تفاحة']
+  - ['[balaHa] a Date', 'بلحة']
+  - ['[shanTa] a Bag', 'شنطة']
+  - ['ايه', 'what']
+  - ['بعمل', "I'm making"]
+  - ['تفاحة', 'apple']
+  - ['باكل', 'eating']
+  - ['أنا', 'i']
+  - ['بلحة', 'date']
+  - ['شنطة', 'bag']
+...

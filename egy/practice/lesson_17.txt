@@ -1,0 +1,274 @@
+© NileLangu 2021
+
+Present continuous
+Common verbs
+the present starts with a ب
+
+باكل,بشتغل,بنضف,بلعب,بطبخ
+
+Todo: add more pronouns
+
+start_0
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake,play,one_apple,cook,bag,home,cheese,rice
+باكل:eat
+بطبخ:cook
+-
+multichoice
+I'm eating,باكل,بشتغل,بشرب,بطبخ
+I'm cooking,بطبخ,بشتغل,بشرب,باكل
+-
+multichoice_img
+work,bread,eat,chicken,drink,sleep,wake,rice,cook,bag,home,cheese,rice,plate
+عيش:bread
+فراخ:chicken
+رز:rice
+طبق:plate
+-
+sentence
+translate,I'm eating,أنا باكل,أنا باكل,أنا بلحة,أنا بشتغل,أنا تفاحة,شنطة,أنا بلعب
+translate,I'm eating a plate of rice,باكل طبق رز,باكل,بلحة,بشتغل,تفاحة,بطبخ
+translate,I'm eating bread,باكل عيش,باكل,بلحة,بشتغل,تفاحة,شنطة,بلعب
+translate,I'm cooking rice,بطبخ رز,باكل,رز,بلحة,بشتغل,تفاحة,بطبخ,بلعب
+-
+multichoice
+Now,دلوقتي,النهرده,بُكرا,بطبخ
+-
+sentence
+translate,I'm cooking now,بطبخ دلوقتي,باكل,بلحة,بشتغل,دلوقتي,شنطة,بطبخ
+-
+multichoice
+He's eating,بياكل,بشتغل,بشرب,بيطبخ
+He's cooking,بيطبخ,بشتغل,بياكل,باكل
+-
+sentence
+translate,He's cooking chicken,بيطبخ فراخ,باكل,بلحة,بشتغل,دلوقتي,شنطة,بطبخ
+translate,He's eating bread,بياكل عيش,باكل,بلحة,بشتغل,دلوقتي,شنطة,بطبخ
+-
+end_0
+
+
+start_1
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake,play,one_apple,one_date,bag,home,cheese,rice
+بلعب:play
+-
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake,play,one_apple,one_date,bag,home,cheese,rice,ball
+درامز:drums
+كرة:ball
+-
+multichoice
+بلعب,I'm playing,I'm eating,I'm working,I'm cleaning
+كرة,ball,bag,date,drums
+-
+sentence
+translate,I'm playing,أنا بلعب,أنا باكل,بلحة,أنا بشتغل,أنا تفاحة,أنا شنطة,أنا بلعب
+translate,I'm playing drums,بلعب درامز,باكل,بلحة,درامز,تفاحة,شنطة,بلعب
+translate,I'm playing football,بلعب كرة,باكل,بلحة,كرة,دلوقتي,شنطة,بلعب
+-
+multichoice
+Now,دلوقتي,النهرده,بُكرا,بطبخ
+-
+sentence
+translate,I'm playing now,بلعب دلوقتي,باكل,بلحة,كرة,دلوقتي,شنطة,بلعب
+-
+multichoice
+She's playing,بتلعب,بشتغل,بشرب,بيطبخ
+-
+sentence
+translate,She's playing football,بتلعب كرة,باكل,بلحة,بشتغل,دلوقتي,شنطة,بطبخ
+translate,She's playing drums,بتلعب درامز,باكل,بلحة,بشتغل,دلوقتي,شنطة,بطبخ
+-
+end_1
+
+
+start_2
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake
+بشتغل:work
+-
+multichoice
+I'm working,بشتغل,بنضف,باكل,بلعب درامز
+On,على,بنضف,باكل,بلعب درامز
+-
+multichoice
+Today,النهرده,دلوقتي,بُكرا,رياضة
+Now,دلوقتي,النهرده,بُكرا,بطبخ
+-
+sentence
+translate,I'm working,بشتغل,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working now,بشتغل دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working today,بشتغل النهرده,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+-
+multichoice
+I'm working,بشتغل,بنضف,باكل,بلعب درامز
+On,على,بنضف,باكل,بلعب درامز
+-
+sentence
+translate,I'm working on the computer,بشتغل على الكمبيوتر,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working on the application,بشتغل على البرنامج,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working now,بشتغل دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working today,بشتغل النهرده,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+-
+end_2
+
+
+
+start_3
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake
+بنضف:clean
+-
+multichoice
+I'm cleaning,بنضف,بلعب درامز,بشتغل,بطبخ
+الأوضة,The Room,The Kitchen,The Garden,The Bathroom
+-
+sentence
+translate,I'm cleaning,بنضف,بشتغل,بلحة,كرة,دلوقتي,بنضف,بلعب
+translate,I'm cleaning the room now,بنضف الأوضة دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm cleaning the room,بنضف الأوضة,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+-
+multichoice
+I'm cleaning,بنضف,بلعب درامز,بشتغل,بطبخ
+الأوضة,The Room,The Kitchen,The Garden,The Bathroom
+-
+sentence
+translate,I'm cleaning,بنضف,بشتغل,بلحة,كرة,دلوقتي,بنضف,بلعب
+translate,I'm cleaning the room now,بنضف الأوضة دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm cleaning the room,بنضف الأوضة,بشتغل,بلحة,كرة,دلوقتي,النهرده,بلعب
+-
+end_3
+
+
+start_4
+multichoice
+What,ايه,بتعملي,باكل,بنضف
+You are doing (to a male),بتعمل,بتعملي,باكل,بنضف
+-
+sentence
+translate,بتعمل ايه,What are you doing,What,are,you,doing,who,is,he
+-
+sentence
+translate,What are you doing Mohamed?,بتعمل ايه يا محمد,ايه,بتعمل,يا,محمد,ماري,بتعملي
+-
+multichoice
+What,ايه,بتعملي,باكل,بنضف
+You (f) are doing,بتعملي,بتعمل,باكل,بنضف
+-
+sentence
+translate,بتعملي ايه,What are you doing,What,are,you,doing,who,is,he
+-
+sentence
+translate,What are you doing Mary?,بتعملي ايه يا ماري,ايه,يا,محمد,ماري,بتعملي,بتعمل
+-
+multichoice_
+What,ايه,بتعملي,باكل,بنضف
+You (m) are doing,بتعمل,بتعملي,باكل,بنضف
+You (f) are doing,بتعملي,بتعمل,باكل,بنضف
+-
+sentence
+translate,بتعملي ايه,What are you doing,What,are,you,doing,who,is,he
+translate,بتعمل ايه,What are you doing,What,are,you,doing,who,is,he
+translate,What are you doing Mary?,بتعملي ايه يا ماري,ايه,يا,محمد,ماري,بتعملي,بتعمل
+translate,What are you doing Mohamed?,بتعمل ايه يا محمد,ايه,بتعمل,يا,محمد,ماري,بتعملي
+-
+end_4
+
+
+
+start_5
+multichoice_img
+work,drums,eat,exercise,drink,sleep,wake
+بعمل رياضة:exercise
+-
+multichoice
+I'm making,بعمل,باكل,بنام,رياضة
+Exercise,رياضة,باكل,بنام,بعمل
+-
+sentence
+translate,بعمل رياضة,I'm exercising,I'm,exercising,you,eating,make
+-
+sentence
+translate,I'm exercising,بعمل رياضة,بعمل,رياضة,باكل,إنتَ,ايه
+-
+multichoice
+I'm making,بعمل,باكل,بنام,رياضة
+Exercise,رياضة,باكل,بنام,بعمل
+-
+sentence
+translate,بتعملي ايه,What are you doing,What,are,you,doing,who,is,he
+translate,بتعمل ايه,What are you doing,What,are,you,doing,who,is,he
+translate,I'm exercising,بعمل رياضة,بعمل,رياضة,باكل,إنتَ,ايه
+translate,بعمل رياضة,I'm exercising,I'm,exercising,you,eating,make
+-
+end_5
+
+
+start_6
+multichoice_img
+work,drums,eat,exercise,drink,sleep,cook,wake,play,one_apple,one_date,bag,home,cheese,rice,ball
+بلعب درامز:drums
+بلعب كرة:play
+بنضف:clean
+باكل:eat
+بشتغل:work
+بطبخ:cook
+-
+sentence
+translate,What are you doing Mary?,بتعملي ايه يا ماري,ايه,يا,محمد,ماري,بتعملي,بتعمل
+translate,What are you doing Mohamed?,بتعمل ايه يا محمد,ايه,بتعمل,يا,محمد,ماري,بتعملي
+-
+sentence
+translate,I'm exercising,بعمل رياضة,بعمل,رياضة,باكل,إنتَ,ايه
+translate,بعمل رياضة,I'm exercising,I'm,exercising,you,eating,make
+-
+sentence
+translate,I'm cleaning,بنضف,بشتغل,بلحة,كرة,دلوقتي,بنضف,بلعب
+translate,I'm cleaning the room now,بنضف الأوضة دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+-
+sentence
+translate,I'm working,بشتغل,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm working now,بشتغل دلوقتي,بشتغل,بلحة,كرة,دلوقتي,شنطة,بلعب
+translate,I'm playing,أنا بلعب,أنا باكل,بلحة,أنا بشتغل,أنا تفاحة,أنا شنطة,أنا بلعب
+translate,I'm eating an apple,باكل تفاحة,باكل,بلحة,بشتغل,تفاحة,شنطة,بلعب
+-
+end_6
+
+
+Dictionary
+[bakl] I'm eating:باكل
+[b(sh)t(gh)l] I'm working:بشتغل
+[b(ae)ml] (I'm exercising) I'm doing..:بعمل
+[bt(ae)mli] You're doing (to a female):بتعملي
+[bt(ae)ml] You're doing (to a male):بتعمل
+[ryaDa] Exercise:رياضة
+[bl(ae)b] I'm playing:بلعب
+[btb(kh)] I'm cooking:بطبخ
+[bnam] I'm falling asleep:بنام
+[bnDf] I'm cleaning:بنضف
+[dramz] Drums:درامز
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[tofaHa] an Apple:تفاحة
+[balaHa] a Date:بلحة
+[shanTa] a Bag:شنطة
+ايه:what
+بعمل:I'm making
+تفاحة:apple
+باكل:eating
+أنا:i
+بلحة:date
+شنطة:bag
+[roz] Rice:رز
+[dlwa'ti] Now:دلوقتي
+Today:النهرده
+[bokra] Tomorrow:بُكرا
+[kora] Ball:كرة
+[ae-la] On:على
+[ya] (Used to address someone):يا
+[mHmd] A Name:محمد
+[mary] A Name:ماري
+-

@@ -1,0 +1,209 @@
+Lesson 9
+إبعت رساله عن موقعك
+todo
+
+
+start_0
+multichoice_img
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوط:happy_m
+تعبان:tired_m
+-
+multichoice
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+Very,أوي,قطة,إزي,محمد
+You (to male),إنتَ,إنتَ,و,أنا
+a little,شوية,صعب,محمد,قطة
+-
+sentence
+answer,إزيَك ؟,تعبان,تعبان,زعلانة,تعبانة,مبسوطة
+translate,I am tired,أنا تعبان,أنا تعبان,أنا مبسوط,أنا زعلان
+translate,I am very happy,أنا مبسوط أوي,أنا تعبان,أنا مبسوط,أوي,أنا زعلان
+-
+multichoice
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+Very,أوي,قطة,إزي,محمد
+a little,شوية,صعب,محمد,قطة
+-
+sentence
+translate,I am a bit tired,أنا تعبان شوية,أنا تعبان,أنا مبسوط,شوية,أنا زعلان
+translate,I am very tired,أنا تعبان أوي,أنا تعبان,أوي,أنا مبسوط,شوية,أنا زعلان
+translate,I am very happy,أنا مبسوط أوي,أنا تعبان,شوية,أنا مبسوط,أوي,أنا زعلان
+translate,I am a bit happy,أنا تعبان شوية,أنا تعبان,أنا مبسوط,شوية,أنا زعلان
+إزيَك؟,أنا كويس,أنا,كويس,محمد,answer
+إنتَ كويس؟,أيوه أنا كويس,أيوه أنا,كويس,إزي,كويسه,إنت,answerَ
+-
+end_0
+
+
+
+start_1
+multichoice
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+You (to male),إنتَ,إنتَ,و,أنا
+You (to female),إنتِ,إنتِ,و,أنا
+-
+multichoice_img
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوطة:happy_f
+تعبانة:tired_f
+-
+multichoice
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+Very,أوي,قطة,إزي,محمد
+a little,شوية,صعب,محمد,قطة
+-
+sentence
+answer,إزيِك ؟,مبسوطة,مبسوط,زعلان,تعبان,مبسوط
+إزيِك؟,أنا كويسه,أنا,كويسه,كويس,ماري,answer
+إنتِ كويسه؟,أيوه أنا كويسه,أيوه أنا,كويسه,إنتَ,كويس,answer
+translate,I am a bit tired,أنا تعبانة شوية,أنا تعبانة,أنا مبسوط,شوية,أنا زعلان
+translate,I am very tired,أنا تعبانة أوي,أنا تعبانة,أوي,أنا مبسوط,شوية,أنا زعلان
+translate,I am very happy,أنا مبسوطة أوي,أنا مبسوطة,شوية,أنا مبسوط,أوي,أنا زعلان
+translate,I am a bit happy,أنا تعبانة شوية,أنا تعبانة,أنا مبسوط,شوية,أنا زعلان
+-
+end_1
+
+
+start_2
+multichoice_img
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+زعلان:sad_m
+زعلانة:sad_f
+-
+multichoice
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+Very,أوي,قطة,إزي,محمد
+a little,شوية,صعب,محمد,قطة
+-
+sentence
+answer,إزيَك ؟,زعلان,زعلان,زعلانة,تعبانة,مبسوطة
+answer,إزيِك ؟,زعلانة,زعلانة,تعبان,مبسوط,زعلان
+translate,I am very sad,أنا زعلان أوي,أنا تعبان,أنا مبسوط,أوي,أنا زعلان
+translate,I am a bit sad,زعلانة شوية,تعبانة,شوية,مبسوطة,زعلانة
+-
+multichoice
+How is,إزي,إزيَك,أنا,صعب
+-
+sentence
+translate,How is Mohamed?,إزي محمد,إزي,محمد,ماري
+translate,How is Mary?,إزي ماري,إزي,محمد,ماري
+translate,Mohamed is really sad,محمد زعلان أوي,إزي,زعلان,محمد,ماري
+إزي ماري؟,كويسه,ماري,محمد,كويس,قطة,answer
+-
+end_2
+
+
+start_3
+multichoice_3
+How is,إزي,إزيَك,أنا,صعب
+Very,أوي,قطة,إزي,محمد
+I,أنا,صعب,محمد,قطة
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+-
+multichoice_img_3
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوط:happy_m
+تعبان:tired_m
+زعلان:sad_m
+تعبانة:tired_f
+زعلانة:sad_f
+-
+multichoice_img_3
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوطة:happy_f
+-
+sentence_3
+answer,إزي ماري؟,مبسوطة,مبسوطة,تعبان,مبسوط,زعلان
+-
+multichoice_img_3
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+زعلان:sad_m
+-
+sentence_3
+answer,إزي محمد؟,محمد زعلان,محمد زعلان,محمد مبسوطة,محمد تعبانة,محمد زعلانة
+إزي محمد؟,محمد كويس,محمد,كويس,كويسه,answer
+-
+multichoice_img_3
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+تعبانة:tired_f
+-
+sentence_3
+answer,إزي ماري؟,ماري تعبانة,ماري تعبانة,ماري زعلان,ماري تعبان,ماري مبسوط
+إزي ماري؟,ماري كويسه,ماري,كويسه,كويس,answer
+-
+end_3
+
+start_4
+multichoice
+How is,إزي,إزيَك,أنا,صعب
+Very,أوي,قطة,إزي,محمد
+I,أنا,صعب,محمد,قطة
+How are you (to a male),إزيَك,قطة,إزيِك,إزي
+How are you? (to female),إزيِك,أنا,إزي,إزيَك
+Well (plural),كويسين,كويس,كويسه,صعب
+-
+multichoice_img_4
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوط:happy_m
+تعبان:tired_m
+زعلان:sad_m
+تعبانة:tired_f
+زعلانة:sad_f
+-
+multichoice_img_4
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+مبسوط:happy_m
+-
+sentence_4
+answer,إزي محمد؟,مبسوط,مبسوط,تعبانة,مبسوطة,زعلانة
+-
+multichoice_img_4
+happy_m,happy_f,sad_m,sad_f,tired_m,tired_f
+زعلانة:sad_f
+تعبان:tired_m
+-
+sentence
+answer,إزي ماري؟,ماري زعلانة,ماري زعلانة,ماري زعلان,ماري تعبان,ماري مبسوط
+answer,إزي محمد؟,محمد تعبان,محمد تعبان,محمد مبسوطة,محمد تعبانة,محمد زعلانة
+-
+multichoice
+Well (plural),كويسين,كويس,كويسه,صعب
+-
+sentence
+answer,إزي محمد و ماري؟,محمد و ماري كويسين,محمد و ماري,محمد مبسوطة,محمد تعبانة,كويسين
+إزي محمد؟,محمد كويس,محمد,كويس,كويسه,answer
+answer,إزي ماري؟,ماري تعبانة,ماري تعبانة,ماري زعلان,ماري تعبان,ماري مبسوط
+إزي ماري؟,ماري كويسه,ماري,كويسه,كويس,answer
+-
+end_4
+
+
+Dictionary
+[عربي فصحة] جيد:كويس
+[عربي فصحة] جيدة :كويسه
+[عربي فصحة] قِطة:قطة
+[عربي فصحة] قِط:قط
+[عربي فصحة] من:مين
+[عربي فصحة] ماذا:ايه
+[عربي فصحة] كيف حالَك:إزيَك
+[عربي فصحة] كيف حالِك:إزيِك
+[عربي فصحة] مٌحمد:محمد
+[عربي فصحة] إسمي:إسمي
+[عربي فصحة] إسم:إسم
+[عربي فصحة] إسمَك:إسمَك
+[عربي فصحة] إسمِك:إسمِك
+[عربي فصحة] و:و
+[عربي فصحة] أبي:بابا
+[عربي فصحة] أب:أب
+[عربي فصحة] باب:باب
+[عربي فصحة] ماذا:ايه
+[عربي فصحة] هيَ :هيَ
+[عربي فصحة] يا :يا
+[عربي فصحة] هذا :ده
+[عربي فصحة] هذه :دي
+-

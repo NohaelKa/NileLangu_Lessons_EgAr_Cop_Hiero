@@ -1,0 +1,186 @@
+© NileLangu 2021
+Verb to go
+
+Full list of things to learn:
+,رايحين,رايحة,رايح,
+بروح,بنروح,بتروح,بيروحو,بيروح,بتروحي
+جعانة
+المدرسة
+عند
+
+start_0
+multichoice
+I'm going (m),رايح,فين,رايحة,معايا
+I'm going (f),رايحة,فين,رايح,معايا
+You're (m) going,رايح,لبن,رايحة,مي
+You're (f) going,رايحة,لبن,محمد,فين
+Where,فين,مي,رايحة,عامل
+-
+multichoice_img
+restaurant,coffee_shop,work,school,kahwa_shop,museum,home
+مطعم:restaurant
+كافيه:coffee_shop
+قهوة:kahwa_shop
+مدرسة:school
+البيت:home
+متحف:museum
+-
+multichoice
+The museum,المتحف,مدرسة,سوبر ماركت,قهوة
+A supermarket,سوبر ماركت,مدرسة,كافيه,المتحف
+A restaurant,مطعم,مدرسة,كافيه,قهوة
+A café,كافيه,قهوة,مطعم,مدرسة
+A traditional café,قهوة,لبن,مدرسة,كافيه
+A school,مدرسة,كافيه,مطعم,قهوة
+-
+sentence
+translate,I'm going (m) to the museum,أنا رايح المتحف,عندي,أنا رايح,مطعم,المتحف,عندكم,شاي,كافيه
+translate,I'm going (f) to a restaurant,أنا رايحة مطعم,عندي,أنا رايحة,مطعم,عربية,عندكم,شاي,مدرسة
+translate,You're (m) going to a café,إنتَ رايح كافيه,عندي,إنتَ رايح,مطعم,عربية,أنا رايح,كافيه,مدرسة,قهوة
+translate,You're (f) going to a traditional café,إنتِ رايحة قهوة,عندي,إنتِ رايحة,مطعم,أنا رايح,شاي,مدرسة,قهوة
+-
+multichoice
+I'm going (m),رايح,فين,رايحة,معايا
+I'm going (f),رايحة,فين,رايح,معايا
+You're (m) going,رايح,لبن,رايحة,مي
+You're (f) going,رايحة,لبن,محمد,فين
+Where,فين,مي,رايحة,عامل
+-
+sentence
+translate,رايح فين؟,Where are you(m) going,Where,are,you(m),going,he,when,you(f)
+translate,رايحة فين؟,Where are you(f) going,Where,are,you(f),going,he,when,you(m)
+translate,رايح البيت؟,Are you(m) going home,where,Are,you(m),going,he,home,you(f)
+-
+sentence
+translate,I'm going(m) home,أنا رايح البيت,عندي,أنا رايح,مطعم,البيت,بيت,مدرسة,قهوة
+translate,I'm going(f) to work,أنا رايحة الشغل,شغل,أنا رايحة,الشغل,البيت,شاي,مدرسة,قهوة
+translate,You're(m) going to school,إنتَ رايح المدرسة,مدرسة,إنتَ رايح,مطعم,عربية,أنا رايح,المدرسة,قهوة
+translate,You're(f) going to a museum,إنتِ رايحة متحف,عندي,إنتِ رايحة,مطعم,المدرسة,أنا رايح,شاي,متحف
+-
+end_0
+
+
+
+start_1
+multichoice
+He's going,رايح,فين,رايحة,رايحين
+She's going,رايحة,لبن,فين,رايحين
+We're going,رايحين,لبن,رايح,فين
+They're going,رايحين,رايحة,رايح,فين
+-
+multichoice_img
+restaurant,coffee_shop,work,school,kahwa_shop,museum,home
+مطعم:restaurant
+كافيه:coffee_shop
+قهوة:kahwa_shop
+مدرسة:school
+البيت:home
+متحف:museum
+-
+multichoice
+at,عند,فين,رايحة,رايحين
+Where,فين,مي,رايحة,عامل
+-
+sentence
+translate,He's going to Mohamed's (home),هوَ رايح عند محمد,عندي,أنا رايح,مطعم,عربية,عندكم,هوَ رايح,عند,محمد
+translate,She's going to Mina's (home),هيَ رايحة عند مينا,عندي,هيَ رايحة,مطعم,مينا,هوَ رايح,عند,محمد
+translate,We're going to a café,إحنا رايحين كافيه,إحنا رايحين,كافيه,مطعم,عربية,هما رايحين,شاي,مدرسة,قهوة
+translate,They're going to a restaurant,هما رايحين مطعم,هما رايحين,كافيه,مطعم,عربية,إحنا رايحين,شاي,مدرسة,قهوة
+-
+multichoice
+He's going,رايح,فين,رايحة,رايحين
+She's going,رايحة,لبن,رايح,رايحين
+We're going,رايحين,لبن,رايح,فين
+-
+translate,Where is he going?,هوَ رايح فين,فين,أنا رايح,مطعم,عربية,عندكم,هوَ رايح,عند,محمد
+translate,Where is she going?,هيَ رايحة فين,عندي,هيَ رايحة,مطعم,مينا,هوَ رايح,عند,فين
+translate,Where are we going?,إحنا رايحين فين,إحنا رايحين,كافيه,مطعم,فين,هما رايحين,شاي,مدرسة,قهوة
+translate,Where are they going?,هما رايحين فين,هما رايحين,كافيه,مطعم,فين,إحنا رايحين,شاي,مدرسة,قهوة
+-
+end_1
+
+
+
+start_2
+multichoice_img
+restaurant,coffee_shop,work,school,kahwa_shop,museum,home,work_m
+مطعم:restaurant
+كافيه:coffee_shop
+قهوة:kahwa_shop
+مدرسة:school
+البيت:home
+متحف:museum
+الشغل:work_m
+-
+multichoice
+The museum,المتحف,مدرسة,سوبر ماركت,قهوة
+A supermarket,سوبر ماركت,مدرسة,كافيه,المتحف
+A restaurant,مطعم,مدرسة,كافيه,قهوة
+A café,كافيه,قهوة,مطعم,مدرسة
+A traditional Café,قهوة,لبن,مدرسة,كافيه
+A school,مدرسة,كافيه,مطعم,قهوة
+The work,الشغل,كافيه,مطعم,قهوة
+-
+answer,رايح فين؟,أنا رايح البيت,عندي,أنا رايح,البيت,شاي,لأ
+answer,إنتَ رايح فين؟,أنا رايح المدرسة,عندي,أنا رايح,المدرسة,شاي,لأ
+answer,إنتِ رايحة فين؟,أنا رايحة القهوة,عندي,أنا رايح,القهوة,شاي,لأ
+answer,هوَ رايح فين؟,هوَ رايح عند محمد,أنا رايح,هوَ رايح,عند,فين,محمد
+answer,هيَ رايحة فين؟,هيَ رايحة السوبر ماركت,هيَ رايحة,فين,هوَ رايح,السوبر ماركت,أيوه
+answer,إحنا رايحين فين؟,إحنا رايحين المتحف,إحنا رايحين,المتحف,فين,هما رايحين,شاي
+answer,هما رايحين فين,هما رايحين كافيه,هما رايحين,كافيه,رايحة,فين,إحنا رايحين,شاي,أيوه
+-
+multichoice
+The museum,المتحف,مدرسة,سوبر ماركت,قهوة
+A supermarket,سوبر ماركت,مدرسة,كافيه,المتحف
+A restaurant,مطعم,مدرسة,كافيه,قهوة
+A café,كافيه,قهوة,مطعم,مدرسة
+A traditional café,قهوة,لبن,مدرسة,كافيه
+A school,مدرسة,كافيه,مطعم,قهوة
+-
+answer,رايح فين؟,أنا رايح الشغل,عندي,أنا رايح,البيت,الشغل,لأ
+answer,إنتَ رايح فين؟,أنا رايح المدرسة,عندي,أنا رايح,المدرسة,شاي,لأ
+answer,إنتِ رايحة فين؟,أنا رايحة القهوة,عندي,أنا رايح,القهوة,شاي,لأ
+answer,هوَ رايح فين؟,هوَ رايح عند محمد,أنا رايح,هوَ رايح,عند,فين,محمد
+answer,هيَ رايحة فين؟,هيَ رايحة السوبر ماركت,هيَ,رايحة,فين,هوَ رايح,السوبر ماركت,أيوه
+answer,إحنا رايحين فين؟,إحنا رايحين المتحف,إحنا رايحين,المتحف,فين,هما رايحين,شاي
+answer,هما رايحين فين,هما رايحين كافيه,هما رايحين,كافيه,رايحة,فين,إحنا رايحين,شاي,أيوه
+-
+end_2
+
+
+
+Dictionary
+[homa] They (are):هما
+[eHna] We (are):إحنا
+[elbeit] The home:البيت
+[elmatHaf] The museum:المتحف
+[matHaf] A museum:متحف
+[madrasa] School:مدرسة
+[cafeh] Coffee (French):كافيه
+[ahwa] Coffee:قهوة
+[rayH] I'm(m) going:رايح
+[rayH] He/You(m) is/are going:رايح
+[rayHa] She/You(f) is/are going:رايحة
+[rayHyyn] We're going:رايحين
+[brwH] I go:بروح
+[bnrwH] We go:بنروح
+[btrwH] You(m) go/ She(f) goes:بتروح
+[byrwH] He goes:بيروح
+[btrwHi] You(f) go:بتروحي
+[byrwHu] They go:بيروحو
+[elmadrasa] The school:المدرسة
+[mat-eam] Restaurant:مطعم
+I have with me:معايا
+[lbn] Milk:لبن
+[mHmd] A Name:محمد
+[aendi] I have:عندي
+You(pl) have / own:عندكم
+Tea:شاي
+a Car:عربية
+[beit] Home:بيت
+[(sh)(gh)l] Work:شغل
+[elshoghl] The work:الشغل
+[la] No:لأ
+[aywa] Yes:أيوه
+[heya] She (is):هيَ
+-

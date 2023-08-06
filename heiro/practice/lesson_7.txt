@@ -1,0 +1,217 @@
+Lesson 7
+Notes/**
+Pronouns 1, independant and suffix pronouns
+
+Previous:
+𓂋𓏺𓈖𓆎𓅓𓏏𓊖
+𓆑,𓅂,𓂝,𓇋,𓈖
+𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
+𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
+𓇋𓇋,𓅱,𓃭,𓍯,𓈎,𓏏,𓍿
+𓁹,𓉐,𓅮,𓅭,𓄣,𓌸
+𓇳,𓇯,𓂋𓂝𓇳,𓊪𓏏𓇯,𓅱𓃀𓈖𓇳,𓇋𓅱
+
+
+
+this lesson:
+
+𓀀: I /me /my, 𓎡: You / Your (m), 𓍿: You /Your (f),𓆑: He/Him,His, 𓋴: She/ Her/ hers, 𓈖𓏥: We, us, our, 𓍿𓈖𓏥: Your/ Your (pl), 
+
+𓋴𓈖𓏥: They/Them/their, 𓅱𓏥: They, Them, Their
+
+𓄔𓅓(sdjem: hear)
+𓆓𓂧(djd: say)
+
+𓏞,scribe equipment
+𓏞𓀀: scribe
+𓎟: nab , lord/ lady
+𓊪𓏏𓂋𓆴𓀁: ptr: What
+𓄤:nfr -> heart
+𓅐:Mt,Mwt
+𓊪𓏏𓂋𓆴𓀁𓂋𓈖𓎡 What is your name
+
+
+
+/////Independant pronouns (bib alex)
+**/ End of Notes
+
+start_0
+audiochoice
+𓎟,𓏞𓀀,𓉐𓏺
+𓉐𓏺,𓎟,𓏞𓀀
+𓄤,𓎟,𓉐𓏺
+𓅐𓏏,𓄤,𓎟
+-
+multichoice_img
+moon,sun,sun_god,sky,father,mother
+𓇋𓏏𓆑𓀀:father
+𓅐𓏏𓁐:mother
+-
+multichoice
+𓎟,Lord,Scribe,My Lord,Lady
+𓎟𓀀,My Lord,Scribe,Rise,Lord
+𓎟𓏏,Lady,Scribe,My Lord,Lord
+𓄤,Heart Symbol,Sun Symbol,Scribe Symbol,We
+𓄤,Good,Sun,Scribe,Mouth
+𓄤𓆑𓂋,Good,Sun,Happy,Mouth
+𓇋𓏏𓆑𓀀,Father,Sun,Happy,Mother
+𓅐𓏏𓁐,Mother,Father,Happy,Mouth
+-
+multichoice
+𓈖𓏏𓎡,You(m),You(f),I,We
+𓈖𓏏𓍿,You(f),You(m),I,We
+𓈖𓏏𓏏,You(f),You(m),I,We
+𓏌𓎡,I,You(m),They,We
+𓏌𓎡𓀀,I,You(f),They,We
+-
+sentence
+translate,𓈖𓏏𓎡 𓎟𓀀,You(m) are my lord,the,sun,rises,You(m),are,a,scribe,my,lord
+translate,𓏌𓎡𓀀 𓇋𓏏𓆑𓀀𓎡,I'm your father,I'm,your,father,the,sun,rises,you(m),are,a,scribe,my,lord
+translate,𓈖𓏏𓍿 𓄤𓆑𓂋,You(f) are good,You(f),are,good,the,sun,rises,are,a,scribe,my,lord
+translate,𓈖𓏏𓍿 𓅐𓏏𓀀,You(f) are my mother,the,sun,rises,You(f),are,a,scribe,my,lord,mother
+-
+multichoice
+𓈖𓏏𓎡,You(m),You(f),I,We
+𓈖𓏏𓍿,You(f),You(m),I,We
+𓈖𓏏𓏏,You(f),You(m),I,We
+𓏌𓎡,I,You(f),They,We
+𓏌𓎡𓀀,I,You(f),They,We
+-
+end_0
+
+
+///////Independant pronouns (bib alex)
+
+start_1
+audiochoice
+𓅭𓏺,𓏞𓀀,𓉐𓏺
+𓏌,𓏞𓀀,𓅭𓏺
+𓊃,𓏌,𓅭𓏺
+𓋴,𓉐𓏺,𓅭𓏺
+-
+multichoice
+𓏥,Plural,Sun,Masculine,God
+𓅭𓏺,Son,Sun,Younger son,God
+𓈙𓂋𓇋𓀔,Younger son,Sun,Masculine,Son
+-
+multichoice
+𓈖𓏏𓆑,He,You(f),She,We
+𓈖𓏏𓋴,She,He,I,We
+𓈖𓏏𓊃,She,You(f),I,We
+𓇋𓀀𓈖𓈖𓏥,We,You(m),I,They
+𓇋𓏌𓈖𓏥,We,You(m),I,They
+-
+sentence
+translate,𓈖𓏏𓎡 𓎟𓀀,You(m) are my lord,the,sun,rises,You,are,a,scribe,my,lord,son
+translate,𓈖𓏏𓆑 𓅭𓏺𓋴,He is her son,you,are,a,scribe,my,lord,He,is,her,son
+translate,𓈖𓏏𓋴 𓅐𓏏𓀀,She's my mother,the,sun,rises,you(f),are,a,scribe,my,lord,my,mother,She,is
+-
+multichoice
+𓈖𓏏𓍿𓈖𓏥,You(pl),You(f),She,We
+𓈖𓏏𓏏𓈖𓏥,You(pl),You(f),She,They
+𓈖𓏏𓋴𓈖𓏥,They,You(pl),She,We
+𓈖𓏏𓊃𓈖𓏥,They,You(pl),She,We
+-
+multichoice
+𓈖𓏏𓆑,He,You(f),She,We
+𓈖𓏏𓋴,She,He,I,We
+𓈖𓏏𓊃,She,You(f),I,We
+𓇋𓀀𓈖𓈖𓏥,We,You(m),I,They
+𓇋𓏌𓈖𓏥,We,You(m),I,They
+-
+end_1
+
+
+
+///////// Suffix Pronouns
+
+start_2
+audiochoice
+𓏞𓀀,𓃀,𓉐𓏺
+𓇋𓅱,𓏞𓀀,𓃀
+𓅓,𓇋𓅱,𓉐𓏺
+-
+multichoice
+𓏞𓀀,Scribe,In,Rise,Mouth
+𓉐𓏺,House,In,Rise,Mouth
+𓇋𓅱,is / am / are,I,You,We
+𓇋𓅱𓀀,I am,Rise,You(m) are,Mouth
+𓇋𓅱𓎡,You(m) are,You(f) are,Scribe,Sun
+𓇋𓅱𓍿,You(f) are,We're,I am,Sun
+𓇋𓅱𓈖𓏥,We're,You(f) are,Scribe,They're
+𓇋𓅱𓅱𓏥,They're,You(f) are,We're,I am
+𓇋𓅱𓋴,She's,They're,You(f) are,We're
+𓇋𓅱𓆑,He's,She's,They're,You(f) are
+𓅓,as a/ at,You(f) are,We're,They're
+-
+sentence
+translate,𓇋𓅱𓎡 𓅓 𓏞𓀀,You(m) are as a scribe,the,sun,rises,You(m),are,as a,scribe
+translate,You(m) are as a scribe,𓇋𓅱𓎡 𓅓 𓏞𓀀,𓇋𓅱𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓎡
+translate,𓇋𓅱𓍿 𓅓 𓏞𓀀,You(f) are as a scribe,the,sun,rises,You(f),are,a,scribe
+translate,You(f) are as a scribe,𓇋𓅱𓍿 𓅓 𓏞𓀀,𓇋𓅱𓍿,𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓍿
+translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I'm as a scribe,the,sun,rises,You,are,as a,scribe,I am
+translate,I'm a scribe,𓇋𓅱𓀀 𓅓 𓏞𓀀,𓇋𓅱𓀀,𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓉐𓏺,𓂋𓂝𓇳,𓏌𓎡𓀀
+translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I am as a scribe,the,sun,rises,You,are,as a,scribe,I am
+-
+sentence
+translate,𓇋𓅱𓀀 𓅓 𓉐𓏺,I'm home,the,sun,rises,you,are,a,scribe,I am,home
+translate,𓇋𓅱𓈖𓏥 𓅓 𓉐𓏺𓀀,We're in my house,the,sun,rose,the,sky,your,in,my,house
+translate,𓇋𓅱𓆑 𓅓 𓉐𓏺𓍿,He's in your(f) house,rose,the,sky,your(f),We're,are,in,my,house
+translate,𓇋𓅱𓅱𓏥 𓅓 𓉐𓏺𓈖𓏥,They're in our house,He's,the,our,your(f),we,in,my,house
+translate,𓇋𓅱𓋴 𓅓 𓉐𓏺𓍿𓈖𓏥,She's in your(pl) house,They're,our,your(f),we,are,in,my,house
+translate,𓇋𓅱𓎡 𓅓 𓉐𓏺𓋴𓈖𓏥,You're(m) in their house,the,her,rose,the,sky,in,my,house
+-
+end_2
+
+
+
+Dictionary
+[pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[iw.i] I'm:𓇋𓅱𓀀
+[iw.k] You(m) are:𓇋𓅱𓎡
+[iw.th] You(f) are:𓇋𓅱𓍿
+[iw.n] We're:𓇋𓅱𓈖𓏥
+[iw.w] They're:𓇋𓅱𓅱𓏥
+[iw.s] She's:𓇋𓅱𓋴
+[iw.f] He is:𓇋𓅱𓆑
+[nt.th.n][`ⲛⲑⲱⲧⲉⲛ] You(pl) are:𓈖𓏏𓍿𓈖𓏥
+[n.tt.n][`ⲛⲑⲱⲧⲉⲛ] You(pl) are:𓈖𓏏𓏏𓈖𓏥
+[nt.s.n][`ⲛⲑⲱⲟⲩ] They:𓈖𓏏𓋴𓈖𓏥
+[nt.s.n][`ⲛⲑⲱⲟⲩ] They:𓈖𓏏𓊃𓈖𓏥
+[Ideogram] Plural:𓏥
+[nt.th][`ⲛⲑⲟ] You(f) are:𓈖𓏏𓍿
+[ntt][`ⲛⲑⲟ] You(f) are:𓈖𓏏𓏏
+[sri][ϣⲏⲣⲓ] Younger son:𓈙𓂋𓇋𓀔
+[nbt][ⲛⲏⲃ] Lady:𓎟𓏏
+[nb][ⲛⲏⲃ] Lord:𓎟
+[nb.i][ⲡⲁⲛⲏⲃ] My lord:𓎟𓀀
+[nfr][ⲛⲟϥⲉⲣ] Good:𓄤𓆑𓂋
+[nfr][ⲛⲟϥⲉⲣ] Good:𓄤
+[it.k][ⲡⲉⲕⲓⲱⲧ] Your father:𓇋𓏏𓆑𓀀𓎡
+[it][ⲓⲱⲧ] Father:𓇋𓏏𓆑𓀀
+[mwt][ⲙⲁⲩ] Mother:𓅐𓏏𓁐
+[mwti][ⲧⲉⲙⲁⲩ] My mother:𓅐𓏏𓀀
+[ntk][`ⲛⲑⲟⲕ] You(m) are:𓈖𓏏𓎡
+[ntf][`ⲛⲑⲟϥ] He is:𓈖𓏏𓆑
+[nts][`ⲛⲑⲟⲥ] She's:𓈖𓏏𓋴
+[nts][`ⲛⲑⲟⲥ] She's:𓈖𓏏𓊃
+[ink][ⲁⲛⲟⲕ] I am:𓏌𓎡𓀀
+[ink][ⲁⲛⲟⲕ] I am:𓏌𓎡
+[iw.i] I'm:𓇋𓅱𓀀
+[iw.k] You(m) are:𓇋𓅱𓎡
+[iw.k] You(f) are:𓇋𓅱𓍿
+[sash][ⲥⲁϧ] scribe:𓏞𓀀
+[iw] is / was:𓇋𓅱
+[en][ⲛ] of / to / for:𓈖
+[ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
+[re´][ⲣⲏ] Sun:𓂋𓂝𓇳
+[kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
+[wbn][ⲟⲩⲱⲓⲛⲓ] Rise /Shine:𓅱𓃀𓈖𓇳
+[pt][ⲫⲉ] Sky:𓊪𓏏𓇯
+[em][`ⲛ] as a / in:𓅓
+[ideogram] Country/Land/Village/Egypt:𓊖
+[ideogram] Sun:𓇳
+[ideogram] Sky:𓇯
+[ideogram] Confirms the object depicted:𓏺
+-

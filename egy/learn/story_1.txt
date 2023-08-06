@@ -1,0 +1,85 @@
+Greetings 1
+
+Title
+Listen to the dialog between Mary and Ahmed
+
+Dialog
+إزيَك يا محمد؟
+أنا كويس
+-
+و إنتِ إزيِك يا ماري؟
+أنا كويسه، كله تمام
+-
+إزي والدتَك و والدَك؟
+ماما و بابا كويسين
+-
+و إزي أختِك و أخوكي؟
+أختي كويسة و أخويا كويس
+-
+إزي أختَك و أخوك؟
+أختي و أخويا كويسين
+-
+و إزي شغلِك؟
+شغلي صعب أوي
+-
+إتفضل جوا
+شكراً
+-
+end
+
+Slideshow
+1_1,1_2,1_3,1_4,1_5,1_6,1_7
+-
+AudioSequence
+1_1,1_2,1_3,1_4,1_5,1_6,1_7
+-
+audioTrack
+yes
+-
+Todo rerecord kolo and tamam
+
+Dictionary
+[etfadal] Go ahead (to m):إتفضل
+[gowa] Inside:جوا
+[shokran] Thank you:شكراً
+[kweyeseen] Well (pl):كويسين
+[baba] Dad:بابا
+[mama] Mom:ماما
+[waldak] Your (m) father:والدَك
+[waldetak] Your (m) mother:والدتَك
+[okhtek] Your (f) sister:أختِك
+[akhoki] Your (f) brother:أخوكي
+[okhtak] Your (m) sister:أختَك
+[akhok] Your (m) brother:أخوك
+[okhty] My sister:أختي
+[akhoya] My Brother:أخويا
+[kolo] Everything:كله
+[tamam] Affirmative (Is well):تمام
+[eh] What:ايه
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[mHmd] A name:محمد
+[enti] You (f):إنتِ
+[ezy] How is:إزي
+[oTtk] Your cat (to a male):قطتَك
+[oTty] My cat:قطتي
+[shoghlek] Your (f) work:شغلِك
+[(sh)o(gh)ly] My work:شغلي
+[w] And:و
+[saeb] difficult:صعب
+[awy] Very:أوي
+[can] Was:كان
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[Hlw] Nice | Sweet :حلو
+[k(ae)dt] I sat:قعدت
+[elbeit] The home:البيت
+[dw(sh)a] noise:دوشه
+[ana] I | Me:أنا
+-
+
+

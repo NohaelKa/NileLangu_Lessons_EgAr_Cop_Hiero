@@ -1,0 +1,1433 @@
+{
+    "lessonID": 1,
+    "lesson": [
+        {
+            "levelID": 0,
+            "exerciceID": 1,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637",
+                "answer": "cat_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "car",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 2,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u064e\u0643",
+                "answer": "boy_cat_m",
+                "listofchoices": [
+                    "work_m",
+                    "mobile",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your cat (masc. cat - addressing a male)",
+                "answer": "\u0642\u0637\u064e\u0643",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "A cat (male)",
+                "answer": "\u0642\u0637",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 5,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637",
+                "answer": "cat_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 6,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u064e\u0643",
+                "answer": "boy_cat_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 7,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "This is your cat",
+                "answer": "\u062f\u0647 \u0642\u0637\u064e\u0643",
+                "listofvalues": [
+                    "\u062f\u0647",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629",
+                    "\u062f\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 0,
+            "exerciceID": 8,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "Is this your cat?",
+                "answer": "\u062f\u0647 \u0642\u0637\u064e\u0643",
+                "listofvalues": [
+                    "\u062f\u0647",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629",
+                    "\u062f\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 1,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0634\u063a\u0644\u064e\u0643",
+                "answer": "work_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Work (masc.)",
+                "answer": "\u0634\u063a\u0644",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your work (masc. noun - addressing a male)",
+                "answer": "\u0634\u063a\u0644\u064e\u0643",
+                "listofvalues": [
+                    "\u0645\u064a",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 4,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your cat (masc. cat - addressing a male)",
+                "answer": "\u0642\u0637\u064e\u0643",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 5,
+            "type": "write_it",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "\u0634\u063a\u0644\u0643",
+                "listofvalues": [
+                    "\u0634",
+                    "\u063a",
+                    "\u0644",
+                    "\u0643",
+                    "\u062f",
+                    "\u0641",
+                    "\u0639",
+                    "\u0633",
+                    "\u0627"
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 6,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0634\u063a\u0644\u064e\u0643",
+                "answer": "work_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 1,
+            "exerciceID": 7,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "How is your work?",
+                "answer": "\u0625\u0632\u064a \u0634\u063a\u0644\u064e\u0643",
+                "listofvalues": [
+                    "\u0625\u0632\u064a",
+                    "\u0634\u063a\u0644\u064e\u0643",
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0634\u063a\u0644"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 1,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "cat_f",
+                "answer": "\u0642\u0637\u0629",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 2,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "A cat (female)",
+                "answer": "\u0642\u0637\u0629",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 3,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your cat (fem. cat - addressing a male)",
+                "answer": "\u0642\u0637\u062a\u064e\u0643",
+                "listofvalues": [
+                    "\u0645\u064a",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 4,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u062a\u064e\u0643",
+                "answer": "boy_cat_f",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 5,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u0629",
+                "answer": "cat_f",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_f",
+                    "cat_m",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 6,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "How is your cat?",
+                "answer": "\u0625\u0632\u064a \u0642\u0637\u062a\u064e\u0643",
+                "listofvalues": [
+                    "\u0625\u0632\u064a",
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0642\u0637\u0629",
+                    "\u0642\u0637"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 2,
+            "exerciceID": 7,
+            "type": "sentence",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "translate",
+                "question": "Is this your cat?",
+                "answer": "\u062f\u064a \u0642\u0637\u062a\u064e\u0643",
+                "listofvalues": [
+                    "\u062f\u0647",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0642\u0637\u0629",
+                    "\u062f\u064a"
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 1,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u062a\u064e\u0643",
+                "answer": "boy_cat_f",
+                "listofchoices": [
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 2,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u064e\u0643",
+                "answer": "boy_cat_m",
+                "listofchoices": [
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 3,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0634\u063a\u0644\u064e\u0643",
+                "answer": "work_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_m",
+                    "cat_f",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 4,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637\u0629",
+                "answer": "cat_f",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_m",
+                    "cat_f",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 5,
+            "type": "multichoice_img",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "\u0642\u0637",
+                "answer": "cat_m",
+                "listofchoices": [
+                    "work_m",
+                    "work_f",
+                    "cat_m",
+                    "cat_f",
+                    "noise",
+                    "drums",
+                    "weekend",
+                    "home",
+                    "girl_cat_f",
+                    "girl_cat_m",
+                    "boy_cat_f",
+                    "boy_cat_m"
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 6,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your cat (fem. cat - addressing a male)",
+                "answer": "\u0642\u0637\u062a\u064e\u0643",
+                "listofvalues": [
+                    "\u0645\u064a",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 7,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your cat (masc. cat - addressing a male)",
+                "answer": "\u0642\u0637\u064e\u0643",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 8,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Work (masc.)",
+                "answer": "\u0634\u063a\u0644",
+                "listofvalues": [
+                    "\u0642\u0637\u062a\u064e\u0643",
+                    "\u0645\u062d\u0645\u062f",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 9,
+            "type": "multichoice",
+            "dataMultichoice": {
+                "question": "Your work (masc. noun - addressing a male)",
+                "answer": "\u0634\u063a\u0644\u064e\u0643",
+                "listofvalues": [
+                    "\u0645\u064a",
+                    "\u0642\u0637\u064e\u0643",
+                    "\u0642\u0637\u0629"
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        },
+        {
+            "levelID": 3,
+            "exerciceID": 10,
+            "type": "write_it",
+            "dataMultichoice": {
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataAudiochoice": {
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataWriteIt": {
+                "question": "\u0642\u0637\u062a\u0643",
+                "listofvalues": [
+                    "\u0642",
+                    "\u0637",
+                    "\u0644",
+                    "\u0643",
+                    "\u062a",
+                    "\u0641",
+                    "\u0639",
+                    "\u0633",
+                    "\u0627"
+                ]
+            },
+            "dataSentence": {
+                "sentencetype": "",
+                "question": "",
+                "answer": "",
+                "listofvalues": [
+                    ""
+                ]
+            },
+            "dataImagechoice": {
+                "question": "",
+                "answer": "",
+                "listofchoices": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

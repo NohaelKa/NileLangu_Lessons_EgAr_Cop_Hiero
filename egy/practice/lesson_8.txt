@@ -1,0 +1,231 @@
+© NileLangu 2021
+
+Pronouns
+
+Full list of things to learn:
+ إنتو,أنا,إنتَ,إنتِ,هيَ,هوَ,إحنا,هما,حضرتَك,حضرتِك,أستاذ,أستاذة
+ولد,بنت,راجل,ست
+
+
+start_0
+multichoice
+I (am),أنا,إنتَ,لبن,إنتِ
+You (m),إنتَ,لبن,أنا,إنتِ
+You (f),إنتِ,ممكن,إنتَ,ايه
+-
+sentence
+translate,I'm Ludovic,أنا لودوفيك,أنا,لودوفيك,محمد,إنتِ,مينا
+translate,I'm Mai,أنا مي,أنا,لودوفيك,محمد,إنتِ,مي,مينا
+translate,Are you Mary?,إنتِ ماري,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+translate,You are Mina,إنتَ مينا,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+-
+write_it
+هو,غ,س,ي,م,ا,ل,ع
+-
+multichoice
+He,هوَ,ممكن,إنتَ,ايه
+She,هيَ,ممكن,إنتَ,ايه
+-
+sentence
+translate,He's Mohamed,هوَ محمد,أنا,لودوفيك,إنتَ,محمد,هوَ,إنتِ,مينا
+translate,She's Nofret,هيَ نوفرت,نوفرت,أنا,ماري,هيَ,إنتَ,محمد,إنتِ,مينا
+-
+multichoice
+You (pl),إنتو,ممكن,إنتَ,ايه
+Friends,أصحاب,ممكن,إنتَ,ايه
+-
+sentence
+translate,You(pl) are friends,إنتو أصحاب,هما,أصحاب,إنتو,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+-
+write_it
+إنتو أصحاب,إ,ن,ت,و, ,أ,ص,ح,ا,ب
+-
+multichoice
+Man,راجل,هيَ,إنتَ,ست
+Woman,ست,هيَ,إنتَ,راجل
+-
+sentence
+translate,He's a man,هوَ راجل,أنا,راجل,إنتَ,محمد,هوَ,إنتِ,مينا
+translate,She's a woman,هيَ ست,أنا,ماري,إنتَ,محمد,هيَ,إنتِ,ست
+translate,You're a woman,إنتِ ست,نوفرت,أنا,ماري,إنتَ,ست,إنتِ,مينا
+translate,You're a man,إنتَ راجل,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,راجل
+-
+write_it
+إنت ست,إ,ن, ,س,ت
+-
+multichoice
+I (am),أنا,جبنة,إنتَ,ايه
+You (m) (are),إنتَ,إنتِ,أنا,مي
+You (f) (are),إنتِ,ممكن,محمد,إنتَ
+He,هوَ,أنا,هيَ,ايه
+She,هيَ,ممكن,إنتَ,هوَ
+-
+end_0
+
+
+
+start_1
+multichoice
+You (pl),إنتو,ممكن,إنتَ,ايه
+We,إحنا,ممكن,إنتَ,ايه
+They,هما,ممكن,إنتَ,ايه
+Friends,أصحاب,ممكن,إنتَ,ايه
+Man,راجل,هيَ,إنتَ,ست
+Woman,ست,هيَ,إنتَ,راجل
+Boy,ولد,راجل,إنتَ,ست
+Girl,بنت,هيَ,ست,راجل
+-
+write_it
+أصحاب,أ,ص,ح,ا,ب
+إحنا,إ,ح,ن,ا
+-
+sentence
+translate,He is a boy,هوَ ولد,راجل,هوَ,ولد,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+translate,He is a man,هوَ راجل,لودوفيك,هوَ,راجل,أنا,ولد,إنتَ,محمد,إنتِ,مينا
+translate,She is a girl,هيَ بنت,لودوفيك,هوَ,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,She is a woman,هيَ ست,لودوفيك,هوَ,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,They are friends,هما أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,We are friends,إحنا أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,You(pl) are friends,إنتو أصحاب,هما,أصحاب,إنتو,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+-
+multichoice
+They (are),هما,ممكن,إنتَ,ايه
+You (pl),إنتو,ممكن,إنتَ,ايه
+We,إحنا,ممكن,إنتَ,ايه
+Friends,أصحاب,ممكن,إنتَ,ايه
+Man,راجل,هيَ,إنتَ,ست
+Woman,ست,هيَ,إنتَ,راجل
+Boy,ولد,راجل,إنتَ,ست
+Girl,بنت,هيَ,ست,راجل
+-
+sentence
+translate,They are friends,هما أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,We are friends,إحنا أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,You(pl) are friends,إنتو أصحاب,هما,أصحاب,إنتو,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,Are you(pl) are friends?,إنتو أصحاب,هما,أصحاب,إنتو,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,Are they friends?,هما أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+-
+end_1
+
+
+
+start_2
+audiochoice
+ض,ص,م
+-
+multichoice
+You (m) (Polite),حضرتَك,ممكن,محمد,إنتِ
+You (f) (Polite),حضرتِك,ممكن,إنتَ,ايه
+Mr,أستاذ,ممكن,إنتَ,ايه
+Ms,أستاذة,ممكن,إنتَ,ايه
+Relatives,قرايب,محمد,أنا,أحمد
+-
+sentence
+translate,You are Mr Ludovic,حضرتَك أستاذ لودوفيك,لودوفيك,هوَ,حضرتَك,أنا,أستاذ,محمد,إنتِ,مينا
+translate,You are Mary,حضرتِك ماري,لودوفيك,هوَ,حضرتِك,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+translate,Are you Ms Nofret?,حضرتِك أستاذة نوفرت,لودوفيك,حضرتِك,نوفرت,أنا,إنتَ,أستاذة,مينا
+translate,We are friends,إحنا أصحاب,لودوفيك,هوَ,نوفرت,أنا,ماري,إنتَ,إحنا,أصحاب,مينا
+translate,We are relatives,إحنا قرايب,لودوفيك,هوَ,نوفرت,إحنا,ماري,إنتَ,قرايب,إنتِ,مينا
+-
+multichoice
+We are,إحنا,ماري,لبن,محمد
+You (m) (Polite),حضرتَك,ممكن,محمد,إنتِ
+You (f) (Polite),حضرتِك,ممكن,إنتَ,ايه
+Mr,أستاذ,ممكن,إنتَ,ايه
+Mrs,أستاذة,ممكن,إنتَ,ايه
+Relatives,قرايب,محمد,أنا,أحمد
+-
+write_it
+حضرتك,ح,ض,ر,ت,ك
+قرايب,ق,ر,ا,ي,ب
+أستاذ,أ,س,ت,ا,ذ
+-
+sentence
+translate,You are Mr Ludovic,حضرتَك أستاذ لودوفيك,لودوفيك,هوَ,حضرتَك,أنا,أستاذ,محمد,إنتِ,مينا
+translate,You are Mary,حضرتِك ماري,لودوفيك,هوَ,حضرتِك,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+translate,Are you Ms Nofret?,حضرتِك أستاذة نوفرت,لودوفيك,حضرتِك,نوفرت,أنا,إنتَ,أستاذة,مينا
+translate,We are friends,إحنا أصحاب,لودوفيك,هوَ,نوفرت,أنا,ماري,إنتَ,إحنا,أصحاب,مينا
+translate,We are relatives,إحنا قرايب,لودوفيك,هوَ,نوفرت,إحنا,ماري,إنتَ,قرايب,إنتِ,مينا
+translate,You(pl) relatives,إنتو قرايب,لودوفيك,هوَ,إنتو,إحنا,ماري,إنتَ,قرايب,إنتِ,مينا
+translate,They are relatives,هما قرايب,هما,أصحاب,قرايب,أنا,ماري,محمد,إنتِ,هيَ
+-
+end_2
+
+
+start_3
+multichoice
+I (am),أنا,إنتَ,لبن,إنتِ
+You (m),إنتَ,لبن,أنا,إنتِ
+You (f),إنتِ,ممكن,إنتَ,ايه
+You (pl),إنتو,ممكن,إنتَ,ايه
+He,هوَ,ممكن,إنتَ,ايه
+She,هيَ,ممكن,إنتَ,ايه
+We,إحنا,ممكن,إنتَ,ايه
+They,هما,ممكن,إنتَ,ايه
+-
+multichoice
+You (m) (Polite),حضرتَك,ممكن,محمد,إنتِ
+You (f) (Polite),حضرتِك,ممكن,إنتَ,ايه
+Mr,أستاذ,ممكن,إنتَ,ايه
+Mrs,أستاذة,ممكن,إنتَ,ايه
+Relatives,قرايب,محمد,أنا,أحمد
+Friends,أصحاب,ممكن,إنتَ,ايه
+-
+multichoice
+Man,راجل,هيَ,إنتَ,ست
+Woman,ست,هيَ,إنتَ,راجل
+Boy,ولد,راجل,إنتَ,ست
+Girl,بنت,هيَ,ست,راجل
+-
+sentence
+translate,I am Ludovic,أنا لودوفيك,أنا,لودوفيك,محمد,إنتِ,مينا
+translate,He is Mohamed,هوَ محمد,أنا,لودوفيك,إنتَ,محمد,هوَ,إنتِ,مينا
+translate,You are Mary,إنتِ ماري,أنا,ماري,إنتَ,محمد,إنتِ,مينا
+translate,She is Nofret,هيَ نوفرت,نوفرت,أنا,ماري,هيَ,إنتَ,محمد,إنتِ,مينا
+-
+sentence
+translate,They are friends,هما أصحاب,هما,أصحاب,نوفرت,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+translate,We are relatives,إحنا قرايب,لودوفيك,هوَ,نوفرت,إحنا,ماري,إنتَ,قرايب,إنتِ,مينا
+translate,You(pl) are friends,إنتو أصحاب,هما,أصحاب,إنتو,أنا,ماري,إنتَ,محمد,إنتِ,هيَ
+-
+sentence
+translate,Are you Ms Nofret?,حضرتِك أستاذة نوفرت,لودوفيك,حضرتِك,نوفرت,أنا,إنتَ,أستاذة,مينا
+translate,Are are Mr Ludovic?,حضرتَك أستاذ لودوفيك,لودوفيك,هوَ,حضرتَك,أنا,أستاذ,محمد,إنتِ,مينا
+translate,Mr Ludovic,أستاذ لودوفيك,لودوفيك,هوَ,حضرتَك,أنا,أستاذ,محمد,إنتِ,مينا
+translate,Ms Nofret,أستاذة نوفرت,لودوفيك,نوفرت,حضرتَك,أنا,أستاذ,محمد,إنتِ,أستاذة
+-
+end_3
+
+
+Dictionary
+[ana] I am | Me:أنا
+[enta] You (m):إنتَ
+[enti] You (are) (to a female):إنتِ
+[entu] You (pl) :إنتو
+[heya] She (is):هيَ
+[eHna] We (are) :إحنا
+[homa] They (are) (plural):هما
+[Hadretak] You (m) (polite):حضرتَك
+[Hadretek] You (f) (are) (polite):حضرتِك
+[ostaz] Professor/ Mr :أستاذ
+[ostaza] Professor/ Ms :أستاذة
+[walad] Boy :ولد
+[bent] Girl :بنت
+[ragel] Man :راجل
+[sit] Woman :ست
+[lbn] Milk:لبن
+[momken] Possible:ممكن
+[eh] What:ايه
+[mHmd] A Name:محمد
+[mary] A Name:ماري
+[gebna] Cheese:جبنة
+[aHmd] A name:أحمد
+[howa] He:هوَ
+Ludovic (french name):لودوفيك
+Mina (Egyptian name):مينا
+Mai (Egyptian name):مي
+Nofret (Egyptian name):نوفرت
+[asHab] Friends:أصحاب
+[arayeb] Relatives:قرايب
+-
+

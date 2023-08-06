@@ -1,0 +1,176 @@
+© NileLangu 2021
+
+Please and Thank you
+من فضلَك,شكراً,من فضلِك,أجازة
+على المساعدة
+عفواً
+ساندوتش
+
+
+
+start_0
+audiochoice
+اً,أ,ا
+-
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice,meat,mobile,car,soap
+شنطة:bag
+صابون:soap
+لحمة:meat
+-
+audiochoice
+اً,أ,ا
+-
+multichoice
+If,لو,بُكرا,دلوقتي,شكراً
+If you please (to m),لو سمحت,بُكرا,دلوقتي,شكراً
+Please (to m),من فضلَك,بُكرا,دلوقتي,شكراً
+Thank you,شكراً,من فضلَك,إمبارح,النهرده
+-
+sentence
+translate,I (m) want soap please(to m),عايز صابون من فضلَك,بلحة,عايز,من,فضلَك,تفاحة,جعان
+translate,I (m) want meat please(to m),عايز لحمة لو سمحت,بلحة,عايز,لو سمحت,لحمة,تفاحة,جعان
+translate,I (m) don't want thanks,مش عايز شكراً,بلحة,مش,عايز,من,فضلَك,النهرده,تفاحة,شكراً
+translate,I (m) want one sandwich please(to m),عايز واحد ساندوتش من فضلَك,عايز,واحد,ساندوتش,من,فضلَك,تفاحة,شكراً
+-
+multichoice
+Please (to m),من فضلَك,بُكرا,دلوقتي,شكراً
+Thank you,شكراً,من فضلَك,إمبارح,النهرده
+-
+multichoice
+The help,المساعدة,من فضلَك,إمبارح,النهرده
+-
+multichoice
+For the help,على المساعدة,من فضلَك,إمبارح,النهرده
+-
+sentence
+translate,I (f) want a bag please(to m),عايزه شنطة من فضلَك,بلحة,عايزه,من,فضلَك,النهرده,شنطة,تفاحة
+translate,I (f) want a taxi please(to m),عايزه تاكسي من فضلَك,بلحة,عايزه,من,فضلَك,النهرده,شنطة,تفاحة
+translate,Thank you,شكراً,بلحة,أنا عايز,شكراً,شغلي,جعان,دلوقتي
+translate,Thank you for the help,شكراً على المساعدة,على,المساعدة,شكراً,شغلي,جعان,دلوقتي
+translate,I (f) want one coffee please(to m),عايزه واحد قهوة لو سمحت,بلحة,مش,عايز,لو سمحت,النهرده,تفاحة,شكراً
+-
+end_0
+
+
+
+start_1
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice,meat,mobile,car
+موبيل:mobile
+عربية:car
+-
+multichoice
+Vacation,أجازة,من فضلَك,دلوقتي,شكراً
+Your welcome,عفواً,من فضلَك,إمبارح,شكراً
+Please (to a f),من فضلِك,من فضلَك,دلوقتي,شكراً
+If you please (to a f),لو سمحتي,بُكرا,دلوقتي,شكراً
+No thank you,لأ شكراً,من فضلَك,من فضلِك,النهرده
+-
+sentence
+translate,I (f) want a vacation,عايزة أجازة,بلحة,عايز,بُكرا,من فضلِك,شغلي,جعان
+translate,I (m) want a taxi please(to f),عايز تاكسي من فضلِك,بلحة,عايز,بُكرا,من فضلِك,شغلي,جعان
+translate,I (m) want a car please(to f),أنا عايز عربية لو سمحتي,بلحة,أنا عايز,بُكرا,لو سمحتي,عربية,جعان
+-
+multichoice
+So much,أوي,من فضلَك,إمبارح,النهرده
+So much,جداً,من فضلَك,إمبارح,النهرده
+It's nice(m),حلو,من فضلَك,حلوة,النهرده
+It's nice(f),حلوة,من فضلَك,إمبارح,حلو
+-
+sentence
+translate,It's (m) so nice,حلو أوي,حلوة,بُكرا,لو سمحتي,عربية,جعان
+translate,Great,حلو,حلوة,بُكرا,لو سمحتي,عربية,جعان
+translate,It's (f) so nice,حلوة أوي,بُكرا,حلو,عربية,جعان
+translate,It's (f) so nice,حلوة جداً,حلوة,بُكرا,لو سمحتي,عربية,جعان
+-
+multichoice
+Please (to f),من فضلِك,من فضلَك,دلوقتي,شكراً
+No thank you,لأ شكراً,من فضلَك,من فضلِك,النهرده
+If you please (to f),لو سمحتي,بُكرا,دلوقتي,شكراً
+-
+sentence
+translate,I don't want(f) thanks,مش عايزه شكراً,بلحة,مش,عايزه,من,فضلَك,النهرده,تفاحة,شكراً
+translate,I (f) want a car please(to f),أنا عايزه عربية لو سمحتي,بلحة,أنا عايزه,بُكرا,لو سمحتي,عربية,جعان
+translate,I (f) want a cell phone please(to f),أنا عايزه موبيل من فضلِك,بلحة,أنا عايزه,بُكرا,من فضلِك,شغلي,موبيل
+translate,Thanks a lot,شكراً جداً,شكراً,جداً,بُكرا,لو سمحتي,عربية,جعان
+translate,It's so nice,حلو جداً,حلو,جداً,بُكرا,لو سمحتي,عربية,جعان
+translate,Great thanks a lot,حلو جداً شكراً,حلو,جداً,شكراً,لو سمحتي,عربية,جعان
+-
+end_1
+
+
+start_2
+multichoice
+No thank you,لأ شكراً,من فضلَك,من فضلِك,النهرده
+Yes thank you,أيوه شكراً,من فضلَك,من فضلِك,لأ شكرا
+So much,أوي,من فضلَك,إمبارح,النهرده
+So much,جداً,من فضلَك,إمبارح,النهرده
+It's nice(m),حلو,من فضلَك,حلوة,النهرده
+It's nice(f),حلوة,من فضلَك,إمبارح,حلو
+Your welcome,عفواً,من فضلَك,إمبارح,شكراً
+-
+sentence
+translate,Thank you for the help,شكراً على المساعدة,على,المساعدة,شكراً,شغلي,جعان,دلوقتي
+translate,Thanks a lot,شكراً جداً,شكراً,جداً,بُكرا,لو سمحتي,عربية,جعان
+translate,It's so nice,حلو جداً,حلو,جداً,بُكرا,لو سمحتي,عربية,جعان
+translate,I want(f) one coffee please(to m),عايزه واحد قهوة لو سمحت,بلحة,مش,عايز,لو سمحت,النهرده,تفاحة,شكراً
+translate,I want(m) one sandwich please(to m),عايز واحد ساندوتش من فضلَك,عايز,واحد,ساندوتش,من,فضلَك,تفاحة,شكراً
+translate,I don't want(m) thanks,مش عايز شكراً,بلحة,مش,عايز,من,فضلَك,النهرده,تفاحة,شكراً
+translate,I don't want(f) thanks,مش عايزه شكراً,بلحة,مش,عايزه,من,فضلَك,النهرده,تفاحة,شكراً
+-
+sentence
+translate,The sandwich is great,السندوتش حلو,بُكرا,لو سمحتي,عربية,جعان
+translate,The coffee is great,القهوة حلوة,حلو,بُكرا,لو سمحتي,عربية
+translate,The meat is not nice,اللحمة مش حلوة,حلو,بُكرا,لو سمحتي,عربية
+-
+multichoice
+No thank you,لأ شكراً,من فضلَك,من فضلِك,النهرده
+Yes please,أيوه شكراً,من فضلَك,من فضلِك,لأ شكرا
+So much,أوي,من فضلَك,إمبارح,النهرده
+So much,جداً,من فضلَك,إمبارح,النهرده
+It's nice(m),حلو,من فضلَك,حلوة,النهرده
+It's nice(f),حلوة,من فضلَك,إمبارح,حلو
+Your welcome,عفواً,من فضلَك,إمبارح,شكراً
+-
+end_2
+
+
+
+Dictionary
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[(ae)ayz] (I) want (female speaker):عايز
+[(ae)yza] I (f) want:عايزه
+[eh] What:ايه
+[ana] I | Me:أنا
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (to a female):أنتِ
+[blHa] A date (fruit):بلحة
+[tfaHa] An apple:تفاحة
+[oTy] A bag:شنطة
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[w] And:و
+[gdn] Very:جداً
+[can] Was:كان
+[taksi] Taxi:تاكسي
+باكل:I'm eating
+[bokra] Tomorrow:بُكرا
+[dlwa'ti] Now:دلوقتي
+Today:النهرده
+[lHma] Meat:لحمة
+[msh] Not:مش
+[waHd] One:واحد
+[ae-la] On:على
+a Car:عربية
+[Hlw] Nice | Sweet :حلو
+-

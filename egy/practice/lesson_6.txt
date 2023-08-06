@@ -1,0 +1,210 @@
+© NileLangu 2021
+
+Letters 6
+ ى,ظ,ض
+
+Full list of things to learn:
+ ى,ظ,ض
+صابون, ظرف, ضِحك,الضِحك
+الصابون
+
+
+
+start_0
+audiochoice
+ى,ي,غ
+ص,ف,ض
+ظ,ص,ط
+ض,ص,ط
+-
+audiochoice
+ى,ي,غ
+ص,ف,ض
+ظ,ص,ط
+ض,ص,ط
+-
+audiochoice
+ر,ز,د
+و,ر,ز
+ن,ب,ت
+-
+end_0
+
+start_1
+audiochoice
+ى,ي,غ
+ص,ف,ض
+ظ,ص,ط
+ض,ص,ط
+-
+audiochoice
+ص,ف,ض
+-
+multichoice_img
+home,mobile,moon,money,water,bird,one_apple,chicken,oil,tea,bread,coffee,fog,soap
+صابون:soap
+-
+write_it
+صابون,ص,ا,ب,و,ن
+-
+audiochoice
+ظ,ص,ط
+-
+multichoice_img
+home,mobile,fruits_veg,one_date,car,ball,eggs,moon,money,water,bird,one_apple,chicken,oil,tea,bread,coffee,fog,soap,envelope
+ظرف:envelope
+-
+write_it
+ظرف,ظ,ر,ف,و,ن
+-
+audiochoice
+ض,ص,ط
+-
+multichoice_img
+home,mobile,one_date,car,ball,eggs,moon,money,water,bird,one_apple,chicken,oil,tea,bread,coffee,laugh_boy,soap,envelope
+ضِحك:laugh_boy
+-
+write_it
+ضِحك,ض,ب,ا,ب,ظ,ن
+-
+multichoice
+ايه,What,Who,Where,This(m)
+دا,This(m),Who,This(f),What
+-
+sentence
+translate,!ايه الضِحك دا,How funny,How,funny,sad,where,envelope,soap
+translate,That's so funny!,ايه الضِحك دا,الضِحك,دا,ايه,ضِحك,ظرف,صابون
+-
+audiochoice
+ى,ي,غ
+-
+write_it
+نهى,ن,ه,ى,ي,ب,س
+-
+sentence
+translate,أنا نهى,I'm Noha,How,funny,Noha,I'm,envelope,soap
+-
+end_1
+
+
+start_2
+audiochoice
+ى,ي,غ
+ص,ف,ض
+ظ,ص,ط
+ض,ص,ط
+-
+multichoice_img
+home,mobile,fruits_veg,one_date,car,ball,eggs,moon,money,water,bird,laugh_boy,chicken,oil,tea,bread,coffee,fog,soap,envelope
+صابون:soap
+ظرف:envelope
+ضِحك:laugh_boy
+-
+write_it
+ضِحك,ض,ب,ا,ب,ظ,ن
+نهى,ن,ه,ى,ي,ب,س
+-
+multichoice
+ايه,What,Who,Where,This(m)
+دا,This(m),Who,This(f),What
+فين,Where,Who,This(f),What
+-
+sentence
+translate,!ايه الضِحك دا,How funny,How,funny,sad,where,envelope,soap
+translate,That's so funny!,ايه الضِحك دا,الضِحك,دا,ايه,ضِحك,ظرف,صابون
+-
+multichoice
+فين,Where,Who,This(f),What
+-
+sentence
+translate,Where is the soap?,فين الصابون,الضِحك,دا,الصابون,فين
+translate,Where is the envelope?,فين الظرف,الضِحك,دا,الصابون,فين
+-
+write_it
+صابون,ص,ا,ب,و,ن
+ظرف,ظ,ر,ف,و,ن
+-
+sentence
+translate,!ايه الضِحك دا,How funny,How,funny,sad,where,envelope,soap
+translate,That's so funny!,ايه الضِحك دا,الضِحك,دا,ايه,ضِحك,ظرف,صابون
+translate,Where is the soap?,فين الصابون,الضِحك,الظرف,الصابون,فين
+-
+end_2
+
+
+
+start_3
+audiochoice
+ى,ي,غ
+ص,ف,ض
+ظ,ص,ط
+ض,ص,ط
+-
+multichoice_img
+home,mobile,fruits_veg,one_date,car,ball,eggs,moon,money,water,bird,laugh_boy,chicken,oil,tea,bread,coffee,fog,soap,envelope
+صابون:soap
+ظرف:envelope
+ضِحك:laugh_boy
+-
+write_it
+ضِحك,ض,ب,ا,ب,ظ,ن
+نهى,ن,ه,ى,ي,ب,س
+-
+multichoice
+ايه,What,Who,Where,This(m)
+دا,This(m),Who,This(f),What
+فين,Where,Who,This(f),What
+-
+multichoice
+فين,Where,Who,This(f),What
+-
+sentence
+translate,That's so funny!,ايه الضِحك دا,الضِحك,دا,ايه,ضِحك,ظرف,صابون
+translate,Where is the envelope?,فين الظرف,الضِحك,دا,الصابون,فين
+-
+multichoice
+أهو,Here it is!,Who,This(f),Where
+-
+sentence
+answer,فين الظرف؟,الظرف أهو,الضِحك,دا,الصابون,فين
+answer,فين الصابون؟,الصابون أهو,الضِحك,دا,الظرف,فين
+-
+write_it
+صابون,ص,ا,ب,و,ن
+ظرف,ظ,ر,ف,و,ن
+-
+end_3
+
+
+
+صابون, ظرف, ضباب
+
+
+Dictionary
+[noha] An arabic name (f):نهى
+[aho] Here it is!:أهو
+[elSabwn] The soap:الصابون
+[eyh] What:ايه
+[da] This (m):دا
+[deHk] Laughter:ضِحك
+[eldeHk] The laughter:الضِحك
+[Saboon] Soap:صابون
+[zarf] Envelope / Circumstance:ظرف
+[ahwa] Coffee:قهوة
+[rayH] I'm(m) going:رايح
+[rayH] He/You(m) is/are going:رايح
+[rayHa] She/You(f) is/are going:رايحة
+[rayHyyn] We're going:رايحين
+[brwH] I go:بروح
+[bnrwH] We go:بنروح
+[btrwH] You(m) go/ She(f) goes:بتروح
+[byrwH] He goes:بيروح
+[btrwHi] You(f) go:بتروحي
+[byrwHu] They go:بيروحو
+[elmadrasa] The school:المدرسة
+[mat-eam] Restaurant:مطعم
+need(m):محتاج
+need(f):محتاجة
+[feen] Where:فين
+[eldeHk] The Laugh:الضِحك
+-

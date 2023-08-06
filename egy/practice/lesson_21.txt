@@ -1,0 +1,155 @@
+© NileLangu 2021
+What foods do we have?
+
+Full list of things to learn:
+
+
+start_0
+multichoice
+Like,زي,جبنة,الأخبار,ايه
+We have,عندنا,لبن,زي,مي
+I have,عندي,ممكن,محمد,ايه
+Yes,أيوه,عندي,لأ,ايه
+No,لأ,أيوه,ممكن,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread
+لبن:milk
+جبنة:cheese
+لحمة:meat
+دقيق:flour
+رز:rice
+-
+sentence
+translate,Like what?,زي ايه,زي,ايه,أيوه,إزيِك
+translate,I have,عندي,زي,عندي,ايه,أيوه,إزيِك
+-
+sentence
+answer,عندنا أكل؟,أيوه,أيوه,إزيِك
+answer,عندنا لبن؟,لأ معندناش,لأ,معندناش
+answer,في جبنة؟,أيوه في,أيوه,في
+answer,عندنا لحمة؟,أيوه عندنا,أيوه,عندنا
+answer,في دقيق؟,لأ مفيش,لأ,مفيش
+answer,في رز؟,أيوه,أيوه,لحمة
+-
+write_it
+عندنا لحمة,ع,ن,د,ن,ا, ,ل,ح,م,ة
+في دقيق,ف,ي, ,د,ق,د
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread
+لبن:milk
+جبنة:cheese
+لحمة:meat
+دقيق:flour
+رز:rice
+-
+end_0
+
+
+start_1
+multichoice
+I am buying,بشتري,أنا,ازاي,إنتِ
+Diet,رجيم,أنا,إنتَ,عامل
+Possible,ممكن,لبن,محمد,مي
+Yes,أيوه,عندي,لأ,ايه
+No,لأ,أيوه,ممكن,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread
+خضار:vegetables
+زيت:oil
+فراخ:chicken
+عيش:bread
+-
+write_it
+بشتري فراخ,ب,ش,ت,ر,ي, ,ف,ر,ا,خ
+في خضار,ف,ي, ,خ,ض,ا,ر
+-
+sentence
+translate,May I have rice?,ممكن رز,زي,لبن,رز,أيوه,ممكن
+translate,May I have milk?,ممكن لبن,زي,ايه,رز,خضار,ممكن
+translate,May I have vegetables?,ممكن خضار,زي,ايه,رز,أيوه,لبن,ممكن
+-
+sentence
+answer,عندنا أكل؟,أيوه,أيوه,إزيِك
+answer,عندنا لبن؟,لأ معندناش,لأ,معندناش
+answer,في جبنة؟,أيوه في,أيوه,في
+answer,عندنا لحمة؟,أيوه عندنا,أيوه,عندنا
+answer,في دقيق؟,لأ مفيش,لأ,مفيش
+answer,في رز؟,أيوه,أيوه,لحمة
+answer,في خضار؟,أيوه في,أيوه في,لحمة
+-
+end_1
+
+start_2
+multichoice
+The things,الحاجه,ماري,لبن,محمد
+There is,في,مي,محمد,عامل
+Possible,ممكن,محمد,أنا,أحمد
+Only,بس,أنا,ازاي,عامل
+Yes,أيوه,عندي,لأ,ايه
+No,لأ,أيوه,ممكن,ايه
+-
+multichoice_img
+milk,cheese,meat,flour,rice,vegetables,oil,chicken,bread
+لبن:milk
+جبنة:cheese
+لحمة:meat
+دقيق:flour
+رز:rice
+خضار:vegetables
+خضار:vegetables
+زيت:oil
+فراخ:chicken
+عيش:bread
+-
+sentence
+answer,عندنا أكل؟,أيوه,أيوه,إزيِك
+answer,عندنا لبن؟,لأ معندناش,لأ,معندناش
+answer,في جبنة؟,أيوه في,أيوه,في
+answer,عندنا لحمة؟,أيوه عندنا,أيوه,عندنا
+answer,في دقيق؟,لأ مفيش,لأ,مفيش
+answer,في رز؟,أيوه,أيوه,لحمة
+answer,في خضار؟,أيوه في,أيوه في,لحمة
+-
+end_2
+
+
+Dictionary
+[akl] Food:أكل
+[lbn] Milk:لبن
+[lHma] Meat:لحمة
+[d'ee'] Flour:دقيق
+[gebna] Cheese:جبنة
+[roz] Rice:رز
+[Khodar] Vegetables:خضار
+[aywa] Yes:أيوه
+[la] No:لأ
+[tshtry] To buy:تشتري
+[Andena] We have / We own:عندنا
+[Andi] I have / I own:عندي
+[mandnash] We don't have:معندناش
+[mmkn] It's possible:ممكن
+[zy] Like:زي
+[eh] What:ايه
+[ana] I | Me:أنا
+[Kwys] Well (male):كويس
+[Kwysa] Well (female):كويسه
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A Name:ماري
+[mHmd] A Name:محمد
+[enti] You (f):إنتِ
+[gbt] I got:جبت
+[elHaga] The things:الحاجه
+[tHbi] You (f) would like:تحبي
+[nEml] We do:نعمل
+[bs] Only:بس
+[w] And:و
+زي:like
+ايه:what
+[aHmd] A name:أحمد
+-
+

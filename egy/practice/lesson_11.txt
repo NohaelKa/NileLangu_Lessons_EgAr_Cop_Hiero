@@ -1,0 +1,300 @@
+© NileLangu 2021
+
+My Possession 1
+شغلي,قطتي,قطي,شنطتي,شنطة,إسمي
+موبيلي, عربيتي
+
+صاحبي,صاحبتي,أخويا, أختي,قرايبي,أصحابي,والدتي, عائلتي
+أخواتي, أهلي, والدي,أخت,أخ,أصحابي,عربية,من,في,كلبي
+
+والدتي
+
+
+start_0
+multichoice
+Sister,أخت,أختي,صاحبي,أخ
+Brother,أخ,قطتِك,أخت,أخويا
+-
+multichoice
+My sister,أختي,أخويا,أخ,أخت
+My brother,أخويا,أخت,أختي,أخ
+-
+write_it
+أختي,أ,خ,ت,ي,د,ي,ا
+-
+sentence
+translate,Mohammed is my brother,محمد أخويا,دا,إسمي,أخويا,محمد,شغلي,دي
+translate,Mary is my sister,ماري أختي,ماري,إسمي,قطتي,ميرن,أختي,دي
+-
+write_it
+أخويا,أ,خ,ت,و,د,ي,ا
+-
+sentence
+translate,Mina is my brother,مينا أخويا,دا,إسمي,قطتي,مينا,صاحبي,أخويا
+translate,Mai is my sister,مي أختي,مي,أختي,قطتي,ميرن,صاحبتي,دي
+-
+multichoice
+My siblings,أخواتي,أختي,أخويا,شغلي
+And,و,أختي,دا,دي
+-
+sentence
+translate,Mina and Mai are my siblings,مينا و مي أخواتي,دا,و,إسمي,مي,مينا,أخواتي,أخويا
+-
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice,meat,mobile,car,work
+موبيل:mobile
+شغل:work
+عربية:car
+-
+multichoice
+My cell phone,موبيلي,قطتِك,إسمي,عربيتي
+My work,شغلي,شغلِك,قطَك,قطة
+-
+sentence
+translate,This is my cat,دي قطتي,دا,قطتي,قطة,عربيتي,شغلي,دي
+translate,This is my work,دا شغلي,دا,قطتي,قطة,شغلي,دي
+-
+multichoice
+My car,عربيتي,موبيلي,إسمي,قطة
+-
+sentence
+translate,This is my car,دي عربيتي,دا,قطتي,عربيتي,قطة,شغلي,دي
+-
+multichoice
+My name,إسمي,قطتِك,موبيلي,شغلي
+-
+write_it
+إسمي,م,إ,ر,س,د,ي,ا
+-
+sentence
+translate,My name is Mina,إسمي مينا,دا,إسمي,قطتي,مينا,شغلي,دي
+translate,My name is Mai,إسمي مي,مي,إسمي,قطتي,ميرن,شغلي,دي
+-
+end_0
+
+
+
+start_1
+multichoice_img
+one_apple,one_date,bag,home,cheese,rice,meat,mobile,car,work,coffee
+موبيل:mobile
+شغل:work
+عربية:car
+-
+sentence
+translate,Mohammed is my brother,محمد أخويا,دا,إسمي,أخويا,محمد,شغلي,دي
+translate,Mary is my sister,ماري أختي,ماري,إسمي,قطتي,ميرن,أختي,دي
+-
+sentence
+translate,My name is Mina,إسمي مينا,دا,إسمي,قطتي,مينا,شغلي,دي
+translate,My name is Mai,إسمي مي,مي,إسمي,قطتي,ميرن,شغلي,دي
+-
+multichoice
+My friend(m),صاحبي,إسمي,موبيلي,أختي
+My friend(f),صاحبتي,قطتِك,أخويا,شغلي
+-
+sentence
+translate,Mohammed is my friend,محمد صاحبي,صاحبي,إسمي,أخويا,محمد,شغلي,دي
+translate,Mary is my friend,ماري صاحبتي,ماري,إسمي,قطتي,ميرن,أختي,صاحبتي
+-
+write_it
+صاحبي,ص,ا,ح,ب,ي,د,ي,ا
+صاحبتي,ص,ا,ح,ب,ي,ت,د,ي,ا
+-
+sentence
+translate,Mina is my friend,مينا صاحبي,دا,إسمي,قطتي,مينا,صاحبي,دي
+translate,Mai is my friend,مي صاحبتي,مي,إسمي,قطتي,ميرن,صاحبتي,دي
+-
+multichoice
+My friends,أصحابي,إسمي,موبيلي,أختي
+-
+sentence
+translate,Mai and Mary are my friends,مي و ماري أصحابي,دا,و,إسمي,مي,ماري,أصحابي,صاحبي,دي
+-
+multichoice
+From,من,إسمي,في,على
+-
+sentence
+translate,My friend Mai from work,مي صاحبتي من الشغل,دا,و,إسمي,مي,ماري,أصحابي,صاحبي,دي
+translate,This is Mohamed my friend from work,دا محمد صاحبي من الشغل,دا,من,و,محمد,مي,الشغل,أصحابي,صاحبي,دي
+-
+end_1
+
+
+
+أهلي
+start_2
+multichoice
+My mom,والدتي,قطتِك,صاحبي,والدي
+My dad,والدي,قطتِك,والدتي,أهلي
+My dad,والدي,والدتي,صاحبتي,شغلي
+My parents,أهلي,قطتِك,والدي,شغلي
+These,دول,هما,دا,دي
+-
+write_it
+والدتي,ا,م,ت,ي
+أهلي,أ,ه,ل,ي
+-
+sentence
+translate,She is my mom,هيَ والدتي,دا,إسمي,أخويا,محمد,هيَ,والدتي
+translate,He is my dad,هوَ والدي,ماري,إسمي,هوَ,والدي,أختي,دي
+translate,These are my parents,دول أهلي,ماري,دول,هوَ,والدي,أهلي,دي
+-
+multichoice
+My family,عائلتي,قطتِك,صاحبي,أصحابي
+My friends,أصحابي,قطتِك,صاحبتي,عائلتي
+My relatives,قرايبي,أصحابي,صاحبتي,عائلتي
+These,دول,هما,دا,دي
+-
+write_it
+عائلتي,ع,ا,ئ,ل,ت,ي,ء
+-
+sentence
+translate,These are my Friends,دول أصحابي,دول,أصحابي,قطة,شغلي,دي
+translate,This is my Family,دي عائلتي,دا,هما,عائلتي,شغلي,دي
+translate,They are my Relatives,دول قرايبي,دا,دول,قرايبي,شغلي,دي
+-
+multichoice
+My dog (m),كلبي,شنطة,قطي,قطة
+My cat (f),قطتي,شنطة,قطي,قطة
+My work,شغلي,شغلِك,قطَك,قطة
+-
+sentence
+translate,This is my dog(m),دا كلبي,دا,كلبي,قطة,شغلي,دي
+translate,This is my cat(f),دي قطتي,دا,قطي,قطة,شغلي,دي
+translate,This is my work,دا شغلي,دا,قطتي,قطة,شغلي,دي
+-
+multichoice
+My mom,والدتي,قطتِك,صاحبي,والدي
+My dad,والدي,والدتي,صاحبتي,شغلي
+My parents,أهلي,قطتِك,والدي,شغلي
+-
+end_2
+
+
+start_3
+multichoice
+Who is,مين,قطتِك,صاحبي,شغلي
+-
+multichoice
+My Friend(m),صاحبي,قطتِك,موبيلي,شغلي
+My Friend(f),صاحبتي,قطتِك,موبيلي,شغلي
+My work,شغلي,شغلِك,قطَك,قطة
+My bag,شنطتي,شغلي,قطَك,قطة
+-
+sentence
+answer,ايه دي؟,دي شنطتي,صاحبي,دا,إسمي,محمد,نهى,شنطتي,دي
+translate,This is my work,دا شغلي,دا,قطتي,قطة,شغلي,دي
+answer,مين دا؟,دا صاحبي,شنطتي,دا,صاحبي,صاحبتي,شغلي,دي
+answer,مين دي؟,دا صاحبتي,شنطتي,دا,صاحبي,صاحبتي,شغلي,دي
+-
+multichoice
+My mom,والدتي,قطتِك,صاحبي,شغلي
+My dad,والدي,قطتِك,صاحبتي,شغلي
+My sister,أختي,قطتِك,صاحبي,شغلي
+My brother,أخويا,قطتِك,صاحبتي,شغلي
+-
+sentence
+answer,مين دا؟,دا أخويا,شنطتي,دا,أخويا,صاحبتي,شغلي,دي
+answer,مين دي؟,دي والدتي,والدي,دا,صاحبي,والدتي,شغلي,دي
+translate,Mohammed is my brother,محمد أخويا,دا,إسمي,أخويا,محمد,شغلي,دي
+translate,Mary is my sister,ماري أختي,ماري,إسمي,قطتي,ميرن,أختي,دي
+-
+multichoice
+My family,عائلتي,قطتِك,صاحبي,أصحابي
+My friends,أصحابي,قطتِك,صاحبتي,عائلتي
+My relatives,قرايبي,أصحابي,صاحبتي,عائلتي
+These,دول,هما,دا,دي
+-
+sentence
+answer,مين دول؟ >n (It's your relatives),دول قرايبي,دول,دا,أخويا,صاحبتي,أصحابي,قرايبي,دي
+answer,مين دول؟ (It's your friends from work),دول أصحابي من الشغل,دول,دا,أخويا,قرايبي,صاحبتي,من,أصحابي,الشغل,دي
+-
+multichoice
+Your(m) name,إسمَك,قطتِك,صاحبي,إسمِك
+Your(f) name,إسمِك,قطتِك,إسمَك,عائلتي
+-
+sentence
+answer,إسمَك ايه؟,إسمي محمد,دا,إسمي,محمد,نهى,شغلي,دي
+answer,إسمِك ايه؟,إسمي ماري,إسمي,قطتي,محمد,شغلي,ماري
+-
+multichoice
+My work,شغلي,شغلِك,قطَك,قطة
+My bag,شنطتي,شغلي,قطَك,قطة
+Who is,مين,قطتِك,صاحبي,شغلي
+-
+end_3
+
+
+
+
+Dictionary
+[ahli] My parents:أهلي
+[saHby] My Friend(m):صاحبي
+[saHbty] My Friend(f):صاحبتي
+[akhoya] My Brother:أخويا
+[akhty] My Sister:أختي
+[arayby] My Relatives:قرايبي
+[asHaby] My Friends:أصحابي
+[mamty] My Mother:والدتي
+[aelty] My Family :عائلتي
+[ezyak] How are you (m):إزيَك
+[ezyek] How are you (f):إزيِك
+[ya] (Used to address someone):يا
+[eh] What:ايه
+[ana] I | Me:أنا
+[enti] You (to a female):أنتِ
+[w] And:و
+[eh] What:ايه
+[ya] (Used to address someone):يا
+[fi] There is:في
+[mary] A name:ماري
+[aHmd] A name:أحمد
+[enti] You (to a female):أنتِ
+[esmak] Your name (to male):إسمَك
+[esmek] Your (m) name:إسمَك
+[oTtk] Your cat:قطتَك
+[oTty] My cat (female):قطتي
+[oTy] My cat (m):قطي
+[oTa] Cat (female):قطة
+[oT] Cat (male):قط
+[oT] The cat (male):القط
+[shoghlek] Your (f) work:شغلِك
+[shoghlak] Your (m) work:شغلَك
+[elshoghl] The work:الشغل
+[(sh)(gh)l] Work:شغل
+[w] And:و
+[bta(ae)ak] Your (m) thing (m):بتاعَك
+[bta(ae)ek] Your (f) thing (m):بتاعِك
+إسم:name
+...ي :my
+[shanTa] a Bag:شنطة
+[esmi] My name:إسمي
+[o.T.tek] Your (f) cat (f):قطتِك
+[da] This (m):دا
+[mHmd] A Name:محمد
+[di] This (f):دي
+a Car:عربية
+[oTak] Your (m) cat (m):قطَك
+[ae-la] On:على
+[dol] Those | These:دول
+[homa] They (are):هما
+[heya] She (is):هيَ
+[myn] Who:مين
+[noha] An arabic female name:نهى
+[esmek] Your (f) name:إسمِك
+[shoghly] My work:شغلي
+[shantety] My bag:شنطتي
+[mobily] My phone:موبيلي
+[ekhwati] My siblings:أخواتي
+[okht] Sister:أخت
+[akh] Brother:أخ
+[men] From:من
+[kalby] My dog:كلبي
+Meren (Egyptian Name):ميرن
+Mina (Egyptian name):مينا
+Mai (Egyptian name):مي
+[aerabity] My car:عربيتي
+[waldy] My father:والدي
+[howa] He:هوَ
+-

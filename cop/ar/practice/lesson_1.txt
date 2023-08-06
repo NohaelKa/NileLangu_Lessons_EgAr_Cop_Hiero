@@ -1,0 +1,138 @@
+الحروف 1
+© NileLangu 2021
+ⲁ,ϩ,ⲱ,ⲥ,ⲇ,ⲏ,ⲏ̣,ⲩ
+
+ⲁⲑⲏ̣ⲣ,ϩⲏⲧ,ⲁⲛⲟⲕ,ⲁⲛⲟⲛ,ⲇⲓⲛⲁ
+ⲓⲱⲃ,ⲇⲁⲩⲓⲇ,ⲥⲏⲙ,
+
+
+start_x
+multichoice_img
+egy,dates,milk,old_man,work,car,mobile,bag,bird,cook,morning,cup
+ⲟⲩϭⲁϫ:bird
+-
+multichoice
+صباح الخير,ⲛⲁⲛⲉ ⲧⲟⲟⲩⲓ,مصر,القاهرة,ⲛⲁⲛⲉ ⲣⲟⲩϩⲓ ⲙⲏⲛⲁ
+أنا,ⲁⲛⲟⲕ,مصر,القاهرة,إحنا
+-
+sentence
+translate,ايه دا؟,ⲟⲩ ⲡⲉ ⲫⲁⲓ,ⲟⲩ,ⲡⲉ,ⲫⲁⲓ,ⲇⲁⲛⲓⲏⲗ,ⲧⲟⲟⲩⲓ
+translate,ⲟⲩ ⲡⲉ ⲫⲁⲓ,ايه دا,ليه
+translate,Whats this,ايه دا,ليه
+-
+audiochoice
+ⲁ,ⲓ,ⲏ
+-
+end_x
+
+
+start_0
+audiochoice
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ,ⲥ,ⲓ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+audiochoice
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ,ⲥ,ⲓ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+end_0
+
+
+start_1
+audiochoice
+ⲁ,ⲓ,ⲏ
+-
+multichoice
+ⲁⲛⲟⲕ,أنا,مصر,القاهرة,إحنا
+ⲁⲛⲟⲛ,إحنا,مصر,القاهرة,أنا
+-
+audiochoice
+ⲇ,ⲁ,ϩ
+ⲱ,ⲁ,ⲥ
+-
+multichoice
+ⲇⲓⲛⲁ,دينا,مصر,القاهرة,أيوب
+ⲓⲱⲃ,أيوب,سام,القاهرة,دينا
+-
+audiochoice
+ⲩ,ⲇ,ⲁ
+-
+multichoice
+ⲇⲁⲩⲓⲇ,داود,شاكوش,القاهرة,دينا
+-
+audiochoice
+ⲏ,ⲥ,ⲓ
+ⲥ,ⲱ,ϩ
+-
+multichoice
+ⲥⲏⲙ,Sam,مصر,شاكوش,دينا
+ⲁⲑⲏ̣ⲣ,شاكوش,مصر,القاهرة,سام
+-
+multichoice_img
+egy,milk,old_man,hammer,car,mobile,bag,bird,cook,morning
+ⲁⲑⲏ̣ⲣ:hammer
+-
+audiochoice
+ϩ,ϩ,ⲓ,ⲥ
+-
+multichoice_img
+egy,dates,milk,heart,hammer,car,mobile,bag,bird,cook,morning
+ϩⲏⲧ:heart
+-
+multichoice
+ϩⲁⲛ,بعض,مصر,شاكوش,دينا
+-
+end_1
+
+
+
+start_2
+audiochoice
+ⲁ,ⲓ,ⲏ
+ϩ,ⲓ,ⲥ
+ⲏ,ⲥ,ⲓ
+ⲱ,ⲁ,ⲥ
+ⲥ,ⲱ,ϩ
+ⲇ,ⲁ,ϩ
+ⲩ,ⲇ,ⲁ
+-
+multichoice_img
+egy,dates,milk,old_man,hammer,car,mobile,bag,bird,cook,morning
+ⲁⲑⲏ̣ⲣ:hammer
+ϩⲏⲧ:heart
+-
+multichoice
+ⲁⲛⲟⲕ,أنا,مصر,أيوب,إحنا
+ⲁⲛⲟⲛ,إحنا,دينا,القاهرة,I
+ⲇⲓⲛⲁ,دينا,مصر,القاهرة,أيوب
+ⲓⲱⲃ,أيوب,سام,القاهرة,دينا
+ⲇⲁⲩⲓⲇ,داود,شاكوش,القاهرة,دينا
+ⲥⲏⲙ,سام,مصر,شاكوش,دينا
+ⲁⲑⲏ̣ⲣ,شاكوش,قلب,القاهرة,سام
+ϩⲏⲧ,قلب,مصر,بعض,سام
+ϩⲁⲛ,بعض,قلب,شاكوش,دينا
+-
+end_2
+
+
+Dictionary
+[داويد] أسم:ⲇⲁⲩⲓⲇ
+[دينا] أسم:ⲇⲓⲛⲁ
+[يوب] أسم:ⲓⲱⲃ
+[سام] أسم:ⲥⲏⲙ
+[أنون] إحنا:ⲁⲛⲟⲛ
+[أنُك] أنا:ⲁⲛⲟⲕ
+[أطير] شاكوش:ⲁⲑⲏ̣ⲣ
+[هات] قلب:ϩⲏⲧ
+[هان] بعض (تفيد الجمع):ϩⲁⲛ
+-
