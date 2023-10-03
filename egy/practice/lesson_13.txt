@@ -111,7 +111,7 @@ end_1
 
 start_2
 multichoice_img
-work,cat_f,cat_m,drums,home,girl_cat_f,girl_cat_m,boy_cat_f,boy_cat_m
+work,cat_f,cat_m,drums,home,girl_cat_f,girl_cat_m,boy_cat_f,boy_cat_m,car
 قطة:cat_f
 قطتِك:girl_cat_f
 عربية:car
