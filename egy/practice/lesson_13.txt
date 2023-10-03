@@ -28,7 +28,7 @@ translate,Is this your (f) older sister?,دي أختِك الكبيرة,أخوك
 translate,Where is your (f) little brother?,أخوكي الصغير فين؟,أخوكي,كبير,فين,أختِك,الصغيرة,الكبيرة,الصغير,صغير
 -
 multichoice_img
-work_m,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2
+work_m,work_f,cat_f,cat_m,drums,home,boy_cat_f,boy_cat_m,book2,girl_cat_m,girl_cat_f,book2
 قطِك:girl_cat_m
 قطتِك:girl_cat_f
 شغلِك:work_f
