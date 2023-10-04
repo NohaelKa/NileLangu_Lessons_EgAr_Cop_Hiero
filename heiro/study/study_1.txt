@@ -10,11 +10,11 @@ Take care that Egyptian uniliterals do not function as "letters", depending on u
 For example 𓂋 is a depiction of a mouth and is pronounced "r" which could be used as a letter, however if you place this symbol "𓏺" next to it, then 𓂋𓏺 it will mean mouth. For now you may only focus on the sounds the symbols make and their appearance.
 
 In this lesson you will learn the following uniliterals:
-𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
+𓆑,𓄿,𓂝,𓇋,𓐍,𓆓,𓈖
 
 <bold> The following is a rough guide to the pronunciation for this lesson:
 
-𓅂^§: Like an English "A" as
+𓄿^§: Like an English "A" as
 in "Art", depicts a Vulture
 
 𓂝^§: Like the Arabic "ع"
