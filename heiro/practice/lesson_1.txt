@@ -16,17 +16,17 @@ audiochoice
 audiochoice
 𓄿,𓂝,𓆑
 𓂝,𓆑,𓄿
-𓆑,𓅂,𓇋
-𓇋,𓈖,𓅂
+𓆑,𓄿,𓇋
+𓇋,𓈖,𓄿
 𓐍,𓆑,𓇋
-𓆓,𓈖,𓅂
+𓆓,𓈖,𓄿
 𓈖,𓂝,𓆑
 -
 end_0
 
 start_1
 multichoice
-𓅂,Vulture,Water,Fire-drill,Pool
+𓄿,Vulture,Water,Fire-drill,Pool
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
