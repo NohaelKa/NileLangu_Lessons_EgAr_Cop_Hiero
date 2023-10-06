@@ -75,7 +75,7 @@ translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,
 sentence
 translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
 translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in,in
 translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
 -
 end_1
