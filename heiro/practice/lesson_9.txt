@@ -54,7 +54,7 @@ multichoice
 𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
 -
 sentence
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in,in
 -
 multichoice
 𓂋𓂝𓇳𓀭,Sun God,Sun,Sky,Rejoice
