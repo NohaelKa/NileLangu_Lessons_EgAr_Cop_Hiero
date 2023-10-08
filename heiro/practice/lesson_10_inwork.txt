@@ -1,11 +1,12 @@
 Vocab (2)
 Notes /**
 Gardiner
+
 Todo record: 𓊪𓏏𓎛𓀭
 This Lesson:
 Exercise 2
 3. The scribe travels downstream in a boat to this city.
-
+𓐍𓂧𓊛 𓏞𓀀 𓅓 𓂧𓊪𓏏𓊛 𓂋 𓊖𓏏𓏺 𓏏𓈖
 4. This scribe listens to Ptah.
 𓄔𓅓 𓏞𓀀 𓊪𓈖 𓊪𓏏𓎛𓀭
 9. Another man is in this house.
@@ -26,8 +27,8 @@ Exercise 2
 
 start_0
 multichoice
-𓆓𓂧,Ptah,Mouth,Scribe,House
-𓊪𓈖,This,Say,Your/Your,See
+𓊪𓏏𓎛𓀭,Ptah,Mouth,Scribe,House
+𓀭,God Symbol,House,Ptah,See
 𓍿𓈖𓏥,Your/Your,Say,This,See
 𓂋𓈖,Name,Say,Your/Your,See
 -
@@ -47,53 +48,13 @@ end_0
 
 
 
-start_1
-multichoice
-𓆓𓂧,Say,See,Rise,Your/Your
-𓊪𓈖,This,Say,Your/Your,See
-𓍿𓈖𓏥,Your/Your,Say,This,See
-𓂋𓈖,Name,Say,Your/Your,See
--
-sentence
-translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
--
-multichoice
-𓌴𓁹𓄿𓄿,See,Say,Your/Your,Rejoice
-𓅓,in,Cobra,Man,Mouth
-𓇋𓅱,is/was,Sky,Daughter,Rise
-𓊃𓀀𓏤,Man,See,Sun,Daughter
-𓅭𓏏𓁐,Daughter,Man,Sun,See
-𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
--
-sentence
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,he,hear,his,his
--
-multichoice
-𓂋𓂝𓇳𓀭,Sun God,Sun,Sky,Rejoice
-𓂋𓂝𓇳,Sun,Sun God,Sky,Divine Boat
-𓊪𓏏𓇯,Sky,Sun God,Cross,Rejoice
-𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
--
-sentence
-translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
--
-multichoice
-𓇋𓂝𓎛𓇺,Moon,Sun,With,Rejoice
-𓎛𓈖𓂝,With,Sun,Moon,Rejoice
--
-sentence
-translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
--
-sentence
-translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
-translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,he,hear,his,his
-translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
--
-end_1
-
 
 Dictionary
+[ptH][ⲡⲧⲁϩ] Ptah, god of Memphis:𓊪𓏏𓎛𓀭
+[dpt] Boat:𓂧𓊪𓏏𓊛
+[khed] Fare downstream, northwards:𓐍𓂧
+[niwt] City:𓊖𓏏𓏺
+[tn][ⲑⲁⲓ] This f.:𓏏𓈖
 [en][ⲛ] of; to; for:𓈖
 [iw] is / was:𓇋𓅱
 [Hna] With:𓎛𓈖𓂝
@@ -104,7 +65,7 @@ Dictionary
 [iwf] He is / was:𓇋𓅱𓆑
 [prf][ⲡⲉϥⲏⲓ] His house:𓉐𓏺𓆑
 [s][ⲥⲁ] Man:𓊃𓀀𓏤
-[pn][ⲫⲁⲓ] This:𓊪𓈖
+[pn][ⲫⲁⲓ] This m.:𓊪𓈖
 [rn][ⲣⲁⲛ] Name:𓂋𓈖
 [thn] You;Your:𓍿𓈖𓏥
 [mAA] See:𓌴𓁹𓄿𓄿
@@ -133,7 +94,6 @@ Dictionary
 [m][̀ⲙ] as a; in; with (instrument); from:𓇋𓅓
 [pt][ⲫⲉ] Sky:𓊪𓏏𓇯
 [jd][ϫⲱ] Say:𓆓𓂧
--
 [jod.f][̀ϥϫⲱ] He say:𓆓𓂧𓆑
 [sodjam.s][̀ⲥⲥⲱⲧⲉⲙ] She hear:𓄔𓅓𓋴
 [pr.s][ⲡⲉⲥⲏⲓ] Her house:𓉐𓏺𓋴
@@ -150,6 +110,7 @@ Dictionary
 [ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
 [kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
 [Wbn] Rise /Shine:𓅱𓃀𓈖𓇳
+[ideogram] God, king:𓀭
 [ideogram] Country/Land/Village/Egypt:𓊖
 [ideogram] Sun:𓇳
 [ideogram] Sky:𓇯
