@@ -2,19 +2,18 @@ Vocab (2)
 Notes /**
 Gardiner
 
-Todo record: 𓊪𓏏𓎛𓀭
+Todo record: 𓊪𓏏𓎛𓀭, 𓐍𓂧𓊛, 𓂧𓊪𓏏𓊛, 𓏏𓈖
 This Lesson:
 Exercise 2
 3. The scribe travels downstream in a boat to this city.
 𓐍𓂧𓊛 𓏞𓀀 𓅓 𓂧𓊪𓏏𓊛 𓂋 𓊖𓏏𓏺 𓏏𓈖
 4. This scribe listens to Ptah.
 𓄔𓅓 𓏞𓀀 𓊪𓈖 𓊪𓏏𓎛𓀭
-9. Another man is in this house.
+8. This poor man hears the name.
+𓄔𓅓 𓈖𓆓𓋴𓅪𓀀 𓊪𓈖 𓂋𓈖
+9. Another woman is in this house. (changed man to woman to teach woman)
+𓇋𓅱 𓎡𓇋𓇋 𓁐 𓅓 𓉐𓏺 𓏏𓈖
 
-Exercise 3
-7. Ptah speaks with his own mouth.
-
-8. You are my maidservant.
 
 Previous lesson:
 Exercise 3
@@ -47,12 +46,14 @@ multichoice
 end_0
 
 
-
-
 Dictionary
+[njs][نجس] Poor man; commoner:𓈖𓆓𓋴𓅪𓀀
+[ideogram][st][ست] Woman :𓁐
+[ideogram][s][ⲥⲁ] Man; Person:𓀀
+[ky][ⲕⲉ] Other; another m.:𓎡𓇋𓇋
+[khed] Fare downstream; northwards:𓐍𓂧𓊛
 [ptH][ⲡⲧⲁϩ] Ptah, god of Memphis:𓊪𓏏𓎛𓀭
 [dpt] Boat:𓂧𓊪𓏏𓊛
-[khed] Fare downstream, northwards:𓐍𓂧
 [niwt] City:𓊖𓏏𓏺
 [tn][ⲑⲁⲓ] This f.:𓏏𓈖
 [en][ⲛ] of; to; for:𓈖
@@ -63,6 +64,7 @@ Dictionary
 [re´][ⲣⲉ] Sun:𓂋𓂝𓇳
 [re´][ⲣⲉ] Sun God:𓂋𓂝𓇳𓀭
 [iwf] He is / was:𓇋𓅱𓆑
+[pr][ⲏⲓ] House:𓉐𓏺
 [prf][ⲡⲉϥⲏⲓ] His house:𓉐𓏺𓆑
 [s][ⲥⲁ] Man:𓊃𓀀𓏤
 [pn][ⲫⲁⲓ] This m.:𓊪𓈖
@@ -90,8 +92,8 @@ Dictionary
 [r][ⲣⲟ] Mouth; Utterance:𓂋𓏤
 [hr][ϩⲟ] Face;Sight;Concerning;Because of; Upon:𓁷𓏤
 [hr][ϩⲟ] Concerning;Because of; Upon:𓁷𓂋
-[m][̀ⲙ] as a; in; with (instrument); from:𓅓
-[m][̀ⲙ] as a; in; with (instrument); from:𓇋𓅓
+[em][̀ⲙ] as a; in; with (instrument); from:𓅓
+[im] There; Therein; Therewith; Therefrom:𓇋𓅓
 [pt][ⲫⲉ] Sky:𓊪𓏏𓇯
 [jd][ϫⲱ] Say:𓆓𓂧
 [jod.f][̀ϥϫⲱ] He say:𓆓𓂧𓆑
