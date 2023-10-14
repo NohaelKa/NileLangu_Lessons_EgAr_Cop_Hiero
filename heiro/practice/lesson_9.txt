@@ -1,8 +1,14 @@
 Vocab (1)
 
 Notes /**
-Gardiner Page pdf page 79
-Book page 40
+This Lesson:
+Gardiner
+Exercise 3
+1) You say your name to this scribe
+2) When a man sees his daughter in his house he's in joy
+3)The sun god crosses the sky in his divine boat
+Exercise 2
+5)The sun is in the sky together with the moon
 **/ End of Notes
 
 start_0
@@ -85,7 +91,7 @@ Dictionary
 [en][ⲛ] of; to; for:𓈖
 [iw] is / was:𓇋𓅱
 [Hna] With:𓎛𓈖𓂝
-[i'ah][ⲓⲟϩ] Moon:𓇋𓂝𓎛𓇺
+[i'ah][ⲓⲟϩ][إياح،إيوح] Moon:𓇋𓂝𓎛𓇺
 [wi´] Divine boat:𓅱𓇋𓄿𓊛
 [re´][ⲣⲉ] Sun:𓂋𓂝𓇳
 [re´][ⲣⲉ] Sun God:𓂋𓂝𓇳𓀭
@@ -103,7 +109,7 @@ Dictionary
 [sA][ⲥⲁ] Son:𓅭𓏤𓀀
 [sAt] Daughter:𓅭𓏏𓁐
 [sAtf] His daughter:𓅭𓏏𓁐𓆑
-[cash][ⲥⲁϧ] scribe:𓏞𓀀
+[sash][ⲥⲁϧ] scribe:𓏞𓀀
 [it][ⲓⲱⲧ] Father:𓇋𓏏𓆑𓀀
 [bAk][ⲃⲱⲕ] Man-Servant:𓅡𓎡𓀀
 [bAkt][ⲃⲱⲕⲓ] Maid-Servant:𓅡𓎡𓏏𓁐
@@ -113,12 +119,12 @@ Dictionary
 [tjaty] Vizier:𓅷𓏏𓏤𓀀
 [sStA] Secret:𓋴𓈙𓏏𓍔𓄿𓏴𓏥
 [itrw][ⲓⲁⲣⲟ] River; Nile:𓇋𓏏𓂋𓅱𓈗
-[msH][ⲙⲥⲁϩ] Crocodile:𓅓𓊃𓎛𓆊
+[msH][ⲙⲥⲁϩ][تمساح] Crocodile:𓅓𓊃𓎛𓆊
 [r][ⲣⲟ] Mouth; Utterance:𓂋𓏤
 [hr][ϩⲟ] Face;Sight;Concerning;Because of; Upon:𓁷𓏤
 [hr][ϩⲟ] Concerning;Because of; Upon:𓁷𓂋
 [m][̀ⲙ] as a; in; with (instrument); from:𓅓
-[m][̀ⲙ] as a; in; with (instrument); from:𓇋𓅓
+[im] There; Therein; Therewith; Therefrom:𓇋𓅓
 [pt][ⲫⲉ] Sky:𓊪𓏏𓇯
 [jd][ϫⲱ] Say:𓆓𓂧
 -
