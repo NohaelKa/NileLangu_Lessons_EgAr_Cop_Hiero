@@ -25,28 +25,72 @@ Exercise 2
 **/ End of Notes
 
 start_0
-multichoice
-𓊪𓏏𓎛𓀭,Ptah,Mouth,Scribe,House
-𓀭,God Symbol,House,Ptah,See
-𓍿𓈖𓏥,Your/Your,Say,This,See
-𓂋𓈖,Name,Say,Your/Your,See
+multichoice_img
+moon,sun,sun_god,sky,woman,man,boat,city,ptah
+𓁐:woman
+𓀀:man
+𓂧𓊪𓏏𓊛:boat
+𓊖𓏏𓏺:city
+𓊪𓏏𓎛𓀭:ptah
 -
 multichoice
-𓌴𓁹𓄿𓄿,See,Say,Your/Your,Rejoice
-𓅓,in,Cobra,Man,Mouth
-𓇋𓅱,is/was,Sky,Daughter,Rise
-𓊃𓀀𓏤,Man,See,Sun,Daughter
-𓅭𓏏𓁐,Daughter,Man,Sun,See
-𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
+𓐍𓂧𓊛,Travel downstream,Boat,Another,Poor Man
+𓈖𓆓𓋴𓅪𓀀,Poor Man,Travel downstream,Another,Boat
+𓎡𓇋𓇋,Another,Travel downstream,Boat,Poor Man
+𓏏𓈖,This f.,This m.,Travel downstream,Another
 -
 multichoice
-𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
-𓎛𓈖𓂝,With,Sun,Moon,Rejoice
+𓅓,in,Ptah,Man,Mouth
+𓇋𓅱,is/was,in,Ptah,Rise
+𓊃𓀀𓏤,Man,in,Sun,Daughter
+𓊪𓏏𓎛𓀭,Ptah,is/was,Man,in
 -
 end_0
 
+start_1
+multichoice_img
+moon,sun,sun_god,sky,woman,man,boat,city,ptah
+𓁐:woman
+𓀀:man
+𓂧𓊪𓏏𓊛:boat
+𓊖𓏏𓏺:city
+𓊪𓏏𓎛𓀭:ptah
+-
+multichoice
+𓂧𓊪𓏏𓊛,Downstream,Boat,Another,To
+𓅓,in,Ptah,Man,Mouth
+𓊪𓏏𓎛𓀭,Ptah,is/was,Man,in
+𓏞𓀀,Scribe,In,Another,Downstream
+𓄔𓅓,Listen,Ptah,In,Scribe
+-
+sentence
+translate,𓐍𓂧𓊛 𓏞𓀀 𓅓 𓂧𓊪𓏏𓊛 𓂋 𓊖𓏏𓏺 𓏏𓈖,The scribe travels downstream in a boat to this city,upstream
+translate,𓄔𓅓 𓏞𓀀 𓊪𓈖 𓊪𓏏𓎛𓀭,This scribe listens to Ptah,talks
+-
+multichoice
+𓈖𓆓𓋴𓅪𓀀,Poor Man,Downstream,Another,Boat
+𓎡𓇋𓇋,Another,Downstream,To,Poor Man
+𓏏𓈖,This f.,This m.,Downstream,Another
+𓂋𓈖,Name,Ptah,Man,Woman
+𓇋𓅱,is/was,in,Ptah,Downstream
+𓁐,Woman,Boat,Man,Name
+𓉐𓏺,House,is/was,Man,Poor Man
+-
+sentence
+translate,𓄔𓅓 𓈖𓆓𓋴𓅪𓀀 𓊪𓈖 𓂋𓈖,This poor man hears the name,woman
+translate,𓇋𓅱 𓎡𓇋𓇋 𓁐 𓅓 𓉐𓏺 𓏏𓈖,Another woman is in this house,man
+-
+sentence
+translate,𓐍𓂧𓊛 𓏞𓀀 𓅓 𓂧𓊪𓏏𓊛 𓂋 𓊖𓏏𓏺 𓏏𓈖,The scribe travels downstream in a boat to this city,upstream
+translate,𓄔𓅓 𓏞𓀀 𓊪𓈖 𓊪𓏏𓎛𓀭,This scribe listens to Ptah,talks
+-
+translate,𓄔𓅓 𓈖𓆓𓋴𓅪𓀀 𓊪𓈖 𓂋𓈖,This poor man hears the name,woman
+translate,𓇋𓅱 𓎡𓇋𓇋 𓁐 𓅓 𓉐𓏺 𓏏𓈖,Another woman is in this house,man
+-
+end_1
 
 Dictionary
+[er][`ⲉ] To, into, towards, in respect of:𓂋
 [njs][نجس] Poor man; commoner:𓈖𓆓𓋴𓅪𓀀
 [ideogram][st][ست] Woman :𓁐
 [ideogram][s][ⲥⲁ] Man; Person:𓀀
@@ -56,7 +100,7 @@ Dictionary
 [dpt] Boat:𓂧𓊪𓏏𓊛
 [niwt] City:𓊖𓏏𓏺
 [tn][ⲑⲁⲓ] This f.:𓏏𓈖
-[en][ⲛ] of; to; for:𓈖
+[en][`ⲛ] of; to; for:𓈖
 [iw] is / was:𓇋𓅱
 [Hna] With:𓎛𓈖𓂝
 [i'ah][ⲓⲟϩ] Moon:𓇋𓂝𓎛𓇺
