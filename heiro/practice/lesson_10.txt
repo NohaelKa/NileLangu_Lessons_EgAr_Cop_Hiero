@@ -2,7 +2,6 @@ Vocab (2)
 Notes /**
 Gardiner
 
-Todo record: 𓊪𓏏𓎛𓀭, 𓐍𓂧𓊛, 𓂧𓊪𓏏𓊛, 𓏏𓈖
 This Lesson:
 Exercise 2
 3. The scribe travels downstream in a boat to this city.
@@ -28,7 +27,7 @@ start_0
 multichoice_img
 moon,sun,sun_god,sky,woman,man,boat,city,ptah
 𓁐:woman
-𓀀:man
+𓀀‎:man
 𓂧𓊪𓏏𓊛:boat
 𓊖𓏏𓏺:city
 𓊪𓏏𓎛𓀭:ptah
@@ -41,7 +40,6 @@ multichoice
 -
 multichoice
 𓅓,in,Ptah,Man,Mouth
-𓇋𓅱,is/was,in,Ptah,Rise
 𓊃𓀀𓏤,Man,in,Sun,Daughter
 𓊪𓏏𓎛𓀭,Ptah,is/was,Man,in
 -
@@ -51,7 +49,7 @@ start_1
 multichoice_img
 moon,sun,sun_god,sky,woman,man,boat,city,ptah
 𓁐:woman
-𓀀:man
+𓀀‎:man
 𓂧𓊪𓏏𓊛:boat
 𓊖𓏏𓏺:city
 𓊪𓏏𓎛𓀭:ptah
@@ -72,7 +70,6 @@ multichoice
 𓎡𓇋𓇋,Another,Downstream,To,Poor Man
 𓏏𓈖,This f.,This m.,Downstream,Another
 𓂋𓈖,Name,Ptah,Man,Woman
-𓇋𓅱,is/was,in,Ptah,Downstream
 𓁐,Woman,Boat,Man,Name
 𓉐𓏺,House,is/was,Man,Poor Man
 -
@@ -93,7 +90,7 @@ Dictionary
 [er][`ⲉ] To, into, towards, in respect of:𓂋
 [njs][نجس] Poor man; commoner:𓈖𓆓𓋴𓅪𓀀
 [ideogram][st][ست] Woman :𓁐
-[ideogram][s][ⲥⲁ] Man; Person:𓀀
+[ideogram][s][ⲥⲁ] Man; Person:𓀀‎
 [ky][ⲕⲉ] Other; another m.:𓎡𓇋𓇋
 [khed] Fare downstream; northwards:𓐍𓂧𓊛
 [ptH][ⲡⲧⲁϩ] Ptah, god of Memphis:𓊪𓏏𓎛𓀭
