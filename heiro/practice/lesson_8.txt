@@ -141,7 +141,7 @@ multichoice
 𓄔𓅓,Hear,House,In,Rise
 -
 multichoice
-𓏏𓅱,(Passive verb),Active verb,Rise,Mouth
+𓏏𓅱,(Passive verb),(Active verb),Rise,Mouth
 -
 sentence
 translate,𓄔𓅓 𓏏𓅱𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
