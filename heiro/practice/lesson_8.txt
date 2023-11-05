@@ -20,9 +20,6 @@ Todo record: all
 
 //Suffix pronouns
 start_0
-sentence
-translate,𓉐𓏺𓆑,His House,the,sun,rises,in,the,sky,His,house
--
 audiochoice
 𓉐𓏺,𓃀,𓅱
 𓆑,𓃭,𓅓
