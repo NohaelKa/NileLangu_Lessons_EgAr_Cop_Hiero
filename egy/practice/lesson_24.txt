@@ -1,154 +1,151 @@
 © NileLangu 2021
 Lesson: 24
-Going out
+Going out + Prepositions
 
+Todo: Rename lesson in DB to add + Prepositions
 Full list of things to learn:
-,محتاجة,محتاجين
+نروح بالعربية ولا بالمونوريل؟
+نتقابل عند الجامعة؟
+نتقابل قدام المدخل؟
+أنا تحت، أنتَ فين؟
+فين على الخريطة؟
+المكان بعيد
+المكان قريب
+تعالى معايا
 
-أخرج,تخرج,تخرجي,يخرج,نخرج,يخرجو
-اكل,ناكل,ياكل,تاكل,تاكلي,ياكلو
-أروح,تروح,تروحي,نروح,يروحو
-
-الحمام,حاجة
 
 start_0
-multichoice
-I need(m),أنا محتاج,أنا رايح,إنتِ رايحة,معايا
-I need(f),أنا محتاجة,أنا رايح,إنتِ رايحة,إنتَ محتاج
-You(m) need(m),إنتَ محتاج,إنتَ عايز,أنا رايحة,رايح
-You(f) need(f),إنتِ محتاجة,إنتِ عايزة,محمد,أنا محتاج
--
 multichoice_img
-restaurant,coffee_shop,money,coffee,kahwa_shop,museum,home,work_f,bathroom
-قهوة:coffee
-فلوس:money
-متحف:museum
-الحمام:bathroom
+restaurant,map,far,near,museum,home,fuel,monorail
+الجامعة:university
+الخريطة:map
+مونوريل:monorail
 -
 multichoice
-Something,حاجة,فين,رايحة,معايا
--
-sentence
-translate,I need(f) to eat,أنا محتاجة اكل,أنا رايح,أنا محتاجة,اكل,عربية,عندكم,شاي,مدرسة
-translate,I need(m) money,أنا محتاج فلوس,أنا محتاج,فلوس,مطعم,المتحف,أنا رايح,كافيه
-translate,You(m) need(m) coffee,إنتَ محتاج قهوة,إنتَ محتاج,قهوة,عربية,أنا رايح,مدرسة
-translate,Do you(f) need(f) something?,إنتِ محتاجة حاجة,إنتِ محتاجة,حاجة,إنتِ رايحة,مطعم,أنا رايح
+The entrance,المدخل,المكان,ملقتش,الموقع
 -
 multichoice
-I have a need(m) to go,أنا محتاج أروح,فين,رايحة,أنا عايز أروح
-You(m) have a need(m) to go,إنتَ محتاج تروح,لبن,إنتِ عايزة تروحي,أنا محتاج أروح
-You(f) have a need(f) to go,إنتِ محتاجة تروحي,لبن,إنتَ محتاج تروح,فين
-You(f) want(f) to go,إنتِ عايزة تروحي,أنا محتاج أروح,محمد,إنتَ محتاج تروح
-I want(m) to go,أنا عايز أروح,مي,أنا محتاج أروح,عامل
+At,عند,قدام,ولا,في
+In front of,قدام,عند,ولا,في
+Or (for a question),ولا,عند,قدام,في
+Where?,فين,قدام,تحت,في
 -
 sentence
-translate,I need(m) to go to the bathroom,أنا محتاج أروح الحمام,أنا محتاج,أروح,الحمام,اكل,شاي,مدرسة
-translate,You(m) need(m) to go to work,إنتَ محتاج تروح الشغل,أنا محتاج,أروح,إنتَ محتاج,تروح,الشغل
-translate,You(f) need(f) to go eat,إنتِ محتاجة تروحي تاكلي,أنا محتاج,أروح,الحمام,اكل,شاي,مدرسة
+translate,At the entrance,عند المدخل,قدام,ولا
+translate,In front of the entrance,قدام المدخل,عند,ولا
+translate,At the monorail or the university?,عند الجامعة ولا المونوريل,قدام,المدخل
+translate,Where on the map?,فين في الخريطة,ولا,المونوريل,الجامعة,قدام
+-
+multichoice
+At,عند,قدام,ولا,في
+In front of,قدام,عند,ولا,في
+Or (for a question),ولا,عند,قدام,في
+Where?,فين,قدام,تحت,في
 -
 sentence
-translate,I need(f) to eat something,أنا محتاجة اكل حاجة,أنا رايح,أنا محتاجة,اكل,عربية,حاجة,شاي,مدرسة
-translate,You(m) need(m) to eat something,إنتَ محتاج تاكل حاجة,أنا محتاج,أروح,إنتَ محتاج,تاكل,حاجة
-translate,Do you(f) need(f) to eat something?,إنتِ محتاجة تاكلي حاجة,أنا محتاج,أروح,حاجة,اكل,شاي,تاكلي
+translate,At the entrance,عند المدخل,قدام,ولا
+translate,In front of the entrance,قدام المدخل,عند,ولا
+translate,At the monorail or the university?,عند الجامعة ولا المونوريل,قدام,المدخل
+translate,Where on the map?,فين في الخريطة,ولا,المونوريل,الجامعة,قدام
 -
 end_0
 
-أخرج,تخرج,تخرجي,يخرج,نخرج,يخرجو
-اكل,ناكل,ياكل,تاكل,تاكلي,ياكلو
-أروح,تروح,تروحي,نروح,يروحو
-
-
-
+تعالى معايا
 start_1
 multichoice
-I need(m) to eat,أنا محتاج اكل,أنا رايح,إنتِ رايحة,معايا
-I want(m) to go out,أنا عايز أخرج,أنا رايح,إنتِ رايحة,إنتَ محتاج
-I need(f) to go (to),أنا محتاجة أروح,إنتَ عايز,أنا رايحة,رايح
--
-multichoice
-You(m) want(m) to eat,إنتَ عايز تاكل,أنا رايح,إنتِ رايحة,معايا
-You(m) need(m) to go out,إنتَ محتاج تخرج,أنا رايح,إنتِ رايحة,إنتَ محتاج
--
-multichoice
-You(f) need(f) to go out,إنتِ محتاجة تخرجي,أنا رايح,إنتِ رايحة,إنتَ محتاج
-You(f) want(f) to eat,إنتَ محتاجة تاكلي,أنا رايح,إنتِ رايحة,معايا
--
-multichoice
-He needs,هوَ محتاج,هيَ محتاجة,إحنا محتاجين,رايحين
-She needs,هيَ محتاجة,هوَ محتاج,فين,رايحين
-We need,إحنا محتاجين,هما محتاجين,رايح,فين
-They need,هما محتاجين,إحنا محتاجين,رايح,فين
+Come,تعالى,أقعد,تحت,في
+With me,معايا,عند,أقعد,في
 -
 sentence
-translate,He needs to go to Mohamed,هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
-translate,She wants to go to a restaurant,هيَ عايزة تروح مطعم,مطعم,هيَ عايزة,مطعم,تروح,هوَ رايح,عند,محمد
-translate,We need to eat,إحنا محتاجين ناكل,إحنا رايحين,كافيه,مطعم,عربية,إحنا محتاجين,ناكل
-translate,We want to go out,إحنا عايزين نخرج,إحنا عايزين,كافيه,مطعم,نخرج,إحنا محتاجين,ناكل
-translate,They want to go to the museum,هما عايزين يروحو المتحف,هما رايحين,المتحف,مطعم,إحنا رايحين,يروحو,هما عايزين
-translate,They want to eat,هما عايزين ياكلو,هما رايحين,المتحف,ياكلو,إحنا رايحين,يروحو,هما عايزين
+translate,Come with me,تعالى معايا،فين,عايز,في,البيت,الخريطة
+-
+multichoice
+Downstairs,تحت,عند,ولا,في
+Under,تحت,قدام,ولا,في
+-
+sentence
+translate,I'm downstairs, where are you?,أنا تحت، أنتَ فين؟,عايز,في,البيت,المونوريل
+-
+multichoice
+Sit,أقعد,عند,تحت,في
+Stay,أقعد,قدام,ولا,في
+In,في,عند,قدام,ولا
+At home,في البيت,عند البيت,قدام البيت,ولا البيت
+-
+sentence
+translate,I want to stay at home,عايز أقعد في البيت,تحت,قدام,عند
+-
+multichoice
+In,في,عند,قدام,ولا
+At home,في البيت,عند البيت,قدام البيت,ولا البيت
+Downstairs,تحت,عند,ولا,في
+Under,تحت,قدام,ولا,في
+-
+sentence
+translate,I want to stay at home,عايز أقعد في البيت,تحت,قدام,عند
+translate,I'm downstairs, where are you?,أنا تحت، أنتَ فين؟,عايز,في,البيت,المدخل
 -
 end_1
 
-أخرج,تخرج,تخرجي,يخرج,نخرج,يخرجو
-اكل,ناكل,ياكل,تاكل,تاكلي,ياكلو
-أروح,تروح,تروحي,نروح,يروحو
 
 start_2
+multichoice_img
+far,coffee,near,map,home,fuel,monorail
+بعيد:far
+قريب:near
+-
+sentence
+translate,The place is far,المكان بعيد,قريب,الموقع,نروح
+translate,The place is near,المكان قريب,نروح,بعيد,نتقابل
+-
 multichoice
-Something,حاجة,فين,رايحة,معايا
+We go,نروح,نتقابل,تعالى,معايا
+Shall we go?,نروح؟,نتقابل؟,بعيد,إنتَ محتاج
 -
 sentence
-translate,I need(f) to eat,أنا محتاجة اكل,أنا رايح,أنا محتاجة,اكل,عربية,عندكم,شاي,مدرسة
-translate,I need(m) money,أنا محتاج فلوس,أنا محتاج,فلوس,مطعم,المتحف,أنا رايح,كافيه
-translate,You(m) need(m) coffee,إنتَ محتاج قهوة,إنتَ محتاج,قهوة,عربية,أنا رايح,مدرسة
-translate,Do you(f) need(f) something?,إنتِ محتاجة حاجة,إنتِ محتاجة,حاجة,إنتِ رايحة,مطعم,أنا رايح
+translate,Shall we go by car or by monorail?,نروح بالعربية ولا بالمونوريل,بنزين,الجامعة
+-
+multichoice
+We meet,نتقابل,بعيد,تعالى,وصلت
+Shall we meet?,نتقابل؟,نروح؟,تحت,وصلت
 -
 sentence
-translate,I need(m) to go to the bathroom,أنا محتاج أروح الحمام,أنا محتاج,أروح,الحمام,اكل,شاي,مدرسة
-translate,You(m) need(m) to go to work,إنتَ محتاج تروح الشغل,أنا محتاج,أروح,إنتَ محتاج,تروح,الشغل
-translate,You(f) need(f) to go eat,إنتِ محتاجة تروحي تاكلي,أنا محتاج,أروح,الحمام,اكل,شاي,مدرسة
+translate,Shall we meet at the University?,نتقابل عند الجامعة,الموقع,بالعربية
+translate,Let's meet in front of the entrance,نتقابل قدام المدخل,قهوة,عربية,نروح,بالعربية
+-
+multichoice
+Shall we go?,المكان,نروح؟,وصلت,إنتَ
+Shall we go?,نروح؟,نتقابل؟,بعيد,إنتَ محتاج
+Shall we meet?,نتقابل؟,نروح؟,تحت,وصلت
 -
 sentence
-translate,He needs to go to Mohamed,هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
-translate,She wants to go to a restaurant,هيَ عايزة تروح مطعم,مطعم,هيَ عايزة,مطعم,تروح,هوَ رايح,عند,محمد
-translate,We need to eat,إحنا محتاجين ناكل,إحنا رايحين,كافيه,مطعم,عربية,إحنا محتاجين,ناكل
-translate,We want to go out,إحنا عايزين نخرج,إحنا عايزين,كافيه,مطعم,نخرج,إحنا محتاجين,ناكل
-translate,They want to go to the museum,هما عايزين يروحو المتحف,هما رايحين,المتحف,مطعم,إحنا رايحين,يروحو,هما عايزين
-translate,They want to eat,هما عايزين ياكلو,هما رايحين,المتحف,ياكلو,إحنا رايحين,يروحو,هما عايزين
+translate,I'm at the entrance,أنا عند المدخل,ولا,قدام,نروح
+translate,Shall we go by car or by monorail?,نروح بالعربية ولا بالمونوريل,بنزين,الجامعة
+translate,Let's meet in front of the entrance,نتقابل قدام المدخل,قهوة,عربية,نروح,محتاج
+translate,The place is far,المكان بعيد,قريب,الموقع,نروح
+translate,The place is near,المكان قريب,نروح,بعيد,نتقابل
 -
 end_2
 
-
-
 Dictionary
-[homa] They (are):هما
-[eHna] We (are):إحنا
 [elbeit] The home:البيت
-[elmatHaf] The museum:المتحف
-[matHaf] A museum:متحف
-[madrasa] School:مدرسة
-[cafeh] Coffee (French):كافيه
-[ahwa] Coffee:قهوة
-[rayH] I'm(m) going:رايح
-[rayH] He/You(m) is/are going:رايح
-[rayHa] She/You(f) is/are going:رايحة
-[rayHyyn] We're going:رايحين
-[brwH] I go:بروح
-[bnrwH] We go:بنروح
-[btrwH] You(m) go/ She(f) goes:بتروح
-[byrwH] He goes:بيروح
-[btrwHi] You(f) go:بتروحي
-[byrwHu] They go:بيروحو
-[elmadrasa] The school:المدرسة
-[mat-eam] Restaurant:مطعم
-need(m):محتاج
-need(f):محتاجة
-I have with me:معايا
-[mHmd] A Name:محمد
-a Car:عربية
-You(pl) have / own:عندكم
-Tea:شاي
-Money:فلوس
-[lbn] Milk:لبن
-[elshoghl] The work:الشغل
+[elmakan] The place:المكان
+[ba-Aid] Far:بعيد
+[orayeb] Near:قريب
+[net-a-bel] We meet:نتقابل
+[ne-rouH] We go:نروح
+[elmadkhal] The entrance:المدخل
+[bel-Aarabeya] By car:بالعربية
+[bel-monorail] By monorail:بالمونوريل
+[Aand] At:عند
+[elgamaAa] The university:الجامعة
+[odam] In front of:قدام
+[ana] I / me/ I am:أنا
+[taHt] Under / Downstairs / Below:تحت
+[enta] You (m):أنتَ
+[fen] Where:فين
+[Aala] On the:على
+[elkhariTa] The map:الخريطة
+[taAala] Come:تعالى
+[MaAya] With me:معايا
 -
