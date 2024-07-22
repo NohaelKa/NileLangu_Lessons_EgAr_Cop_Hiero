@@ -94,16 +94,16 @@ work_m,mobile,work_f,cat_f,cat_m,home,boy_cat_f,boy_cat_m,book2,ball,dog_m
 -
 multichoice
 Your(m) name,إسمَك,قطتَك,أختَك,قط
-Your(m) family,عائلتك,قطتَك,أختَك,قط
+Your(m) family,عائلتَك,قطتَك,أختَك,قط
 -
 sentence
-translate,Is this your family?,دي عائلتك,دي,دول,عائلتك,إزي,قط
+translate,Is this your family?,دي عائلتَك,دي,دول,عائلتَك,إزي,قط
 translate,What's your name,إسمَك ايه,إسمَك,دول,ايه,إزي,قط
-translate,Your family is so nice,عائلتك طيبة أوي,عائلتك,طيبة,أوي,إسمَك,قطة,دي
+translate,Your family is so nice,عائلتَك طيبة أوي,عائلتَك,طيبة,أوي,إسمَك,قطة,دي
 -
 sentence
 answer,إسمَك ايه؟,إسمي مينا,إسمي,مينا,إسمَك,دول,ايه,إزي
-translate,Your family is so nice,عائلتك طيبة أوي,عائلتك,طيبة,أوي,إسمَك,قطة,دي
+translate,Your family is so nice,عائلتَك طيبة أوي,عائلتَك,طيبة,أوي,إسمَك,قطة,دي
 -
 multichoice
 Nice(m),لطيف,لطيفة,قطَك,صاحبَك
@@ -122,14 +122,13 @@ end_2
 
 
 Dictionary
-[lateef] Nice:لطيف
-[lateefa] Kind:لطيفة
+[Aeltak] Your Family:عائلتَك
+[lateef] Kind/Nice:لطيف
+[lateefa] Kind/Nice:لطيفة
 [kora] Ball:كرة
 [kortak] Your ball:كرتَك
 [mobylak] Your(m) cell phone:موبيلَك
 [elgedid] The new:الجديد
-[ezyak] How are you (m):إزيَك
-[ezyek] How are you (f):إزيِك
 [ya] (Used to address someone):يا
 [eh] What:ايه
 [ana] I | Me:أنا
@@ -137,11 +136,8 @@ Dictionary
 [Kwysa] Well (f):كويسه
 [enti] You (to a female):أنتِ
 [w] And:و
-[eh] What:ايه
 [Kwys] Well (m):كويس
 [Kwysa] Well (f):كويسه
-[ya] (Used to address someone):يا
-[fi] There is:في
 [mary] A name:ماري
 [aHmd] A name:أحمد
 [enti] You (to female):أنتِ
@@ -154,25 +150,16 @@ Dictionary
 [oTak] Your (m) cat (m):قطَك
 [(sh)o(gh)lk] Your work (to female):شغلِك
 [(sh)o(gh)lk] Your work (to male):شغلَك
-[elshoghl] The work:الشغل
-[w] And:و
-[mt(ae)b] Tiring:متعب
-[gdn] Very:جداً
-[can] Was:كان
-[bta(ae)ak] Your (m) thing (m):بتاعَك
-[bta(ae)ak] Your (m) thing (m):بتاعَك
-[bta(ae)ek] Your (f) thing (m):بتاعِك
 [mHmd] A Name:محمد
 [ezy] How is:إزي
 [da] This (m):دا
 [di] This (f):دي
-[(sh)(gh)l] Work:شغل
 [esmek] Your (m) name:إسمَك
 [dol] Those | These:دول
 [esmi] My name:إسمي
 [saHbak] Your (m) Friend (m):صاحبَك
 [saHbetak] Your (f) Friend (f):صاحبتَك
-[akho] Your (m) brother:أخوك
+[akhok] Your (m) brother:أخوك
 [okhtak] Your (s) sister:أختَك
 [araybak] Your (m) relatives:قرايبَك
 [asHabak] Your (m) friends:أصحابَك
@@ -180,7 +167,7 @@ Dictionary
 [waldak] Your (m) father:والدَك
 [aeltak] Your (m) family:عائلتَك
 [tayeb] Kind (m):طيب
-[tayebq] Kind (f):طيبة
+[tayeb] Kind (f):طيبة
 [awy] Very:أوي
 Mina (Egyptian name):مينا
 [kalbak] Your (m) dog:كلبَك

@@ -30,7 +30,7 @@ answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُك�
 multichoice
 I'll get,هجيب,رايح,رايحة,جبت
 The airport,المطار,محل,بيت,جبت
-Vegetables,خضار,لحمه,فراخ,لبن
+Vegetables,خضار,هشوف,المطعم,لبن
 -
 sentence
 translate,I'll go to the supermarket and I'll get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
@@ -67,7 +67,7 @@ sentence
 translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
 translate,I'll leave in a while,همشي كمان شويه,النهرده,هجيب,عايزه
 translate,I'll eat at home,هاكل في البيت,همشي
-translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,مين
 -
 sentence
 translate,I'll go and see what I want,هروح و هشوف أنا عايزه ايه,هجيب,بُكرا
@@ -76,7 +76,7 @@ answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُك�
 -
 multichoice
 The airport,المطار,محل,بيت,جبت
-Vegetables,خضار,لحمه,فراخ,لبن
+Vegetables,خضار,هشوف,النهرده,لبن
 -
 sentence
 translate,I'll go to the supermarket and get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
@@ -95,7 +95,7 @@ sentence
 translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
 translate,I'll leave in a while,همشي كمان شويه,النهرده,هجيب,عايزه
 translate,I'll eat at home,هاكل في البيت,همشي
-translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,المطعم
 -
 end_1
 
@@ -114,7 +114,7 @@ sentence
 translate,I'll go to the restaurant and I'll eat there,هروح المطعم و هاكل هناك,هجيب,بُكرا
 translate,I'll study in a while,هذاكر كمان شويه,النهرده,هجيب,همشي,عايزه
 translate,I'll study at home,هذاكر في البيت,هاكل,همشي
-translate,I'll eat a burger,هاكل برجر,همشي,خضار,فراخ
+translate,I'll eat a burger,هاكل برجر,همشي,خضار,المطعم
 -
 sentence
 translate,I'll go and see what I want,هروح و هشوف أنا عايزه ايه,هجيب,بُكرا
@@ -123,7 +123,7 @@ answer,هتشوف مين النهرده؟,هشوف نهى النهرده,بُك�
 -
 multichoice
 The airport,المطار,محل,بيت,جبت
-Vegetables,خضار,لحمه,فراخ,لبن
+Vegetables,خضار,هشوف,المطعم,لبن
 -
 sentence
 translate,I'll go to the supermarket and get vegetables,هروح السوبر ماركت و هجيب خضار,إمبارح,رُحت
@@ -150,6 +150,7 @@ end_2
 
 
 Dictionary
+[ra-yi] My opinion :رأيي
 I'll go:هروح
 I'll walk/leave:همشي
 I'll study:هذاكر

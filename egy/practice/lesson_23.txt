@@ -36,11 +36,11 @@ translate,You(m) need coffee,إنتَ محتاج قهوة,إنتَ محتاج,ق
 translate,Do you(f) need something?,إنتِ محتاجة حاجة,إنتِ محتاجة,حاجة,إنتِ رايحة,مطعم,أنا رايح
 -
 multichoice
-I have a need(m) to go,أنا محتاج أروح,فين,رايحة,أنا عايز أروح
-You(m) have a need to go,إنتَ محتاج تروح,لبن,إنتِ عايزة تروحي,أنا محتاج أروح
-You(f) have a need to go,إنتِ محتاجة تروحي,لبن,إنتَ محتاج تروح,فين
-You(f) want to go,إنتِ عايزة تروحي,أنا محتاج أروح,محمد,إنتَ محتاج تروح
-I want(m) to go,أنا عايز أروح,مي,أنا محتاج أروح,عامل
+I have a need(m) to go(there),أنا محتاج أروح,فين,رايحة,أنا عايز أروح
+You(m) have a need to go(there),إنتَ محتاج تروح,لبن,إنتِ عايزة تروحي,أنا محتاج أروح
+You(f) have a need to go(there),إنتِ محتاجة تروحي,لبن,إنتَ محتاج تروح,فين
+You(f) want to go(there),إنتِ عايزة تروحي,أنا محتاج أروح,محمد,إنتَ محتاج تروح
+I want(m) to go(there),أنا عايز أروح,مي,أنا محتاج أروح,عامل
 -
 sentence
 translate,I need(m) to go to the bathroom,أنا محتاج أروح الحمام,أنا محتاج,أروح,الحمام,آكل,شاي,مدرسة
@@ -62,7 +62,7 @@ start_1
 multichoice
 I (m) need to eat,أنا محتاج آكل,أنا رايح,إنتِ رايحة,معايا
 I (m) want to go out,أنا عايز أخرج,أنا رايح,إنتِ رايحة,إنتَ محتاج
-I (f) need to go (to),أنا محتاجة أروح,إنتَ عايز,أنا رايحة,رايح
+I (f) need to go (there),أنا محتاجة أروح,إنتَ عايز,أنا رايحة,رايح
 -
 multichoice
 You(m) want to eat,إنتَ عايز تاكل,أنا رايح,إنتِ رايحة,معايا
@@ -79,7 +79,7 @@ We need,إحنا محتاجين,هما محتاجين,رايح,فين
 They need,هما محتاجين,إحنا محتاجين,رايح,فين
 -
 sentence
-translate,He needs to go to Mohamed,هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
+translate,He needs to go at Mohamed's(home/location),هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
 translate,She wants to go to a restaurant,هيَ عايزة تروح مطعم,مطعم,هيَ عايزة,مطعم,تروح,هوَ رايح,عند,محمد
 translate,We need to eat,إحنا محتاجين ناكل,إحنا رايحين,كافيه,مطعم,عربية,إحنا محتاجين,ناكل
 translate,We want to go out,إحنا عايزين نخرج,إحنا عايزين,كافيه,مطعم,نخرج,إحنا محتاجين,ناكل
@@ -108,7 +108,7 @@ translate,You(m) need to go to work,إنتَ محتاج تروح الشغل,أن
 translate,You(f) need to go eat,إنتِ محتاجة تروحي تاكلي,أنا محتاج,أروح,الحمام,آكل,شاي,مدرسة
 -
 sentence
-translate,He needs to go to Mohamed,هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
+translate,He needs to go at Mohamed's(home/location),هوَ محتاج يروح عند محمد,أنا رايح,يروح,عندكم,هوَ محتاج,عند,محمد
 translate,She wants to go to a restaurant,هيَ عايزة تروح مطعم,مطعم,هيَ عايزة,مطعم,تروح,هوَ رايح,عند,محمد
 translate,We need to eat,إحنا محتاجين ناكل,إحنا رايحين,كافيه,مطعم,عربية,إحنا محتاجين,ناكل
 translate,We want to go out,إحنا عايزين نخرج,إحنا عايزين,كافيه,مطعم,نخرج,إحنا محتاجين,ناكل

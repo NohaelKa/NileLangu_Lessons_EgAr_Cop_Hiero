@@ -125,19 +125,27 @@ translate,The coffee is great,القهوة حلوة,حلو,بُكرا,لو سم�
 translate,The meat is not nice,اللحمة مش حلوة,حلو,بُكرا,لو سمحتي,عربية
 -
 multichoice
-No thank you,لأ شكراً,من فضلَك,من فضلِك,النهرده
-Yes please,أيوه شكراً,من فضلَك,من فضلِك,لأ شكرا
-So much,أوي,من فضلَك,إمبارح,النهرده
-So much,جداً,من فضلَك,إمبارح,النهرده
-It's nice(m),حلو,من فضلَك,حلوة,النهرده
-It's nice(f),حلوة,من فضلَك,إمبارح,حلو
-Your welcome,عفواً,من فضلَك,إمبارح,شكراً
+عفواً,Your welcome,It's nice(f),So much,It's nice(f)
+حلوة,It's nice(f),It's nice(m),So much,No thank you
+جداً,So much,It's nice(m),Your welcome,It's nice(f)
+حلو,It's nice(m),So much,Yes please,,It's nice(f)
+أيوه من فضلَك,Yes please,It's nice(m),No thank you,Your welcome
+لأ شكراً,No thank you,It's nice(m),So much,Yes please
 -
 end_2
 
 
 
+
 Dictionary
+[men] From :من
+[faDlak] Your generousity:فضلَك
+[Afwan] Your welcome:عفواً
+[agaza] Vacation:أجازة
+[almosaAda] The help:المساعدة
+[embaraH] Yesterday:إمبارح
+[law] If:لو
+[shokran] Thank you:شكراً
 [ezyak] How are you (m):إزيَك
 [ezyek] How are you (f):إزيِك
 [ya] (Used to address someone):يا

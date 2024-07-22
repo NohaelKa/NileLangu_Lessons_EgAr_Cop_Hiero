@@ -2,7 +2,6 @@
 Lesson: 24
 Going out + Prepositions
 
-Todo: Rename lesson in DB to add + Prepositions
 Full list of things to learn:
 نروح بالعربية ولا بالمونوريل؟
 نتقابل عند الجامعة؟
@@ -16,7 +15,7 @@ Full list of things to learn:
 
 start_0
 multichoice_img
-restaurant,map,far,near,museum,home,fuel,monorail
+restaurant,map,far,near,museum,home,fuel,monorail,university
 الجامعة:university
 الخريطة:map
 مونوريل:monorail
@@ -90,7 +89,7 @@ end_1
 
 start_2
 multichoice_img
-far,coffee,near,map,home,fuel,monorail
+far,coffee,near,map,home,fuel,monorail,university
 بعيد:far
 قريب:near
 -

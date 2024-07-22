@@ -141,6 +141,11 @@ end_2
 
 
 Dictionary
+[howa] He:هوَ
+[Aand] At:عند
+[kaman] Again / More:كمان
+[kanet] It was:كانت
+[embaraH] Yesterday:إمبارح
 [wal-la] Or:ولا
 [elae-zooma] The invitation:العزومة
 [elkhrouga] The outing:الخروجة

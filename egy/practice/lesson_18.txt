@@ -25,11 +25,11 @@ write_it
 بعد ساعة,س,ا,ع,ة,ب,د
 -
 sentence
-translate,أنا فاضي,I(m) have available time,playing,working
+translate,أنا فاضي,I(masc) have available time,playing,working
 translate,محمد فاضي,Mohamed has available time,Mohamed,working,I have,has,I'm
 translate,ماري فاضية,Mary has available time,playing,working,I have,has,Mary
-translate,I'm available(m) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
-translate,I'm available(m) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
+translate,I'm available(masc) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
+translate,I'm available(masc) for one hour,أنا فاضي لمدة‏ ساعة,فاضي,لمدة‏,ساعة,فاضية,أنا
 -
 multichoice
 When,إمتى,كمان,مدة,ساعة
@@ -40,13 +40,12 @@ translate,فاضية إمتى؟,When are you available,playing,available,working
 translate,بعد ساعة,After one hour,available time,working,I have,I am,After,one,hour
 -
 sentence
-answer,فاضية إمتى يا نهى؟,بعد ساعة,بعد,ساعة,أنا,أهلاً,إنتو,عشر
-question,فاضي بعد ساعة,فاضية,مدة,ساعة,فاضية,إمتى,يا,محمد
-answer,إنتَ فاضي؟(You are available in one hour),أيوه أنا فاضي بعد ساعة,أيوه,أنا فاضي,أنا  فاضية,أهلاً,إنتو,بعد,ساعة
-answer,أنتِ فاضية يا مي بعد ساعة؟,أه فاضية,اه,فاضية,أنا فاضي,أهلاً
+answer,فاضية إمتى يا نهى؟,بعد ساعة,بعد,ساعة,أنا,أهلاً,عشر
+question,فاضي بعد ساعة,فاضي إمتى يا محمد,مدة,فاضية,ساعة,إمتى,يا,محمد
+answer,إنتَ فاضي؟(You are available in one hour)‎ ,أيوه أنا فاضي بعد ساعة,أيوه,أنأ,فاضي,فاضية,أهلاً,إنتو,بعد,ساعة
+answer,أنتِ فاضية يا مي بعد ساعة؟,أه أنا فاضية,اه,فاضية,أنا,فاضي,أهلاً
 -
 end_0
-
 
 
 start_1

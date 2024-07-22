@@ -2,10 +2,6 @@
 Lesson: 28
 Shopping
 
-Audio: done
-Dictionary: Todo
-Database: done
-
 start_0
 multichoice_img
 pants,blouse,dress,slippers,shoe,jacket,sunglasses
@@ -153,6 +149,10 @@ end_3
 
 
 Dictionary
+[olt] You(m) said :قُلت
+[maZbouT] Exactly:مظبوط
+[kebir] Big (m):كبير
+[soghayar] Small (m):صغير
 Glasses of Sun:نظارة‏ شمس
 Blouse:بلوزة
 Dress:فستان

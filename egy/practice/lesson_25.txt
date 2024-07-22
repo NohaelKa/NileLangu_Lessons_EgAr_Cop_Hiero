@@ -8,7 +8,7 @@ Full list of things to learn:
 بتتكلم,بتتكلمي
 فاهم, مش فاهم,
 يعني ايه ... ؟
-مَج
+طبق
 
 صح, غلط
 الكلمة دي صعبة ,سهلة
@@ -23,7 +23,7 @@ Full list of things to learn:
 
 start_0
 multichoice
-I speak,أنا بتكلم ,أنا رايح,إنتِ رايحة,عندي
+I speak,أنا بتكلم ,أنا رايح,أنتِ رايحة,عندي
 Egyptian,مصري,أنا رايح,إنجليزي,نوبي
 Arabic,عربي,أنا رايح,إنجليزي,نوبي
 English,إنجليزي,نوبي,فرنساوي,رايح
@@ -31,32 +31,32 @@ French,فرنساوي,إنجليزي,عربي,أنا محتاج
 Nubian,نوبي,إنجليزي,محمد,فرنساوي
 -
 sentence
-translate,I speak Egyptian,أنا بتكلم مصري,أنا,بتكلم,عربي,مصري,عربية,فرنساوي,فلوس,إنتَ
-translate,I speak Arabic,أنا بتكلم عربي,أنا,بتكلم,عربي,مصري,عربية,فرنساوي,فلوس,إنتَ
-translate,I speak French,أنا بتكلم فرنساوي,أنا,بتكلم,عربي,مصري,عربية,المتحف,فرنساوي,إنتَ
-translate,Do you(m) speak(m) Egyptian?,إنتَ بتتكلم مصري,إنتَ بتتكلم,إنتِ,بتكلمي,مصري,عربية,المتحف,فرنساوي,عربي
-translate,Do you(f) speak(f) Arabic?,إنتِ بتتكلمي عربي,إنتِ,بتتكلمي,نوبي,مصري,عربية,إنتَ,بتتكلم,فرنساوي,عربي
+translate,I speak Egyptian,أنا بتكلم مصري,أنا,بتكلم,عربي,مصري,عربية,فرنساوي,فلوس,أنتََ
+translate,I speak Arabic,أنا بتكلم عربي,أنا,بتكلم,عربي,مصري,عربية,فرنساوي,أنتََ
+translate,I speak French,أنا بتكلم فرنساوي,أنا,بتكلم,عربي,مصري,عربية,المتحف,أنتََ
+translate,Do you(m) speak(m) Egyptian?,أنتََ بتتكلم مصري,بتكلمي,عربية,المتحف,فرنساوي,عربي
+translate,Do you(f) speak(f) Arabic?,أنتِ بتتكلمي عربي,مصري,عربية,بتتكلم,فرنساوي
 -
 multichoice
 I understand(m),أنا فاهم,أنا فاهمة,رايحة,أنا مش فاهم
-I don't understand(m),أنا مش فاهم,لبن,إنتِ عايزة تروحي,أنا فاهم
+I don't understand(m),أنا مش فاهم,لبن,أنتِ عايزة تروحي,أنا فاهم
 I understand(f),أنا فاهمة,فين,أنا مش فاهمة,أنا مش فاهم
 I don't understand(f),أنا مش فاهمة,لبن,أنا فاهمة,أنا فاهم
 -
 multichoice
 Kind of,يعني,يعني ايه كوباية؟,أنا فاهم,أنا مش فاهم
-What,ايه,يعني ايه مَج,يعني ...,فاهم
-What does it mean?,يعني ايه,يعني ايه مَج,يعني ...,أنا مش فاهم
+What,ايه,يعني ايه طبق,يعني ...,فاهم
+What does it mean?,يعني ايه,يعني ايه طبق,يعني ...,أنا مش فاهم
 It means ...,يعني ...,يعني ايه,مش,أنا فاهم
 -
 sentence
-translate,Yes I understand(m),أيوه أنا فاهم,أنا فاهم,أيوه,مصري,عربية,فرنساوي,فلوس,إنتَ
-translate,No I don't understand(f),لأ مش فاهمة,مش,لأ,مصري,فاهمة,المتحف,فرنساوي,إنتَ
+translate,Yes I understand(m),أيوه أنا فاهم,مصري,لأ,فرنساوي,أنتََ
+translate,No I don't understand(f),لأ مش فاهمة,أيوه,مصري,فاهم,المتحف,فرنساوي
 -
 sentence
-translate,What does it mean?,يعني ايه,يعني,أيوه,ايه,عربية,فرنساوي,فلوس
-translate,No I don't understand(m),لأ مش فاهم,مش,لأ,مصري,فاهمة,فاهم,فرنساوي,إنتَ
-translate,Yes I understand(f),أيوه أنا فاهمة,أنا فاهمة,أيوه,مصري,عربية,فرنساوي,فلوس,إنتَ
+translate,What does it mean?,يعني ايه,أيوه,عربية,فرنساوي,فلوس
+translate,No I don't understand(m),لأ مش فاهم,مش,أيوه,مصري,فاهمة,أنتََ
+translate,Yes I understand(f),أيوه أنا فاهمة,فاهم,لأ,مش,أنتََ
 -
 end_0
 
@@ -73,19 +73,19 @@ Difficult(m),صعب,غلط,سهل,صح
 -
 multichoice
 Yes correct,أيوة صح,أنا رايح,لأ غلط,معايا
-No wrong,لأ غلط,أيوة صح,إنتِ رايحة,إنتَ محتاج
+No wrong,لأ غلط,أيوة صح,أنتِ رايحة,أنتََ محتاج
 -
 sentence
-translate,This(m) is so difficult,دا صعب أوي,دا,صعب,أوي,عند,سهل
-translate,This(m) is so easy,دا سهل أوي,دا,صعب,أوي,عند,سهل
+translate,This(m) is so difficult,ده صعب أوي,عند,سهل
+translate,This(m) is so easy,ده سهل أوي,صعب,عند
 -
 multichoice
 Word,كلمة,غلط,سهل,جملة
 Sentence,جملة,صح,كلمة,صعب
 -
 sentence
-translate,This word is easy,الكلمة دي سهلة,دا,دي,صعب,أوي,سهلة,الكلمة,سهل
-translate,This sentence is difficult,الجملة دي صعبة,الجملة,دا,صعبة,دي,صعب,أوي,الكلمة,سهل
+translate,This word is easy,الكلمة دي سهلة,ده,صعب,أوي,سهل
+translate,This sentence is difficult,الجملة دي صعبة,ده,صعب,أوي,الكلمة,سهل
 -
 multichoice
 You(m) repeat,تعيد,كلمة,سهل,تعيدي
@@ -93,10 +93,14 @@ You(f) repeat,تعيدي,تعيد,سهل,رايحين
 Is it possible,ممكن,جملة,فين,رايحين
 -
 sentence
-translate,I don't understand(m). Repeat(to m) if possible?,أنا مش فاهم ممكن تعيد,أنا مش,فاهم,ممكن,تعيد,دا,دي,صعب,أوي,الكلمة,سهل
-translate,I don't understand(m) this word,أنا مش فاهم الكلمة دي,أنا مش,فاهم,دا,دي,صعب,أوي,الكلمة,سهل
-translate,I don't understand(f). Repeat(to f) if possible?,أنا مش فاهمة ممكن تعيدي,أنا مش,فاهمة,ممكن,تعيدي,دا,دي,صعب,أوي,الكلمة,سهل
-translate,I don't understand(f) this word,أنا مش فاهمة الكلمة دي,أنا مش,فاهم,دا,دي,صعب,أوي,الكلمة,سهل
+translate,Please Repeat(to m),ممكن تعيد,أنا,مش,تعيدي,صعب,أوي,الكلمة,سهل
+translate,Please Repeat(to f),ممكن تعيدي,أنا,مش,فاهم,صعب,أوي,الكلمة,تعيد
+-
+sentence
+translate,I don't understand(m). Please Repeat(to m),أنا مش فاهم ممكن تعيد,ده,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(m) this word,أنا مش فاهم الكلمة دي,فاهمة,ده,صعب,أوي,سهل
+translate,I don't understand(f). Please Repeat(to f),أنا مش فاهمة ممكن تعيدي,فاهم,تعيد,ده,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(f) this word,أنا مش فاهمة الكلمة دي,فاهم,ده,صعب,أوي,سهل
 -
 end_1
 
@@ -113,8 +117,8 @@ a little,شوية,غلط,سهل,صح
 I'm learning,بتعلم,غلط,سهل,بتكلم
 -
 sentence
-translate,I have a question,عندي سؤال,عندي,سؤال,دا,صعب,أوي,عند,سهل
-translate,I speak a little,بتكلم شوية,بتكلم,شوية,دا,صعب,أوي,عند,سهل
+translate,I have a question,عندي سؤال,عندي,سؤال,ده,صعب,أوي,عند,سهل
+translate,I speak a little,بتكلم شوية,بتكلم,شوية,ده,صعب,أوي,عند,سهل
 -
 multichoice
 Word,كلمة,غلط,سهل,جملة
@@ -123,7 +127,7 @@ Alright got it,تمام,غلط,سهل,جملة
 Affirmative,تمام,صح,كلمة,صعب
 -
 sentence
-translate,I have a question, what does this word mean?,عندي سؤال يعني ايه الكلمة دي,دا,صعب,أوي,عند,سهل
+translate,I have a question, what does this word mean?,عندي سؤال يعني ايه الكلمة دي,ده,صعب,أوي,عند,سهل
 translate,I'm learning Egyptian from NileLangu,أنا بتعلم مصري من نايل لانجو,صعب,أوي,عند,سهل
 -
 multichoice
@@ -132,13 +136,13 @@ You(f) repeat,تعيدي,تعيد,سهل,رايحين
 Is it possible,ممكن,جملة,فين,رايحين
 -
 sentence
-translate,Yes alright I understand(m),أيوه تمام أنا فاهم,أنا فاهم,أيوه,تمام,عربية,فرنساوي,فلوس,إنتَ
-translate,No I don't understand(f),لأ مش فاهمة,مش,لأ,مصري,مش,فاهمة,المتحف,فرنساوي,إنتَ
+translate,Yes alright I understand(m),أيوه تمام أنا فاهم,أنا فاهم,أيوه,تمام,عربية,فرنساوي,فلوس,أنتََ
+translate,No I don't understand(f),لأ مش فاهمة,مش,لأ,مصري,مش,فاهمة,المتحف,فرنساوي,أنتََ
 -
 sentence
 translate,What does it mean?,يعني ايه,يعني,أيوه,ايه,عربية,فرنساوي,فلوس
-translate,I don't understand(m). Repeat(to m) if possible?,أنا مش فاهم ممكن تعيد,دا,دي,صعب,أوي,الكلمة,سهل
-translate,I don't understand(f). Repeat(to f) if possible?,أنا مش فاهمة ممكن تعيدي,دا,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(m). Repeat(to m) if possible?,أنا مش فاهم ممكن تعيد,ده,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(f). Repeat(to f) if possible?,أنا مش فاهمة ممكن تعيدي,ده,دي,صعب,أوي,الكلمة,سهل
 -
 multichoice
 You(m) repeat,تعيد,كلمة,سهل,تعيدي
@@ -147,8 +151,8 @@ Is it possible,ممكن,جملة,فين,رايحين
 -
 sentence
 translate,What does it mean?,يعني ايه,يعني,أيوه,ايه,عربية,فرنساوي,فلوس
-translate,I don't understand(m). Repeat(to m) if possible?,أنا مش فاهم ممكن تعيد,دا,دي,صعب,أوي,الكلمة,سهل
-translate,I don't understand(f). Repeat(to f) if possible?,أنا مش فاهمة ممكن تعيدي,دا,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(m). Repeat(to m) if possible?,أنا مش فاهم ممكن تعيد,ده,دي,صعب,أوي,الكلمة,سهل
+translate,I don't understand(f). Repeat(to f) if possible?,أنا مش فاهمة ممكن تعيدي,ده,دي,صعب,أوي,الكلمة,سهل
 -
 end_2
 
@@ -176,7 +180,7 @@ Dictionary
 [yaeni] It means / Kind of:يعني
 [fahema] I(f)/She/You(f) understand:فاهمة
 [fahem] He/You(m)/I(m) understand:فاهم
-[mag] Mug:مَج
+[taba'] Plate:طبق
 [frnsawy] French:فرنساوي
 [msh] Not:مش
 [englyzi] English:إنجليزي
@@ -207,13 +211,13 @@ Need (f):محتاجة
 [mHmd] A Name:محمد
 A car:عربية
 Money:فلوس
-[enta] You (m):إنتَ
+[enta] You (m):أنتََ
 [lbn] Milk:لبن
 [eh] What:ايه
 [aywa] Yes:أيوه
 [la] No:لأ
 I have with me:معايا
-[da] This (m):دا
+[da] This (m):ده
 [di] This (f):دي
 مصري:egyptian
 عربي:arabic
