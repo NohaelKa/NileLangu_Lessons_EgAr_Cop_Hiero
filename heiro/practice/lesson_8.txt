@@ -1,9 +1,9 @@
 Lesson 8
 Notes /**
 Pronouns (2)
+Gardiner Vocab PDF page 79
 
-‎
-Todo record: all
+​: Suffix Connector
 
 𓀀: I /me /my, 𓎡: You / Your (m), 𓍿: You /Your (f),𓆑: He/Him,His, 𓋴: She/ Her/ hers, 𓈖𓏥: We, us, our, 𓍿𓈖𓏥: Your/ Your (pl), 
 
@@ -19,45 +19,35 @@ Todo record: all
 **/ End of Notes
 
 //Suffix pronouns
+
 start_0
-audiochoice
-𓉐𓏺,𓃀,𓅱
-𓆑,𓃭,𓅓
-𓍿,𓆑,𓊪
-𓊪,𓃀,𓅓
-𓏏,𓊪,𓃀
-𓅱,𓃀,𓊪
-𓀀,𓃀,𓊪
--
 multichoice_img
-moon,sun,sun_god,sky,home
+work_m,sun,sun_god,sky,home,city
 𓉐𓏺:home
+𓊖𓏏𓏺:city
+𓆼𓄿𓉹:work_m
 -
 multichoice
-𓉐𓏺,House,In,Rise,Mouth
-𓅓,in,Cobra,Rise,Mouth
-𓇋𓅱,is/was,Sky,Sun,Rise
+𓁷𓏤,Face,Office,City,Mouth
+𓅭𓏤𓀀,Son,Face,City,Mouth
 -
 sentence
-translate,𓉐𓏺𓆑,His house,the,sun,rises,in,the,sky,His,house
-translate,𓉐𓏺𓎡,Your(m) house,the,sun,rose,in,the,sky,Your(m),house
-translate,𓉐𓏺𓍿,Your(f) house,the,sun,rose,in,the,sky,Your(f),house
-translate,𓉐𓏺𓋴,Her house,the,sun,rose,in,the,sky,Her,house
-translate,𓉐𓏺𓆑,His house,the,sun,rose,in,the,sky,His,house
-translate,𓉐𓏺𓀀,My house,the,sun,rose,in,the,sky,My,house
--
-multichoice
-𓉐𓏺,House,In,Rise,Mouth
-𓅓,in,Cobra,Rise,Mouth
-𓇋𓅱,is/was,Sky,Sun,Rise
+translate,𓁷𓏤​𓆑,His face,Your(m),office,city,My
+translate,𓊖𓏏𓏺​𓎡,Your(m) city,His,Your(f),Her,My
+translate,𓅭𓏤𓀀​𓍿,Your(f) son,Your(m),Their,office,My
+translate,𓉐𓏺​𓋴,Her house,His,city,Your(m),face
+translate,𓁷𓏤​𓀀,My face,Your(m),Your(f),Her,house
+translate,𓊖𓏏𓏺​𓋴𓈖𓏥,Their city,Your(m),Your(f),face,house
+translate,𓆼𓄿𓉹​𓈖𓏥,Our office,Their,city,Your(m)
 -
 sentence
-translate,𓉐𓏺𓆑,His house,the,sun,rises,in,the,sky,His,house
-translate,𓉐𓏺𓎡,Your(m) house,the,sun,rose,in,the,sky,Your(m),house
-translate,𓉐𓏺𓍿,Your(f) house,the,sun,rose,in,the,sky,Your(f),house
-translate,𓉐𓏺𓋴,Her house,the,sun,rose,in,the,sky,Her,house
-translate,𓉐𓏺𓆑,His house,the,sun,rose,in,the,sky,His,house
-translate,𓉐𓏺𓀀,My house,the,sun,rose,in,the,sky,My,house
+translate,His son,𓅭𓏤𓀀​𓆑,𓉐𓏺​𓎡,𓅭𓏤𓀀​𓍿,𓆼𓄿𓉹​𓀀
+translate,Your(m) face,𓁷𓏤​𓎡,𓊖𓏏𓏺​𓋴,𓉐𓏺​𓍿
+translate,Your(f) office,𓆼𓄿𓉹​𓍿,𓊖𓏏𓏺​𓋴,𓉐𓏺​𓎡
+translate,Her city,𓊖𓏏𓏺​𓋴,𓉐𓏺​𓍿,𓉐𓏺​𓀀,𓊖𓏏𓏺​𓀀
+translate,My house,𓉐𓏺​𓀀,𓊖𓏏𓏺​𓀀,𓅭𓏤𓀀​𓋴,𓉐𓏺​𓍿
+translate,Their office,𓆼𓄿𓉹​𓋴𓈖𓏥,𓉐𓏺​𓀀,𓆼𓄿𓉹​𓋴
+translate,Our house,𓉐𓏺​𓈖𓏥,𓉐𓏺​𓋴𓈖𓏥,𓅭𓏤𓀀​𓋴
 -
 end_0
 
@@ -73,68 +63,59 @@ multichoice
 𓈖,to,in,Rise,Mouth
 -
 sentence
-translate,𓄔𓅓𓀀,I hear,I,hear,his,house,say
-translate,𓄔𓅓𓎡,You(m) hear,I,You(m),hear,his,house
-translate,𓆓𓂧𓍿,You(f) say,I,you(m),hear,his,house,You(f),say
-translate,𓆓𓂧𓆑,He says,I,you(m),hears,He,house,you(f),says
-translate,𓄔𓅓𓋴,She hears,I,She,hears,he,house,you(f)
+translate,𓄔𓅓𓀀,I hear,He,says,hears
+translate,𓄔𓅓𓎡,You(m) hear,I,his,You(f)
+translate,𓆓𓂧​𓍿,You(f) say,I,You(m),hear,his
+translate,𓆓𓂧​𓆑,He says,I,She,hears,You(f)
+translate,𓄔𓅓​𓋴,She hears,I,He,hear
 -
 sentence
-translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,She,said,to,him,we,house
-translate,𓆓𓂧𓀀 𓈖 𓋴,I said to her,She,said,to,him,we,house
+translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,We,her
+translate,𓆓𓂧​𓀀 𓈖 𓋴,I said to her,She,him
 -
 sentence
-translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,we,house
-translate,𓄔𓅓𓀀,I hear,I,hear,his,house
-translate,𓄔𓅓𓎡,You(m) hear,I,You(m),hear,his,house
-translate,𓆓𓂧𓍿,You(f) say,I,you(m),hear,his,house,You(f),say
-translate,𓆓𓂧𓆑,He says,I,you(m),hears,He,house,you(f),says
-translate,𓄔𓅓𓋴,She heard,I,She,he,house,you(f),says
-translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,She,said,to,him,we,house
-translate,𓆓𓂧𓀀 𓈖 𓋴,I say to her,She,to,him,we,house
+translate,𓆓𓂧𓋴 𓈖 𓆑,She said to him,we
+translate,𓄔𓅓𓀀,I hear,I,hear,his
+translate,𓄔𓅓𓎡,You(m) hear,I,You(m),hear,his
+translate,𓆓𓂧​𓍿,You(f) say,I,you(m),hear,his,You(f),say
+translate,𓆓𓂧​𓆑,He says,I,you(m),hears,He,house,you(f),says
+translate,𓄔𓅓​𓋴,She heard,I,She,he,you(f),says
+translate,𓆓𓂧​𓆑 𓈖 𓋴,He said to her,She,said,to,him
+translate,𓆓𓂧𓀀 𓈖 𓋴,I say to her,She,to,him,we
 -
 end_1
 
 //Compound pronouns
 start_2
-multichoice
-𓄔𓅓,Hear,House,In,Rise
-𓆓𓂧,Say,in,Cobra,Hear
-𓈖,to,in,Rise,Mouth
--
-multichoice
-𓉐𓏺,House,In,Rise,Mouth
-𓅓,in,Cobra,Rise,Mouth
-𓇋𓅱,is/was,Sky,Sun,Rise
+sentence
+translate,𓉐𓏺​𓍿𓈖𓏥,Your(pl) house,Your(pl),sun,rose,in,the,sky,my,house
+translate,𓉐𓏺​𓈖𓏥,Our house,your(pl),sun,Our,in,the,sky,my,house
+translate,𓉐𓏺​𓋴𓈖𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+translate,𓉐𓏺​𓅱𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
 -
 sentence
-translate,𓉐𓏺 𓍿𓈖𓏥,Your(pl) house,Your(pl),sun,rose,in,the,sky,my,house
-translate,𓉐𓏺 𓈖𓏥,Our house,your(pl),sun,Our,in,the,sky,my,house
-translate,𓉐𓏺 𓋴𓈖𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
-translate,𓉐𓏺 𓅱𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
+translate,𓆓𓂧​𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,They,us
+translate,𓆓𓂧​𓋴𓈖𓏥,They say,your(pl),sun,They,in,the,sky,my,say
+translate,𓆓𓂧​𓈖𓏥,We say,your(pl),sun,We,in,the,sky,my,say
+translate,𓄔𓅓​𓍿𓈖𓏥,You(pl) hear,Your(pl),sun,rose,in,the,sky,my,hear
 -
 sentence
-translate,𓆓𓂧 𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,house,They,us
-translate,𓆓𓂧 𓋴𓈖𓏥,They say,your(pl),sun,They,in,the,sky,my,house,say
-translate,𓆓𓂧 𓈖𓏥,We say,your(pl),sun,We,in,the,sky,my,house,say
-translate,𓄔𓅓 𓍿𓈖𓏥,You(pl) hear,Your(pl),sun,rose,in,the,sky,my,house,hear
+translate,𓉐𓏺​𓍿𓈖𓏥,Your(pl) house,Your(pl),rose,in,the,sky,my
+translate,𓉐𓏺​𓈖𓏥,Our house,your(pl),city,Our,in,the,sky,my
+translate,𓉐𓏺​𓋴𓈖𓏥,Their house,your(pl),office,Their,in,the,sky,my
+translate,𓉐𓏺​𓅱𓏥,Their house,your(pl),Their,in,the,sky,my
 -
 sentence
-translate,𓉐𓏺 𓍿𓈖𓏥,Your(pl) house,Your(pl),sun,rose,in,the,sky,my,house
-translate,𓉐𓏺 𓈖𓏥,Our house,your(pl),sun,Our,in,the,sky,my,house
-translate,𓉐𓏺 𓋴𓈖𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
-translate,𓉐𓏺 𓅱𓏥,Their house,your(pl),sun,Their,in,the,sky,my,house
--
-sentence
-translate,𓆓𓂧 𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,house,They,us
-translate,𓆓𓂧 𓋴𓈖𓏥,They say,your(pl),sun,They,in,the,sky,my,house,say
-translate,𓆓𓂧 𓈖𓏥,We say,your(pl),sun,We,in,the,sky,my,house,say
-translate,𓄔𓅓 𓍿𓈖𓏥,You(pl) hear,Your(pl),sun,rose,in,the,sky,my,house,hear
+translate,𓆓𓂧​𓋴𓈖𓏥 𓈖 𓈖𓏥,They said to us,she,said,to,him,we,They,us
+translate,𓆓𓂧​𓋴𓈖𓏥,They say,your(pl),We,in,the,my
+translate,𓆓𓂧​𓈖𓏥,We say,your(pl),They,in,the,sky,my,house
+translate,𓄔𓅓​𓍿𓈖𓏥,You(pl) hear,Your(pl),the,You (m)
 -
 end_2
 
 
 I am heard
+
 
 start_3
 multichoice
@@ -144,29 +125,34 @@ multichoice
 𓏏𓅱,(Passive verb),(Active verb),Rise,Mouth
 -
 sentence
-translate,𓄔𓅓 𓏏𓅱𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓏺𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
-translate,𓄔𓅓 𓏏𓅱𓆑,He's heard,She's,hear,in,the,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
-translate,𓄔𓅓 𓏏𓅱𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
-translate,𓄔𓅓 𓏏𓅱𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
+translate,𓄔𓅓​𓏏𓅱​𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓​𓏏𓅱𓏺​𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
+translate,𓄔𓅓​𓏏𓅱​𓆑,He's heard,She's,hear,in,the,sky,my,house
+translate,𓄔𓅓​𓏏𓅱​𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
+translate,𓄔𓅓​𓏏𓅱​𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
+translate,𓄔𓅓​𓏏𓅱​𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓​𓏏𓅱​𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
 -
 sentence
-translate,𓄔𓅓 𓏏𓅱𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓏺𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
-translate,𓄔𓅓 𓏏𓅱𓆑,He's heard,She's,hear,in,the,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
-translate,𓄔𓅓 𓏏𓅱𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
-translate,𓄔𓅓 𓏏𓅱𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
-translate,𓄔𓅓 𓏏𓅱𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
+translate,𓄔𓅓​𓏏𓅱​𓀀,I'm heard,He's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓​𓏏𓅱𓏺​𓋴,She's heard,He's,I'm,hear,in,We're,sky,my
+translate,𓄔𓅓​𓏏𓅱​𓆑,He's heard,She's,hear,in,the,sky,my,house
+translate,𓄔𓅓​𓏏𓅱​𓎡,You're(m) heard,He's,She's,They're,in,the,my,house
+translate,𓄔𓅓​𓏏𓅱​𓍿,You're(f) heard,He's,She's,hear,in,the,sky,my
+translate,𓄔𓅓​𓏏𓅱​𓈖𓏥,We're heard,he's,She's,hear,in,They're,sky,my,house
+translate,𓄔𓅓​𓏏𓅱​𓋴𓈖𓏥,They're heard,He's,She's,hear,We're,the,my
 -
 end_3
 
 
 Dictionary
+[sa'][ⲥⲁ] Son:𓅭𓏤𓀀
+[Kha] Office; Diwan:𓆼𓄿𓉹
+[Hr][ϩⲟ] Face:𓁷𓏤
+[niwt] City:𓊖𓏏𓏺
+[n] We; Us; Our:𓈖𓏥
 [sn] They; Them; Their:𓋴𓈖𓏥
-[w] They; Them:𓅱𓏥
+[w] They; Them; Their:𓅱𓏥
 [jd.i][ϯϫⲟⲥ] I say:𓆓𓂧𓀀
 [th.n] You(pl):𓍿𓈖𓏥
 [nt.s.n][`ⲛⲑⲱⲟⲩ] They:𓈖𓏏𓋴𓈖𓏥
@@ -203,7 +189,7 @@ Dictionary
 [cash][ⲥⲁϧ] scribe:𓏞𓀀
 [iw] is / was:𓇋𓅱
 [ro][ⲣⲟ] Mouth/Utterance:𓂋𓏺
-[re´][ⲣⲉ] Sun:𓂋𓂝𓇳
+[re´][ⲣⲏ] Sun:𓂋𓂝𓇳
 [kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
 [Wbn] Rise /Shine:𓅱𓃀𓈖𓇳
 [pt][ⲫⲉ] Sky:𓊪𓏏𓇯

@@ -1,32 +1,32 @@
 Lesson 1
 Notes /**
-𓆑,𓄿,𓂝,𓇋,𓐍,𓆓,𓈖
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
 **/ End of Notes
 
 start_0
 audiochoice
-𓄿,𓂝,𓆑
+𓅂,𓂝,𓆑
 𓂝,𓆑,𓇋
-𓆑,𓄿,𓇋
+𓆑,𓅂,𓇋
 𓇋,𓈖,𓂝
 𓐍,𓆑,𓇋
-𓆓,𓈖,𓄿
-𓈖,𓄿,𓆑
+𓆓,𓈖,𓅂
+𓈖,𓅂,𓆑
 -
 audiochoice
-𓄿,𓂝,𓆑
-𓂝,𓆑,𓄿
-𓆑,𓄿,𓇋
-𓇋,𓈖,𓄿
+𓅂,𓂝,𓆑
+𓂝,𓆑,𓅂
+𓆑,𓅂,𓇋
+𓇋,𓈖,𓅂
 𓐍,𓆑,𓇋
-𓆓,𓈖,𓄿
+𓆓,𓈖,𓅂
 𓈖,𓂝,𓆑
 -
 end_0
 
 start_1
 multichoice
-𓄿,Vulture,Water,Fire-drill,Pool
+𓅂,Vulture,Water,Fire-drill,Pool
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
@@ -34,31 +34,32 @@ multichoice
 𓆓,Cobra,Horned viper,Pool,Reed
 𓈖,Water,Fire-drill,Pool,Reed
 -
-𓄿,Vulture,Water,Fire-drill,Pool with lotus flowers
+𓅂,Vulture,Water,Fire-drill,Pool
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
 𓐍,Sieve,Forearm,Pool,Horned viper
 𓆓,Cobra,Horned viper,Pool,Reed
-𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
+𓈖,Water,Fire-drill,Pool,Reed
 -
 end_1
 
 start_2
 audiochoice
-𓄿,𓂝,𓆑
-𓂝,𓆑,𓄿
+𓅂,𓂝,𓆑
+𓂝,𓆑,𓅂
 𓆑,𓂝,𓇋
-𓇋,𓈖,𓄿
+𓇋,𓈖,𓅂
 𓐍,𓈖,𓆑
-𓆓,𓆑,𓄿
+𓆓,𓆑,𓅂
 𓈖,𓐍,𓆑
 -
 multichoice
-𓄿,Vulture,Water,Cobra,Pool
+𓅂,Vulture,Water,Cobra,Pool
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
+𓐍,Sieve,Forearm,Pool,Horned viper
 𓈖,Water,Cobra,Pool,Reed
 -
 end_2

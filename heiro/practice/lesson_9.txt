@@ -11,6 +11,7 @@ Exercise 2
 5)The sun is in the sky together with the moon
 **/ End of Notes
 
+
 start_0
 multichoice_img
 moon,sun,sun_god,sky
@@ -34,43 +35,53 @@ multichoice
 𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
 -
 multichoice
-𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
-𓎛𓈖𓂝,With,Sun,Moon,Rejoice
+𓅱𓇋𓄿𓊛,Divine Boat,Sun God,With,Sun
+𓎛𓈖𓂝,With,Divine Boat,Moon,Rejoice
 -
 end_0
 
 
-
 start_1
 multichoice
-𓆓𓂧,Say,See,Rise,Your/Your
-𓊪𓈖,This,Say,Your/Your,See
-𓍿𓈖𓏥,Your/Your,Say,This,See
-𓂋𓈖,Name,Say,Your/Your,See
+𓆓𓂧,Say,See,Rise,You/Your
+𓊪𓈖,This,Say,You/Your,See
+𓍿𓈖𓏥,You/Your,Say,This,See
+𓂋𓈖,Name,Say,You/Your,See
 -
 sentence
 translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
 -
 multichoice
-𓌴𓁹𓄿𓄿,See,Say,Your/Your,Rejoice
+𓌴𓁹𓄿𓄿,See,Say,You/Your,Rejoice
 𓅓,in,Cobra,Man,Mouth
 𓇋𓅱,is/was,Sky,Daughter,Rise
 𓊃𓀀𓏤,Man,See,Sun,Daughter
 𓅭𓏏𓁐,Daughter,Man,Sun,See
 𓂋𓈙𓅱𓏏𓂉𓏜,Joy,Man,Daughter,See
 -
-sentence
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in,in
+sentence:
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐​𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy
 -
 multichoice
 𓂋𓂝𓇳𓀭,Sun God,Sun,Sky,Rejoice
-𓂋𓂝𓇳,Sun,Sun God,Sky,Divine Boat
+𓍑𓄿𓊛,Cross,Sun God,Sky,Divine Boat
 𓊪𓏏𓇯,Sky,Sun God,Cross,Rejoice
 𓅱𓇋𓄿𓊛,Divine Boat,Sun God,Sky,Sun
 -
 sentence
-translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
+translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛​𓆑,The sun god crosses the sky in his divine boat,He,her
 -
+sentence
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐​𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy
+translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
+-
+sentence
+translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛​𓆑,The sun god crosses the sky in his divine boat,He,her
+-
+end_1
+
+
+start_2
 multichoice
 𓇋𓂝𓎛𓇺,Moon,Sun,With,Rejoice
 𓎛𓈖𓂝,With,Sun,Moon,Rejoice
@@ -79,29 +90,31 @@ sentence
 translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
 -
 sentence
-translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
-translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
-translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in,in
+translate,𓍑𓄿𓊛 𓂋𓂝𓇳𓀭 𓊪𓏏𓇯 𓅓 𓅱𓇋𓄿𓊛​𓆑,The sun god crosses the sky in his divine boat,He,hear,her,my,The,the
+translate,𓌴𓁹𓄿𓄿 𓊃𓀀𓏤 𓅭𓏏𓁐​𓆑 𓅓 𓉐𓏺𓆑 𓇋𓅱𓆑 𓅓 𓂋𓈙𓅱𓏏𓂉𓏜,When a man sees his daughter in his house he's in joy,his,his,in,in
 translate,𓆓𓂧 𓍿𓈖𓏥 𓂋𓈖 𓍿𓈖𓏥 𓈖 𓏞𓀀 𓊪𓈖,You say your name to this scribe,he,hear,his,my
 -
-end_1
+sentence
+translate,𓇋𓅱 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯 𓎛𓈖𓂝 𓇋𓂝𓎛𓇺,The sun is in the sky together with the moon,sun god,cross,the,the,The
+-
+end_2
 
 
 Dictionary
 [en][ⲛ] of; to; for:𓈖
 [iw] is / was:𓇋𓅱
-[Hna] With:𓎛𓈖𓂝
-[i'ah][ⲓⲟϩ][إياح،إيوح] Moon:𓇋𓂝𓎛𓇺
-[wi´] Divine boat:𓅱𓇋𓄿𓊛
-[re´][ⲣⲉ] Sun:𓂋𓂝𓇳
-[re´][ⲣⲉ] Sun God:𓂋𓂝𓇳𓀭
+[Hn3] With:𓎛𓈖𓂝
+[y3ah][ⲓⲟϩ][إياح،إيوح] Moon:𓇋𓂝𓎛𓇺
+[wia´] Divine boat:𓅱𓇋𓄿𓊛
+[re3][ⲣⲏ] Sun:𓂋𓂝𓇳
+[re3][ⲣⲏ] Sun God:𓂋𓂝𓇳𓀭
 [iwf] He is / was:𓇋𓅱𓆑
 [prf][ⲡⲉϥⲏⲓ] His house:𓉐𓏺𓆑
 [s][ⲥⲁ] Man:𓊃𓀀𓏤
 [pn][ⲫⲁⲓ] This m.:𓊪𓈖
 [rn][ⲣⲁⲛ] Name:𓂋𓈖
 [thn] You;Your:𓍿𓈖𓏥
-[mAA] See:𓌴𓁹𓄿𓄿
+[maa] See:𓌴𓁹𓄿𓄿
 [djA] Cross; Ferry across:𓍑𓄿𓊛
 [rsh][ⲣⲁϣⲓ] Rejoice:𓂋𓈙𓂉𓀁
 [rshwt][ⲣⲁϣⲓ] Joy:𓂋𓈙𓅱𓏏𓂉𓏜

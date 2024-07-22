@@ -54,7 +54,7 @@ multichoice
 𓄣,Jar with handles,House,Jar,Hand
 -
 multichoice
-𓂋𓏺,Mouth/Utterance,Cobra,Reed mat,Cobra
+𓂋𓏺,Mouth/Utterance,Cobra,Reed mat,Door bolt
 𓆎𓅓𓏏𓊖,Egypt,Cobra,of,Mouth
 𓈖,of,Owl,Egypt,Folded cloth
 -
@@ -64,7 +64,7 @@ write_it
 𓉐𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓉐
 -
 sentence
-translate,Language of Egypt,𓂋𓏺𓈖𓆎𓅓𓏏𓊖,𓂋,𓏺,𓈖,𓆎,𓅓,𓏏,𓊖
+translate,Language of Egypt,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,𓂋𓏺,𓈖,𓆎𓅓𓏏𓊖
 translate,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,Language of Egypt,Language,of,Egypt,Cairo,owl
 -
 end_1
@@ -91,7 +91,7 @@ multichoice
 𓄣,Jar with handles,House,Jar,Hand
 -
 multichoice
-𓂋𓏺,Mouth/Language,Cobra,Reed mat,Cobra
+𓂋𓏺,Mouth/Language,Cobra,Reed mat,Door bolt
 𓆎𓅓𓏏𓊖,Egypt,Cobra,of,Mouth
 𓈖,of,Owl,Egypt,Folded cloth
 -
@@ -101,7 +101,7 @@ write_it
 𓉐𓏺,𓆎,𓅓,𓏏,𓊖,𓈖,𓂋,𓏺,𓉐
 -
 sentence
-translate,Language of Egypt,𓂋𓏺𓈖𓆎𓅓𓏏𓊖,𓂋,𓏺,𓈖,𓆎,𓅓,𓏏,𓊖
+translate,Language of Egypt,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,𓂋𓏺,𓈖,𓆎𓅓𓏏𓊖
 translate,𓂋𓏺 𓈖 𓆎𓅓𓏏𓊖,Language of Egypt,Language,of,Egypt,Cairo,owl
 -
 end_2

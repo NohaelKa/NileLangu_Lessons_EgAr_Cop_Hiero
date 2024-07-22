@@ -4,7 +4,7 @@ Pronouns 1, independant and suffix pronouns
 
 Previous:
 𓂋𓏺𓈖𓆎𓅓𓏏𓊖
-𓆑,𓄿,𓂝,𓇋,𓈖
+𓆑,𓅂,𓂝,𓇋,𓈖
 𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
 𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
 𓇋𓇋,𓅱,𓃭,𓍯,𓈎,𓏏,𓍿
@@ -142,16 +142,19 @@ multichoice
 𓇋𓅱𓅱𓏥,They're,You(f) are,We're,I am
 𓇋𓅱𓋴,She's,They're,You(f) are,We're
 𓇋𓅱𓆑,He's,She's,They're,You(f) are
-𓅓,as a/ at,You(f) are,We're,They're
+𓅓,(predication)/ at,You(f) are,We're,They're
+end_2
 -
+
+start_3
 sentence
-translate,𓇋𓅱𓎡 𓅓 𓏞𓀀,You(m) are as a scribe,the,sun,rises,You(m),are,as a,scribe
-translate,You(m) are as a scribe,𓇋𓅱𓎡 𓅓 𓏞𓀀,𓇋𓅱𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓎡
-translate,𓇋𓅱𓍿 𓅓 𓏞𓀀,You(f) are as a scribe,the,sun,rises,You(f),are,a,scribe
-translate,You(f) are as a scribe,𓇋𓅱𓍿 𓅓 𓏞𓀀,𓇋𓅱𓍿,𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓍿
-translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I'm as a scribe,the,sun,rises,You,are,as a,scribe,I am
+translate,𓇋𓅱𓎡 𓅓 𓏞𓀀,You(m) are a scribe,the,sun,rises,You(m),are
+translate,You(m) a scribe,𓇋𓅱𓎡 𓅓 𓏞𓀀,𓇋𓅱𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓎡
+translate,𓇋𓅱𓍿 𓅓 𓏞𓀀,You(f) are a scribe,the,sun,rises,You(f),are,a,scribe
+translate,You(f) are a scribe,𓇋𓅱𓍿 𓅓 𓏞𓀀,𓇋𓅱𓍿,𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓍿,𓈖𓏏𓍿
+translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I'm a scribe,the,sun,rises,You,are,scribe,I am
 translate,I'm a scribe,𓇋𓅱𓀀 𓅓 𓏞𓀀,𓇋𓅱𓀀,𓎡,𓅓,𓏞𓀀,𓉐𓏺,𓂋𓂝𓇳,𓀀,𓉐𓏺,𓂋𓂝𓇳,𓏌𓎡𓀀
-translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I am as a scribe,the,sun,rises,You,are,as a,scribe,I am
+translate,𓇋𓅱𓀀 𓅓 𓏞𓀀,I am a scribe,the,sun,rises,You,are,scribe,I am
 -
 sentence
 translate,𓇋𓅱𓀀 𓅓 𓉐𓏺,I'm home,the,sun,rises,you,are,a,scribe,I am,home
@@ -161,9 +164,7 @@ translate,𓇋𓅱𓅱𓏥 𓅓 𓉐𓏺𓈖𓏥,They're in our house,He's,the,o
 translate,𓇋𓅱𓋴 𓅓 𓉐𓏺𓍿𓈖𓏥,She's in your(pl) house,They're,our,your(f),we,are,in,my,house
 translate,𓇋𓅱𓎡 𓅓 𓉐𓏺𓋴𓈖𓏥,You're(m) in their house,the,her,rose,the,sky,in,my,house
 -
-end_2
-
-
+end_3
 
 Dictionary
 [pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
@@ -200,7 +201,7 @@ Dictionary
 [ink][ⲁⲛⲟⲕ] I am:𓏌𓎡
 [iw.i] I'm:𓇋𓅱𓀀
 [iw.k] You(m) are:𓇋𓅱𓎡
-[iw.k] You(f) are:𓇋𓅱𓍿
+[iw.th] You(f) are:𓇋𓅱𓍿
 [sash][ⲥⲁϧ] scribe:𓏞𓀀
 [iw] is / was:𓇋𓅱
 [en][ⲛ] of / to / for:𓈖
@@ -209,7 +210,7 @@ Dictionary
 [kmt][ⲭⲏⲙⲓ] Egypt:𓆎𓅓𓏏𓊖
 [wbn][ⲟⲩⲱⲓⲛⲓ] Rise /Shine:𓅱𓃀𓈖𓇳
 [pt][ⲫⲉ] Sky:𓊪𓏏𓇯
-[em][`ⲛ] as a / in:𓅓
+[em][`ⲛ] (predication)/ at:𓅓
 [ideogram] Country/Land/Village/Egypt:𓊖
 [ideogram] Sun:𓇳
 [ideogram] Sky:𓇯

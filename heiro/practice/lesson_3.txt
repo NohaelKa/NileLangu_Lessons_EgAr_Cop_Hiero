@@ -1,6 +1,6 @@
 Lesson 3
 Notes/**
-𓆑,𓄿,𓂝,𓇋,𓐍,𓆓,𓈖
+𓆑,𓅂,𓂝,𓇋,𓐍,𓆓,𓈖
 𓂧,𓎼,𓆓,𓉔,𓎛,𓎡,𓃀
 𓅓,𓊪,𓂋,𓊃,𓋴,𓈙
 **/ End of Notes
@@ -28,7 +28,7 @@ start_1
 multichoice
 𓅓,Owl,Cobra,Reed mat,Mouth
 𓊪,Chair,Owl,Door bolt,Folded cloth
-𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓂋,Mouth,Folded cloth,Reed mat,Door bolt
 𓊃,Door bolt,Jar,Hand,Cobra
 𓋴,Folded cloth,Owl,Pool of water,Chair
 𓈙,Pool of water,Reed mat,Mouth,Door bolt
@@ -36,7 +36,7 @@ multichoice
 multichoice
 𓅓,Owl,Cobra,Reed mat,Mouth
 𓊪,Chair,Owl,Door bolt,Folded cloth
-𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓂋,Mouth,Folded cloth,Reed mat,Door bolt
 𓊃,Door bolt,Jar,Hand,Cobra
 𓋴,Folded cloth,Owl,Pool of water,Chair
 𓈙,Pool of water,Reed mat,Mouth,Door bolt
@@ -55,7 +55,7 @@ audiochoice
 multichoice
 𓅓,Owl,Cobra,Reed mat,Mouth
 𓊪,Chair,Owl,Door bolt,Folded cloth
-𓂋,Mouth,Folded cloth,Reed mat,Mouth
+𓂋,Mouth,Folded cloth,Reed mat,Door bolt
 𓊃,Door bolt,Jar,Hand,Cobra
 𓋴,Folded cloth,Owl,Pool of water,Chair
 𓈙,Pool of water,Reed mat,Mouth,Door bolt
