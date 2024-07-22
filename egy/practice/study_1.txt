@@ -1,0 +1,60 @@
+<bold>Lesson Number 1 "Letters"
+
+Welcome to your first Egyptian Arabic lesson, you may be asking, what is Egyptian Arabic? Why don't Egyptians speak standard Arabic?
+
+The detailed historical reasons are not known to the developer of this app, but the general idea is that Arabic was not the native language of Egypt for thousands of years, and then Egyptians started speaking arabic 1382 years ago. Today a minority of Egyptians still speak Egyptian and Nubian.
+So Egyptians pronounce Arabic differently, change the sentence structure and have unique words probably because of those reasons.
+
+
+In this lesson you will learn the following letters:
+‎ا، أ، ي، ه، د، ب
+
+And you will learn some basic words in order to be able to comprehend the different shapes a letter can take depending on where its placed in a word.
+
+Please remember that Arabic letters are read from right to left!
+
+ا^§: alef
+
+1) It is similar to English “a”
+2) It will never attach to another letter at the beginning of a word
+3) It may attach after a letter, depending which letter.
+4) It maintains the same shape even when attached.
+Examples: اب، با، سا، اس
+
+
+أ^§:alef with hamza on top (glottal stop)
+
+1) short English “a” with glottal stop.
+2) same rules apply as alef above for attachment.
+
+
+ب^§: beh
+
+1) It is an English “b”
+2) It can attach before or after specific letters letter.
+4) when attached it is still recognizable because of the dot beneath it.
+Examples: با، بن، هب
+
+د^§:dal
+
+1) It is an English “d”
+2) It only attaches to a letter before it, never after it.
+
+ه^§:heh
+
+1) It is an English “h”
+2) It can attach at the start, middle or end and has 4 different shapes. 
+Start Example: هب
+Middle example: بها
+Attached End Example:  به
+Unattached End example: ه
+If it is in the middle but the letter before or after never attaches, it will take the shape according to which letter it attaches: دهب 
+
+ي^§:yeh
+
+1) It is an English “i” or “y”. It’s an “i” at the end of a word, and a “i” in the middle.
+2) It can attach at the start middle or end, and has 2 shapes
+Start Example: يد
+Middle example: بيد
+End example: دي، بي
+
